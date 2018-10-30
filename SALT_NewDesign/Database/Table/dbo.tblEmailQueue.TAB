@@ -1,0 +1,35 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblEmailQueue]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblEmailQueue](
+	[EmailQueueID] [bigint] IDENTITY(1,1) NOT NULL,
+	[organisationID] [int] NULL,
+	[AddressTo] [nvarchar](255) NULL,
+	[Subject] [nvarchar](255) NULL,
+	[Body] [nvarchar](max) NULL,
+	[QueuedTime] [datetime] NOT NULL,
+	[SendStarted] [datetime] NULL,
+	[AddressSender] [nvarchar](255) NULL,
+	[AddressFrom] [nvarchar](255) NULL,
+	[IsHTML] [bit] NULL,
+	[AddressBccs] [nvarchar](max) NULL,
+ CONSTRAINT [PK_tblEmailQueue] PRIMARY KEY CLUSTERED 
+(
+	[EmailQueueID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblEmailQueue_QueuedTime]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblEmailQueue]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblEmailQueue_QueuedTime]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblEmailQueue] ADD  CONSTRAINT [DF_tblEmailQueue_QueuedTime]  DEFAULT (getutcdate()) FOR [QueuedTime]
+END
+
+
+End
+GO

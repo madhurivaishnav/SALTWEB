@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="salt_4.3.0" Class="PeriodicReportListDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=bdw2008r2;Initial Catalog=salt_4.3.0;Persist Security Info=True;User ID=salt_user" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="bd_dev_partially_truncatedConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblReportSchedule" Member="tblReportSchedules">
+    <Type Name="tblReportSchedule">
+      <Column Name="ScheduleID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReportID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="LastRun" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="NextRun" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ReportDuration" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ReportDurationPeriod" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="ReportStartDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="ReportEndDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="NumberOfReports" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ReportFrequency" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ReportFrequencyPeriod" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="DocumentType" Type="System.Char" DbType="Char(1) NOT NULL" CanBeNull="false" />
+      <Column Name="ReportTitle" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ParamOrganisationID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ParamCompleted" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="ParamStatus" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="ParamFailCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ParamCourseIDs" Type="System.String" DbType="NVarChar(800)" CanBeNull="true" />
+      <Column Name="ParamHistoricCourseIDs" Type="System.String" DbType="NVarChar(800)" CanBeNull="true" />
+      <Column Name="ParamAllUnits" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="ParamTimeExpired" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ParamTimeExpiredPeriod" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="ParamQuizStatus" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="ParamGroupBy" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="ParamGroupingOption" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ParamFirstName" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="ParamLastName" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="ParamUserName" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="ParamEmail" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="ParamIncludeInactive" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="ParamSubject" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="ParamBody" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="ParamProfileID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ParamOnlyUsersWithShortfall" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="ParamEffectiveDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ParamSortBy" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="ParamClassificationID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ParamUnitIDs" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ParamLangCode" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="ParamDateTo" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ParamDateFrom" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ParamLicensingPeriod" Type="System.String" DbType="VarChar(8000)" CanBeNull="true" />
+      <Column Name="ParamProfilePeriodID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReportPeriodType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ReportFromDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="IsPeriodic" Type="System.Char" DbType="Char(1) NOT NULL" CanBeNull="false" />
+      <Column Name="LastUpdatedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LastUpdated" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="NumberDelivered" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TerminatedNormally" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ParamPolicyIDs" Type="System.String" DbType="NVarChar(4000)" CanBeNull="true" />
+      <Column Name="ParamAcceptance" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="DateCreated" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblUser" Member="tblUsers">
+    <Type Name="tblUser">
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="ExternalID" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OrganisationID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UnitID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserTypeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Active" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="DateArchived" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CreatedBy" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DateCreated" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdatedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DateUpdated" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="LastLogin" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="LoginFailCount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TimeZoneID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DelinquencyManagerEmail" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="NewStarter" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="NotifyMgr" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="NotifyUnitAdmin" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="NotifyOrgAdmin" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="tblUserType_tblUser" Member="tblUserType" ThisKey="UserTypeID" OtherKey="UserTypeID" Type="tblUserType" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblUserType" Member="tblUserTypes">
+    <Type Name="tblUserType">
+      <Column Name="UserTypeID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Type" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="tblUserType_tblUser" Member="tblUsers" ThisKey="UserTypeID" OtherKey="UserTypeID" Type="tblUser" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblBulkInactiveUsers" Member="tblBulkInactiveUsers">
+    <Type Name="tblBulkInactiveUser">
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Processed" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.prcGetPeriodicReportList" Method="prcGetPeriodicReportList">
+    <Parameter Name="OrgID" Parameter="orgID" Type="System.Int32" DbType="Int" />
+    <ElementType Name="prcGetPeriodicReportListResult">
+      <Column Name="ScheduleID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReportID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReportTitle" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ReportName" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="ReportFrequency" Type="System.String" DbType="VarChar(37)" CanBeNull="true" />
+      <Column Name="DateCreated" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="ReportStartDate" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="ReportEndDate" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="NextRun" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="Username" Type="System.String" DbType="NVarChar(101)" CanBeNull="true" />
+      <Column Name="Type" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CCUser" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.prcGetPeriodicReportListOnInactivateUser" Method="prcGetPeriodicReportListOnInactivateUser">
+    <Parameter Name="OrgID" Parameter="orgID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Username" Parameter="username" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="prcGetPeriodicReportListOnInactivateUserResult">
+      <Column Name="ScheduleID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReportID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReportTitle" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Username" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ReportName" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="ReportFrequency" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.prcGetPeriodicReportListUser" Method="prcGetPeriodicReportListUser">
+    <Parameter Name="OrgID" Parameter="orgID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Username" Parameter="username" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="prcGetPeriodicReportListUserResult">
+      <Column Name="ScheduleID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReportID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReportTitle" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ReportName" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="ReportFrequency" Type="System.String" DbType="VarChar(37)" CanBeNull="true" />
+      <Column Name="DateCreated" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="ReportStartDate" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="ReportEndDate" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="NextRun" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="Username" Type="System.String" DbType="NVarChar(101)" CanBeNull="true" />
+      <Column Name="Type" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CCUser" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.prcGetPeriodicReportListOnInactivateEmail" Method="prcGetPeriodicReportListOnInactivateEmail">
+    <Parameter Name="OrgID" Parameter="orgID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="prcGetPeriodicReportListOnInactivateEmailResult">
+      <Column Name="ScheduleID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReportID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReportTitle" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Username" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ReportName" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="ReportFrequency" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

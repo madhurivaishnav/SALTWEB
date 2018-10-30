@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>20</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Quiz - Suspicious and Threshold Transactions</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>10</numrandom>
+<passinggrade>80</passinggrade>
+<cancelfail>page120656.html</cancelfail>
+<passdone>page120637.html</passdone>
+<prevpage>page120403.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page120447.html</name>
+<question>
+<id>120449</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0121</var>
+<text>Which of the following items does NOT have to be reported by your organisation under the AML Act?</text>
+<correctans>Large client accounts</correctans>
+<choices>Large client accounts|Threshold transactions|Suspicious matters|Cross-border movements of cash</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page120459.html</name>
+<question>
+<id>120461</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0040</var>
+<text>What is NOT true regarding threshold transactions?</text>
+<correctans>Threshold transactions involve transfers of physical currency only</correctans>
+<choices>A threshold transaction must be reported within 10 business days after the transaction occurs |Organisations that provide designated services must report any threshold transactions to AUSTRAC|Threshold transactions involve transfers of physical currency only|Threshold transactions involve currency transfers of at least $10,000</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>page120471.html</name>
+<question>
+<id>120473</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0046</var>
+<text>Which of the following pieces of information would be relevant in order to determine whether an individual is conducting a threshold transaction on behalf of a customer?</text>
+<correctans>All of the above</correctans>
+<choices>An account is held in the name of a business or company|A transaction is inconsistent with the customer's known financial profile or previous activity |The customer is familiar to staff in your organisation|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>page120483.html</name>
+<question>
+<id>120485</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0052</var>
+<text>Complete the sentence. An international funds transfer instruction\u2026</text>
+<correctans>\u2026 is an instruction to electronically transfer money into or out of Australia </correctans>
+<choices>\u2026 is an instruction to electronically transfer money into or out of Australia |\u2026 an instruction to physically transfer money into Australia|\u2026 is an instruction to electronically transfer only Australian dollars either into or out of Australia|\u2026 is restricted to outward-bound movements of money to an overseas financial institution</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>page120495.html</name>
+<question>
+<id>120497</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0053</var>
+<text>What is NOT true regarding registrable designated services?</text>
+<correctans>If you provide a registrable designated remittance service, you have the option of registering your details with AUSTRAC</correctans>
+<choices>Remittance dealers, money remitters and providers of money transfers are types of registrable designated remittance service providers|If you provide a registrable designated remittance service, you have the option of registering your details with AUSTRAC|Providing a designated remittance service without being registered can attract criminal penalties|Registrable details include the business details, details of the owner of the business and details of any applicable agents</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>page120507.html</name>
+<question>
+<id>120509</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQuestion_0054</var>
+<text>In which of the following situations must you submit a report to AUSTRAC, a customs officer or the police?</text>
+<correctans>All of the above</correctans>
+<choices>You enter or leave Australia with $15,000 in cash|You send $11,000 cash by post to an overseas destination|You receive $20,000 cash from relatives who live overseas|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>page120519.html</name>
+<question>
+<id>120521</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQuestion_0055</var>
+<text>Complete the sentence. You must report a suspicious matter if your organisation is going to provide a designated service to a person and\u2026 </text>
+<correctans>\u2026 your organisation suspects on reasonable grounds that the person is not who they claim to be</correctans>
+<choices>\u2026 your organisation suspects on reasonable grounds that the person is not who they claim to be|\u2026 your organisation suspects based on unreliable sources that the person is not who they claim to be|\u2026 the information that your organisation has may be relevant to a civil prosecution|... a reasonable person would conclude that a suspicious matter report does not need to be submitted</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>page120531.html</name>
+<question>
+<id>120533</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQuestion_0056</var>
+<text>What is NOT a ground for suspicion?</text>
+<correctans>Customers of foreign ethnicity </correctans>
+<choices>Unusual transactions|Customers of foreign ethnicity |High-risk customers|Suspicious customer behaviour</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>page120543.html</name>
+<question>
+<id>120545</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQuestion_0051</var>
+<text>Fill in the blank. _____ will help you determine what a normal transaction is for a particular customer.</text>
+<correctans>Profiling customers and their businesses \u2026</correctans>
+<choices>Profiling customers and their businesses \u2026|International funds transfer instructions \u2026|Your organisation's business details \u2026|AUSTRAC \u2026</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>page120555.html</name>
+<question>
+<id>120557</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQuestion_0057</var>
+<text>An activity that makes little or no commercial sense should be considered suspicious. True or false?</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>10</index>
+<name>page120563.html</name>
+<question>
+<id>120565</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 11</name>
+<var>VarQuestion_0060</var>
+<text>Complete the sentence. If a suspicious matter reporting obligation arises, your organisation must give a suspicious matter report to the AUSTRAC CEO within\u2026</text>
+<correctans>\u2026 three business days of forming the suspicion, or within 24 hours if it relates to the financing of terrorism</correctans>
+<choices>\u2026 three regular days of forming the suspicion|\u2026 three business days of forming the suspicion, or within 24 hours if it relates to the financing of terrorism|\u2026 five business days of forming the suspicion|\u2026 24 hours of forming the suspicion, or within three business days if it relates to the financing of terrorism</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>11</index>
+<name>page120575.html</name>
+<question>
+<id>120577</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 12</name>
+<var>VarQuestion_0059</var>
+<text>Complete the sentence. You commit the offence of tipping off if your organisation\u2026</text>
+<correctans>All of the above</correctans>
+<choices>\u2026 has made a report to AUSTRAC and you disclose to someone that AUSTRAC has been informed about a suspicious matter|\u2026 has formed a suspicion about a matter and you disclose to someone that your organisation is suspicious about the matter|\u2026 has made a report to AUSTRAC and you disclose to someone information from which they could reasonably infer that a report has been made to AUSTRAC about a suspicious matter|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>12</index>
+<name>page120587.html</name>
+<question>
+<id>120589</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 13</name>
+<var>VarQuestion_0058</var>
+<text>Which is NOT true regarding your organisation's dealings with a customer involved in a suspicious matter?</text>
+<correctans>You must stop dealing with a customer immediately if they are involved in a suspicious matter</correctans>
+<choices>It is up to your organisation to decide whether to refrain from providing a designated service to the customer|Your organisation may decide to maintain the business relationship with the customer if it wishes to do so|You must stop dealing with a customer immediately if they are involved in a suspicious matter|Disclosing to the customer or anyone else about the suspicion would be an example of tipping off</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>13</index>
+<name>page120599.html</name>
+<question>
+<id>120601</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 14</name>
+<var>VarQuestion_0063</var>
+<text>Complete the sentence. If a suspicious matter reporting obligation arises in relation to an existing customer, your organisation must\u2026</text>
+<correctans>\u2026 carry out the applicable customer identification procedure and collect and verify KYC information from a reliable and independent source within 14 days</correctans>
+<choices>\u2026 collect KYC information about the customer within 21 days|\u2026 carry out the applicable customer identification procedure and collect and verify KYC information from a reliable and independent source within 14 days|\u2026 attempt to verify, from any source, certain KYC information that has been obtained about the customer |\u2026 destroy any KYC information it holds about the customer within 14 days</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>14</index>
+<name>page120611.html</name>
+<question>
+<id>120613</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 15</name>
+<var>VarQuestion_0062</var>
+<text>Which is NOT true regarding an AML compliance report?</text>
+<correctans>If two or more reporting entities are members of a designated business group, separate compliance reports must be submitted</correctans>
+<choices>The report must be in an approved form and contain specific information|You may need to answer questions relating to AML/CTF programs and reporting obligations|Members of a designated business group may submit a report on behalf of another member of the group|If two or more reporting entities are members of a designated business group, separate compliance reports must be submitted</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

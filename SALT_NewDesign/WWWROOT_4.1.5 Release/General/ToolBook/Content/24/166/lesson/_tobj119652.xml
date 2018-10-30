@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>20</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Quiz - KYC obligations</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>10</numrandom>
+<passinggrade>80</passinggrade>
+<cancelfail>page119898.html</cancelfail>
+<passdone>page119879.html</passdone>
+<prevpage>page119645.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page119689.html</name>
+<question>
+<id>119691</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0031</var>
+<text>How long should records on identification procedures carried out on customers be kept for?</text>
+<correctans>Seven years after the designated service was last provided to the customer</correctans>
+<choices>Seven years after the designated service was last provided to the customer|In perpetuity|Until the business relationship ends, or the customer opens a new account with the organisation|They can be destroyed immediately</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page119701.html</name>
+<question>
+<id>119703</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0032</var>
+<text>What must you do every time an identification procedure is carried out for a customer?</text>
+<correctans>You must make a record of the procedure </correctans>
+<choices>Report it to AUSTRAC|Ensure any information you obtain is made publicly available|You must make a record of the procedure |Destroy all evidence of any information you obtain</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>page119713.html</name>
+<question>
+<id>119715</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0033</var>
+<text>When must your organisation keep records about an international funds transfer?</text>
+<correctans>When it is involved in the transfer with two or more other organisations</correctans>
+<choices>When it learns that its competitors made such a transfer|When it makes the transfer with any individual organisation|When it makes the transfer with at least three other organisations|When it is involved in the transfer with two or more other organisations</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>page119725.html</name>
+<question>
+<id>119727</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0034</var>
+<text>What is a "nostro" or "vostro" account?</text>
+<correctans>A deposit account that a bank holds at a foreign or correspondent bank for the purposes of international payments </correctans>
+<choices>A deposit account for astronauts|A deposit account that a bank holds at a foreign or correspondent bank for the purposes of international payments |A deposit account that money launderers hold in order to conceal illegally obtained money|A bank account in Switzerland</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>page119737.html</name>
+<question>
+<id>119739</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0035</var>
+<text>What of the following is NOT KYC information that you must collect in relation to individual customers?</text>
+<correctans>Passport ID number</correctans>
+<choices>Full name|Passport ID number|Residential address|Date of birth</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>page119749.html</name>
+<question>
+<id>119751</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQuestion_0065</var>
+<text>After collecting KYC information about a company, what details must you verify?</text>
+<correctans>All of the above</correctans>
+<choices>Full name of the company|Whether the company is listed as proprietary or public|ACN issued to the company|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>page119761.html</name>
+<question>
+<id>119763</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQuestion_0037</var>
+<text>Complete the sentence. Safe harbour procedures only apply to\u2026 </text>
+<correctans>\u2026 low to medium-risk individual customers</correctans>
+<choices>\u2026 sole traders|\u2026 large companies|\u2026 low to medium-risk individual customers|\u2026 high-risk individual customers only</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>page119773.html</name>
+<question>
+<id>119775</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQuestion_0038</var>
+<text>What should organisations do in relation to any safe harbour procedures they adopt?</text>
+<correctans>Document them in the AML program</correctans>
+<choices>Remove all evidence of them|Document them in the AML program|Keep them private and confidential|Avoid revising them to minimise confusion</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>page119785.html</name>
+<question>
+<id>119787</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQuestion_0036</var>
+<text>Which of the following documents should NOT be used to verify a customer's date of birth in a safe harbour procedure?</text>
+<correctans>Any printout of a passport </correctans>
+<choices>Any printout of a passport |A certified copy of a national identity card|An original copy of a letter from Centrelink|A certified copy of a birth certificate</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>page119797.html</name>
+<question>
+<id>119799</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQuestion_0039</var>
+<text>If the customer is an individual, you can assume the customer and beneficial owner are the same person unless reasonable grounds exist to think otherwise. True or false?</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>10</index>
+<name>page119805.html</name>
+<question>
+<id>119807</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 11</name>
+<var>VarQuestion_0041</var>
+<text>If the customer and beneficial owner are of medium or lower ML/TF risk, what kind of safe harbour procedure to identify them?</text>
+<correctans>Both document-based or electronic-based procedures</correctans>
+<choices>A document-based procedure only|An electronic-based procedure only|Both document-based or electronic-based procedures|Safe harbour procedures cannot be used in this circumstance</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>11</index>
+<name>page119817.html</name>
+<question>
+<id>119819</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 12</name>
+<var>VarQuestion_0042</var>
+<text>Fill in the blank. The KYC identification procedure is _____ a customer who is an Australian government entity.</text>
+<correctans>\u2026 not required if your organisation has already collected and verified information about\u2026</correctans>
+<choices>\u2026 a complicated process if your organisation has already collected and verified information about\u2026|\u2026 mandatory and enforceable under the law for\u2026|\u2026 not required if your organisation has already collected and verified information about\u2026|\u2026 particularly easy to perform for\u2026</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>12</index>
+<name>page119829.html</name>
+<question>
+<id>119831</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 13</name>
+<var>VarQuestion_0045</var>
+<text>What must you do in relation to a politically exposed person who is Australian and has a high ML/TF risk?</text>
+<correctans>Acquire senior management approval before you establish or continue a business relationship with them</correctans>
+<choices>Acquire AUSTRAC approval before you establish or continue a business relationship with them|Acquire senior management approval before you establish or continue a business relationship with them|Automatically establish or continue a business relationship with them|Automatically refuse to establish or continue a business relationship with them</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>13</index>
+<name>page119841.html</name>
+<question>
+<id>119843</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 14</name>
+<var>VarQuestion_0043</var>
+<text>An enhanced due diligence program is NOT necessary in which of the following situations?</text>
+<correctans>When a designated service is provided with a low ML/TF risk</correctans>
+<choices>When the customer has a high ML/TF risk|When reportable suspicious matters arise|When a designated service is provided to a politically exposed foreign dignitary|When a designated service is provided with a low ML/TF risk</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>14</index>
+<name>page119853.html</name>
+<question>
+<id>119855</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 15</name>
+<var>VarQuestion_0044</var>
+<text>Which of the following is part of ongoing due diligence?</text>
+<correctans>All of the above</correctans>
+<choices>A KYC information timeframe|An enhanced CDD program|A transaction monitoring program|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

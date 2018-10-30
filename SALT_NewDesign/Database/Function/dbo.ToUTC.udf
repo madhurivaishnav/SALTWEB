@@ -1,0 +1,92 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[ToUTC]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'CREATE FUNCTION [ToUTC]
+(
+@LocalTime DateTime
+)
+RETURNS DateTime
+AS
+BEGIN
+IF (@LocalTime is null) RETURN null
+
+DECLARE @DSTTime datetime
+DECLARE @UTC_Offset int
+DECLARE @Timezone datetime
+DECLARE @offset_mins int, @hours_start int, @day_start int, @week_start int, @month_start int, @hours_end int, @day_end int, @week_end int, @month_end int, @year_end int , @year_start int
+SELECT @UTC_Offset = TZ.OffsetUTC , @Timezone = TZ.TimezoneID
+FROM tblTimeZone TZ
+INNER JOIN tblAppConfig App ON  App.Value=TZ.WrittenName
+--WHERE TZ.TimeZoneID = Org.TimeZoneID
+IF (@UTC_Offset IS NULL)
+BEGIN
+Set @DSTTime = ''1 Jan 1900'' --  create an "error" that will be apparent in Report
+END
+ELSE
+BEGIN
+Set @DSTTime = DATEADD(minute,-@UTC_Offset,@LocalTime )
+SELECT  @offset_mins = offset_mins, --get definition of the (at most) 1 definition that may cover the datetime
+@hours_start = hours_start, --overlapping definitions removed by GUI so only 1 result returned
+@day_start = day_start,
+@week_start = week_start,
+@month_start = month_start,
+@hours_end = hours_end,
+@day_end = day_end,
+@week_end = week_end,
+@month_end = month_end
+FROM tblTimeZoneDaylightSavingRules
+WHERE  TimezoneID = @Timezone
+AND @LocalTime >= first_start_date
+AND @LocalTime <= last_end_date
+Set @year_start = year(@LocalTime) --now calculate the exact start and end dates and times for the year under consideration
+
+DECLARE @Period_start datetime, @period_end datetime
+Set @year_start = year(@LocalTime)
+set @year_end = year(@LocalTime)
+
+if (month(@LocalTime) <= @month_end) and (@month_start > @month_end) set @year_start = @year_start - 1   -- rule spans december 31 so adjust
+
+IF(@month_start > @month_end) and (month(@LocalTime) >= @month_start) set @year_end = @year_start + 1  -- rule spans december 31 so adjust
+
+--IF(@month_start > @month_end) set @year_end = @year_start + 1 else set @year_end = @year_start
+--DECLARE @Period_start datetime, @period_end datetime
+
+set @Period_start = ''1 jan 2000'' -- start with a known datetime
+set @year_start = @year_start - 2000
+Set @Period_start = DATEADD(year,@year_start,@Period_start) -- then set the year correctly
+-- Then move to the correct month
+Set @Period_start = DATEADD(month,@month_start-1,@Period_start)
+-- Then move to the correct week (let week 5 slide to the next month for now)
+Set @Period_start = DATEADD(week,@week_start-1,@Period_start)
+-- Now move FORWARD to the correct day (say) the 5th sunday of february
+Declare @day_offset int
+if (@day_start >=  DatePart(weekday,@Period_start) ) set @day_offset = @day_start -  DatePart(weekday,@Period_start) else  set @day_offset = @day_start -  DatePart(weekday,@Period_start) + 7
+Set @Period_start = DATEADD(day,@day_offset,@Period_start)
+-- We may have jumped to the next month if week = 5 so step back a week if necessary
+if (DatePart(month,@Period_start) > @month_start) set @Period_start = DATEADD(week,-1,@Period_start)
+Set @Period_start = DATEADD(minute,@hours_start,@Period_start)  ---TODO check if offset applied OK for 1 hour either side of daylight saving start and end
+
+set @Period_end = ''1 jan 2000'' -- start with a known datetime
+set @year_end = @year_end - 2000
+Set @Period_end = DATEADD(year,@year_end,@Period_end) -- then adjust it to match the definition
+Set @Period_end = DATEADD(month,@month_end-1,@Period_end)
+Set @Period_end = DATEADD(week,@week_end-1,@Period_end)
+if (@day_end >=  DatePart(weekday,@Period_end) ) set @day_offset = @day_end -  DatePart(weekday,@Period_end) else  set @day_offset = @day_end -  DatePart(weekday,@Period_end) + 7
+Set @Period_end = DATEADD(day,@day_offset,@Period_end)
+-- We may have jumped to the next month if week = 5 so step back a week if necessary
+if (DatePart(month,@Period_end) > @month_end) set @Period_end = DATEADD(week,-1,@Period_end)
+Set @Period_end = DATEADD(minute,@hours_end,@Period_end)  ---TODO check if offset applied OK for 1 hour either side of daylight saving start and end
+--Set @Period_end = DATEADD(minute,-@offset_mins,@Period_end) -- end time is quoted with daylight savings included
+
+
+IF (@LocalTime >= @Period_start)
+AND (@LocalTime < @Period_end) set @DSTTime = DATEADD(minute,-@offset_mins,@DSTTime)
+END
+RETURN @DSTTime
+END
+' 
+END
+GO

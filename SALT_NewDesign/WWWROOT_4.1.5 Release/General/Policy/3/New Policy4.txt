@@ -1,0 +1,2 @@
+Users must be emailed when a new policy is assigned to them.
+Where is the most reasonable place to do this from??

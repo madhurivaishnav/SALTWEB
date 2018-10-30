@@ -1,0 +1,104 @@
+IF  EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwUserModuleAccess]'))
+DROP VIEW [vwUserModuleAccess]
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwUserModuleAccess]'))
+EXEC dbo.sp_executesql @statement = N'
+/*Summary:
+	Gets the current granted modules for each user
+Returns:
+	table
+		
+Called By: 
+
+Calls:
+
+Remarks:
+	This view gets a list of all active modules that each user can access today.
+
+	
+Author:
+Stephen Kennedy-Clark
+Date Created: 6 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1	Jack Liu	18/03/2003		Module can be specially granted or denied to a user,
+						It overwrites the unit module access profile. 
+						e.g. a module is denied acccess to a unit, but still can be granted access to a user in this unit
+
+--------------------
+
+select * from vwUserModuleAccess
+
+*/
+
+
+CREATE     VIEW [vwUserModuleAccess]
+AS
+Select
+	tU.UserID
+	, tU.FirstName 
+	, tU.LastName
+	, tU.UnitID
+	, tU.OrganisationID
+	, tM.ModuleID
+	, tM.CourseID
+	, tC.Name ''CourseName''
+	, tM.Name
+	, tM.Sequence
+	, tM.Description
+From
+	dbo.tblUser tU
+	--< get the courses a user has access to >--
+	Inner Join dbo.tblOrganisationCourseAccess tOCA
+		On  tOCA.OrganisationID = tU.OrganisationID
+	--< get the course details >--
+	Inner join dbo.tblCourse tC
+		On tC.CourseID = tOCA.GrantedCourseID
+	--< get the Active modules in a course >--
+	inner join dbo.tblModule tM
+		On tM.CourseID = tC.CourseID 
+			and tM.Active = 1
+	--< get the details on which moduels a user is configured to access >--
+	Left Outer join dbo.tblUserModuleAccess tUsrMA
+		On  tUsrMA.UserID = tU.UserID
+			And tUsrMA.ModuleID = tM.ModuleID
+	--< get the details on which moduels a user''s Unit is excluded from  >--
+	Left Outer Join dbo.tblUnitModuleAccess tUnitMA
+		On  tUnitMA.UnitID = tU.UnitID
+			And tUnitMA.DeniedModuleID = tM.ModuleID
+Where	
+    tU.Active = 1
+    --< Active users only >--
+    and tu.UnitID is not null
+	--< Get the modules that the user''s Unit is not denied >--
+	and (tUnitMA.DeniedModuleID  is null
+	--<  and the user does not have special access to  it>--
+		And tUsrMA.ModuleID is null)
+	--< or Get modules that the user has been specially  granted 
+	or tUsrMA.Granted=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'
+GO

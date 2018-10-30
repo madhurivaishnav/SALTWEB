@@ -1,0 +1,419 @@
+/*------------------------------------------------------------------------
+Blake Dawson INTERNET
+
+last update:    August 2007
+layout & code:	Universal Head www.universalhead.com
+------------------------------------------------------------------------*/
+
+/* Basics /**************************/
+
+* {
+  	margin: 0;
+	padding: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+img {
+	border: 0;
+}
+
+ul, ol, dl {
+	position: relative;  
+}          
+
+body {
+	font: 62.5%/1.6 Arial, "Lucida Grande", Verdana, sans-serif;
+	text-align: center;
+	background: #000 url(/general/images/BD/homeMainBg.gif) repeat-x top left;        
+}
+
+/* Typography /**************************/
+
+p {
+	font-size: 1.2em;
+	padding-bottom: 1em;
+	color: #fff;
+}
+
+h1 {
+	font-size: 1.9em;
+	font-weight: normal;
+	line-height: 1.4em;
+	letter-spacing: 1px;
+	color: #fff;
+}
+
+h2 {
+	font-size: 1.5em;
+	font-weight: normal;
+	line-height: 1.3em;
+	letter-spacing: 1px;
+	color: #fff;
+}
+
+h3 {
+	font-size: 1.3em;
+	font-weight: bold;
+	line-height: 1.3em;
+	color: #fff;
+}
+
+h4 {
+	font-size: 1.1em;
+	font-weight: normal;
+	line-height: 1em;
+	letter-spacing: 1px;
+	color: #fff;
+}
+
+h5 {
+	font-size: 1.1em;
+	font-weight: normal;
+	line-height: 1em;
+	color: #fff;
+}
+
+h6 {
+	font-size: 0.85em;
+	font-weight: bold;
+	line-height: 1em;
+	color: #fff;
+}
+
+ul {
+	font-size: 1.2em;
+	color: #fff;
+	list-style: none;
+}
+
+ul li {
+	color: #fff;
+	list-style: none;
+}
+
+/* Links Basic /**************************/
+
+a:link {
+	color: #64b4b2;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #8a897c;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #9cc7c4;
+	text-decoration: none;
+}
+
+a:active {
+	color: #8a897c;
+	text-decoration: none;
+}
+
+.external {
+	background: url(/general/images/BD/externalLink.gif) no-repeat right top;
+	padding-right: 10px;
+}
+
+/* Structure /**************************/
+
+#mastHead {
+	margin: 0 auto;
+	height: 132px;
+	text-align: center;
+	background: #ebe6d6 url(/general/images/BD/homeMasthead.gif) no-repeat top;        
+}
+
+#contentShell {
+	text-align: left;
+	background-color: #000;
+}
+
+#contentWrapper {	
+	margin: 0 auto;
+	width: 960px;
+	text-align: left;
+}
+
+#mainColumn {
+	width: 400px;
+	float: left;
+	display: inline;
+	overflow: visible;
+	position: relative;
+	text-align: left;
+	margin-top: 20px;
+	padding-bottom: 20px;
+}
+
+#secondaryColumn {
+	width: 180px;
+	float: left;
+	display: inline;
+	overflow: visible;
+	position: relative;
+	text-align: left;
+	margin: 20px 20px 10px 10px;
+}
+
+#tertiaryColumn {
+	width: 320px;
+	float: right;
+	display: inline;
+	overflow: visible;
+	position: relative;
+	text-align: left;
+	margin: 0 10px 10px 20px;
+	padding-bottom: 5px;
+}
+
+#footerShell {
+	clear: both;
+	text-align: left;
+	border-top: 10px solid #fff;
+}
+
+#footerWrapper {
+	margin: 0 auto;
+	width: 960px;
+	text-align: left;
+}
+
+#footerLeft {
+	width: 550px;
+	float: left;
+	display: inline;
+	overflow: visible;
+	position: relative;
+	text-align: left;
+}
+
+#footerRight {
+	width: 180px;
+	float: right;
+	text-align: right;
+	display: inline;
+	overflow: visible;
+	position: relative;
+}
+
+/* Content: Main Column /**************************/
+
+#mainColumn h2 {
+	padding-top: 0.6em;
+	padding-bottom: 0.3em;
+}
+
+#mainColumn h3 {
+	padding-top: 0.5em;
+	padding-bottom: 0.3em;
+}
+
+#mainColumn h4 {
+	padding-bottom: 1em;
+}
+
+#mainColumn h5 {
+	padding-bottom: 1em;
+}
+
+#mainColumn .date {
+	font-size: 0.6em;
+	font-weight: normal;
+}
+
+#mainColumn p.intropara {
+	font-size: 1.5em;
+	line-height: 1.6em;
+	font-weight: normal;
+	padding-top: 0.3em;
+	padding-bottom: 2em;
+}
+
+/* Column Content: Sections /**************************/
+
+.sections {
+	background-color: #a9d1cf;
+}	
+
+.sections ul {
+	list-style-type: none;
+	font-size: 1.1em;
+	line-height: 1.1em;
+	background-color: #a9d1cf;
+}	
+
+.sections ul li a {
+	width: 160px;
+	padding: 7px 10px 9px 10px;
+	display: block;
+	text-decoration: none;
+	border-bottom: #aaccc5 1px solid;
+	background-color: #9cc7c4;
+}
+
+.sections ul li.linkA a {
+	font-weight: bold;
+	background-color: #86b9b7;
+}
+
+.sections ul li.linkB a {
+	background: #9cc7c4 url(/general/images/BD/linkB_off.gif) no-repeat top right;        
+}
+
+.sections ul li.linkB a:hover {
+	background: #9cc7c4 url(/general/images/BD/linkB_hover.gif) no-repeat top right;        
+}
+
+.sections ul li a:link {
+	color: #fff;
+}
+
+.sections ul li a:visited {
+	color: #fff;
+}
+
+.sections ul li a:hover {
+	color: #000;
+	background-color: #86b9b7;
+}
+
+.sections ul li a:active {
+	color: #e9e6d5;
+}
+
+.sections ul li a.close {
+	color: #000;
+	background: #86b9b7 url(/general/images/BD/linkB_on.gif) no-repeat center right;        
+}
+
+.sections ul li a:hover.close {
+	color: #000;
+	background: #86b9b7 url(/general/images/BD/linkB_on.gif) no-repeat center right;        
+}
+
+/* Column Content: Links /**************************/
+
+.links ul {
+	list-style-type: none;
+	font-size: 1.1em;
+	line-height: 1.1em;
+	background-color: #000;
+}	
+
+.links ul li a {
+	padding: 7px 10px 9px 10px;
+	display: block;
+	text-decoration: none;
+}
+
+.links ul li a:link {
+	color: #fff;
+}
+
+.links ul li a:visited {
+	color: #8a897c;
+}
+
+.links ul li a:hover {
+	color: #000;
+	background-color: #a9d1cf;
+}
+
+.links ul li a:active {
+	color: #fff;
+	background-color: #a9d1cf;
+}
+
+.links ul li.linkA a:link {
+	color: #a9d1cf;
+}
+
+.links ul li.linkA a:visited {
+	color: #8a897c;
+}
+
+.links ul li.linkA a:hover {
+	color: #000;
+	background-color: #a9d1cf;
+}
+
+.links ul li.linkA a:active {
+	color: #fff;
+	background-color: #a9d1cf;
+}
+
+
+/* Column Content: Search Box /**************************/
+
+.searchbox {
+	color: #fff;
+	width: 180px;
+}
+
+.searchbox fieldset { 
+	border: solid 0 transparent; 
+	float: left;
+	margin-bottom: 10px;
+}
+
+.searchbox fieldset ol {
+	list-style: none;
+	border:  solid 0 transparent;
+	padding-right: 8px;
+}
+
+.searchbox fieldset.submit {
+	border-style: none;
+	text-align: right;
+}
+
+input, select, textarea { font-size: 1em; }
+
+.searchbox input#homeSearch {
+	width:  156px;
+	border: solid 0 transparent;
+}
+
+/* Content: Footer /**************************/
+
+#footerWrapper p {
+	color: #fff;
+	font-size: 1em;
+	line-height: 4em;
+	padding: 0 20px;
+	background-color: #000;
+}
+
+/* Images /**************************/
+
+.floatLeft {
+	float: left;
+	margin: 10px 20px 10px 0;
+	border: 1px solid #000;
+}
+
+.picLeft {
+	display: block;
+	text-align: left;
+	margin: 0 0 20px 0;
+}
+
+.picCentredBase {
+	display: block;
+	text-align: center;
+	margin-top: 40px;
+}
+
+.rotatingAd {
+	display: block;
+	text-align: center;
+	margin-top: 10px;
+}
+

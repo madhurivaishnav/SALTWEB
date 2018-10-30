@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>20</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Quiz - Introduction to money laundering</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>10</numrandom>
+<passinggrade>80</passinggrade>
+<cancelfail>page117894.html</cancelfail>
+<passdone>page117875.html</passdone>
+<prevpage>page118163.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page117952.html</name>
+<question>
+<id>117954</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0006</var>
+<text>What is money laundering?</text>
+<correctans>The process criminals use to conceal their illegal profits and avoid jail time and confiscation of their profits</correctans>
+<choices>The process criminals use to conceal their illegal profits and avoid jail time and confiscation of their profits|The process used by criminals exclusively to evade tax |Illegal financial activity that takes place only in banks and offshore institutions|The process for cleaning cash </choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page117964.html</name>
+<question>
+<id>117966</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0007</var>
+<text>Which of the following statements is true?</text>
+<correctans>There is no single method of laundering money</correctans>
+<choices>There is only one method of laundering money|There is one method of laundering money, but it contains variations|There is no single method of laundering money|There are many different methods of laundering money, though the activity only occurs in casinos and foreign exchange services</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>page117976.html</name>
+<question>
+<id>117978</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0008</var>
+<text>Which of the following statements is false?</text>
+<correctans>Laundered money always comes in the form of small quantities of cash</correctans>
+<choices>Laundered money may come from a wide range of other crimes, including drug trafficking, terrorist activities, tax evasion|Laundered money is illegal money that criminals introduce into the legitimate financial system|Laundered money usually comes in the form of large quantities of cash|Laundered money always comes in the form of small quantities of cash</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>page117988.html</name>
+<question>
+<id>117990</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0009</var>
+<text>Fill in the blank. Money laundering _________ of financial institutions that have assisted in the process.</text>
+<correctans>\u2026 undermines the credibility and public confidence\u2026</correctans>
+<choices>\u2026 promotes the credibility and public confidence\u2026|\u2026 undermines the credibility and public confidence\u2026|\u2026 is a valid way to reduce the debt\u2026|\u2026 can boost the credit rating\u2026</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>page118000.html</name>
+<question>
+<id>118002</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0010</var>
+<text>Fill in the blank. When criminals get away with money laundering, they ___________ the black market economy</text>
+<correctans>\u2026 can put more money in to expand\u2026</correctans>
+<choices>\u2026 prevent more money from going into\u2026|\u2026 never put more money in to expand\u2026|\u2026 can put more money in to expand\u2026|\u2026 always puts more money in to expand\u2026</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>page118012.html</name>
+<question>
+<id>118014</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQuestion_0011</var>
+<text>Which of the following statements about money laundering is false?</text>
+<correctans>It promotes the reputations of financial institutions </correctans>
+<choices>It undermines the financial system|It expands the black market economy and enables further crimes to be committed|It finances terrorism|It promotes the reputations of financial institutions </choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>page118024.html</name>
+<question>
+<id>118026</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQuestion_0001</var>
+<text>Which of the following is NOT an example of placement?</text>
+<correctans>Placing legally obtained funds into another person's bank account</correctans>
+<choices>Placing legally obtained funds into another person's bank account|Transporting illegal cash to a country with lax anti-money laundering laws|Converting laundered money into assets which can later be sold|Depositing laundered cash into a bank account in small amounts at a time</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>page118036.html</name>
+<question>
+<id>118038</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQuestion_0013</var>
+<text>Which of the following statements about integration is false?</text>
+<correctans>It always involves using laundered money as an investment in illegitimate businesses</correctans>
+<choices>It is the process by which laundered money is made available to criminals as apparently legitimate funds|It may involve paying for credit or debit cards with an offshore bank account|It always involves using laundered money as an investment in illegitimate businesses|It may involve making laundered money available as an investment in a legitimate business</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>page118048.html</name>
+<question>
+<id>118050</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQuestion_0002</var>
+<text>Which of the following statements about money laundering is true?</text>
+<correctans>Money need not pass through all three stages (placement, layering, integration) to be laundered</correctans>
+<choices>Money must pass through all three stages (placement, layering, integration) to be laundered|Money need not pass through all three stages (placement, layering, integration) to be laundered|You should focus mainly on the last two stages of the money laundering process in order to protect against the risk of money laundering|Money laundering never follows an identifiable process</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>page118060.html</name>
+<question>
+<id>118062</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQuestion_0016</var>
+<text>Which of the following is a key obligation of organisations under the Act?</text>
+<correctans>All of the above</correctans>
+<choices>Keep records|Conduct ongoing customer due diligence|Establish and maintain an anti-money laundering and counter-terrorism financing (AML/CTF) program|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>10</index>
+<name>page118072.html</name>
+<question>
+<id>118074</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 11</name>
+<var>VarQuestion_0015</var>
+<text>What is a reporting entity?</text>
+<correctans>Any person or organisation that provides a designated service and has anti-money laundering obligations </correctans>
+<choices>An individual or organisation that is under investigation for alleged money laundering and terrorist activity |A government agency that enforces money laundering laws as part of the Financial Action Task Force |Any person or organisation that provides a designated service and has anti-money laundering obligations |Any person or organisation associated with the media</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>11</index>
+<name>page118084.html</name>
+<question>
+<id>118086</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 12</name>
+<var>VarQuestion_0017</var>
+<text>Which of the following statements is true?</text>
+<correctans>Some reporting entities are exempt from their anti-money laundering obligations when they provide specific designated services</correctans>
+<choices>Some reporting entities are exempt from their anti-money laundering obligations when they provide specific designated services|Reporting entities will be exempt from their anti-money laundering obligations if they provide any designated services|Reporting entities will always be partially exempt from certain anti-money laundering obligations|All reporting entities can automatically exempt themselves from anti-money laundering obligations if their credit rating is high</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>12</index>
+<name>page118096.html</name>
+<question>
+<id>118098</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 13</name>
+<var>VarQuestion_0004</var>
+<text>What is an AML/CTF compliance officer? </text>
+<correctans>A management level employee appointed to create and maintain effective AML/CTF systems, policies and procedures for their organisation </correctans>
+<choices>An AUSTRAC employee appointed to supervise and enforce AML/CTF systems, policies and procedures for reporting entities  |A management level employee appointed to create and maintain effective AML/CTF systems, policies and procedures for their organisation |An employee who complies with AML/CTF principles |A staff member of the Financial Action Task Force who monitors compliance with international AML/CTF standards </choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>13</index>
+<name>page118108.html</name>
+<question>
+<id>118110</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 14</name>
+<var>VarQuestion_0005</var>
+<text>What is the main body responsible for administering anti-money laundering laws in Australia?</text>
+<correctans>Australian Transaction Reports and Analysis Centre</correctans>
+<choices>Australian Competition and Consumer Commission|Australian Transaction Reports and Analysis Centre|Australian Federal Police|Reporting entities</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>14</index>
+<name>page118120.html</name>
+<question>
+<id>118122</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 15</name>
+<var>VarQuestion_0049</var>
+<text>Complete the sentence. Failure to comply with anti-money laundering obligations can lead to\u2026</text>
+<correctans>All of the above</correctans>
+<choices>\u2026 reputational damage|\u2026 operational risks|\u2026 legal risks|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

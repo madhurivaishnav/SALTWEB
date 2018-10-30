@@ -1,0 +1,271 @@
+
+
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReport_IndividualDetailsExtended]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'
+/****** Object:  User Defined Function dbo.udfReport_IndividualDetails    Script Date: 20/04/2004 8:25:58 AM ******/
+
+
+
+/*Summary:
+Given a users ID this udfReport_IndividualDetails Gets Details for home page and individual report
+Returns:
+ordered table of distinct PageID''s
+
+Called By:
+dbo.prcModule_GetDetailsForHomePage
+Calls:
+
+dbo.udfGetLessonStatus
+dbo.vwUserModuleAccess
+Remarks:
+1. This udf required that the schema of the underlying views does not change
+
+Author:
+Stephen Kennedy-Clark
+Date Created: 17 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#3.0.25 Aaron Cripps	08/05/2007		Replace vwUserCourseStatus with a select statement that filters on UserID parameter passed into the function to reduce the number of rows returned (and the time taken to retrieve rows)
+
+
+--------------------
+
+
+**/
+CREATE function [dbo].[udfReport_IndividualDetailsExtended]
+(
+@userID  int = null,     -- ID of this User
+@CurrentCultureName NVarChar(40) = ''en-AU''
+)
+------------------------------------------
+Returns table
+as
+
+
+
+
+
+Return
+select
+vUMA.UserID                      as ''UserID''
+, vUMA.CourseID                as ''CourseID''
+, vUMA.CourseName         as ''CourseName''
+, vUMA.ModuleID                             as ''ModuleID''
+, vUMA.[Name]                  as ''ModuleName''
+, tL.LessonID                        as ''LessonID''
+, isNull(dbo.udfGetLessonStatus(vUMA.ModuleID,vUMA.UserID), 1) as ''LessonStatus''  -- n^2 complexety :-(
+, isNull(vUQS.QuizStatusID, 1)   as ''QuizStatus''
+, vUQS.QuizScore               as ''QuizScore''
+, vUQS.QuizPassMark        as ''QuizPassMark''
+--, replace(replace( tL.ToolbookLocation,''ie4/index.html'',''qfs.html''),''default.aspx'',''QFS.html'') as ''QFSPath''
+, CASE WHEN (tL.Scorm1_2=1) THEN QFSlocation
+ELSE replace(replace( tL.ToolbookLocation,''ie4/index.html'',''qfs.html''),''default.aspx'',''QFS.html'') END as ''QFSPath''
+
+--, SUBSTRING(  tL.ToolbookLocation,0,(len(tL.ToolbookLocation)-12)  ) + ''/'' + ''QFS.html'' as ''QFSPath''
+, vUMA.Sequence                              as ''Sequence''
+
+
+,case when vUQS.DateCreated is null and (RemEsc.DaysToCompleteCourse is null OR ((RemEsc.NotifyMgr = 0) AND (RemEsc.RemindUsers = 0))) then '' --- ''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        -- course just added , overdue not defined
+when vUQS.DateCreated is null and RemEsc.DaysToCompleteCourse is not null and ((RemEsc.NotifyMgr = 1) OR (RemEsc.RemindUsers = 1)) and CS.DateCreated is null then CAST(RemEsc.DaysToCompleteCourse AS VARCHAR(5)        )                                                                                                                                                                                                                                               -- course just added , overnight job has not caught up yet
+when QuizStatusID = 1 and RemEsc.DaysToCompleteCourse is not null and ((RemEsc.NotifyMgr = 1) OR (RemEsc.RemindUsers = 1)) and vUQS.DateCreated is not null              AND (RemEsc.DaysToCompleteCourse -   DATEDIFF(day,vUQS.DateCreated,getUTCdate())) >= 0
+then CAST(RemEsc.DaysToCompleteCourse -   DATEDIFF(day,vUQS.DateCreated,getUTCdate()) AS VARCHAR(5))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       -- not started , overdue is defined, not overdue
++ (SELECT  '' ''+LangEntryValue  FROM tblLangValue
+where LangInterfaceID = (SELECT  LangInterfaceID   FROM tblLangInterface WHERE LangInterfaceName = ''GLOBAL.MISC'')
+and LangID =(SELECT LangID FROM tblLang where tblLang.LangCode=  @CurrentCultureName)
+and LangResourceID = (SELECT LangResourceID  FROM tblLangResource where   LangResourceName = ''days'' ))
+when QuizStatusID = 1 and RemEsc.DaysToCompleteCourse is not null and ((RemEsc.NotifyMgr = 1) OR (RemEsc.RemindUsers = 1))  and vUQS.DateCreated is not null             AND (RemEsc.DaysToCompleteCourse -   DATEDIFF(day,vUQS.DateCreated,getUTCdate())) < 0
+then convert(varchar (11),DATEADD(day,RemEsc.DaysToCompleteCourse,dbo.udfUTCtoDaylightSavingTime(vUQS.DateCreated,o.organisationID)),113)                                                                                                         -- not started , overdue is defined, overdue
+when QuizStatusID = 4 and vUQS.DateCreated is not null
+then convert(varchar (11),dbo.udfUTCtoDaylightSavingTime(vUQS.DateCreated,o.organisationID),113)                                                                                                                                                                                                                                                                                                                                                                                                                 -- Expired (Time Elapsed )
+when QuizStatusID = 5 and vUQS.DateCreated is not null
+then convert(varchar (11),dbo.udfUTCtoDaylightSavingTime(vUQS.DateCreated,o.organisationID),113)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          -- Expired (New Content)
+when QuizStatusID = 2 and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is  null   and o.DefaultQuizCompletionDate is not null
+then convert(varchar (11),dbo.udfUserUTCtoDaylightSavingTime(o.DefaultQuizCompletionDate,o.organisationID),113)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 --Passed  organisation Default  Quiz Completion Date specified
+when QuizStatusID = 2 and vUQS.DateCreated is not null  and ur.QuizCompletionDate is not null
+then convert(varchar (11),dbo.udfUserUTCtoDaylightSavingTime(ur.QuizCompletionDate,o.organisationID),113)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          --Passed  unit Default  Quiz Completion Date specified
+when QuizStatusID = 2 and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizFrequency is not null
+then CAST((  DATEDIFF(day,getUTCdate(),DATEADD(month,o.DefaultQuizFrequency,vUQS.DateCreated))) AS varchar(6))                                                                                                                                                                                                                                                                                                                                                                                                                                   --Passed  organisation Default  Quiz frequency specified
++ (SELECT  '' ''+ LangEntryValue  FROM tblLangValue
+where LangInterfaceID = (SELECT  LangInterfaceID   FROM tblLangInterface WHERE LangInterfaceName = ''GLOBAL.MISC'')
+and LangID =(SELECT LangID FROM tblLang where tblLang.LangCode=  @CurrentCultureName)
+and LangResourceID = (SELECT LangResourceID  FROM tblLangResource where   LangResourceName = ''days'' ))
+
+when QuizStatusID = 2 and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is not null and o.DefaultQuizCompletionDate is null
+then CAST((  DATEDIFF(day,getUTCdate(),DATEADD(month,ur.QuizFrequency,vUQS.DateCreated))) AS varchar(6))                                                                                                                                                                                                                                                                                                                                                                                                                                                           --Passed - unit Default  Quiz frequency specified
++ (SELECT  '' ''+LangEntryValue  FROM tblLangValue
+where LangInterfaceID = (SELECT  LangInterfaceID   FROM tblLangInterface WHERE LangInterfaceName = ''GLOBAL.MISC'')
+and LangID =(SELECT LangID FROM tblLang where tblLang.LangCode=  @CurrentCultureName)
+and LangResourceID = (SELECT LangResourceID  FROM tblLangResource where   LangResourceName = ''days'' ))
+
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizCompletionDate is not null
+then convert(varchar (11),dbo.udfUserUTCtoDaylightSavingTime(o.DefaultQuizCompletionDate,o.organisationID),113)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 --Failed - previously passed - organisation Default  Quiz Completion Date specified
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is not null
+then convert(varchar (11),dbo.udfUserUTCtoDaylightSavingTime(ur.QuizCompletionDate,o.organisationID),113)                                                                                                                                                                                                                                                                                                                                                 --Failed - previously passed - unit Default  Quiz Completion Date specified
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizFrequency is not null
+then CAST(( DATEDIFF(day,getUTCdate(),DATEADD(month,o.DefaultQuizFrequency,LC.DateCreated))) AS varchar(6))                                                                                                                                                                                                                                                                                                                                                                                                                                    --Failed - previously passed -organisation Default  Quiz frequency specified
++ (SELECT  '' ''+LangEntryValue  FROM tblLangValue
+where LangInterfaceID = (SELECT  LangInterfaceID   FROM tblLangInterface WHERE LangInterfaceName = ''GLOBAL.MISC'')
+and LangID =(SELECT LangID FROM tblLang where tblLang.LangCode=  @CurrentCultureName)
+and LangResourceID = (SELECT LangResourceID  FROM tblLangResource where   LangResourceName = ''days'' ))
+
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is not null
+then CAST((  DATEDIFF(day,getUTCdate(),DATEADD(month,ur.quizfrequency,LC.DateCreated))) AS varchar(6))                                                                                                                                                                                                                                                                                                                                                                                                                                                                           --Failed - previously passed -unit Default  Quiz frequency specified
++ (SELECT  '' ''+LangEntryValue  FROM tblLangValue
+where LangInterfaceID = (SELECT  LangInterfaceID   FROM tblLangInterface WHERE LangInterfaceName = ''GLOBAL.MISC'')
+and LangID =(SELECT LangID FROM tblLang where tblLang.LangCode=  @CurrentCultureName)
+and LangResourceID = (SELECT LangResourceID  FROM tblLangResource where   LangResourceName = ''days'' ))
+
+when QuizStatusID = 3 and LC.DateCreated is null and RemEsc.DaysToCompleteCourse is not null and ((RemEsc.NotifyMgr = 1) OR (RemEsc.RemindUsers = 1)) and vUQS.DateCreated is not null         AND (RemEsc.DaysToCompleteCourse -   DATEDIFF(day,vUQS.DateCreated,getUTCdate())) >= 0
+then convert(varchar (11),DATEADD(day,RemEsc.DaysToCompleteCourse,dbo.udfUTCtoDaylightSavingTime(vUQS.DateCreated,o.organisationID)),113)
+
+when QuizStatusID = 3 and LC.DateCreated is null and RemEsc.DaysToCompleteCourse is not null and ((RemEsc.NotifyMgr = 1) OR (RemEsc.RemindUsers = 1)) and vUQS.DateCreated is not null         AND (RemEsc.DaysToCompleteCourse -   DATEDIFF(day,vUQS.DateCreated,getUTCdate())) < 0
+then convert(varchar (11),DATEADD(day,RemEsc.DaysToCompleteCourse,dbo.udfUTCtoDaylightSavingTime(vUQS.DateCreated,o.organisationID)),113)   
+
+
+/*
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizCompletionDate is not null
+then convert(varchar (11),dbo.udfUserUTCtoDaylightSavingTime(o.DefaultQuizCompletionDate,o.organisationID),113)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 --Failed - previously passed - organisation Default  Quiz Completion Date specified
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is not null
+then convert(varchar (11),dbo.udfUserUTCtoDaylightSavingTime(ur.QuizCompletionDate,o.organisationID),113)                                                                                                                                                                                                                                                                                                                                                   --Failed - previously passed - unit Default  Quiz Completion Date specified
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizFrequency is not null
+then CAST(( DATEDIFF(day,getUTCdate(),DATEADD(month,o.DefaultQuizFrequency,vUQS.DateCreated))) AS varchar(6))                                                                                                                                                                                                                                                                                                                                                                                                                                    --Failed - previously passed -organisation Default  Quiz frequency specified
++ (SELECT  '' ''+LangEntryValue  FROM tblLangValue
+where LangInterfaceID = (SELECT  LangInterfaceID   FROM tblLangInterface WHERE LangInterfaceName = ''GLOBAL.MISC'')
+and LangID =(SELECT LangID FROM tblLang where tblLang.LangCode=  @CurrentCultureName)
+and LangResourceID = (SELECT LangResourceID  FROM tblLangResource where   LangResourceName = ''days'' ))
+
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is not null
+then CAST((  DATEDIFF(day,getUTCdate(),DATEADD(month,ur.quizfrequency,vUQS.DateCreated))) AS varchar(6))                                                                                                                                                                                                                                                                                                                                                                                                                                                                           --Failed - previously passed -unit Default  Quiz frequency specified
++ (SELECT  '' ''+LangEntryValue  FROM tblLangValue
+where LangInterfaceID = (SELECT  LangInterfaceID   FROM tblLangInterface WHERE LangInterfaceName = ''GLOBAL.MISC'')
+and LangID =(SELECT LangID FROM tblLang where tblLang.LangCode=  @CurrentCultureName)
+and LangResourceID = (SELECT LangResourceID  FROM tblLangResource where   LangResourceName = ''days'' ))
+
+when QuizStatusID = 3 and LC.DateCreated is null and RemEsc.DaysToCompleteCourse is not null and ((RemEsc.NotifyMgr = 1) OR (RemEsc.RemindUsers = 1)) and vUQS.DateCreated is not null         AND (RemEsc.DaysToCompleteCourse -   DATEDIFF(day,vUQS.DateCreated,getUTCdate())) >= 0
+then CAST(RemEsc.DaysToCompleteCourse -   DATEDIFF(day,vUQS.DateCreated,getUTCdate()) AS VARCHAR(5))                                                                                                                                                                                                                                                                                                                                                                  --Failed - not previously passed , overdue is defined, not overdue
++ (SELECT  '' ''+LangEntryValue  FROM tblLangValue
+where LangInterfaceID = (SELECT  LangInterfaceID   FROM tblLangInterface WHERE LangInterfaceName = ''GLOBAL.MISC'')
+and LangID =(SELECT LangID FROM tblLang where tblLang.LangCode=  @CurrentCultureName)
+and LangResourceID = (SELECT LangResourceID  FROM tblLangResource where   LangResourceName = ''days'' ))
+
+when QuizStatusID = 3 and LC.DateCreated is null and RemEsc.DaysToCompleteCourse is not null and ((RemEsc.NotifyMgr = 1) OR (RemEsc.RemindUsers = 1)) and vUQS.DateCreated is not null         AND (RemEsc.DaysToCompleteCourse -   DATEDIFF(day,vUQS.DateCreated,getUTCdate())) < 0
+then convert(varchar (11),DATEADD(day,RemEsc.DaysToCompleteCourse,dbo.udfUTCtoDaylightSavingTime(vUQS.DateCreated,o.organisationID)),113)                                                                                                         --Failed - not previously passed , overdue is defined, overdue
+
+*/
+
+end
+as QuizExpiryDate
+,case
+when LC.DateCreated is null then '' ''
+else convert(varchar (11),dbo.udfUTCtoDaylightSavingTime(LC.DateCreated,o.organisationID),113)
+end as LastComp
+
+,case when vUQS.DateCreated is null and (RemEsc.DaysToCompleteCourse is null OR ((RemEsc.NotifyMgr = 0) AND (RemEsc.RemindUsers = 0))) then ''0''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        -- course just added , overdue not defined
+when vUQS.DateCreated is null and RemEsc.DaysToCompleteCourse is not null and ((RemEsc.NotifyMgr = 1) OR (RemEsc.RemindUsers = 1)) and CS.DateCreated is null then ''0''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           -- course just added , overnight job has not caught up yet
+when QuizStatusID = 1 and RemEsc.DaysToCompleteCourse is not null and ((RemEsc.NotifyMgr = 1) OR (RemEsc.RemindUsers = 1)) and vUQS.DateCreated is not null              AND (RemEsc.DaysToCompleteCourse -   DATEDIFF(day,vUQS.DateCreated,getUTCdate())) >= 0 then ''0''                       -- not started , overdue is defined, not overdue
+when QuizStatusID = 1 and RemEsc.DaysToCompleteCourse is not null and ((RemEsc.NotifyMgr = 1) OR (RemEsc.RemindUsers = 1)) and vUQS.DateCreated is not null              AND (RemEsc.DaysToCompleteCourse -   DATEDIFF(day,vUQS.DateCreated,getUTCdate())) < 0 then ''1''                         -- not started , overdue is defined, overdue
+when QuizStatusID = 4 and vUQS.DateCreated is not null then ''1''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        -- Expired (Time Elapsed )
+when QuizStatusID = 5 and vUQS.DateCreated is not null then ''1''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        -- Expired (New Content)
+when QuizStatusID = 2 and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizCompletionDate is not null
+and DATEDIFF(day,o.DefaultQuizCompletionDate,getUTCdate()) < 0 then ''0''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               --Passed - organisation Default  Quiz Completion Date specified , expired
+when QuizStatusID = 2 and vUQS.DateCreated is not null  and ur.QuizCompletionDate is not null
+and DATEDIFF(day,ur.QuizCompletionDate,getUTCdate()) < 0 then ''0''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    --Passed - unit Default  Quiz Completion Date specified , expired
+when QuizStatusID = 2 and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizCompletionDate is not null
+and DATEDIFF(day,o.DefaultQuizCompletionDate,getUTCdate()) >= 0 then ''1''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              --Passed - organisation Default  Quiz Completion Date specified , not expired
+when QuizStatusID = 2 and vUQS.DateCreated is not null  and ur.QuizCompletionDate is not null
+and DATEDIFF(day,ur.QuizCompletionDate,getUTCdate()) >= 0 then ''1''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    --Passed - unit Default  Quiz Completion Date specified , not expired
+when QuizStatusID = 2 and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizFrequency is not null
+and DATEDIFF(day,DATEADD(month,o.DefaultQuizFrequency,vUQS.DateCreated),getUTCdate()) >= 0 then "1"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            --Passed - organisation Default  Quiz frequency specified
+when QuizStatusID = 2 and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is not null
+and  DATEDIFF(day,DATEADD(month,ur.quizfrequency,vUQS.DateCreated),getUTCdate())  >= 0 then "1"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     --Passed - unit Default  Quiz frequency specified
+when QuizStatusID = 2 and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizFrequency is not null
+and DATEDIFF(day,DATEADD(month,o.DefaultQuizFrequency,vUQS.DateCreated),getUTCdate()) < 0 then "0"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              --Passed - organisation Default  Quiz frequency specified , not expired
+when QuizStatusID = 2 and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is not null
+and  DATEDIFF(day,DATEADD(month,ur.quizfrequency,vUQS.DateCreated),getUTCdate())  < 0  then "0"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      --Passed - unit Default  Quiz frequency specified , not expired
+
+
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizCompletionDate is not null
+and DATEDIFF(day,o.DefaultQuizCompletionDate,getUTCdate()) < 0 then ''0''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               --failed - previously passed - organisation Default  Quiz Completion Date specified , expired
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is not null
+and DATEDIFF(day,ur.QuizCompletionDate,getUTCdate()) > 0 then ''0''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    --failed - previously passed - unit Default  Quiz Completion Date specified , expired
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizCompletionDate is not null
+and DATEDIFF(day,o.DefaultQuizCompletionDate,getUTCdate()) >= 0 then ''1''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              --failed - previously passed - organisation Default  Quiz Completion Date specified , not expired
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is not null
+and DATEDIFF(day,ur.QuizCompletionDate,getUTCdate()) <= 0 then ''1''                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    --failed - previously passed - unit Default  Quiz Completion Date specified , not expired
+when QuizStatusID = 3 and LC.DateCreated is not null  and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizFrequency is not null
+and DATEDIFF(day,DATEADD(month,o.DefaultQuizFrequency,vUQS.DateCreated),getUTCdate()) >= 0 then "1"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            --failed - previously passed - organisation Default  Quiz frequency specified
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is not null
+and  DATEDIFF(day,getUTCdate(),DATEADD(month,ur.quizfrequency,vUQS.DateCreated)) >= 0 then "1"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      --failed - previously passed - unit Default  Quiz frequency specified
+when QuizStatusID = 3 and LC.DateCreated is not null and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is null and o.DefaultQuizFrequency is not null
+and DATEDIFF(day,DATEADD(month,o.DefaultQuizFrequency,vUQS.DateCreated),getUTCdate()) < 0 then "0"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              --failed - previously passed - organisation Default  Quiz frequency specified
+when QuizStatusID = 3 and LC.DateCreated is not null  and vUQS.DateCreated is not null  and ur.QuizCompletionDate is null and ur.QuizFrequency is not null
+and   DATEDIFF(day,getUTCdate(),DATEADD(month,ur.quizfrequency,vUQS.DateCreated)) < 0               then "0"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         --failed - previously passed - unit Default  Quiz frequency specified
+when QuizStatusID  = 3 and LC.DateCreated is null and RemEsc.DaysToCompleteCourse is not null and ((RemEsc.NotifyMgr = 1) OR (RemEsc.RemindUsers = 1)) and vUQS.DateCreated is not null         AND (RemEsc.DaysToCompleteCourse -   DATEDIFF(day,vUQS.DateCreated,getUTCdate())) >= 0 then ''0''                         -- not started , overdue is defined, not overdue
+when QuizStatusID  = 3 and LC.DateCreated is null and RemEsc.DaysToCompleteCourse is not null and ((RemEsc.NotifyMgr = 1) OR (RemEsc.RemindUsers = 1)) and vUQS.DateCreated is not null         AND (RemEsc.DaysToCompleteCourse -   DATEDIFF(day,vUQS.DateCreated,getUTCdate())) < 0 then ''1''                           -- not started , overdue is defined, overdue
+
+
+
+
+end AS Red
+from
+--< get the module access details for this user >--
+vwUserModuleAccess vUMA
+inner join tblOrganisation o
+ON o.organisationID = vUMA.OrganisationID
+--< get the module access details for this user >--
+left outer join tblLesson tL
+on tL.ModuleID = vUMA.ModuleID
+and tL.Active = 1
+--< get the details of the latest quiz  >--
+left outer join
+
+(
+SELECT      QuizStatus.UserID, QuizStatus.ModuleID, m.CourseID, QuizStatus.QuizStatusID, QuizStatus.QuizPassMark, QuizStatus.QuizScore,QuizStatus.DateCreated
+FROM         dbo.tblUserQuizStatus AS QuizStatus INNER JOIN
+dbo.tblModule AS m ON m.ModuleID = QuizStatus.ModuleID INNER JOIN
+(SELECT     MAX(UserQuizStatusID) AS UserQuizStatusID,ModuleID
+FROM          dbo.tblUserQuizStatus where UserID = @UserID
+GROUP BY ModuleID ) AS currentStatus ON QuizStatus.UserQuizStatusID = currentStatus.UserQuizStatusID and currentStatus.ModuleID = m.ModuleID
+WHERE     (m.Active = 1)
+)
+
+vUQS -- n^2 complexety :-(
+on vUQS.UserID = vUMA.UserID
+and vUQS.ModuleID = vUMA.ModuleID
+left outer join tblUnitRule ur --Get the unit specific rules
+on ur.ModuleID = vUQS.ModuleID
+and ur.ModuleID = vUMA.ModuleID
+and ur.UnitID=vUMA.unitID
+left outer join tblReminderEscalation RemEsc on RemEsc.CourseId = vUMA.CourseID
+and RemEsc.orgID = o.organisationID
+left outer join (SELECT MIN(UserCourseStatusID) as UserCourseStatusID,[UserID] ,[CourseID] FROM tblUserCourseStatus LastAttempt where LastAttempt.UserID = @UserID and not exists (SELECT * FROM tblUserCourseStatus PreviousAttempt where PreviousAttempt.UserID = @UserID and PreviousAttempt.CourseStatusID = 0 and PreviousAttempt.UserCourseStatusID < LastAttempt.UserCourseStatusID and PreviousAttempt.CourseID = LastAttempt.CourseID and PreviousAttempt.UserID = LastAttempt.UserID) group by [UserID] ,[CourseID]
+) CSID ON CSID.UserID = @UserID and CSID.courseID = vUMA.courseID
+left outer join tblUserCourseStatus CS ON CS.UserID = @UserID and CS.courseID = vUMA.courseID and CS.UserCourseStatusID = CSID.UserCourseStatusID
+left outer join
+( -- Last Passed Module Quiz record
+SELECT      QuizStatus.UserID, QuizStatus.ModuleID,QuizStatus.DateCreated
+FROM         dbo.tblUserQuizStatus AS QuizStatus INNER JOIN
+dbo.tblModule AS m ON m.ModuleID = QuizStatus.ModuleID INNER JOIN
+(SELECT     MAX(UserQuizStatusID) AS UserQuizStatusID,ModuleID
+FROM          dbo.tblUserQuizStatus where UserID = @UserID
+and QuizStatusID = 2 -- passed
+GROUP BY  ModuleID ) AS currentStatus ON QuizStatus.UserQuizStatusID = currentStatus.UserQuizStatusID and currentStatus.ModuleID = m.ModuleID
+WHERE     (m.Active = 1)
+)
+LC
+on LC.UserID = vUMA.UserID
+and LC.ModuleID = vUMA.ModuleID
+Where
+-- vUMA.CourseID = isnull(@courseID, vUMA.CourseID ) and
+vUMA.UserID = isnull(@userID, vUMA.UserID)
+
+
+' 
+END
+
+GO
+
+

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" productVersion="11.0.6565" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xhtml="http://www.w3.org/1999/xhtml"
+xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56"
+xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10"
+xmlns:xd="http://schemas.microsoft.com/office/infopath/2003"
+xml:lang="de">
+  <Summary ID="germanquiz1">
+    <ContentType>quiz</ContentType>
+    <UploadType>update</UploadType>
+    <Title>Einf&#195;&#188;hrung in die
+    Kartellrechtscompliance</Title>
+    <CreatedBy>907893</CreatedBy>
+    <CreatedDate>2007-03-26T11:39:06</CreatedDate>
+    <LastModifiedBy>907893</LastModifiedBy>
+    <LastModifiedDate>2007-03-28T12:37:49</LastModifiedDate>
+  </Summary>
+  <Introduction>
+    <Page ID="Intro1" IsActive="true">
+      <Title>Quizfragen</Title>
+      <PageElements>
+        <PageElement>
+          <TextBox>
+            <Description>
+              <div style="FONT-SIZE: 10pt"
+              xmlns="http://www.w3.org/1999/xhtml"
+              GUID="b5b0e1e6-b504-47f9-88f0-23a54e7280af">
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%"
+                GUID="aaacb26b-fd7c-49f4-83fe-ceff32ad02a1">
+                  <font face="Arial">Auf den folgenden Seiten
+                  werden Ihnen Fragen zum Thema
+                  "Einf&#195;&#188;hrung in die
+                  Kartellrechtscompliance" gestellt. Es gibt
+                  verschiedene Arten von Fragen, die Ihnen gestellt
+                  werden k&#195;&#182;nnen: Fragen, bei denen
+                  mehrere Antworten zur Auswahl stehen und Fragen,
+                  die mit wahr oder unwahr bzw. mit ja oder nein
+                  beantwortet werden m&#195;&#188;ssen.</font>
+                </div>
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%"
+                GUID="0bc5df58-ab59-41e1-92a2-950b0d51473c">
+                  <font face="Arial">Wenn Sie die letzte der zehn
+                  Fragen beantwortet haben, haben Sie die
+                  M&#195;&#182;glichkeit, alle Antworten noch
+                  einmal zu &#195;&#188;berpr&#195;&#188;fen und
+                  sie dann zu &#195;&#188;bermitteln. Bitte
+                  beachten Sie, dass Ihre Antworten nicht
+                  gespeichert werden und verloren gehen, wenn Sie
+                  das Quiz beenden, ohne Ihre Antworten zuvor
+                  &#195;&#188;bermittelt zu haben.</font>
+                </div>
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%"
+                GUID="a3d2b0d3-a613-4dab-9b8c-24afeb396a51">
+                  <font face="Arial">Klicken Sie die "Next" bzw.
+                  "Back" Buttons am rechten Bildschirmrand, um
+                  durch das Quiz zu navigieren. Bitte verwenden Sie
+                  hierzu nicht die "Zur&#195;&#188;ck" bzw.
+                  "Vorw&#195;&#164;rts" Funktion Ihres Browsers, da
+                  Sie damit das Quiz beenden
+                  w&#195;&#188;rden.</font>
+                </div>
+              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml"></div>
+            </Description>
+          </TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0">
+    <Page ID="Q1" IsActive="true">
+      <Title>Question</Title>
+      <PageElements>
+        <PageElement>
+          <Question>
+            <Description>
+              <span style="FONT-SIZE: 10pt"
+              xmlns="http://www.w3.org/1999/xhtml"
+              GUID="bf38d459-ea38-4a29-a21b-8d82b933e60c">
+                <font face="Arial">Wenn zwei Unternehmen sich
+                darauf verst&#195;&#164;ndigen, ihre Produkte zu
+                demselben Preis anzubieten, w&#195;&#188;rden die
+                Wettbewerbsbeh&#195;&#182;rden ein solches Abkommen
+                als rechtm&#195;&#164;&#195;&#376;ig
+                bewerten?</font>
+              </span>
+            </Description>
+            <Answers>
+              <Answer ID="1" Correct="false">
+                <Description>Ja</Description>
+              </Answer>
+              <Answer ID="2" Correct="true">
+                <Description>Nein</Description>
+              </Answer>
+            </Answers>
+          </Question>
+        </PageElement>
+      </PageElements>
+    </Page>    
+  </Questions>
+  <Complete>
+    <Page ID="Comp1" IsActive="true">
+      <Title>Haben Sie Ihr Quiz beendet?</Title>
+      <PageElements>
+        <PageElement>
+          <TextBox>
+            <Description>
+              <div style="FONT-SIZE: 10pt"
+              xmlns="http://www.w3.org/1999/xhtml"
+              GUID="512a5e59-15e3-4164-82e9-01eca2730ec9">
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%"
+                GUID="d75b7721-288b-4322-9822-019e55353c28">
+                  <font face="Arial">Sie haben das Ende des Quiz
+                  erreicht.</font>
+                </div>
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%"
+                GUID="ebea4060-3565-4cc9-b42e-7785296ba973">
+                  <font face="Arial">Sie k&#195;&#182;nnen nun Ihre
+                  Antworten &#195;&#188;berpr&#195;&#188;fen und
+                  &#195;&#164;ndern. Verwenden Sie die
+                  Navigationsfl&#195;&#164;chen "Zur&#195;&#188;ck"
+                  und "Weiter", um von Frage zu Frage zu
+                  gelangen.</font>
+                </div>
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%"
+                GUID="1d10b0b0-fa9d-4e01-9d16-01b0e9f9abec">
+                  <font face="Arial">Wenn Sie mit Ihren Anworten
+                  zufrieden sind, klicken Sie unten auf "Antworten
+                  &#195;&#188;bermitteln". Sie werden dann sehen,
+                  ob Sie das Quiz bestanden haben.</font>
+                </div>
+              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml"></div>
+            </Description>
+          </TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Comp2" IsActive="true">
+      <Title>Sie haben das Quiz nun beendet</Title>
+      <PageElements>
+        <PageElement>
+          <TextBox>
+            <Description>
+              <div style="FONT-SIZE: 10pt"
+              xmlns="http://www.w3.org/1999/xhtml"
+              GUID="e48f3eaf-fbbb-4ac7-86fa-d607893dabd8"
+              xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36"
+              xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56">
+
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%"
+                GUID="4dababd5-710c-48f9-9a79-20a1ab64d8ed">
+                  <font face="Arial"
+                  GUID="d2128111-17e0-4359-b2d4-46ab4872cdb6">Sie
+                  haben das Ende des Quiz erreicht.</font>
+                </div>
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%"
+                GUID="d52993e1-9a21-47a9-b574-63dad8ce858d">
+                  <font face="Arial"
+                  GUID="0e1f3143-89f4-42bb-a4d3-d9407fe199ad">Sie
+                  k&#195;&#182;nnen nun Ihre Antworten
+                  &#195;&#188;berpr&#195;&#188;fen und
+                  &#195;&#164;ndern. Verwenden Sie die
+                  Navigationsfl&#195;&#164;chen "Zur&#195;&#188;ck"
+                  und "Weiter", um von Frage zu Frage zu
+                  gelangen.</font>
+                </div>
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%"
+                GUID="4fc64378-0a40-4ec3-8982-4753e17bfc38">
+                  <font face="Arial"
+                  GUID="4e1b4c90-9b73-4651-8fa2-7b8a088a914b">Wenn
+                  Sie mit Ihren Anworten zufrieden sind, klicken
+                  Sie unten auf "Antworten &#195;&#188;bermitteln".
+                  Sie werden dann sehen, ob Sie das Quiz bestanden
+                  haben.</font>
+                </div>
+              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml"></div>
+            </Description>
+          </TextBox>
+        </PageElement>
+        <PageElement>
+          <SubmitAnswers></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

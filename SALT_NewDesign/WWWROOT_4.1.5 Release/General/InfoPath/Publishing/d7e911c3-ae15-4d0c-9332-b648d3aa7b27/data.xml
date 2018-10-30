@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" productVersion="11.0.6565" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="de" GUID="d77e2d50-183d-426b-87df-14d52514fa30">
+  <Summary ID="germanquiz1" GUID="ba3bbe02-ae9a-4cfb-ad5f-521e5f83b935">
+    <ContentType GUID="fc769fd3-bad5-4889-9643-c8bdaf349a78">quiz</ContentType>
+    <UploadType GUID="c4f3cf38-0a17-4e1a-a3e9-ed77a6d3ecdd">update</UploadType>
+    <Title GUID="fff9d93a-9521-46ce-8521-b3fdd8e9e734">EinfÃ¼hrung in die
+    Kartellrechtscompliance</Title>
+    <CreatedBy GUID="14a93423-bcfa-4698-a4c2-5d6300433553">907893</CreatedBy>
+    <CreatedDate GUID="c3dd6e16-54d1-4537-9750-4f737dddc3b3">2007-03-26T11:39:06</CreatedDate>
+    <LastModifiedBy GUID="09ea7fd7-2bfc-4bc3-b124-fa1176d02136">907893</LastModifiedBy>
+    <LastModifiedDate GUID="bfea1bfa-7eed-4419-aa32-817206e6213a">2007-03-28T12:37:49</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="eec6a33b-1dd5-4ad4-bb72-1e8b9f57b412">
+    <Page ID="Intro1" IsActive="true" GUID="80a292a0-a71f-4d05-a5fc-370dc91b3225">
+      <Title GUID="2cddf9c3-812a-4dc3-a88e-f6ffb91b958e">Quizfragen</Title>
+      <PageElements GUID="a281f221-a05b-42bb-8a41-278166548023">
+        <PageElement GUID="5714b9a0-2242-453c-aad4-02fb3d94bd16">
+          <TextBox GUID="7006a907-d897-4418-9126-1ebcebda184f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="c0304db9-c9f8-4003-b46b-f385840b0d29">
+    <div style="FONT-SIZE: 10pt" GUID="d1083c30-28ad-42de-b5f4-37a9ea6d9f69" xmlns="http://www.w3.org/1999/xhtml">
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%" GUID="272a9dd2-4a28-4b3b-a060-aa92686e5c55">
+        <font face="Arial" GUID="21b35037-119e-4e43-9ea4-aecb464356e3">Auf den folgenden Seiten
+                  werden Ihnen Fragen zum Thema
+                  "EinfÃ¼hrung in die
+                  Kartellrechtscompliance" gestellt. Es gibt
+                  verschiedene Arten von Fragen, die Ihnen gestellt
+                  werden kÃ¶nnen: Fragen, bei denen
+                  mehrere Antworten zur Auswahl stehen und Fragen,
+                  die mit wahr oder unwahr bzw. mit ja oder nein
+                  beantwortet werden mÃ¼ssen.</font>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%" GUID="c3d87c58-9c69-4be6-a085-cc4423866370">
+        <font face="Arial" GUID="9934ef6c-f4ad-49bc-af77-5c3e546dae19">Wenn Sie die letzte der zehn
+                  Fragen beantwortet haben, haben Sie die
+                  MÃ¶glichkeit, alle Antworten noch
+                  einmal zu Ã¼berprÃ¼fen und
+                  sie dann zu Ã¼bermitteln. Bitte
+                  beachten Sie, dass Ihre Antworten nicht
+                  gespeichert werden und verloren gehen, wenn Sie
+                  das Quiz beenden, ohne Ihre Antworten zuvor
+                  Ã¼bermittelt zu haben.</font>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%" GUID="10513b13-c29a-4e97-a39c-685dee6412e3">
+        <font face="Arial" GUID="3d270f27-ba32-4254-8d18-c295157779cb">Klicken Sie die "Next" bzw.
+                  "Back" Buttons am rechten Bildschirmrand, um
+                  durch das Quiz zu navigieren. Bitte verwenden Sie
+                  hierzu nicht die "ZurÃ¼ck" bzw.
+                  "VorwÃ¤rts" Funktion Ihres Browsers, da
+                  Sie damit das Quiz beenden
+                  wÃ¼rden.</font>
+      </div>
+    </div>
+    <div GUID="f77c9dbf-2137-4329-b72e-4693657d62be" xmlns="http://www.w3.org/1999/xhtml">
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="6c413c43-5bab-48ac-a740-ce7e45aee064">
+    <Page ID="Q1" IsActive="true" GUID="c8b1af34-ae57-461d-a28e-01599ac700f9">
+      <Title GUID="bff29d31-9f83-43d3-9fc9-25c5de42cbd0">Question</Title>
+      <PageElements GUID="ebf54bb6-9e88-447f-a0c6-417fb79ab724">
+        <PageElement GUID="4e891ab6-bcc4-41f5-b207-4072141b7785">
+          <Question GUID="d02f7fd6-4f45-4be8-8005-a46199acdbfb"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="b04410ab-285c-4b35-a500-91fed11e6e12">
+      <span style="FONT-SIZE: 10pt" GUID="832ba3cd-6281-4689-8eb2-0de687e1f444" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="Arial" GUID="ca2524ee-2009-45f8-ad0e-7f7bca103d33">Wenn zwei Unternehmen sich
+                darauf verstÃ¤ndigen, ihre Produkte zu
+                demselben Preis anzubieten, wÃ¼rden die
+                WettbewerbsbehÃ¶rden ein solches Abkommen
+                als rechtmÃ¤ÃŸig
+                bewerten?</font>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a9dab2bd-fc3d-4289-b204-2df05a01c45d">Ja</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7b5b0d5e-627d-4089-859a-78f73ec9d08a">Nein</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="b9e68825-75ad-4a83-9f6f-2ddd52e98812">
+    <Page ID="Comp1" IsActive="true" GUID="c4c1ad5a-3a7d-4f50-85f4-3ed692962788">
+      <Title GUID="6925fff7-686a-48e2-9449-4025105c896b">Haben Sie Ihr Quiz beendet?</Title>
+      <PageElements GUID="820e8835-796a-4c1a-b828-63515d570dd4">
+        <PageElement GUID="e39318e7-7bb1-44bf-8399-a8e2bef8c33d">
+          <TextBox GUID="ceb9f6f5-262f-4b83-9de7-c9581511392c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="259ec3a0-d210-4343-a33d-b423d7a9f4f7">
+    <div style="FONT-SIZE: 10pt" GUID="d246f5d3-7db9-4195-a1aa-bf5f50cc8eb6" xmlns="http://www.w3.org/1999/xhtml">
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%" GUID="c66863db-76d2-403a-8bbb-15b72c3e1248">
+        <font face="Arial" GUID="ae6836e8-a6a3-4608-b6d8-515911c0c6ed">Sie haben das Ende des Quiz
+                  erreicht.</font>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%" GUID="549cecb5-d1be-4dfe-a47d-5455354e7d68">
+        <font face="Arial" GUID="5463b311-6f93-4a61-88e8-80c0978a9aa1">Sie kÃ¶nnen nun Ihre
+                  Antworten Ã¼berprÃ¼fen und
+                  Ã¤ndern. Verwenden Sie die
+                  NavigationsflÃ¤chen "ZurÃ¼ck"
+                  und "Weiter", um von Frage zu Frage zu
+                  gelangen.</font>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%" GUID="198e0742-a2dd-4cc7-8a84-96afd9fbfb3b">
+        <font face="Arial" GUID="0bfcb464-b50d-4630-9530-24e7397a0925">Wenn Sie mit Ihren Anworten
+                  zufrieden sind, klicken Sie unten auf "Antworten
+                  Ã¼bermitteln". Sie werden dann sehen,
+                  ob Sie das Quiz bestanden haben.</font>
+      </div>
+    </div>
+    <div GUID="cc047ac8-0f7d-44b4-a3ea-a3469a63da19" xmlns="http://www.w3.org/1999/xhtml">
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Comp2" IsActive="true" GUID="dd471192-20ae-45db-8583-48bbee38d07d">
+      <Title GUID="4f15c70e-c0f3-45d1-ba72-db0e9129f972">Sie haben das Quiz nun beendet</Title>
+      <PageElements GUID="a9c00ea9-6c98-4da2-b8a4-86942ed5c348">
+        <PageElement GUID="45062add-1369-4762-8888-fbfcd15d29ff">
+          <TextBox GUID="cd8d4b51-dcb7-4f9f-967c-300f190530fd"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="5ed1e756-e065-4859-ac5a-9a78dab5dc79">
+    <div style="FONT-SIZE: 10pt" GUID="8db700b0-ca74-4473-811f-3b1b37439034" xmlns="http://www.w3.org/1999/xhtml" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56">
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%" GUID="4e4ed97a-976a-480c-a695-b992d7b5807a">
+        <font face="Arial" GUID="ff4655f9-43c5-468e-9c9f-f0f701501098">Sie
+                  haben das Ende des Quiz erreicht.</font>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%" GUID="561b3a61-1c3b-4c50-85f4-a8358dcf197d">
+        <font face="Arial" GUID="3e6c5f9f-edc2-4f65-815d-5540084722a4">Sie
+                  kÃ¶nnen nun Ihre Antworten
+                  Ã¼berprÃ¼fen und
+                  Ã¤ndern. Verwenden Sie die
+                  NavigationsflÃ¤chen "ZurÃ¼ck"
+                  und "Weiter", um von Frage zu Frage zu
+                  gelangen.</font>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LINE-HEIGHT: 120%" GUID="1fe19473-f8c7-4c82-b5d4-68d89b87a2b4">
+        <font face="Arial" GUID="a2582d09-779b-41e2-bfe4-a6702fa93ed1">Wenn
+                  Sie mit Ihren Anworten zufrieden sind, klicken
+                  Sie unten auf "Antworten Ã¼bermitteln".
+                  Sie werden dann sehen, ob Sie das Quiz bestanden
+                  haben.</font>
+      </div>
+    </div>
+    <div GUID="28009d07-bc1f-4ef6-bb0d-f620ee6459df" xmlns="http://www.w3.org/1999/xhtml">
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="e23b6131-46f6-41b8-9428-5dd7a5685193">
+          <SubmitAnswers GUID="db6b4d5f-6182-4481-bed3-29933abbf3be"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bdw.SqlServer.Reporting.WebControls.Design.FormatListboxTypeEditor" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Design\FormatListboxTypeEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bdw.SqlServer.Reporting.WebControls.Design.ListboxTypeEditor" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAhAAAAAAAAAACAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Design\ListboxTypeEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bdw.SqlServer.Reporting.WebControls.Design.ZoomListboxTypeEditor" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Design\ZoomListboxTypeEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bdw.SqlServer.Reporting.WebControls.ReportViewerDesigner" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Design\ReportViewerDesigner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bdw.SqlServer.Reporting.WebControls.ReportViewer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEQBoBgUAgkAAIAAgAAEKAiJBEgABAQAA=</HashCode>
+      <FileName>ReportViewer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Bdw.SqlServer.Reporting.Properties.Settings" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bdw.SqlServer.Reporting.ReportBasePage" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAIAAgACAAAgAAAAAQAAAA=</HashCode>
+      <FileName>ReportBasePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bdw.SqlServer.Reporting.ReportExport" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>ReportExport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bdw.SqlServer.Reporting.ReportSettings" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAACEBAgIAAJEACAAAAAIAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>ReportSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bdw.SqlServer.Reporting.ReportStream" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAA=</HashCode>
+      <FileName>ReportStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bdw.SqlServer.Reporting.Util" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAoAAAAAIAAAiAAAAAAAQMgAAAAAAAAACAAAAIA=</HashCode>
+      <FileName>Util.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bdw.SqlServer.Reporting.XmlSerializerSectionHandler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>XmlSerializerSectionHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

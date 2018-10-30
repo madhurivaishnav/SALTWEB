@@ -1,0 +1,654 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" productVersion="11.0.6565" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-gb" GUID="c656a290-5551-4798-8b86-dcd8c9d351a0">
+  <Summary ID="chinesequiz1" GUID="f3bd3299-259a-4cbf-824f-bbabfce08934">
+    <ContentType GUID="42533ac5-15d8-46c3-a30e-7732fe1ebe2b">quiz</ContentType>
+    <UploadType GUID="d38dea41-1afe-4f7d-ae48-cb296d933265">update</UploadType>
+    <Title GUID="50d9130a-652e-4c09-bc0e-65944fd0fb39">公司全體股東一致決議</Title>
+    <CreatedBy GUID="b6409208-223a-4834-96f4-1b03fbb1e266">907893</CreatedBy>
+    <CreatedDate GUID="0f98d441-7e0d-43f2-8f1c-18e2c09830b8">2007-03-29T10:58:19</CreatedDate>
+    <LastModifiedBy GUID="fc0632b5-222f-4514-8c64-4a812fbd8fde">
+    </LastModifiedBy>
+    <LastModifiedDate xsi:nil="true" GUID="ec5480d8-72cf-4fcd-96e3-8d27572af1bb">
+    </LastModifiedDate>
+  </Summary>
+  <Introduction GUID="7f87e7ee-34e7-4f8a-9d2c-b8fbe44e0493">
+    <Page ID="Intro1" IsActive="true" GUID="22b5f2b9-7b80-4e19-94c0-4d1bc3107311">
+      <Title GUID="0590e1ec-33ee-4858-9fb4-d284c66c4cfb">公司全體股東一致決議</Title>
+      <PageElements GUID="703d04b4-5762-4f82-a741-fd8e5f8100bb">
+        <PageElement GUID="af56d95b-3dc0-44b0-9124-ca2a646d7e05">
+          <TextBox GUID="1c61c788-ee53-4452-935c-92e4e61ce12c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="b4f99448-60b6-4089-9551-c449654d37b8">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt" align="justify" GUID="021363b1-3ddb-458e-a03c-a60bda420d00" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="undefined" GUID="fa67a70f-06ab-40a5-bc01-29a49beb13b5">
+        <span dir="ltr" GUID="a05151b4-227e-4411-974b-80dde114f5af">
+          <font face="PMingLiU" GUID="abf82e82-a084-4841-8a84-eef6a5a8569e">批准</font>
+        </span>(i) <font face="PMingLiU" GUID="287f815f-ece1-4269-a01a-fdfedc342d36">擬議的朱女士向</font>DRTL<font face="PMingLiU" GUID="c18328ed-397f-4139-ab2d-374902abd0b7">轉讓其在公司註冊資本中的全部權益，即公司註冊資本的百分之五十一</font>(51%)<font face="PMingLiU" GUID="4d36e5b5-9c1c-4d43-a4ef-a775353983f5">；</font>(ii) <font face="PMingLiU" GUID="a2adbcff-94ee-4c53-a4de-5e59e17d59c2">擬議的鍾先生向朱先生轉讓其在公司註冊資本中的全部權益，即公司註冊資本的百分之三十</font>(30%)<font face="PMingLiU" GUID="a5f573ae-62b5-4749-b613-85e07d016b92">；</font>(iii) <font face="PMingLiU" GUID="f8f331e4-590a-43e8-9555-fb68a4a9b24c">其後公司由一個內資民營公司轉變爲中外合資經營企業；及</font>(iv) </font>
+      <font face="PMingLiU" GUID="5148d576-087f-4d58-a1d9-4dcef80098bc">公司名稱由“上虞市雲濤化工有限責任公司”相應變更爲“上虞帝瑞雲濤化工有限公司”。</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="cd99a838-14dd-4347-8fd4-8c7aea0fa5f4">
+    <Page ID="Q1" IsActive="true" GUID="0bf2d1d9-0c55-42f6-870c-1023776b17a9">
+      <Title GUID="5e8b33ab-c63c-40e9-a53c-329fd743bc11">Question</Title>
+      <PageElements GUID="26ffa243-8eac-4461-aaa6-f37e746948e6">
+        <PageElement GUID="f02c6322-7dd7-4597-9fc7-fc237c3a50e0">
+          <Question GUID="e95223e4-8e8d-4d6c-a963-6a7aaaf7903f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="c827d6d2-7d79-441d-b750-14dcbb2cc226">
+      <div GUID="1e14da61-4253-4694-b90c-eb448c8fbb65" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="undefined" GUID="41ca1683-cfc9-4442-8d47-22f0bec3d627">
+          <span dir="ltr" GUID="eb959e47-ef11-45d8-b96b-c6adf20f9bd0">
+            <font face="SimSun" GUID="3888721b-0fae-4ffd-8b46-ba9079086deb">朱春秀女士（“</font>
+          </span>
+          <strong GUID="c5511c05-76f9-4f1c-8f43-127844fde9a1">
+            <font face="SimHei" GUID="d4c1f737-6737-4b0b-a70d-721cfb51e3c1">朱女士</font>
+          </strong>
+          <font face="SimSun" GUID="4de5de69-20ac-4cf2-964b-314a6ba1b0f3">”），朱运涛先生（“</font>
+          <strong GUID="54744183-2eb1-4cd2-9291-9863b18dd5c2">
+            <font face="SimHei" GUID="fdaa0784-ba8e-41a3-ad3d-d9c734cc0331">朱先生</font>
+          </strong>
+          <font face="SimSun" GUID="b0ffaa8b-8ea7-43b8-a53c-292802de5348">”），钟新龙先生（“</font>
+          <strong GUID="299ddb03-2e6b-4512-a81f-0d9d4a52437e">
+            <font face="SimHei" GUID="8a87b31c-f25f-4378-9a69-17898a6bf9a6">钟先生</font>
+          </strong>
+          <font face="SimSun" GUID="7d432b19-2f8e-4299-804d-fdea29649eaa">”）和</font>DRTL Export Overseas, S. L ("<strong GUID="d6d6acfa-ba76-472b-ad24-54282fbb2487">DRTL</strong>")<font face="SimSun" GUID="a5d5f607-7b7f-40cc-8d31-04594dffb8ef">近日签署股权转让协议，根据该协议，朱女士同意出让而</font>DRTL<font face="SimSun" GUID="eb778ca9-5e3e-472a-9edb-20efb5f8468b">同意收购朱女士在公司注册资本中所持有的全部百分之五十一</font>(51%)</font>
+        <font face="SimSun" GUID="a5d24060-311e-499f-9398-972ae81ac184">的权益。</font>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="105c6e85-788f-42f8-b5cb-974390b8daef">
+        <span style="FONT-SIZE: 12pt" GUID="22000220-7e9d-4e48-bf24-4c778f09a800" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="39639170-8f97-49ec-a0a3-563b934d1b0f">钟新龙先</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fdbfef1f-3020-4666-a831-ada0419110eb">
+        <span style="FONT-SIZE: 12pt" GUID="68d16d8b-cb21-4d61-84c4-54f48f89f50c" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="0f8db74a-f19c-472c-9cdc-dcc39edd4c31">姓名</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="b1fca7cf-2ecd-4952-832b-26de18dc4a57">
+      <Title GUID="f19142f4-195c-4014-97a1-5f87a6efae8a">Question</Title>
+      <PageElements GUID="55ae8c12-a516-4ab6-8389-151d135b79b6">
+        <PageElement GUID="332f301b-50c3-4c5c-bb36-fb7022f88a2d">
+          <Question GUID="8e2c75e6-ac81-48e4-8d92-33f309d502dc"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="9c721d78-b999-411b-bc6b-c1a78e229e3d">
+      <span style="FONT-SIZE: 12pt" GUID="0dc3c58e-4640-4dda-b776-273f84b320c9" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="f9fc8f8e-e5b4-4457-be6d-fe882381ef4a">钟先生和朱先生</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="8d3d55bd-582c-4bf0-8c34-cd7bcfd335b1" xmlns="http://www.w3.org/1999/xhtml">[</span>
+      <span style="FONT-SIZE: 12pt" GUID="7d6605d5-66a9-4777-a441-d2f8f69f197c" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="621b5ead-b695-4998-af7c-c4d1d62c0923">近日签订</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="1d63c4f5-7c7e-43e4-938a-0f89693c3863" xmlns="http://www.w3.org/1999/xhtml">]</span>
+      <span style="FONT-SIZE: 12pt" GUID="f7cfa33d-2c4e-4cc3-95b4-c1e9b0df26a1" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="ec38986e-3237-4b09-88f1-7acfc3451fa2">／</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="8a2b82dc-071b-4ac0-af17-13430b73c19b" xmlns="http://www.w3.org/1999/xhtml">[</span>
+      <span style="FONT-SIZE: 12pt" GUID="393625b9-610e-4354-a8f9-ac1c189b6382" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="b7217ef2-5658-4bb9-955f-bbe1cd246796">将签订</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="d41e62e0-d65d-4717-b6b1-bb3f30c7577e" xmlns="http://www.w3.org/1999/xhtml">]</span>
+      <span style="FONT-SIZE: 12pt" GUID="776941d8-308e-4a4f-a6bd-cdb2e39d39dc" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="4cee9653-9a47-49ae-be21-a6253c247369">另一份股权转让协议，根据该协议，钟先生同意出让而朱先生同意收购钟先生在公司注册资本中所持有的全部百分之三十</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="935d13cc-5c8c-4373-b33b-a5196e3a007d" xmlns="http://www.w3.org/1999/xhtml">(</span>
+      <span style="FONT-SIZE: 12pt" GUID="9c49fa0b-1e97-42cb-bc01-55e0de27a82a" xmlns="http://www.w3.org/1999/xhtml">30%)</span>
+      <span style="FONT-SIZE: 12pt" GUID="fb65620e-318a-4e9e-9a87-c4f65495ec62" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="601a6ed7-b246-4ed2-91c1-4fc568fb03d4">的权益。</font>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="70fe4b4d-c184-48a0-b76a-9ac872af46cf">
+        <span style="FONT-SIZE: 12pt" GUID="d5295456-5ba6-4b43-8b1b-4d91a6557635" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="85ad97a9-b1ac-426f-8b15-2426a463fe58">姓名</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0f2dc2cf-c1b7-41bd-b9c9-56819356911e">
+        <span style="FONT-SIZE: 12pt" GUID="5983b480-49d0-447d-bdfd-93c74a3a9891" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="cc8a004a-0a9a-4c13-9b76-98ea50966994">钟新龙先</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="44955a16-b309-4117-98f0-72be8ba0f3d5">
+      <Title GUID="c5759c67-4cd6-42c4-874c-513aa522bebe">Question</Title>
+      <PageElements GUID="39601930-092b-4cbc-8aaf-02299fd24344">
+        <PageElement GUID="be6a5e13-7441-49cb-988d-926125611c96">
+          <Question GUID="5850d830-1321-4d91-bd03-88e7ff62e8d6"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="5496e9aa-7f7f-462c-bd4e-6bd6b47cbe2a">
+      <div GUID="7996bc89-a60d-46dd-ba99-456273a40a8f" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="undefined" GUID="adcd1256-0b24-49e2-8f24-760b9b55d081">
+          <font face="SimSun" GUID="65becdce-22ad-4ecc-bb13-57782c7cccfa">
+            <span dir="ltr" GUID="45cc5fda-e4f6-4ca8-ab65-337e627877fa">受制于主管审批机关对上述</span>序言</font>(A)<font face="SimSun" GUID="0d5582ed-4568-4e31-91c7-333dd7397f35">和序言</font>(B)<font face="SimSun" GUID="38d257f6-b769-4477-8fed-ca4325d6e142">项下股权转让的批准，公司将变更为中外合资经营企业，其中朱先生和</font>DRTL<font face="SimSun" GUID="e7ef49de-c54b-427a-ba05-3500b1a3659d">分别持有公司注册资本的</font>49%<font face="SimSun" GUID="6d8d2648-468f-4189-bfbf-be5cb77ed46a">和</font>51%</font>
+        <font face="SimSun" GUID="7c76bed9-82fb-44f4-b9b4-d4150f1551fa">，公司名称将变更为上虞帝瑞云涛化工有限公司。</font>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="894a32a1-b782-4bd4-af27-7123bfa2689d">
+        <span style="FONT-SIZE: 12pt" GUID="6fedbbc6-382f-46ee-a939-2c6d9ba8069b" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="c41f4f2f-be07-4be8-8cc6-1af4538d7567">姓名</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d3835ff2-e5ea-405a-bf88-9ef29ad66103">
+        <span style="FONT-SIZE: 12pt" GUID="4893ed7a-d1d7-4f16-bbc5-c4601773a586" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="21b0e4b2-136b-4148-aea8-f53505646904">钟新龙先</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="4b0bc4e6-c01a-47ce-8518-08c2a1fba3a3">
+      <Title GUID="e8b7de1c-716f-4198-8d2e-f29358e58157">Question</Title>
+      <PageElements GUID="e5b009e3-6770-4101-8fa9-6d46ce4f50c0">
+        <PageElement GUID="e2c9492a-bf0b-4e18-a674-2339df53e5fb">
+          <Question GUID="9de7d744-4416-4ddd-9ca9-60cedc0cf42b"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="bb6fe084-bd2d-42f1-a97e-23967ab2d2d0">
+      <span style="FONT-SIZE: 12pt" GUID="7ab71889-d2fe-4b59-8baf-22c20ed953b1" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="68cb5812-0473-4748-b867-04dd47bbc25b">公司近日同海宁市云涛化工有限责任公司（“</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="8397842e-a376-4b6b-9102-eacc1b6b660d" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="f7390c68-c4d6-44d9-9d0d-bf68b24be7d1">
+          <font face="SimHei" GUID="bd4978e3-92e9-4669-849a-e4b1c5fa4835">海宁云涛</font>
+        </strong>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="14713d24-912f-4897-bd04-d6ab9b0a4dd6" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="02176b13-ba63-47e5-a01e-c929f5eb7458">”）签订了一份委托生产协议（</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="1109b40c-10fe-42f3-a18d-f582d895758e" xmlns="http://www.w3.org/1999/xhtml">"</span>
+      <span style="FONT-SIZE: 12pt" GUID="f2d0da4e-03e1-4f17-9426-8c21ebb0c8b2" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="d3fe3300-bc4e-4888-9c19-456e87c84aaf">
+          <font face="SimHei" GUID="5f1261de-034e-4e5b-a076-051759e03380">委托生产协议</font>
+        </strong>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="7c7badbf-106b-4e0f-a4cf-da3194ac8b95" xmlns="http://www.w3.org/1999/xhtml">"</span>
+      <span style="FONT-SIZE: 12pt" GUID="5aa2a7a5-3de8-4de8-881f-966da8da9595" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="a747b621-065d-4590-8937-8fcf1b61357d">），根据该协议，海宁云涛同意在公司如上述序言</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="8818c22b-1afb-4b65-89fa-363f164650af" xmlns="http://www.w3.org/1999/xhtml">(</span>
+      <span style="FONT-SIZE: 12pt" GUID="b4896d52-93c2-4107-9b49-7c4edc6643bb" xmlns="http://www.w3.org/1999/xhtml">C)</span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fd80a654-6373-4913-9773-e36ae521a006">
+        <span style="FONT-SIZE: 12pt" GUID="78f899be-ecab-4b8c-a565-402dca6fe1af" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="09910377-24b6-4aea-88a1-56f3e07a8ac5">姓名</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7cb720f4-780c-4cd8-82aa-4c51cfa354be">
+        <span style="FONT-SIZE: 12pt" GUID="3d2eac4f-f577-42c7-b7cf-f4906075f5d6" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="7b5fe14f-d153-4aad-abe1-175d4e7f4c6d">钟新龙先</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="a93b095b-fbcb-41da-b37d-b9028c814d7c">
+      <Title GUID="f39ff3c5-d442-4dd6-b46e-4793e3e71d10">Question</Title>
+      <PageElements GUID="4ffcaebf-dff6-49e5-bec3-ac2013d0d5c2">
+        <PageElement GUID="a62c1d8b-bb85-456e-a104-a1aedc563d86">
+          <Question GUID="9cb39b4d-28a1-468b-a57b-1a1ae0d4a2ed"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="00541f44-6686-49b0-b41e-2514c3d864f0">
+      <span style="FONT-SIZE: 12pt" GUID="b4ed59a8-a411-4aa6-9717-9cdc7f47c682" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="0f9088d6-feca-48a6-bf69-97d0b6089197">此外，公司近日同</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="713a72fb-30e9-4bd0-a947-6ff0e77dae01" xmlns="http://www.w3.org/1999/xhtml">DSM Deretil S.A.</span>
+      <span style="FONT-SIZE: 12pt" GUID="e3f92339-c32f-4007-a9fe-4f7e5bf9bff8" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="15b91e0b-473f-43ec-8314-28eaa9890184">（</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="0c3bf24d-55d1-48c2-94a9-673d37c9c9e3" xmlns="http://www.w3.org/1999/xhtml">"<strong GUID="959b9f5e-89a4-4d62-a354-55ef09a5fbe2">DSM</strong>", DRTL</span>
+      <span style="FONT-SIZE: 12pt" GUID="297471d3-748d-490e-8653-1c48719f2328" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="2973ea65-62d2-4e8f-bb27-ea4a050ae407">的关联公司）签订了供应协议（“</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="14958e30-56a3-4132-9055-d8315db2f636" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="28a17f9c-f551-481a-8eb6-0db3d4f9749c">
+          <font face="SimHei" GUID="38ab2eed-5fcb-4b20-aae7-38e9c8104dd1">供应协议</font>
+        </strong>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="7e80a8f9-ddbf-48e7-8bb9-24ec6c794b8a" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="29680d08-0f66-4d93-af6e-7aeda1051139">”），约定在</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="bdf43b60-4b9c-4965-91cf-4ecce6675286" xmlns="http://www.w3.org/1999/xhtml">DRTL</span>
+      <span style="FONT-SIZE: 12pt" GUID="8006d054-d0aa-4136-b863-a2ce4d0d01e3" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="5f03b2e1-2f18-453a-a550-de1a0adf1e14">如上述序言</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="158229f9-6d21-43ed-9085-83dd7cf4363c" xmlns="http://www.w3.org/1999/xhtml">(</span>
+      <span style="FONT-SIZE: 12pt" GUID="15c621a4-47cb-4d2f-8bef-419de72000b3" xmlns="http://www.w3.org/1999/xhtml">A)</span>
+      <span style="FONT-SIZE: 12pt" GUID="68b95630-0eb6-42a7-8982-682ffbea01c2" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="f1fe2fec-edb9-49e3-804c-4f5b2622afed">中所述完成其对朱女士在公司中全部百分之五一</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="6234fe39-13ef-4cb3-b33c-f5f8c2e140f9" xmlns="http://www.w3.org/1999/xhtml">(</span>
+      <span style="FONT-SIZE: 12pt" GUID="7acb3f50-9dc0-4f50-960a-89ee10cc8b1e" xmlns="http://www.w3.org/1999/xhtml">51%)</span>
+      <span style="FONT-SIZE: 12pt" GUID="6185e7fa-1589-42bf-bd26-8e0b043c74a1" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="3ba96990-ab2b-48fa-87e5-86c0422f9423">的权益的收购后公司将长期向</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="56411c4a-6dda-4419-bec4-0295707eaab0" xmlns="http://www.w3.org/1999/xhtml">DSM</span>
+      <font face="SimSun" GUID="6491bb89-bfca-4188-832d-33a9954a877c" xmlns="http://www.w3.org/1999/xhtml">
+        <span style="FONT-SIZE: 12pt" GUID="84e83fe1-7ac4-4286-ae29-32d5ba7b806c">供应</span>
+        <span style="FONT-SIZE: 12pt" GUID="c976bf1e-f690-43d5-9e91-a061739a00fe">左旋苯甘氨酸</span>
+      </font>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="182fce55-c2d4-40b3-8dd7-d7a1bce6b724">
+        <span style="FONT-SIZE: 12pt" GUID="66357a35-d37b-4b3a-b8f8-48509effed65" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="40b3450b-70e7-4201-845a-a27fdaeaa96a">姓名</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="89fba566-082d-48c5-9fb1-52392d13a931">
+        <span style="FONT-SIZE: 12pt" GUID="c08f18c3-6125-45c8-9f52-d3a0be1be05b" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="2b8036ba-712c-4408-9aa1-1ebc59b8ca10">钟新龙先</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="1ac47a07-f76d-4147-a622-915c558c5268">
+      <Title GUID="ef8117d7-9d2b-4434-8cf7-58d3d40a0008">Question</Title>
+      <PageElements GUID="83c47bd3-0995-4d99-9ecb-e6e3f6774640">
+        <PageElement GUID="ba62482c-7367-4052-a796-023700344a2a">
+          <Question GUID="f0ed26bf-15d9-48d8-a91f-d6fc80e415a0"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="85885ea0-7129-4dbf-8afb-57e698c8c3b2">
+      <div GUID="a3f3370a-00dc-422c-b5e8-a6b45a553778" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="undefined" GUID="b13b3cb9-89a2-4fe3-9e72-784801effcbc">
+          <span dir="ltr" GUID="51b2c400-93c8-442c-9499-da4906e0dd39">
+            <font face="SimSun" GUID="ee960450-7e1d-4dd5-b5f6-444e3950ae2d">批准</font>
+          </span>(i) <font face="SimSun" GUID="15f9825d-104f-4a04-a2b7-916b09c0e2f0">拟议的朱女士向</font>DRTL<font face="SimSun" GUID="dc79ff15-27b2-4806-bc97-0eb45f58b296">转让其在公司注册资本中的全部权益，即公司注册资本的百分之五十一</font>(51%)<font face="SimSun" GUID="1e1d7d9e-e818-4b6b-8e9c-76750eabbefd">；</font>(ii) <font face="SimSun" GUID="453f93f1-d49c-42d2-ba5a-6f54caa3b10a">拟议的钟先生向朱先生转让其在公司注册资本中的全部权益，即公司注册资本的百分之三十</font>(30%)<font face="SimSun" GUID="db351017-f393-4ced-b641-f42cbbb92115">；</font>(iii) <font face="SimSun" GUID="b5106b8a-de59-4b71-955d-2f2fcef61ba9">其后公司由一个内资民营公司转变为中外合资经营企业；及</font>(iv) </font>
+        <font face="SimSun" GUID="534e234e-f380-47d4-9fc0-fab367d47708">公司名称由“上虞市云涛化工有限责任公司”相应变更为“上虞帝瑞云涛化工有限公司”。</font>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e57eb372-1f45-4e86-81a2-191571c4a0e2">
+        <span style="FONT-SIZE: 12pt" GUID="cb03ca19-de94-45ee-ab0c-d82f8d606287" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="65c8baea-86e0-4146-9c7a-f8c25d6db660">姓名</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="10c070ef-7bc8-4f1c-8167-a3c0aa7ab395">
+        <span style="FONT-SIZE: 12pt" GUID="1cff02eb-94a8-4bca-a8d8-d7a3cd60fd34" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="0def4b35-6572-4238-a253-08e48c47cd71">钟新龙先</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="ecb91af4-a4c5-4128-9251-dc67fb1858d6">
+      <Title GUID="5af88c89-f9f2-4f33-aa1a-5dbfe0d11bd9">Question</Title>
+      <PageElements GUID="465e7b46-269c-4e69-847b-d88c2dc0a1e7">
+        <PageElement GUID="73382f86-414c-4b23-b0ac-17428ea391ae">
+          <Question GUID="8a14d47d-e8d2-4067-afe1-a1cfbafba7fe"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="e1a7054c-b233-4ae2-a707-43b1263a4dab">
+      <span style="FONT-SIZE: 12pt" GUID="1238fb0b-509b-4777-be6c-7d442b7361dc" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="80d7fa15-eff9-44c2-87fd-4bd15b53a613">批准</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="507e615d-eacf-445b-bab3-739f9f94f149" xmlns="http://www.w3.org/1999/xhtml">(</span>
+      <span style="FONT-SIZE: 12pt" GUID="80236a9d-9fc3-4d7a-ae32-c0278de2734a" xmlns="http://www.w3.org/1999/xhtml">i) </span>
+      <span style="FONT-SIZE: 12pt" GUID="d5071b23-7c51-455a-bc07-734fb5529d06" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="05fe4320-7473-406a-a0d4-4c0e2741b36d">朱运涛先生与</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="c59e7666-d9bc-4d7e-91cb-066e948c8672" xmlns="http://www.w3.org/1999/xhtml">DRTL EXPORT OVERSEAS, S. L.</span>
+      <span style="FONT-SIZE: 12pt" GUID="f8f79397-50df-4e28-ad15-94cc42c10188" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="a7160a79-6de4-4567-8362-84ea1a2e27f2">为组建与运营上虞帝瑞云涛化工有限公司于</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="8c583a01-a2b8-45ca-a3e3-d3c7a25659ac" xmlns="http://www.w3.org/1999/xhtml">2005</span>
+      <span style="FONT-SIZE: 12pt" GUID="843337a5-c667-46d6-ae13-4fb15c24f93b" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="6b0455d0-607f-46a1-abfc-afcf9fe74bb1">年</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="0b8f7aa3-6876-4ed9-937a-88d6d4ebc9e7" xmlns="http://www.w3.org/1999/xhtml">5</span>
+      <span style="FONT-SIZE: 12pt" GUID="21151293-a5a9-48ac-8b9b-b96c99d13ea7" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="0b34dbd3-e0fd-4c14-b30c-423003a6ee8f">月</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="77299fb9-1ac5-47e9-ad6b-ba1291dd8d62" xmlns="http://www.w3.org/1999/xhtml">25</span>
+      <span style="FONT-SIZE: 12pt" GUID="f3d90373-1e8a-4196-b207-70852a65dca4" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="7f6d8a36-8a2b-4de8-9a9a-3ceea2854ddf">日签署的合资经营合同（“</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="a1088ce1-c13f-465b-ba75-574a5824d8ce" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="fd325681-6f91-4022-b5f3-b59914383a30">
+          <font face="SimHei" GUID="9035dc3c-07f0-44ed-bed5-35b17480bb94">合资合同</font>
+        </strong>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="1de8ee42-453f-45d8-b59c-0e4326d20093" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="4de1c5b6-9d37-434d-89cc-aa8ca09fc9df">”）；和</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="6deed4aa-3a50-48ec-a3ea-d2a5ad77b7b5" xmlns="http://www.w3.org/1999/xhtml">(</span>
+      <span style="FONT-SIZE: 12pt" GUID="9d3ab9fe-2889-40c7-89a0-361e728b173c" xmlns="http://www.w3.org/1999/xhtml">ii) </span>
+      <span style="FONT-SIZE: 12pt" GUID="230cef2d-33d6-43d0-b64b-8ac8b8ff16a1" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="e16ef037-1629-4b4c-ab2a-c5ab818056b2">将朱女士、钟先生和朱先生于</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="91571d10-09c8-4002-92a4-fa95756a93ad" xmlns="http://www.w3.org/1999/xhtml">2001</span>
+      <span style="FONT-SIZE: 12pt" GUID="360dae53-8511-4cfc-b348-31961dc21b4a" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="36adc0fd-ab95-4691-bf1d-0dd3b91c3f47">年</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="a042b225-0d17-4c4c-9666-41691dba7278" xmlns="http://www.w3.org/1999/xhtml">1</span>
+      <span style="FONT-SIZE: 12pt" GUID="a652ec24-d792-47a6-8719-515bfbd6cd57" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="41a5d21b-a080-42d6-93cf-f745513ec581">月</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="9da2eacc-2fe1-4454-9bbb-9ccf34c1f9af" xmlns="http://www.w3.org/1999/xhtml">8</span>
+      <font face="SimSun" GUID="368156be-48e0-49dd-9b8e-e2b528b67cc4" xmlns="http://www.w3.org/1999/xhtml">
+        <span style="FONT-SIZE: 12pt" GUID="881a0411-c13b-410b-8b7a-d35dcb7ca175">日签署（</span>
+        <span style="FONT-SIZE: 12pt" GUID="22742ce6-8f87-489b-a46c-e9586681b346">且</span>
+        <span style="FONT-SIZE: 12pt" GUID="5cce6610-94d1-4647-96f6-f766f2a3095a">不时变更）的公司章程替换为朱先生和</span>
+      </font>
+      <span style="FONT-SIZE: 12pt" GUID="e7865eee-3b27-4a15-a8a7-cb2ffa6fccfb" xmlns="http://www.w3.org/1999/xhtml">DRTL</span>
+      <span style="FONT-SIZE: 12pt" GUID="b9b8c81b-e0f5-4472-8229-e6f0f6b7d061" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="6e1a10bc-9442-4792-a622-3410576998c5">于</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="4651fcf9-5a8a-4eca-b494-cec81ca427e8" xmlns="http://www.w3.org/1999/xhtml">2005</span>
+      <span style="FONT-SIZE: 12pt" GUID="0f4afeda-4f25-4901-a3b3-9d2267af97b0" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="3fb0077c-8946-4ae2-98fc-183c36b1e618">年</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="501ac693-394c-4c60-8373-285b73a2408b" xmlns="http://www.w3.org/1999/xhtml">5</span>
+      <span style="FONT-SIZE: 12pt" GUID="3cb0a737-75f9-40c7-ab04-f463c391f56e" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="277b5e90-1959-4bce-b6fa-7e861319d8ec">月</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="ef5e8933-b6ca-44f7-ae8a-19084dec5d5e" xmlns="http://www.w3.org/1999/xhtml">25</span>
+      <span style="FONT-SIZE: 12pt" GUID="e8ddc783-cc77-49cf-a65b-4200f05386a4" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="c3495a07-dc5d-4f74-94db-48f3968c6665">日签署的公司章程（“</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="4261d0e1-7c0e-43fc-a15c-18a60d9ba24f" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="af07a8f4-ed49-45ec-8ca2-bf914829cfe1">
+          <font face="SimHei" GUID="117f8b65-5b46-443c-ac8c-fe7ccbdf4f59">合资企业章程</font>
+        </strong>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="e8fc9d61-78a4-40a8-bdcc-265c2ab8eeda" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="30d78c8a-da52-4ab7-a25c-f6cd0385699f">”）</font>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c15f6cc4-c257-45ba-9e1c-a8207656be96">
+        <span style="FONT-SIZE: 12pt" GUID="7b9054b3-037f-47d5-9b8d-00c0df8e99da" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="77ff0d45-18e4-4b98-aaba-b042624f52eb">姓名</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b6c8680b-4059-48f8-ba81-006df054bd60">
+        <span style="FONT-SIZE: 12pt" GUID="3d084302-c42a-43cf-99ee-403946b8f18c" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="2a75d1e7-bd7b-453b-a0d4-f4c2726dfdfb">钟新龙先</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="43db8938-4c51-4704-b6c3-6df01b5afcf0">
+      <Title GUID="2a2d5bfc-c435-4638-a38a-94003f86bb26">Question</Title>
+      <PageElements GUID="f749c77d-ff1a-49c1-9cad-b20c14271431">
+        <PageElement GUID="2bfd406d-70db-4541-a5c0-9e372379c1ee">
+          <Question GUID="38427584-2d7e-41a1-9074-1c827100a0e4"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="2636da14-e8b0-470f-be95-0e9a4c063a55">
+      <span style="FONT-SIZE: 12pt" GUID="a0327171-1acf-4fd3-bc72-74820dea84d7" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="7939c7d9-a983-42a0-b690-4cd6d994e43e">批准</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="08f1ab28-a0d6-432c-842a-79051ba3ff36" xmlns="http://www.w3.org/1999/xhtml">(</span>
+      <span style="FONT-SIZE: 12pt" GUID="cccb3003-11a6-49d0-8072-fa50c3fe0544" xmlns="http://www.w3.org/1999/xhtml">i) </span>
+      <span style="FONT-SIZE: 12pt" GUID="64198c27-19df-4e1e-920d-0076e2eda091" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="dc99a61d-ff9a-4925-a03c-0ae5a54de3cc">公司与海宁云涛于</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="9bde0b59-0ea9-48cf-b675-2b75feadf4a9" xmlns="http://www.w3.org/1999/xhtml">2005</span>
+      <span style="FONT-SIZE: 12pt" GUID="d906a4e9-2652-4998-9a97-26211bbde194" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="c6facabb-35d2-4736-85f7-394276898a60">年</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="d1294057-e9ed-47e8-9dd8-654d1cdeddba" xmlns="http://www.w3.org/1999/xhtml">5</span>
+      <span style="FONT-SIZE: 12pt" GUID="6cd69ab7-f112-473a-9b4c-9b05c5652880" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="e2eb96a1-cb66-4c29-b209-3e8a01229b1c">月</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="168a1524-46ad-45d4-9205-cbc47b9fff24" xmlns="http://www.w3.org/1999/xhtml">25</span>
+      <span style="FONT-SIZE: 12pt" GUID="9f0fc5c7-6980-4509-bc77-271d3db6e9d5" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="a6c0acd6-83b9-4f62-8b89-874eabde924f">日签署的委托生产协议和</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="d2810855-0ec7-4af1-8c23-3193e98bc746" xmlns="http://www.w3.org/1999/xhtml">(</span>
+      <span style="FONT-SIZE: 12pt" GUID="5aa0b748-03a1-45e4-aa68-39d102efdbe4" xmlns="http://www.w3.org/1999/xhtml">ii) </span>
+      <span style="FONT-SIZE: 12pt" GUID="7813162c-24f7-4fca-a1b9-d756a6522be6" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="a0fe27ec-dd22-45bd-a6f2-f08032ce6d1c">公司与</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="457b8c4f-4b59-475f-8e8a-82d8dc4eabcc" xmlns="http://www.w3.org/1999/xhtml">DSM</span>
+      <span style="FONT-SIZE: 12pt" GUID="80b77df9-4c43-4f99-9773-4035e0663031" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="57801037-3d76-4ea5-b879-8857d25255d2">于</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="68b8b0ea-ac8c-404c-803b-c5b1942c4f0d" xmlns="http://www.w3.org/1999/xhtml">2005</span>
+      <span style="FONT-SIZE: 12pt" GUID="7239ece2-ec00-4a62-a909-6ae91041a2f3" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="75a631d9-6f93-4ef0-b7a4-5d972d200914">年</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="fb2a6cc2-ea99-40f9-baa9-d2a4f3488172" xmlns="http://www.w3.org/1999/xhtml">5</span>
+      <span style="FONT-SIZE: 12pt" GUID="84f7c051-a81d-4fdc-8422-25129a6a4595" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="586c1229-5305-41a3-848b-006f1c582b20">月</font>
+      </span>
+      <span style="FONT-SIZE: 12pt" GUID="785ce6f4-244c-4028-aef4-4f0d075dc271" xmlns="http://www.w3.org/1999/xhtml">25</span>
+      <span style="FONT-SIZE: 12pt" GUID="0b82d7d3-f01d-4db7-bb4c-49f378d0ec61" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="SimSun" GUID="8b69ab2f-9cb0-42f4-a8d5-4865308a52bb">日签署的供应协议。</font>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c9050e44-a455-4a8c-8ca2-21fd04aa6b4e">
+        <span style="FONT-SIZE: 12pt" GUID="8821f193-84b2-4992-8d31-c2d03dbc1b5f" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="b523d7a3-b85e-4c96-b88a-fd3741204c27">姓名</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2612ec72-17b2-490c-b3d2-b9070ab667a2">
+        <span style="FONT-SIZE: 12pt" GUID="72117ece-9e40-4d80-9520-0d97ce64088a" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="5dc436c5-5d8b-41ff-adb2-38b33ad81c1a">钟新龙先</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="81238a91-1a17-4985-87eb-2dac3b703d97">
+      <Title GUID="ef2da3af-f442-40b8-b04a-f55c20a11398">Question</Title>
+      <PageElements GUID="e79c6b27-3daf-41af-a5fd-793bab395682">
+        <PageElement GUID="2ebf84fa-9bc9-4940-871a-6762f16acedc">
+          <Question GUID="ad9fcd10-b81b-4300-a7cc-84729662b206"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="17c00efe-a39e-4044-b123-29ab6495361e">
+      <div GUID="5a419572-ea95-4e20-855a-4fc2398a0104" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="undefined" GUID="25665de9-5176-47cb-8212-4c43892b404d">
+          <span dir="ltr" GUID="a2f27961-0fbd-41c9-aa45-611e309b434f">
+            <font face="SimSun" GUID="2f73500b-4d66-40c6-93d7-efe1e1b2b286">向浙江省经济贸易委员会（</font>
+          </span>
+          <strong GUID="499fcab7-def9-4bc0-a35b-97cbd6bbd8d4">
+            <font face="SimHei" GUID="c3ce0686-e894-4b8f-bd35-2ae9fdbb69ca">审批机构</font>
+          </strong>
+          <font face="SimSun" GUID="23491419-e47b-4472-9445-d632fb1ad2fb">）报批上述</font>(i) <font face="SimSun" GUID="71c350b0-66b9-4ed9-81a3-e663a0027ddf">朱女士向</font>DRTL<font face="SimSun" GUID="bf4b1562-40d1-4302-b50b-e02dea6aada8">转让其在公司注册资本中的全部权益，公司名称由“上虞市云涛化工有限责任公司”变更为拟议的“上虞帝瑞云涛化工有限公司”及其后公司转变为一家中外合资经营企业；以及</font>(ii) </font>
+        <font face="SimSun" GUID="50959728-d328-4ab8-ae83-1cb55cc6b9ae">合资合同和合资企业章程。</font>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a717d7c8-0975-475a-957f-f669fad12157">
+        <span style="FONT-SIZE: 12pt" GUID="37b04a5d-6f03-4d1d-9c89-6a37e1d9e64b" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="f6647a12-bde4-4c7c-a69e-a3dd495f58c8">姓名</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="59b78d8e-e6c0-43ec-8771-266d31d97844">
+        <span style="FONT-SIZE: 12pt" GUID="0a41dee9-5c36-463f-92df-0b9336e7b4f0" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="d80c07d4-95ed-4891-9254-62a9ec9c3660">钟新龙先</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="2314d766-99de-4758-b816-86cd29126781">
+      <Title GUID="f5c749e1-fa4e-4f24-9bfa-c3e4e9bcbbef">Question</Title>
+      <PageElements GUID="0716bc03-e942-4c03-a1b8-dd61f687564b">
+        <PageElement GUID="6ed7bca7-9664-4de1-b6ac-d47444623e72">
+          <Question GUID="5c958e90-a3b1-46bd-84bb-d438dd1f1731"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1cbd2c5c-d2e9-4ba9-85ba-b2d0a249f48a">
+      <div GUID="7c84e122-3726-422a-ac6d-7c6b5b108fe7" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="undefined" GUID="3d74b82e-b675-467e-83e7-eaa152429823">
+          <span dir="ltr" GUID="1406d476-10cc-4389-81db-b10696308fbc">
+            <font face="SimSun" GUID="ba8a7138-3e7a-4bbc-a7a5-360ac05624e1">授权董事会主席或者董事会主席所授权的人，代表公司签署所有为达成上述目的所需的有关文件，包括但不限于，向审批机构报批上述朱女士向</font>
+          </span>DRTL</font>
+        <font face="SimSun" GUID="64057559-867d-4b59-8a7d-a6aa8c119f6a">转让注册资本的申请书。</font>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a6fa43b8-68cb-4070-aac8-8c65cff89b82">
+        <span style="FONT-SIZE: 12pt" GUID="80f2e634-d4c4-46be-9eba-a7083b3b537a" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="3ba65cc3-28ac-4218-b111-565f8fcf85bf">姓名</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c82a5037-22e7-4a6f-99b6-612fb795aebb">
+        <span style="FONT-SIZE: 12pt" GUID="847c1f65-c0c6-4bd0-9fba-495cbe189dbf" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="SimSun" GUID="c5cd2a51-fb80-4cf1-b07d-00d964e4ef0a">钟新龙先</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="aafce4fb-5579-4027-88f0-483a20edbe55">
+    <Page ID="Comp1" IsActive="true" GUID="1d0663ad-16c8-45b1-bb01-97e2f9ec553b">
+      <Title GUID="166b2b00-e0ea-497b-ba8f-d621cf795a03">朱春秀女士</Title>
+      <PageElements GUID="9e2d1822-a7af-4442-b23f-a031d3121681">
+        <PageElement GUID="3df61070-908f-4004-845b-828aad8980c9">
+          <TextBox GUID="0f0c2d74-b0a4-4f33-b200-de8b5ac00100"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="92d8b0a8-2a10-4c94-907e-a5f4b13451cf">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt" align="justify" GUID="b477243e-1492-44f5-9a6f-f69775c755fd" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="undefined" GUID="ffcbf568-fe41-4a96-b3dd-7389b7b726b2">
+        <span dir="ltr" GUID="7509c3ff-12c1-4d6f-880c-271d029f275e">
+          <font face="SimSun" GUID="227fb52f-8968-4c53-bd4a-da18d7660673">授权董事会主席或者董事会主席所授权的人，代表公司签署所有为达成上述目的所需的有关文件，包括但不限于，向审批机构报批上述朱女士向</font>
+        </span>DRTL</font>
+      <font face="SimSun" GUID="9729554c-4b07-419a-a1a5-c0a7e486d771">转让注册资本的申请书。</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="2ce08caa-ab27-4b96-9e93-a6e1cac19bae">
+          <SubmitAnswers GUID="61a99a88-4f55-42e7-b98d-f1715e0d10cf"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

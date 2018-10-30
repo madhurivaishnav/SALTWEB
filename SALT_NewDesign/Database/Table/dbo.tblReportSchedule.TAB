@@ -1,0 +1,182 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblReportSchedule]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblReportSchedule](
+	[ScheduleID] [int] IDENTITY(1,1) NOT NULL,
+	[UserID] [int] NOT NULL,
+	[ReportID] [int] NOT NULL,
+	[LastRun] [datetime] NULL,
+	[NextRun] [datetime] NULL,
+	[ReportDuration] [int] NULL,
+	[ReportDurationPeriod] [char](1) NULL,
+	[ReportStartDate] [datetime] NOT NULL,
+	[ReportEndDate] [datetime] NULL,
+	[NumberOfReports] [int] NULL,
+	[ReportFrequency] [int] NULL,
+	[ReportFrequencyPeriod] [char](1) NULL,
+	[DocumentType] [char](1) NOT NULL,
+	[ReportTitle] [nvarchar](100) NOT NULL,
+	[ParamOrganisationID] [int] NOT NULL,
+	[ParamCompleted] [char](1) NULL,
+	[ParamStatus] [char](1) NULL,
+	[ParamFailCount] [int] NULL,
+	[ParamCourseIDs] [nvarchar](800) NULL,
+	[ParamHistoricCourseIDs] [nvarchar](800) NULL,
+	[ParamAllUnits] [char](1) NULL,
+	[ParamTimeExpired] [int] NULL,
+	[ParamTimeExpiredPeriod] [char](1) NULL,
+	[ParamQuizStatus] [char](1) NULL,
+	[ParamGroupBy] [char](1) NULL,
+	[ParamGroupingOption] [int] NULL,
+	[ParamFirstName] [nvarchar](200) NULL,
+	[ParamLastName] [nvarchar](200) NULL,
+	[ParamUserName] [nvarchar](200) NULL,
+	[ParamEmail] [nvarchar](200) NULL,
+	[ParamIncludeInactive] [char](1) NULL,
+	[ParamSubject] [nvarchar](200) NULL,
+	[ParamBody] [nvarchar](200) NULL,
+	[ParamProfileID] [int] NULL,
+	[ParamOnlyUsersWithShortfall] [char](1) NULL,
+	[ParamEffectiveDate] [datetime] NULL,
+	[ParamSortBy] [char](1) NULL,
+	[ParamClassificationID] [int] NULL,
+	[ParamUnitIDs] [nvarchar](max) NULL,
+	[ParamLangCode] [nvarchar](10) NULL,
+	[ParamDateTo] [datetime] NULL,
+	[ParamDateFrom] [datetime] NULL,
+	[ParamLicensingPeriod] [varchar](8000) NULL,
+	[ParamProfilePeriodID] [int] NOT NULL,
+	[ReportPeriodType] [int] NULL,
+	[ReportFromDate] [datetime] NULL,
+	[IsPeriodic] [char](1) NOT NULL,
+	[LastUpdatedBy] [int] NULL,
+	[LastUpdated] [datetime] NULL,
+	[NumberDelivered] [int] NOT NULL,
+	[TerminatedNormally] [bit] NULL,
+	[ParamPolicyIDs] [nvarchar](4000) NULL,
+	[ParamAcceptance] [varchar](20) NULL,
+	[DateCreated] [datetime] NOT NULL,
+ CONSTRAINT [PK_tblReportSchedule] PRIMARY KEY CLUSTERED 
+(
+	[ScheduleID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+SET ANSI_PADDING OFF
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportSchedule_ReportStartDate]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportSchedule]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportSchedule_ReportStartDate]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportSchedule] ADD  CONSTRAINT [DF_tblReportSchedule_ReportStartDate]  DEFAULT (getutcdate()) FOR [ReportStartDate]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportSchedule_ReportTitle]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportSchedule]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportSchedule_ReportTitle]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportSchedule] ADD  CONSTRAINT [DF_tblReportSchedule_ReportTitle]  DEFAULT ('?') FOR [ReportTitle]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportSchedule_ParamLangCode]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportSchedule]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportSchedule_ParamLangCode]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportSchedule] ADD  CONSTRAINT [DF_tblReportSchedule_ParamLangCode]  DEFAULT (N'en-AU') FOR [ParamLangCode]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF__tblReport__Param__082CD432]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportSchedule]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF__tblReport__Param__082CD432]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportSchedule] ADD  CONSTRAINT [DF__tblReport__Param__082CD432]  DEFAULT ((0)) FOR [ParamLicensingPeriod]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportSchedule_ParamProfilePeriodID]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportSchedule]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportSchedule_ParamProfilePeriodID]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportSchedule] ADD  CONSTRAINT [DF_tblReportSchedule_ParamProfilePeriodID]  DEFAULT ((1)) FOR [ParamProfilePeriodID]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportSchedule_IsPeriodic]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportSchedule]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportSchedule_IsPeriodic]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportSchedule] ADD  CONSTRAINT [DF_tblReportSchedule_IsPeriodic]  DEFAULT ('M') FOR [IsPeriodic]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportSchedule_LastUpdatedBy]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportSchedule]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportSchedule_LastUpdatedBy]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportSchedule] ADD  CONSTRAINT [DF_tblReportSchedule_LastUpdatedBy]  DEFAULT ((1)) FOR [LastUpdatedBy]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportSchedule_LastUpdated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportSchedule]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportSchedule_LastUpdated]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportSchedule] ADD  CONSTRAINT [DF_tblReportSchedule_LastUpdated]  DEFAULT (getutcdate()) FOR [LastUpdated]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportSchedule_NumberDelivered]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportSchedule]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportSchedule_NumberDelivered]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportSchedule] ADD  CONSTRAINT [DF_tblReportSchedule_NumberDelivered]  DEFAULT ((0)) FOR [NumberDelivered]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportSchedule_TerminatedNormally]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportSchedule]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportSchedule_TerminatedNormally]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportSchedule] ADD  CONSTRAINT [DF_tblReportSchedule_TerminatedNormally]  DEFAULT ((0)) FOR [TerminatedNormally]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportSchedule_DateCreated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportSchedule]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportSchedule_DateCreated]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportSchedule] ADD  CONSTRAINT [DF_tblReportSchedule_DateCreated]  DEFAULT (getutcdate()) FOR [DateCreated]
+END
+
+
+End
+GO

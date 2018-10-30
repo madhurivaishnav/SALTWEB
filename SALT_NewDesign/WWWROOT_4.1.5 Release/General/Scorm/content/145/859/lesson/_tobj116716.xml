@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>20</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Quiz - Module 6</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>10</numrandom>
+<passinggrade>80</passinggrade>
+<cancelfail>a006_results_failed.html</cancelfail>
+<passdone>a006_results_passed.html</passdone>
+<prevpage>a006_quiz_quiz_first_page.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>a006_quiz_module_6_q6_01.html</name>
+<question>
+<id>128532</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0076</var>
+<text>Fill in the blank. An HSR is a          who is elected from among a designated group of workers. </text>
+<correctans>\u2026 worker\u2026</correctans>
+<choices>\u2026 worker\u2026|\u2026 customer\u2026|\u2026 PCBU\u2026|\u2026 manager\u2026</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>a006_quiz_module_6_q6_02.html</name>
+<question>
+<id>128524</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0077</var>
+<text>WHS laws impose certain obligations on PCBUs to HSRs. True or false?</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>a006_quiz_module_6_q6_03.html</name>
+<question>
+<id>128512</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0078</var>
+<text>What powers does an HSR have?</text>
+<correctans>All of the above</correctans>
+<choices>Monitoring measures taken by the PCBU to comply with WHS laws|Investigating complaints from workers concerning work health and safety|Representing workers of their workgroup in work health and safety matters|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>a006_quiz_module_6_q6_04.html</name>
+<question>
+<id>128500</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0079</var>
+<text>Which of the following are powers of an HSR?</text>
+<correctans>All of the above</correctans>
+<choices>Request information about workers\u2019 work health and safety|Inspect the workplace|Direct a worker to cease work in certain circumstances|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>a006_quiz_module_6_q6_05.html</name>
+<question>
+<id>128488</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0080</var>
+<text>Fill in the blank. HSRs may issue a(n)              to any person they reasonably believe is contravening WHS laws.                                                                 </text>
+<correctans>\u2026 provisional improvement notice\u2026</correctans>
+<choices>\u2026 undertaking\u2026|\u2026 fine\u2026|\u2026 provisional improvement notice\u2026|None of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>a006_quiz_module_6_q6_06.html</name>
+<question>
+<id>128476</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQuestion_0081</var>
+<text>What is an HSR personally liable for?</text>
+<correctans>All of the above</correctans>
+<choices>Any type of function they perform at the workplace, regardless of whether it is WHS-related|Any omission in the performance of their job|An HSR is always personally liable for their actions|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>a006_quiz_module_6_q6_07.html</name>
+<question>
+<id>128464</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQuestion_0082</var>
+<text>Complete the sentence. A PCBU\u2026</text>
+<correctans>\u2026 owes several obligations to an HSR</correctans>
+<choices>\u2026 has no obligations to an HSR|\u2026 owes several obligations to an HSR|\u2026 only owes an obligation to not dismiss an HSR for performing his or her work|\u2026 has no additional obligations to an HSR besides the ones it owes all of its workers</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>a006_quiz_module_6_q6_08.html</name>
+<question>
+<id>128452</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQuestion_0083</var>
+<text>If an HSR requests to attend an approved WHS training course what must the PCBU do?</text>
+<correctans>Grant the HSR leave to complete the course, and pay the HSR\u2019s course fees and regular income</correctans>
+<choices>Grant the HSR leave to complete the course, and pay the HSR\u2019s course fees and regular income|Grant the HSR leave to complete the course, but the HSR must pay for the course|Consider whether to permit the HSR to attend|Refuse the request, as an HSR is not allowed to be absent from the workplace for a prolonged period of time</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>a006_quiz_module_6_q6_09.html</name>
+<question>
+<id>128440</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQuestion_0084</var>
+<text>Which obligation does a PCBU owe to an HSR?</text>
+<correctans>All of the above</correctans>
+<choices>To consult with the HSR, so far as reasonably practicable, on any work health and safety matter|To grant the HSR access to information relating to any possible risks to workers in their workgroup|To provide the HSR with resources that are reasonably necessary for the HSR to perform their functions|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>a006_quiz_module_6_q6_10.html</name>
+<question>
+<id>128428</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQuestion_0085</var>
+<text>Fill in the blank. A health and safety committee facilitates cooperation between ________ in workplace health and safety matters. </text>
+<correctans>\u2026 the PCBU and workers\u2026</correctans>
+<choices>\u2026 the PCBU and customers\u2026|\u2026 the government and workers\u2026|\u2026 the PCBU and workers\u2026|\u2026 customers and workers\u2026</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>10</index>
+<name>a006_quiz_module_6_q6_11.html</name>
+<question>
+<id>128416</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 11</name>
+<var>VarQuestion_0086</var>
+<text>If a valid request is made for a health and safety committee, when must the PCBU establish the committee?</text>
+<correctans>Within two months</correctans>
+<choices>Within 14 days|Within two months|At a date specified by the workers|As soon as reasonably practicable</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>11</index>
+<name>a006_quiz_module_6_q6_12.html</name>
+<question>
+<id>128404</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 12</name>
+<var>VarQuestion_0087</var>
+<text>What must a PCBU allow members of the health and safety committee to do?</text>
+<correctans>Spend as much time as necessary, and within reason, to meet and perform their functions</correctans>
+<choices>Spend as much time as necessary, and within reason, to meet and perform their functions|Decide whether or not to wear the company uniform|Raise their level of pay|Have one day off each week to have a committee meeting</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>12</index>
+<name>a006_quiz_module_6_q6_13.html</name>
+<question>
+<id>128392</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 13</name>
+<var>VarQuestion_0088</var>
+<text>Except in Queensland, what is a WHS entry permit holder permitted to do?</text>
+<correctans>Enter a workplace without notice if they are investigating a suspected WHS breach that relates to workers who are members of that union (or are eligible to be)</correctans>
+<choices>Consult and advise workers on salary negotiations|Enter a workplace with seven days\u2019 notice to investigate a suspected WHS breach|Enter a workplace without notice if they are investigating a suspected WHS breach that relates to workers who are members of that union (or are eligible to be)|Investigate a suspected breach of WHS laws that affects union members only</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>13</index>
+<name>a006_quiz_module_6_q6_14.html</name>
+<question>
+<id>128384</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 14</name>
+<var>VarQuestion_0089</var>
+<text>A WHS entry permit holder or authorised representative of a registered organisation can only be refused entry to a workplace with a reasonable excuse. True or false?</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>14</index>
+<name>a006_quiz_module_6_q6_15.html</name>
+<question>
+<id>128372</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 15</name>
+<var>VarQuestion_0090</var>
+<text>What is a WHS entry permit holder NOT permitted to do when entering a workplace?</text>
+<correctans>Suspend all work at the workplace for any reason, at any time</correctans>
+<choices>Inspect any part of the workplace, plant, substance or structure that is directly relevant to the suspected contravention|Consult with workers who are members of the union (or eligible to be) in relation to the suspected contravention|Suspend all work at the workplace for any reason, at any time|View and copy any documents held by the PCBU that are directly relevant to the contravention, as long as the documents are not employee records</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

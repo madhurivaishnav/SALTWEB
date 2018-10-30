@@ -1,0 +1,432 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblReportInterface]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblReportInterface](
+	[ReportID] [int] IDENTITY(1,1) NOT NULL,
+	[ReportName] [nvarchar](200) NOT NULL,
+	[RDLname] [nvarchar](200) NOT NULL,
+	[RequiresParamCompleted] [bit] NOT NULL,
+	[RequiresParamStatus] [bit] NOT NULL,
+	[RequiresParamFailCount] [bit] NOT NULL,
+	[RequiresParamCourseIDs] [bit] NOT NULL,
+	[RequiresParamCourseID] [bit] NOT NULL,
+	[RequiresParamHistoricCourseIDs] [bit] NOT NULL,
+	[RequiresParamUnitIDs] [bit] NOT NULL,
+	[RequiresParamAllUnits] [bit] NOT NULL,
+	[RequiresParamTimeExpired] [bit] NOT NULL,
+	[RequiresParamTimeExpiredPeriod] [bit] NOT NULL,
+	[RequiresParamQuizStatus] [bit] NOT NULL,
+	[RequiresParamGroupBy] [bit] NOT NULL,
+	[RequiresParamGroupingOption] [bit] NOT NULL,
+	[RequiresParamFirstName] [bit] NOT NULL,
+	[RequiresParamLastName] [bit] NOT NULL,
+	[RequiresParamUserName] [bit] NOT NULL,
+	[RequiresParamEmail] [bit] NOT NULL,
+	[RequiresParamIncludeInactive] [bit] NOT NULL,
+	[RequiresParamSubject] [bit] NOT NULL,
+	[RequiresParamBody] [bit] NOT NULL,
+	[RequiresParamDateTo] [bit] NOT NULL,
+	[RequiresParamDateFrom] [bit] NOT NULL,
+	[RequiresParamProfileID] [bit] NOT NULL,
+	[RequiresParamOnlyUsersWithShortfall] [bit] NOT NULL,
+	[ParamLangInterfaceName] [varchar](200) NOT NULL,
+	[RequiresParamEffectiveDate] [bit] NOT NULL,
+	[RequiresParamSortBy] [bit] NOT NULL,
+	[RequiresParamClassificationID] [bit] NOT NULL,
+	[RequiresParamOrganisationID] [bit] NOT NULL,
+	[RequiresParamServerURL] [bit] NOT NULL,
+	[RequiresParamFromDate] [bit] NOT NULL,
+	[RequiresParamToDate] [bit] NOT NULL,
+	[RequiresParamUserID] [bit] NOT NULL,
+	[RequiresParamAdminUserID] [bit] NOT NULL,
+	[RequiresParamLicensingPeriod] [bit] NOT NULL,
+	[RequiresParamProfilePeriodID] [bit] NOT NULL,
+	[RequiresParamPolicyIDs] [bit] NOT NULL,
+	[RequiresParamAcceptanceStatus] [bit] NOT NULL,
+	[Active] [bit] NOT NULL,
+	[lastupdated] [datetime] NOT NULL,
+	[lastupdBy] [int] NOT NULL,
+ CONSTRAINT [PK_tblReportInterface] PRIMARY KEY CLUSTERED 
+(
+	[ReportID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+SET ANSI_PADDING OFF
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamCompleted]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamCompleted]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamCompleted]  DEFAULT ((0)) FOR [RequiresParamCompleted]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamStatus]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamStatus]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamStatus]  DEFAULT ((0)) FOR [RequiresParamStatus]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamFailCount]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamFailCount]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamFailCount]  DEFAULT ((0)) FOR [RequiresParamFailCount]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamCurrentCourseIDs]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamCurrentCourseIDs]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamCurrentCourseIDs]  DEFAULT ((0)) FOR [RequiresParamCourseIDs]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamHistoricCourseIDs]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamHistoricCourseIDs]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamHistoricCourseIDs]  DEFAULT ((0)) FOR [RequiresParamHistoricCourseIDs]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamUnitIDs]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamUnitIDs]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamUnitIDs]  DEFAULT ((0)) FOR [RequiresParamUnitIDs]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamAllUnits]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamAllUnits]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamAllUnits]  DEFAULT ((0)) FOR [RequiresParamAllUnits]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamTimeExpired]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamTimeExpired]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamTimeExpired]  DEFAULT ((0)) FOR [RequiresParamTimeExpired]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamTimeExpiredPeriod]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamTimeExpiredPeriod]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamTimeExpiredPeriod]  DEFAULT ((0)) FOR [RequiresParamTimeExpiredPeriod]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamQuizStatus]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamQuizStatus]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamQuizStatus]  DEFAULT ((0)) FOR [RequiresParamQuizStatus]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamGroupBy]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamGroupBy]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamGroupBy]  DEFAULT ((0)) FOR [RequiresParamGroupBy]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamGroupingOption]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamGroupingOption]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamGroupingOption]  DEFAULT ((0)) FOR [RequiresParamGroupingOption]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamFirstName]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamFirstName]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamFirstName]  DEFAULT ((0)) FOR [RequiresParamFirstName]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamLastName]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamLastName]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamLastName]  DEFAULT ((0)) FOR [RequiresParamLastName]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamUserName]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamUserName]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamUserName]  DEFAULT ((0)) FOR [RequiresParamUserName]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamEmail]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamEmail]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamEmail]  DEFAULT ((0)) FOR [RequiresParamEmail]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamIncludeInactive]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamIncludeInactive]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamIncludeInactive]  DEFAULT ((0)) FOR [RequiresParamIncludeInactive]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamSubject]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamSubject]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamSubject]  DEFAULT ((0)) FOR [RequiresParamSubject]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamBody]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamBody]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamBody]  DEFAULT ((0)) FOR [RequiresParamBody]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamDateTo]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamDateTo]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamDateTo]  DEFAULT ((0)) FOR [RequiresParamDateTo]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamDateFrom]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamDateFrom]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamDateFrom]  DEFAULT ((0)) FOR [RequiresParamDateFrom]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamProfileID]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamProfileID]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamProfileID]  DEFAULT ((0)) FOR [RequiresParamProfileID]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamOnlyUsersWithShortfall]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamOnlyUsersWithShortfall]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamOnlyUsersWithShortfall]  DEFAULT ((0)) FOR [RequiresParamOnlyUsersWithShortfall]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamEffectiveDate]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamEffectiveDate]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamEffectiveDate]  DEFAULT ((0)) FOR [RequiresParamEffectiveDate]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamSortBy]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamSortBy]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamSortBy]  DEFAULT ((0)) FOR [RequiresParamSortBy]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamClassificationID]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamClassificationID]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamClassificationID]  DEFAULT ((0)) FOR [RequiresParamClassificationID]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamOrganisationID]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamOrganisationID]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamOrganisationID]  DEFAULT ((0)) FOR [RequiresParamOrganisationID]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamServerURL]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamServerURL]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamServerURL]  DEFAULT ((0)) FOR [RequiresParamServerURL]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamFromDate]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamFromDate]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamFromDate]  DEFAULT ((0)) FOR [RequiresParamFromDate]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamToDate]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamToDate]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamToDate]  DEFAULT ((0)) FOR [RequiresParamToDate]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF__tblReport__Requi__3E53DAB9]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF__tblReport__Requi__3E53DAB9]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  DEFAULT ((0)) FOR [RequiresParamLicensingPeriod]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamProfilePeriodID]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamProfilePeriodID]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamProfilePeriodID]  DEFAULT ((0)) FOR [RequiresParamProfilePeriodID]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamPolicyIDs]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamPolicyIDs]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamPolicyIDs]  DEFAULT ((0)) FOR [RequiresParamPolicyIDs]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_RequiresParamAcceptanceStatus]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_RequiresParamAcceptanceStatus]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_RequiresParamAcceptanceStatus]  DEFAULT ((0)) FOR [RequiresParamAcceptanceStatus]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_Active]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_Active]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_Active]  DEFAULT ((0)) FOR [Active]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_lastupdated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_lastupdated]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_lastupdated]  DEFAULT (getutcdate()) FOR [lastupdated]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblReportInterface_lastupdBy]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblReportInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblReportInterface_lastupdBy]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblReportInterface] ADD  CONSTRAINT [DF_tblReportInterface_lastupdBy]  DEFAULT ((1)) FOR [lastupdBy]
+END
+
+
+End
+GO

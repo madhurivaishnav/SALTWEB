@@ -1,0 +1,42 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblUserModuleAccess]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblUserModuleAccess](
+	[UserID] [int] NOT NULL,
+	[ModuleID] [int] NOT NULL,
+	[Granted] [bit] NOT NULL,
+ CONSTRAINT [PK_tblUserModuleAccess] PRIMARY KEY CLUSTERED 
+(
+	[UserID] ASC,
+	[ModuleID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON, FILLFACTOR = 90) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserModuleAccess_tblModule]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserModuleAccess]'))
+ALTER TABLE [dbo].[tblUserModuleAccess]  WITH CHECK ADD  CONSTRAINT [FK_tblUserModuleAccess_tblModule] FOREIGN KEY([ModuleID])
+REFERENCES [dbo].[tblModule] ([ModuleID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserModuleAccess_tblModule]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserModuleAccess]'))
+ALTER TABLE [dbo].[tblUserModuleAccess] CHECK CONSTRAINT [FK_tblUserModuleAccess_tblModule]
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserModuleAccess_tblUser]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserModuleAccess]'))
+ALTER TABLE [dbo].[tblUserModuleAccess]  WITH CHECK ADD  CONSTRAINT [FK_tblUserModuleAccess_tblUser] FOREIGN KEY([UserID])
+REFERENCES [dbo].[tblUser] ([UserID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserModuleAccess_tblUser]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserModuleAccess]'))
+ALTER TABLE [dbo].[tblUserModuleAccess] CHECK CONSTRAINT [FK_tblUserModuleAccess_tblUser]
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblUserModuleAccess_Granted]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserModuleAccess]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblUserModuleAccess_Granted]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblUserModuleAccess] ADD  CONSTRAINT [DF_tblUserModuleAccess_Granted]  DEFAULT (1) FOR [Granted]
+END
+
+
+End
+GO

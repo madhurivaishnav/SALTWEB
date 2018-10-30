@@ -1,0 +1,654 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" productVersion="15.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="01cac931-9366-43a5-ab86-0a654c43dae3">
+  <Summary ID="grcwhs05q" GUID="53021f9c-6af2-43f9-9361-b622b3951df1">
+    <ContentType GUID="53415f9f-547c-4985-9059-a1242cc8a739">quiz</ContentType>
+    <UploadType GUID="46ad9baf-65e5-41e8-8041-3da578fcb54b">correction</UploadType>
+    <Title GUID="77750526-1af5-478f-bdee-bfd8d0066f91">Duties of officers </Title>
+    <CreatedBy GUID="ca48584e-7c28-4754-81b4-c84b59b910d5">LTG Casual</CreatedBy>
+    <CreatedDate GUID="c9c4f05a-12f2-4e25-a2fb-e5d69434b957">2005-03-31T10:14:47</CreatedDate>
+    <LastModifiedBy GUID="ca735acd-33aa-4a6c-bfa6-80246dd9a990">laura.tomich</LastModifiedBy>
+    <LastModifiedDate GUID="7d4f4bcb-ff4a-4043-912e-dcd99bf3ed24">2015-08-13T16:26:48</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="8c72a5bf-03ee-470a-b082-687fd578ade1">
+    <Page ID="Intro1" IsActive="true" GUID="e09365c7-0c6e-44e8-a370-9b86b89c6742">
+      <Title GUID="1144edaa-7e37-4045-b10d-a9d416de868b">Duties of officers</Title>
+      <PageElements GUID="c5e5d613-606f-4f68-a456-10a212e90789">
+        <PageElement GUID="5e995004-d633-4df7-add0-cae681337de7">
+          <Graphic GUID="a4b99a72-e7e4-4a50-a37d-dd1d1f19c7d8"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/8c97b3f2-03c2-40fd-8bc7-8395c9af23e5.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="e9296398-595c-4a4a-b7da-99286dcdfa59">
+          <TextBox GUID="0a332aae-44b3-42f9-9d7c-f066cd1ac53b"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="c2ebabe5-c1e6-4e6e-be26-5d16e6adb9d6">
+    <div GUID="b11f8c31-31e5-4149-8416-d04ff7714771" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="6b7fcbe6-23d4-400c-97f2-5f3e8bbfd086">%System_NumberOfQuestions%</strong>  questions about <strong GUID="33edd95b-734c-4be7-ae73-0e3e0f29b26e"><strong GUID="825673ef-3a43-4792-aa67-ed71c865bd1b"><font size="2" GUID="cad123ed-1fb1-488c-82b7-936bca33c9fb">the duties of officers of a PCBU.</font></strong></strong></div>
+    <div GUID="f5b97ba8-4d06-4ef7-9093-791afe4c240c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="fe2f065d-2881-4b31-a2b1-2269166e9549" xmlns="http://www.w3.org/1999/xhtml">
+      <font size="2" GUID="a9aa4d4f-5b0d-4259-9b95-507175a07ab4">You will be asked multiple choice questions. Answer each question by clicking the button to the left of the most appropriate response.</font>
+    </div>
+    <div GUID="6113147b-4a49-4fd8-83a4-257708fd4592" xmlns="http://www.w3.org/1999/xhtml">
+      <font size="2" GUID="e3fc01cc-0642-4f21-b8b7-c9647a0f0095">
+      </font> </div>
+    <div GUID="b34e0955-140c-49fe-8776-87b6b40e607c" xmlns="http://www.w3.org/1999/xhtml">
+      <font size="2" GUID="46a65dee-bda6-4268-a7a2-5b3151a1f551">After you answer the last question, you will be given the chance to review and then submit your answers.</font>
+    </div>
+    <div GUID="8ced091c-9538-4b75-893f-67d79e574304" xmlns="http://www.w3.org/1999/xhtml">
+      <font size="2" GUID="13bf365c-e09e-449c-930e-db96a47e9df9">
+      </font> </div>
+    <div GUID="1fae0337-85c0-4f35-915d-9a27337d0d45" xmlns="http://www.w3.org/1999/xhtml">Please note that if you exit the quiz before clicking the Submit Answers button then your answers will not be saved. </div>
+    <div GUID="deb6b5c5-4e1b-4692-b50d-b3859d3eb92d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ce3e0d56-f091-4b10-8467-843c3f27a00a" xmlns="http://www.w3.org/1999/xhtml">To move between questions, use the <strong GUID="88ef7261-b6ec-4a60-b122-78259c68de1d"><font size="4" GUID="e93857e3-f475-4795-b36a-e5093061a813"><font face="Arial" GUID="5b659f93-e431-4d1a-85a3-f025be8e9864">◄</font></font></strong>and <font size="4" face="Arial" GUID="2e32894e-fdca-437d-856c-96f6d928d301">► </font>navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="9be40f34-62f3-4e30-8327-4d0144588f2b">
+    <Page ID="Q1" IsActive="true" GUID="a7d71555-58ae-4cf9-aff2-d22e279c2360">
+      <Title GUID="bf8812e4-4c2d-45ae-954b-ab8a9b12c6e7">Question</Title>
+      <PageElements GUID="c0d1432c-a264-44f6-a889-b78556e11347">
+        <PageElement GUID="e7ae7977-443e-46e7-94e2-66be4c161461">
+          <Question GUID="031f6f61-b160-486a-9190-191edee6daeb"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="08155946-62a5-4a3b-abed-06c673c1e986">
+      <strong GUID="9faa0ad7-5175-4835-b5d0-c855125da551" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="23a7179d-aca6-4051-a145-78385b5c7e91">
+          <strong GUID="6678fa5a-2fab-4fdd-9ead-bb9a5967a3cc">Who is NOT an officer of a business?</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cdc63248-fa79-4359-9db7-28fd4c72d6bd">Anyone who has the capacity to significantly alter the corporation's financial standing</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="900a38c0-8740-464d-8fb8-87f57a609907">Anyone who is appointed as an officer of an unincorporated association</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="dc00a2be-bc41-4a08-8dc3-44d616f498ab">Anyone who influences the business's reputation</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bb4f978b-a4a3-4697-a8e7-4bf21b4bb87f">Anyone who makes decisions that affect a substantial part of the business</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="86f73fcf-a150-45b7-95d6-171e9f59bea3">
+      <Title GUID="9dd0e632-8bff-4e74-b782-f17af08e6718">Question</Title>
+      <PageElements GUID="8ceafd52-cf0c-4b9f-82df-0f3f68c52931">
+        <PageElement GUID="7c804511-81c5-4e53-a0c8-5e56cd407263">
+          <Question GUID="b31a19a6-bc88-4b4e-9d2b-db7f75a66680"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1dae4e07-307a-4a7d-bcce-2b097d008144">
+      <strong GUID="ba1bc2f0-94ec-40d4-9fde-197b18b68596" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="88752a6c-2ef6-41ec-b0c3-a07e12dda6dc">
+          <strong GUID="ecbdc598-3789-4d08-995a-8ade09b2bbc9">Complete the sentence. You are likely to be considered an officer if you are…</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bb11d330-e800-4a23-b74c-066ea60cc5fe">… a company secretary, WHS representative or union representative</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="90493182-2d8d-4358-a0b8-7e194170a33d">… a worker of any description</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c4490a38-a20b-471d-8111-c5cbb75273cd">… executive officer, secretarial staff or WHS representative</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="80c60a64-0366-417e-ab38-2d59cfdd05aa">… a company director, company secretary or executive officer</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="78b351cd-37c4-455c-873a-5dae26da3980">
+      <Title GUID="7a0d64a6-c234-4fde-8525-e75d65b71789">Question</Title>
+      <PageElements GUID="70b1e53e-5ac5-45fc-be7e-04939fafea11">
+        <PageElement GUID="1479f90c-9fd3-438d-9a3c-3646e1dfd287">
+          <Question GUID="105c9bec-f486-4bd4-86e8-bab4264736b5"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="90c6d78b-c1c5-40cb-a392-7a0211b2570a">
+      <strong GUID="286c10a1-4945-45f2-b618-6ba6787a41e3" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="562f1242-445c-48a8-bc1a-6cb4dbc010f9">
+          <strong GUID="44d65434-1246-4ee8-9985-bc915be4a59f">In what Act is an officer of a PCBU defined?</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ea317eb7-7125-45d6-9fd4-726c44214146">Fair Work Act</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5ea26d2a-8aaa-4bde-9a50-bd1e4800632b">Work Health and Safety Act</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="93d34364-6c76-43ce-af1d-0b69d6a3266d">Corporations Act</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4f56c876-a006-4258-a837-7e5827234e2f">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="cd1854df-a587-4620-ad1e-70260c16403b">
+      <Title GUID="7b7562ac-aff5-48a2-85dd-5b30ba142731">Question</Title>
+      <PageElements GUID="c1e3beaf-8f10-4df4-9a33-dd10127de35b">
+        <PageElement GUID="ac1c4b00-aae8-4b67-9dc0-60f679db2c81">
+          <Question GUID="3f9beef8-275b-432f-9ded-31ef0d33a3cb"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="f9216bae-8a9c-4f4d-b3cd-0b87f46df9f1">
+      <strong GUID="cf4df5a0-7d0f-42c3-b357-d982c8366033" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="0dda18ab-6c82-4545-a3eb-22c1774e473b">
+          <strong GUID="1c950425-751a-442c-be8c-1e5c46d809d8">Complete the sentence. At minimum, officers of a PCBU must take reasonable steps to…</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0354dfa5-13ac-4c6e-bf03-b07a26a4f624">… acquire and keep up-to-date knowledge of work health and safety matters</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="da977a31-da95-473f-9319-5590334c8bb9">… delegate their due diligence obligations</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7ea6258d-723e-4937-a696-2c7063cff30f">… exercise maximum skill</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="68739836-d830-4044-98c1-f60e64abe354">… take all possible measures</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="546e10c2-2903-4f21-a741-7ee0fccc64a7">
+      <Title GUID="c4ea718c-9ca0-47dd-9587-d9468000286e">Question</Title>
+      <PageElements GUID="db294dd3-edde-4b13-aa9a-ced138186e65">
+        <PageElement GUID="0889a56e-afdf-44d3-95b6-d6dc15063521">
+          <Question GUID="96aa4d7d-9c6f-4e55-be7d-1647cb3e94bb"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="82ac06f5-4c49-4d4b-a78f-daa0c8244373">
+      <strong GUID="2cde7d42-1040-44ff-8809-84ae1ad010b9" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="26a3cd46-1125-485a-96d1-56dfb41d183d">What steps an officer must take to fulfil his or her due diligence obligation depends on what factors?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="59dc77f6-0d89-4fc6-ad54-94283cc0f1f2">Position, responsibilities and authority of the officer and what is reasonable in the circumstances</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a653eb55-65bf-45ab-9c49-146b97518e8c">What duties the PCBU owes</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f8c8b234-103b-44dc-bc9c-00a32ebd395e">Nature of risks to health and safety posed by the particular business or undertaking</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="caad4de9-29f0-4224-a73b-3d62b60369ef">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="0b1087fe-3c5c-4d3c-864d-6c416b88859b">
+      <Title GUID="060fdded-5ab7-4d5f-ab3f-6740dbab35f4">Question</Title>
+      <PageElements GUID="e94e252b-f025-49e1-b5bd-b4b8c1185580">
+        <PageElement GUID="dbdbac5b-ad1e-4a8c-8510-4b31c2db6b1c">
+          <Question GUID="0d3c8983-de61-45a5-bc31-84586bffe9ac"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="0ef596c5-56d0-45b8-b233-b3973bed1941">
+      <strong GUID="d31a4d6e-7e4b-4c8c-a605-6f119ed2987a" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="53b332b1-7552-4fad-b3bb-6868a69f2e09">
+          <strong GUID="da270ca4-533c-48d9-b5da-ac2219dc436e">How can an officer exercise due diligence? </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6014f775-0ce9-46ac-8b88-5050d64de03f">By keeping up-to-date with the news</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="040cd159-7841-46fb-a850-a1c59f371500">By checking whether competitors have appropriate processes about hazards and incidents</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e0d1aa86-09fd-43f1-8a94-5d7b4a0692e1">By ensuring that workers implement processes to ensure the PCBU complies with its obligations under the Act</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4a6722a5-10c1-4c28-ac0b-abf0db8f079c">By gaining an understanding of the nature of the PCBU’s business operations and the associated risks</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="f1faffe7-474b-4ad7-8ebe-b5a28c183d37">
+      <Title GUID="648df912-bc87-4d6a-9356-9f2c9014f96e">Question</Title>
+      <PageElements GUID="428188d5-f3b8-437f-b2a6-11e086ee50ce">
+        <PageElement GUID="8a701734-6a2a-464a-8eba-8ae40b246be3">
+          <Question GUID="24caea85-695e-4e11-b92f-e25460d22359"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="91442c68-672a-44ff-b044-515a1a7042e2">
+      <strong GUID="51a9bbdf-e2ef-4bcd-b189-6934c9c8a749" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="6bc3e3c0-1b5a-4d35-a55f-b21caade89d2">
+          <strong GUID="d4c75a13-df0d-4280-97b3-2796eb2c3258">In order for an officer to defend a claim by showing that they exercised due diligence to prevent a breach, the officer will need to show what?</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2f495ee6-7a0f-4b5c-a5ac-bc6ca5aec4ec">That the business is financially viable</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ebe4eec4-230a-4c44-98ac-104422b549f6">That the organisation has an effective work health and safety system</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cfeb7bc7-a3c9-4d42-9c8b-92bbf9f3613d">That the officer is a very careful person</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="32ead6e0-8d36-4113-a253-d68aa31945a8">That the officer regrets the breach</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="662f809a-22fb-4fa4-aa3e-e49f5791e50f">
+      <Title GUID="3afc6f0a-72a9-4c6c-89c2-c451463361cd">Question</Title>
+      <PageElements GUID="23b3822f-586f-48e0-8029-90d0a940bafa">
+        <PageElement GUID="7741a49e-0ab8-4d1b-90d2-04044b83fbb1">
+          <Question GUID="c226ef18-896b-489c-979c-833c561544b8"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="54113fc1-dbfb-49e5-a917-2d5ce3f6f461">
+      <strong GUID="912ffd31-3fe6-43e3-808e-a2586125ec12" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="78e3ec5d-baf9-4df7-a2af-a8bfa21dd6d8">What is NOT part of an effective WHS safety system?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="883fc22d-029d-4066-9731-9773e8badb63">Hazard analysis and risk management systems</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a71104f8-ae24-490d-bbe0-55e3b6b5f513">Documented internal reporting systems</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e95c0099-0bc2-489d-bca4-9bad1d0dac5b">Regular efficiency audits</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cb74662b-3af2-4232-b0a7-de25695e0571">Education and awareness programs for workers</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="1a3b2a0c-d491-4f37-92bf-f0a8a0f61e94">
+      <Title GUID="a4447a76-e39d-4335-9be8-8045ff2c5aa6">Question</Title>
+      <PageElements GUID="7f32f248-3ad1-422f-8c25-8c313968ee7f">
+        <PageElement GUID="8922b0fc-58b1-4ade-8853-4b989645a316">
+          <Question GUID="1ee5a283-5d8a-483b-b0e3-72ce5d79a71a"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="042a6cbe-527f-4ba1-9e94-59174a668580">
+      <strong GUID="196e0337-b574-4ad0-a48d-f83c5d21e7dc" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="53a45d54-1f4d-4baa-8856-fd848bd78162">
+          <strong GUID="69f05708-d182-4dcd-965b-a5b289fb1e81">In addition to demonstrating due diligence, what else does an officer need to show?</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="235a1119-4da5-4f28-9e55-a86aa56e06f9">That he or she has a good understanding of the hazards and risks associated with the operations </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9b8c3324-9c02-4c6c-8eba-fa6f5d688616">That he or she has a good understanding of the PCBU's approach to managing the hazards and risks</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="dd73565b-b237-48d4-bd19-1e8afbb5fce3">That he or she has directed adequate resources to WHS initiatives</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="736e40e1-801c-4980-87e1-c74ea3d27631">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="60606f9b-d24e-452d-bac2-af87261c3fa8">
+      <Title GUID="c6616715-c12d-4c1d-a064-e9d9a86e28cb">Question</Title>
+      <PageElements GUID="d970e0f7-6874-4fe6-92ab-c732a95a3522">
+        <PageElement GUID="1442cc41-fb7e-4bab-b853-5d938f8900ef">
+          <Question GUID="e8587688-01c3-4e22-905c-6538b5fc92e4"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="b48daa19-9e15-4a76-87fb-37c82ca2edce">
+      <strong GUID="a6fd2a9e-5e6e-4920-aa2c-17ea680f0299" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="13ab6ac4-d64f-44db-9f74-34e5adc63dba">
+          <strong GUID="6aab86fb-c5e1-4d18-a5f8-3cede52088a5">
+            <strong GUID="b70eacae-88f3-4f8a-82bc-1e4fd49de2b5">Complete the sentence. Breach of due diligence under the WHS law is …</strong>
+          </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="21899040-a393-4156-852f-3a9ffce7f686">… a criminal offence</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="73415dc0-3f6d-428c-8d1b-3b4a114a9769">… punishable only by a small fine</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1e69217b-a5f7-4c2f-b87b-1b33bba0c270">… a public nuisance</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bb5343bc-10d3-4245-a1ec-6b1eecf8c95e">… not an offence</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q11" IsActive="true" GUID="e3086cf5-7435-470d-8f26-57469d7bd158">
+      <Title GUID="c5463739-c1b6-495b-bf0f-db9cd2b1e473">Question</Title>
+      <PageElements GUID="20ae156b-508a-4dea-951f-6aaf5b1f0397">
+        <PageElement GUID="9c34a595-733c-422e-b185-9d7627f8dce2">
+          <Question GUID="2dc4506f-bd77-4115-b386-4b64cd66bb02"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="f89c8e01-c6e5-40ee-81c5-4864314a17aa">
+      <strong GUID="5051c8cf-9838-47de-9757-a1f2490abdfb" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="bbe467a5-f58b-4ded-aee3-19ac6fad2fbd">
+          <strong GUID="887582ff-72b3-4a60-adb5-a6c153657a71">
+            <strong GUID="feb4845d-d0b6-453a-b7ae-d9231db9bd83">If a company breaches its WHS duties, an officer may be held personally liable unless the officer can show that he or she…</strong>
+          </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1aa84ea8-5ba7-44de-ae5c-9bb9646711d1">… was not at work when the breach occurred</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="25d3e7ef-b761-4453-a0ea-1ce35bb2bcef">… did not cause the breach</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5a2925bc-e3e9-481c-b677-5b05333fce46">… was not injured by the breach</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b430e7ff-886e-43df-b480-e6823cf16ab3">… exercised all due diligence to prevent the breach</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q12" IsActive="true" GUID="31670712-6d4f-4a97-9386-9c4536f138a8">
+      <Title GUID="cd1b7187-e4ef-4951-ad97-63214db38662">Question</Title>
+      <PageElements GUID="337ffcf1-d42c-4e7a-933e-fc44db739085">
+        <PageElement GUID="8e4e0c3e-b0dd-41ab-a684-b327d37fd440">
+          <Question GUID="0caef8ea-680a-40eb-be76-e38a8b72d212"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="cd02b43b-1813-4848-a70b-c4d955589284">
+      <strong GUID="9f609574-3c6e-44a4-8307-9a6da1a3056b" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="df164fb6-d199-4870-a5d5-03cfc74d092e">
+          <strong GUID="19b83a23-d46c-4d7c-8acb-2ed92cb80a12">An officer owes a duty to exercise due diligence to ensure the PCBU complies with all its duties and obligations under the WHS Act. True or false?</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c5e49dd7-2b55-4e83-b5c5-ba3074ddc71c">True </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cd5b0505-683c-4929-951c-fe6afdb17b39">False </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q13" IsActive="true" GUID="b953b08f-0f53-4785-90cc-d09e9f9343d1">
+      <Title GUID="74a35ac4-c2f2-48f9-8958-37360a04bb71">Question</Title>
+      <PageElements GUID="727cfa1c-78dc-47fa-ac28-b2389b1c1d94">
+        <PageElement GUID="ff8ee4e9-66be-4671-b670-05ef6bf1dc24">
+          <Question GUID="8db45417-9a36-435c-abea-f13573e0ed9b"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="920fcb27-d5a5-44b5-b83f-d6ceeaa80cef">
+      <strong GUID="80e9d006-c50c-4907-8832-b5b0595a64a3" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="99a108a8-e7f7-44b1-a920-241bad37a529">Complete the sentence. If a PCBU breaches their H&amp;S duty and is reckless to the risk of death, then…</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9bb1a4d4-0c1d-4466-9a5d-1c8ecfd1d736">… they have committed a Category 1 offence; the most serious type of offence under WHS law</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b02a9c8b-4ac4-45d0-86ce-44ff8fa7480c">… they have committed a Category 3 offence; a relatively minor offence under WHS law</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="dce41f37-0d2f-453b-83d8-2e5b577f0a13">… the PCBU's officers can face only severe monetary penalties</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e384c347-677e-43c4-a662-8c08a7e7e3b2">… they will not be penalised unless an individual actually dies as a result of the breach</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q14" IsActive="true" GUID="47e342bd-076b-45d2-bb96-08aae02120f6">
+      <Title GUID="7e2c47f6-bf7a-4812-8976-a2fc542e9fba">Question</Title>
+      <PageElements GUID="e48025d9-b592-48ca-a154-579cb38e5c8f">
+        <PageElement GUID="8f4cf9de-92ba-4d1c-ba05-d01fd28ed793">
+          <Question GUID="0e731acb-0e18-488d-b20c-65ea9403ddc5"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="4ed62079-e2f1-4cd6-935b-4a121037ea5f">
+      <strong GUID="8d82ab17-10e4-4446-b767-5b102078d0df" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="535cf8db-ec16-458b-96b8-2fdd15d26730">
+          <strong GUID="8d1d20de-10ee-4986-b8d2-5846eb6098c3">Complete the sentence. PCBUs commit a Category 2 offence if…</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d5c20e58-c65f-4c66-a692-dcd3c28b0ea8">… they fail to comply with a health and safety duty which they owe</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9c1298cb-ba9b-4ffa-9731-2fa14ab79604">… an individual is exposed to a risk of death, serious injury or serious illness, then they can be found guilty of a Category 2 offence if they were reckless in their conduct</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c9d793af-8f9b-4915-8fa9-4c29727542de">… officers fail to exercise due diligence</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8db7b03a-afdc-439d-9bf3-7e9f3dabfb9c">… they fail to comply with their health and safety duty, and they expose an individual to risk of death, serious injury or serious illness</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q15" IsActive="true" GUID="ccab33a6-0683-49f0-ab5a-18e5ad15d460">
+      <Title GUID="14c821c8-8487-47e0-8365-d7c38203f752">Question</Title>
+      <PageElements GUID="eb54efc4-8e2a-4e58-ab86-cbf60c6bd95d">
+        <PageElement GUID="97523fee-d558-4247-ba1e-941c2e80616e">
+          <Question GUID="f6d0db78-d8b7-49e4-ba5f-2cd89b504aa4"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="ebc145f0-74c3-44b9-ac27-91da99f1262f">
+      <strong GUID="fd5cdebc-5f61-4d8b-b18f-db109e46e454" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="76d12b64-53f0-4d55-be79-280c53b67d14">
+          <strong GUID="2e6a3b4e-00a1-4a7e-9c2d-28718e242d70">
+            <strong GUID="3c844b06-52e1-43bb-8ce0-907a27055fee">
+              <strong GUID="9a409a84-170a-48df-9c71-33cd854e4eef">Complete the sentence. Category 3 offences...</strong>
+            </strong>
+          </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9b2bde33-16ae-4a81-a1ff-d3d887fb7f55">… are more serious than other categories of offences</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="18e43ffb-9c27-405c-ad84-9b8a54d4797e">… can only be committed by small, privately-owned organisations</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3ad2845b-06c6-4c2a-a513-41626ede73d9">… involve a failure to comply with a health and safety duty that exposes an individual to the risk of serious injury, illness or death</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4c85994f-3eaa-4ed5-abae-30ec67537cd1">… involve a failure to comply with a health and safety duty</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="84ee67b4-c738-4b6d-a1b8-e30a830ad6e8">
+    <Page ID="Comp1" IsActive="true" GUID="1383857b-f13d-41e7-a6a4-064be5939e94">
+      <Title GUID="4aa540cd-5e4f-4d8e-8231-a6072e427560">End of quiz</Title>
+      <PageElements GUID="27e4fe97-58c9-4469-8536-003f79476c7a">
+        <PageElement GUID="44770197-f369-4136-aa24-c31a8c95441d">
+          <Graphic GUID="c431004a-d25f-45f7-b997-cbed41d150bd"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/180d4e2a-638f-44c2-a227-017d7345ac0a.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="f25b47ac-bb86-4231-8336-ad973a207ff9">
+          <TextBox GUID="03ce0757-3587-4302-8d2b-42dac1d05efa"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="76a9f8c9-8a5a-4dd2-80a5-2acaaa8a195b">
+    <div GUID="b9fd4d63-884b-41c5-9d22-123ff6663954" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="1c5a7227-619f-4136-8847-f59b802fac93"><br GUID="99ff09aa-dcfc-4544-970f-7e178b6fe65b">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="e5031415-0b72-442f-a8ab-6c0130ff1c93"><br GUID="ac37e3ca-b81c-47b0-bb6c-5e5d8649b917">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="3b34981f-fa97-4b1d-acd2-7aea75c97bb5">
+          <SubmitAnswers GUID="9ec62ad2-1649-4116-a35c-e8c22dc380f9"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://salt.bdw.com/schemas/v3/0"  elementFormDefault="qualified" targetNamespace="http://salt.bdw.com/schemas/v3/0">
+<!-- Author: Stephen Kennedy-Clark -->
+<!-- Organisation: Blake Dawson Waldrown -->
+<!-- Purpose: Schema for the XML export from Toolbook of data to be upload into the SALT LMS -->
+    <xsd:element name="BDWToolBookUpload">
+        <xsd:complexType>
+            <xsd:sequence>
+
+		    <!-- Elements common to Quizes and lessons -->
+                <xsd:element name="ToolBookID" type="xsd:string" />
+
+		    <!-- lesson or quiz -->
+                <xsd:element name="ToolBookType" >
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="quiz" />
+					<xsd:enumeration value="lesson" />
+				</xsd:restriction>
+			</xsd:simpleType>
+		    </xsd:element>
+
+		    <!-- number of pages -->
+                <xsd:element name="NumberOfPages" type="xsd:int"  />
+
+		    <!-- date toolbook was published -->
+                <xsd:element name="DatePublished" type="xsd:date"  />
+
+		    <!-- upload type - did the author intend this book to be a correction to an existing tool book or a full update -->
+                <xsd:element name="UploadType"  >
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="correction" />
+					<xsd:enumeration value="update" />
+				</xsd:restriction>
+			</xsd:simpleType>
+		    </xsd:element>
+
+		    <!-- collection of pages in the toolbook -->
+                <xsd:element name="Pages"  >
+                    <xsd:complexType>
+                        <xsd:sequence>
+
+				    <!-- individual pages -->
+                            <xsd:element name="Page" minOccurs="1" maxOccurs="unbounded" >
+                                <xsd:complexType>
+                                    <xsd:sequence>
+
+						    <!-- Page title (the question in a quiz) -->
+                                        <xsd:element name="PageTitle" type="xsd:string"   />
+
+						    <!-- collection of answers -->
+                                        <xsd:element name="Answers" minOccurs="0" maxOccurs="unbounded">
+                                            <xsd:complexType>
+                                                <xsd:sequence>
+
+								    <!-- collection of posible answers-->
+                                                    <xsd:element name="Answer" minOccurs="1" maxOccurs="unbounded">
+                                                        <xsd:complexType>
+                                                            <xsd:sequence>
+                                                                <xsd:element name="AnswerText" type="xsd:string" minOccurs="0"  />
+                                                            </xsd:sequence>
+                                                            <xsd:attribute name="ID" form="unqualified" type="xsd:string" />
+                                                            <xsd:attribute name="correct" type="xsd:boolean"/>
+                                                        </xsd:complexType>
+                                                    </xsd:element>
+                                                </xsd:sequence>
+                                            </xsd:complexType>
+                                        </xsd:element>
+                                    </xsd:sequence>
+                                    <xsd:attribute name="ID" form="unqualified" type="xsd:string" />
+                                </xsd:complexType>
+                            </xsd:element>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

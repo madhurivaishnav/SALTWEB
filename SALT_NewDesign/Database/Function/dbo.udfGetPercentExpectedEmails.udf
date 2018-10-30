@@ -1,0 +1,47 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetPercentExpectedEmails]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'-- =============================================
+-- Author:		Hitendra Jagtap
+-- Create date: 15/06/2011
+-- Description:	Calculates the percentage of expected emails sent in the last day
+--				The percentage is calculated on the average workload
+--				(averaged over last 7 days)
+-- =============================================
+CREATE FUNCTION [udfGetPercentExpectedEmails]
+(
+@OrgName nvarchar(50)
+)
+RETURNS int
+AS
+BEGIN
+-- Declare the return variable here
+DECLARE @ExpectedEmails int
+DECLARE @EmailsinLastDay int
+DECLARE @EmailsinLast7days int
+
+SET @EmailsinLastDay = (SELECT COUNT(OrganisationID) FROM dbo.tblEmail
+WHERE OrganisationID = (SELECT OrganisationID FROM tblOrganisation WHERE OrganisationName = @OrgName) AND
+DateCreated BETWEEN DATEADD(DAY, -1, GETUTCDATE()) AND GETUTCDATE())
+
+SET @EmailsinLast7days = (SELECT COUNT(OrganisationID) FROM dbo.tblEmail
+WHERE OrganisationID = (SELECT OrganisationID FROM tblOrganisation WHERE OrganisationName = @OrgName) AND
+DateCreated BETWEEN DATEADD(DAY, -7, GETUTCDATE()) AND GETUTCDATE())
+
+IF (@EmailsinLast7days <> 0)
+BEGIN
+SET @ExpectedEmails = ((@EmailsinLastDay * 7 * 100)/@EmailsinLast7days)
+END
+ELSE
+SET @ExpectedEmails = 0
+
+-- Return the result of the function
+RETURN @ExpectedEmails
+
+END
+' 
+END
+GO

@@ -1,0 +1,184 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+
+
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblOrganisation]') AND type in (N'U'))
+BEGIN
+	CREATE TABLE [dbo].[tblOrganisation](
+		[OrganisationID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+		[OrganisationName] [nvarchar](50) NOT NULL,
+		[Logo] [varchar](100) NULL,
+		[Notes] [nvarchar](4000) NULL,
+		[DefaultLessonFrequency] [int] NOT NULL,
+		[DefaultQuizFrequency] [int] NOT NULL,
+		[DefaultQuizPassMark] [int] NOT NULL,
+		[DefaultLessonCompletionDate] [datetime] NULL,
+		[DefaultQuizCompletionDate] [datetime] NULL,
+		[CreatedBy] [int] NOT NULL,
+		[DateCreated] [datetime] NOT NULL,
+		[UpdatedBy] [int] NULL,
+		[DateUpdated] [datetime] NOT NULL,
+		[AdvancedReporting] [bit] NOT NULL,
+		[DomainName] [nvarchar](255) NULL,
+		[CPDReportName] [nvarchar](255) NULL,
+		[AllocatedDiskSpace] [bigint] NULL,
+		[IncludeCertificateLogo] [bit] NULL,
+		[PasswordLockout] [bit] NOT NULL,
+		[TimeZoneID] [int] NOT NULL,
+		[CourseStatusLastUpdated] [datetime] NOT NULL,
+		[DelinquenciesLastNotified] [datetime] NOT NULL,
+		[IncludeLogoOnCorrespondence] [bit] NOT NULL,
+		[QuizDueDate] [datetime] NOT NULL,
+		[StopEmails] [bit] NOT NULL,
+		[ShowLastPassed] [bit] NOT NULL,
+		[DisablePasswordField] [bit] NOT NULL,
+		[DefaultEbookEmailNotification] [bit] NOT NULL,
+	 CONSTRAINT [PK_tblOrganization] PRIMARY KEY CLUSTERED 
+	(
+		[OrganisationID] ASC
+	)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+	) ON [PRIMARY]
+END
+GO
+
+
+
+
+SET ANSI_PADDING OFF
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblOrganisation_DateCreated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisation]'))
+Begin
+	IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblOrganisation_DateCreated]') AND type = 'D')
+	BEGIN
+	ALTER TABLE [dbo].[tblOrganisation] ADD  CONSTRAINT [DF_tblOrganisation_DateCreated]  DEFAULT (getutcdate()) FOR [DateCreated]
+	END
+
+
+End
+GO
+
+
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblOrganisation_DateUpdated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisation]'))
+Begin
+	IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblOrganisation_DateUpdated]') AND type = 'D')
+	BEGIN
+		ALTER TABLE [dbo].[tblOrganisation] ADD  CONSTRAINT [DF_tblOrganisation_DateUpdated]  DEFAULT (getutcdate()) FOR [DateUpdated]
+	END
+End
+GO
+
+
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblOrganisation_AdvancedReporting]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisation]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblOrganisation_AdvancedReporting]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblOrganisation] ADD  CONSTRAINT [DF_tblOrganisation_AdvancedReporting]  DEFAULT ((0)) FOR [AdvancedReporting]
+END
+
+
+End
+GO
+
+
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblOrganisation_PasswordLockout]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisation]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblOrganisation_PasswordLockout]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblOrganisation] ADD  CONSTRAINT [DF_tblOrganisation_PasswordLockout]  DEFAULT ((0)) FOR [PasswordLockout]
+END
+
+
+End
+GO
+
+
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF__tblOrgani__TimeZ__78B58678]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisation]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF__tblOrgani__TimeZ__78B58678]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblOrganisation] ADD  DEFAULT ((1)) FOR [TimeZoneID]
+END
+
+
+End
+GO
+
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblOrganisation_CourseStatusLastUpdated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisation]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblOrganisation_CourseStatusLastUpdated]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblOrganisation] ADD  CONSTRAINT [DF_tblOrganisation_CourseStatusLastUpdated]  DEFAULT ('1 jan 2001') FOR [CourseStatusLastUpdated]
+END
+
+
+End
+GO
+
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblOrganisation_DelinquenciesLastNotified]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisation]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblOrganisation_DelinquenciesLastNotified]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblOrganisation] ADD  CONSTRAINT [DF_tblOrganisation_DelinquenciesLastNotified]  DEFAULT ('1 jan 2001') FOR [DelinquenciesLastNotified]
+END
+
+
+End
+GO
+
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblOrganisation_IncludeLogoOnCorrespondence]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisation]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblOrganisation_IncludeLogoOnCorrespondence]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblOrganisation] ADD  CONSTRAINT [DF_tblOrganisation_IncludeLogoOnCorrespondence]  DEFAULT ((0)) FOR [IncludeLogoOnCorrespondence]
+END
+
+
+End
+GO
+
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF__tblOrgani__QuizD__0056A840]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisation]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF__tblOrgani__QuizD__0056A840]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblOrganisation] ADD  DEFAULT (dateadd(dayofyear,(1),getdate())) FOR [QuizDueDate]
+END
+
+
+End
+GO
+
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblOrganisation_StopEmails]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisation]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblOrganisation_StopEmails]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblOrganisation] ADD  CONSTRAINT [DF_tblOrganisation_StopEmails]  DEFAULT ((0)) FOR [StopEmails]
+END
+
+
+End
+GO
+
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblOrganisation_ShowLastPassed]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisation]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblOrganisation_ShowLastPassed]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblOrganisation] ADD  CONSTRAINT [DF_tblOrganisation_ShowLastPassed]  DEFAULT ((1)) FOR [ShowLastPassed]
+END
+end
+GO
+
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblOrganisation_DisablePasswordField]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisation]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblOrganisation_DisablePasswordField]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblOrganisation] ADD  CONSTRAINT [DF_tblOrganisation_DisablePasswordField]  DEFAULT ((0)) FOR [DisablePasswordField]
+END
+end
+GO
+
+ALTER TABLE [dbo].[tblOrganisation] ADD  DEFAULT ((0)) FOR [DefaultEbookEmailNotification]
+GO

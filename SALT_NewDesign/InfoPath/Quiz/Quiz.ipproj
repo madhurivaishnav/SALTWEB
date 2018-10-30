@@ -1,0 +1,80 @@
+﻿"General"
+{
+"SccProjectName" = "\"$/Dev/SALT v3.0/Source/InfoPath\", HOYDAAAA"
+"SccLocalPath" = ".."
+"SccAuxPath" = ""
+"SccProvider" = "MSSCCI:Microsoft Visual SourceSafe"
+"ProjectIdGuid" = "{EC85EA51-2833-4F09-B8C1-01632014C2E7}"
+"NestedProjectID" = "{0DF41935-9135-4F02-B5FB-DE3115AE136A}"
+"PreviewDocumentPath" = ""
+"PreviewRoleName" = ""
+"UniqueNamespace" = "2005-02-22T04-03-10"
+"Language" = "CSharp"
+}
+"Configurations"
+{
+    "Debug"
+    {
+    }
+    "Release"
+    {
+    }
+}
+"Files"
+{
+    "QuizFormCode.csproj"
+    {
+    "ProjRelPath" = "T"
+    }
+    "manifest.xsf"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "F"
+    }
+    "sampledata.xml"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "view1.xsl"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "template.xml"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "phrases.xslt"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "quizschema.xsd"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "phrases.xml"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "phrases1.xsd"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "upgrade.xsl"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}

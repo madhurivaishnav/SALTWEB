@@ -1,0 +1,67 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfIsGUID]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfIsGUID    Script Date: 20/04/2004 8:25:57 AM ******/
+
+/*
+Summary:
+user Defined Function that returns 1 (true) if the value supplied was a GUID
+else it returns 0 (false)
+Returns:
+scaler - bit  0 = false, 1 = true
+
+Called By:
+prcCourse_GetOneBySessionID
+Calls:
+
+Remarks:
+
+
+Author:
+Stephen Kennedy-Clark
+Date Created: 3 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+
+print dbo.udfIsGUID(newID())
+**/
+CREATE    FUNCTION [udfIsGUID]
+(
+@testString varchar(50) -- presumably this is a - GUID
+)
+RETURNS bit --< boolean >--
+Begin
+------------------------------------------
+-- Declerations
+------------------------------------------
+DECLARE @returnValue int
+
+set @returnValue = 0
+------------------------------------------
+-- Try and cast
+------------------------------------------
+if @testString like replicate(''[0-9a-fA-F]'', 8) + ''-'' +
+replicate(''[0-9a-fA-F]'', 4) + ''-'' +
+replicate(''[0-9a-fA-F]'', 4) + ''-'' +
+replicate(''[0-9a-fA-F]'', 4) + ''-'' +
+replicate(''[0-9a-fA-F]'', 12)
+Begin
+set @returnValue = 1
+End
+------------------------------------------
+RETURN @returnValue
+
+
+
+End
+' 
+END
+GO

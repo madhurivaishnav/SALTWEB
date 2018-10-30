@@ -1,0 +1,1050 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Lesson:Salt:Bdw" PIVersion="1.0.0.0" productVersion="11.0.8165" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="5dd4ba12-4354-405f-a2ab-8c5c5a1edaa0">
+  <Summary ID="bddg01" GUID="d3423b25-b166-4fe2-927d-2b25780c5c81">
+    <ContentType GUID="a854476a-1713-4363-8979-69f4fcb7624a">lesson</ContentType>
+    <UploadType GUID="9f945151-4117-4264-bc37-e8898dcc9dd5">update</UploadType>
+    <Title GUID="8bff6699-d75d-473c-82c1-5ea84b988dd3">Introduction and Background</Title>
+    <CreatedBy GUID="eae6d0db-4381-4b4a-998c-86bb91d5a1ec">YS</CreatedBy>
+    <CreatedDate GUID="164f007b-0378-46c7-b134-ee6a5e60ec8a">2009-09-08T15:17:25</CreatedDate>
+    <LastModifiedBy GUID="2ef8d270-35cd-4da3-a814-066524f0ff38">ntomich</LastModifiedBy>
+    <LastModifiedDate GUID="6d1ff97f-c948-4e8d-a59a-50fedc3bc0b3">2011-02-25T10:29:50</LastModifiedDate>
+  </Summary>
+  <Players GUID="5ba74fbe-d68f-4a5c-9045-f10bcfe27228">
+  </Players>
+  <Pages PageFilter="0" GUID="136b3353-cdbb-4f42-b47f-9c4e70815a7c">
+    <Page ID="Page1" IsActive="true" GUID="9f2f3697-1945-441b-85b4-f4b0d5ca6c99">
+      <IncludedInTOC GUID="967bfba0-0789-41b4-91c8-7c2c198486a9">false</IncludedInTOC>
+      <Title GUID="640e4b97-dcfc-4e2c-89a4-f582b915c480">Introduction</Title>
+      <PageElements GUID="608a45e2-ba43-4bd3-807f-228ae7a5cb6e">
+        <PageElement GUID="2c7fdc43-5816-4a11-820a-0fcf507e2157">
+          <TextBox GUID="dbc92269-445c-4d15-9384-f97a250a141e"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="9d149389-5013-4c98-9b07-b2ae47b03917">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="e59d6ca4-2956-4211-8377-b7350446368b" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="df91f29a-82f7-441b-b670-03aca2d1d485">
+        <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="673d3031-6196-4b87-a357-1d1b6830727b">
+          <span style="FONT-SIZE: 10pt" GUID="948284e1-02c1-494c-a93b-36b232f64b19">In this lesson we will provide you with an introduction and some background to the </span>
+          <span style="FONT-SIZE: 10pt" GUID="06231f8b-8bc8-4f22-bbff-8fc90712567f">
+            <em GUID="f494e99b-9005-4f56-b376-df938da1a53e">Dangerous Goods Safety Act 2004 (WA)</em>
+          </span>
+          <span style="FONT-SIZE: 10pt" GUID="8b2c058a-0326-4054-a59f-91d269caf609">. </span>
+        </div>
+        <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="50caa316-05d8-4c6b-a40d-16a9b01e5f4c">
+          <span style="FONT-SIZE: 10pt" GUID="f4c9d1c3-50a5-41b7-80f0-f3e2adf112cf">
+          </span> </div>
+        <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="7342d67e-22d1-4601-a8d9-7916c97ad9d9">
+          <span style="FONT-SIZE: 10pt" GUID="5ce2de72-ce94-4b0f-8584-0b2a5fd9240a">We will help you to apply your knowledge by asking you questions about a hypothetical situation. </span>
+        </div>
+        <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="ddbe2499-a759-4e74-add6-07385fa5db31">
+          <span style="FONT-SIZE: 10pt" GUID="8208da60-4764-4f35-a116-0e4475099a59">
+          </span> </div>
+        <span style="FONT-SIZE: 10pt" GUID="98957a3d-9c48-4636-87e7-a1e6b58ea25d">Please note that these questions are not scored and that your response is not recorded. You can use the feedback provided to consolidate what you have learned in this lesson. </span>
+      </span>
+    </div>
+    <div GUID="19632b39-c57b-4606-a56d-3189d99ea087" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="65727f84-0489-4bb8-baa5-ca40072be8d3" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="4822f8c6-0999-470d-8fce-d106a848b4ac">Click on the Quick Facts menu button above to view a summary of the lesson.</span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="f8f80469-c682-4332-90d9-46b704109266" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="33ba053e-b9f3-4254-b9b8-5177047acdae">
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="e5ddc367-8e08-45a3-ae5a-229939ece434" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="7a7de39c-cd3c-4a69-a055-6f69b8ff2ba0">
+      </span>
+      <span GUID="c2825012-b9d1-46f7-8ca1-c7ae34f21c70">Click the <font face="Arial" size="4" GUID="241bc86e-6507-4538-82db-69574aab35b9">►</font> button below to continue, or select a topic from the Table of Contents list.</span>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="5edb6787-cbb1-40ab-9772-768915540d26">
+          <TOC GUID="e1ee9c61-005a-4495-b3ef-4e7d8fd48ff6"> <![CDATA[<div class="TableOfContents_Main">
+  <div class="TableOfContentsTitle">Table of Contents</div>
+  <ul class="TableOfContentsList">
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page2')">Learning objectives</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page3')">Case Study</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page4')">What are dangerous goods? </A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page5')">Dangerous goods classification </A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page6')">Background to the Act</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page7')">Regulations </A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page8')">Objectives of the Act </A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page9')">Matters covered in the Act</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page10')">Who administers the Act?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page11')">Definitions</A>
+  </ul>
+</div>]]></TOC>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="160b27d9-59c3-4472-94e3-3d4ea0c9f1b5">
+      <IncludedInTOC GUID="cbb0ca14-4bfa-4b08-9692-1531cc003403">true</IncludedInTOC>
+      <Title GUID="98236d0a-db10-4a4f-8a39-fc797395aa8a">Learning objectives</Title>
+      <PageElements GUID="12fb5a84-c6c8-48db-b6ba-9ba16c349cc6">
+        <PageElement GUID="ff7003cc-ddab-48aa-9de8-7de8c2763e0e">
+          <Graphic GUID="19c37025-1faa-4e42-aa0e-8333a79e5237"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/157ba75f-ba05-4222-9ba7-12e2ad98ef44.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="26a918dc-dc56-42b0-8d97-9d1c351e75ef">
+          <TextBox GUID="03eacf6e-72be-4915-ae7d-25d3e2ca69b2"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="f82860d9-fe62-4770-92d4-8c8844253e34">
+    <span GUID="cf9585cc-b303-4ea4-b3c3-a5ec0fa0d3fb" xmlns="http://www.w3.org/1999/xhtml">
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="3a2828b9-4967-4fab-83b4-073d8fadd5bd">
+        <span GUID="18d26954-c94a-44bc-a5b7-69324ac42187">In this lesson you will learn:</span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="68617ca5-7522-4048-b940-8f4a7dd8bc26">
+        <span GUID="2594a321-d4bd-4f19-b161-950f81694211">
+        </span> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="8c5e4557-c085-4f4c-95b2-756952395211">
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="8ca785b2-4670-468a-989e-341130ff644a">
+          <span GUID="b0c6bb5f-f9f0-4c7e-8afb-e49ac0fc5869">
+          </span>
+          <span GUID="18195c0f-d768-4c32-a435-2ed6990dce1a">the background to the Act</span>
+        </li>
+      </ul>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="58f920ad-b31c-44b7-83c0-66b58f339fe1">
+        <span GUID="db492cc0-2535-47ce-8268-c96e6b7a711f">
+        </span> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="234f5f1f-4aad-44a8-a9ab-90bf36c252de">
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="a86966b0-e79c-4227-a06b-18120b66c130">
+          <span GUID="a868b78d-ac10-4926-9f81-13dbbea1922a">
+          </span>
+          <span GUID="d5de0022-a0ce-441e-b7f9-f96da7b97c49">what regulations are relevant to your organisation</span>
+        </li>
+      </ul>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="701a80c2-738e-4998-b103-7d729e1f38d6">
+        <span GUID="c2745bda-63ae-47b7-9628-1d1d88dea86b">
+        </span> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="7723d7cd-ef3c-44c4-b05a-7533cac4f604">
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="d3d6ff85-9df3-443c-b42a-848c6759f60d">
+          <span GUID="54981001-a0d5-4e46-bc7a-c51b6ef3bbf9">
+          </span>
+          <span GUID="3c128f4c-3f74-4976-a669-ac4dfe6dcd82">the objectives of the Act</span>
+        </li>
+      </ul>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="ce5a7806-1275-4fcb-be73-44741bce3615">
+        <span GUID="ad1616a1-fb1d-462a-9f17-b09a247fef90">
+        </span> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="545d2e84-1659-477f-9ad5-9df7a4a698fe">
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="cd42b892-b131-48e5-b835-7f95ed267d71">
+          <span GUID="9190491b-421e-4df5-ab45-e37889d53dd0">
+          </span>
+          <span GUID="a6ed0703-cd00-416a-989b-87b4bff10e12">what matters are covered in the Act</span>
+        </li>
+      </ul>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="360fb8d4-d19d-455a-a23f-d00366b4228d">
+        <span GUID="d5ae98e6-003c-4503-8f58-a87a9d95d0f4">
+        </span> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="e0958937-729e-4652-8e75-f6035bb2edb4">
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="c0d33a96-3c21-44af-a764-87711a9881b2">
+          <span GUID="a2ef1aab-3752-4394-ab76-f704fbc2282c">
+          </span>
+          <span GUID="8dc2b3be-2c7b-4b31-9e0d-2e0c80563979">who administers the Act</span>
+        </li>
+      </ul>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="341f19bc-694b-478a-a11e-40efa414b146">
+        <span GUID="975b473b-aac7-4602-aa1e-922b43a73639">
+        </span> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="2410f35b-ded2-4c1c-9d50-5aeb78860bcf">
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="51141bb6-c06c-4401-955c-c0d1c5fb0662">
+          <span GUID="40251631-90a4-4d0d-8512-dfe36163eb62">
+          </span>
+          <span GUID="e59afb27-2324-408f-8665-50edd58a2938">the definition of dangerous goods.</span>
+          <span GUID="37109aa3-2444-4bed-9f84-0afd9ff53e3e">
+          </span>
+        </li>
+      </ul>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="227c918b-d1d8-4d4b-b225-7e1d940edcb9">
+        <span GUID="26fc5455-b1e7-4edc-bc34-9ab0c48bb497">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="da85b8c9-0fa0-4c7a-868f-49191218bfe4">
+        <span GUID="edfb8f14-ab2e-45e8-9201-d9a850acc993">
+          <span GUID="5e0f03ce-74f9-4f41-8e7a-ed373f1b47c1">
+            <span GUID="22ace0f4-b5bf-4f50-a079-931ab4b7c290">You should complete the lesson in about 20 minutes. </span>
+          </span>
+        </span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="e4b4a7dd-2776-4057-b2e5-04c64af48f67">
+        <span GUID="49518d93-33f9-4f29-a159-4253f359468a">
+          <span GUID="3aa977b3-edf2-4e5b-a3ee-ca14664b1f55">
+          </span>
+        </span> </div>
+    </span>
+    <span GUID="76ef85dd-1dec-4b9a-a406-df994211471b" xmlns="http://www.w3.org/1999/xhtml">
+    </span>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="caa80db5-303d-4d0f-b92d-bd9b4c1bedf2" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="0f21e5a6-10d9-496e-b216-8d80971344ac">
+      </span>
+      <span GUID="67ae97b8-817a-4dae-85eb-541ca18ae7e8">To get started, please click on the </span>►<span GUID="82d7defc-506b-4f4a-8e23-a79f44ffa694"> button below.</span></div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="b5fc76d9-c02c-4eaa-82c4-93fb767e0373">
+      <IncludedInTOC GUID="3a3184e4-ea31-4aa1-a4e5-bba7dbcc0514">true</IncludedInTOC>
+      <Title GUID="77f1547d-773c-4680-a30a-67f77a7ab8c2">Case Study</Title>
+      <PageElements GUID="6a5402ef-0012-4263-bd52-f89c5c511c2d">
+        <PageElement GUID="ec481d96-2f4a-4490-88e3-2433d6c79245">
+          <Graphic GUID="0d0df44d-4f2f-45cf-a166-2bf53b6cd71f"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/b2f7a80e-036d-42c1-a88b-9e96e040bc95.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="b59bd418-0479-401c-a088-e9cc20412bde">
+          <TextBox GUID="15ea3240-19c9-40a4-92da-a32b07fa90a3"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="892ac85d-bec8-4f66-a458-8b6b1a4e9ff0">
+    <div GUID="6d8c326c-0e3b-4fbf-9e08-5e8cc8a4748d" xmlns="http://www.w3.org/1999/xhtml">
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 8pt" GUID="b36ad315-605f-4565-9ad5-64b7d3947a67">
+        <span style="FONT-SIZE: 10pt" GUID="5c20268c-86e5-49e3-8769-e72976d1e356">
+          <strong GUID="ded045d5-5d7f-4b74-8b95-d4badf773fa5">Botany Bay v Pryor [2009] </strong>
+        </span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 8pt" GUID="cd706f8b-0d1f-4ad1-b7f8-bb505b651d37">
+        <span style="FONT-SIZE: 10pt" GUID="b9abf61f-ab54-4c1d-a918-370413500f13">This case concerned a dispute over the requisite quantity of goods that would be deemed "dangerous" if held at a workplace. A Botany Bay Council employee was injured when siphoning liquid chlorine from a tank to container. As a result, the Council was convicted of a contravention of s 9(1) of the Dangerous Goods Act 1975 (NSW) (Act). </span>
+      </div>
+      <span style="FONT-SIZE: 10pt" GUID="b853689d-29f8-443c-93ca-1e322d7bada1">Both parties conceded that if over 1000 litres of liquid chlorine were kept on the premises, the Council would have been in breach of its obligations under the Act. However, in the view of the NSW Industrial Relations Commission, there was not sufficient evidence to sustain a finding that on the day of the offence, there was a quantity in excess of 1000 litres of liquid chlorine kept on the premises. As such, no offence had been committed under the Act.</span>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="b0f20e02-c731-4731-b34a-82b1e671762e">
+      <IncludedInTOC GUID="30dbd814-7d10-45aa-b51b-65482532eea8">true</IncludedInTOC>
+      <Title GUID="874faa09-f66a-4896-9a86-a9abf334962d">What are dangerous goods? </Title>
+      <PageElements GUID="8292dcbe-a074-4769-ba62-124e40140953">
+        <PageElement GUID="5d651ad4-09bf-4e01-a83f-db9ff5ddcdfb">
+          <Graphic GUID="86d72282-0851-4e37-bd3b-55aacc6abd92"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/d51443a4-25de-4694-a112-0523b9c2c2a7.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="8548e036-e53a-4a44-b8ab-19ebabd4295b">
+          <TextBox GUID="6700eecd-ff45-44db-bfb3-5b899b125b27"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="8afc8873-6474-4a21-a474-2f1b14b3663c">
+    <div GUID="e692fa49-c2e0-417a-96f7-85a51bd85f78" xmlns="http://www.w3.org/1999/xhtml">
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="45097e1d-cb7c-4c74-a18a-12cd30bf61f8">
+        <span style="FONT-SIZE: 10pt" GUID="154c8474-2480-41db-b6cf-3e4b7fb4399b">Dangerous goods are goods that have the potential to cause immediate harm to people, property and the environment. This is due to the possibility of a fire, explosion, or release of toxic, flammable or corrosive materials during a storage or handling incident.</span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="daafb23a-1c81-4bb1-a1c3-056a2c00d153">
+        <span style="FONT-SIZE: 10pt" GUID="e9c2a704-c750-4cf5-bc90-afb94dfa172c">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="5a9002ec-7c4a-45c6-af10-7273fb4c767d">
+        <span style="FONT-SIZE: 10pt" GUID="9807e392-2446-4de4-92dc-0d585e3ee861">Hazardous substances are those that, following exposure, can have an adverse effect on health. Examples of hazardous substances include poisons, substances that cause burns or skin and eye irritation, and substances that may cause cancer. Many hazardous substances are also classified as dangerous goods.</span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="7980ddd9-1bc6-48cc-a828-4d90cd4af5ca">
+        <span style="FONT-SIZE: 10pt" GUID="bf21df10-6e1a-422b-ac2d-74f99e071d00">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="justify" GUID="799bd81e-01e2-4b9e-9c40-975bb6131370">
+        <span style="FONT-SIZE: 10pt" GUID="567a748f-e3e2-4d9c-9476-79a4f8541742">The focus of the definition of dangerous goods is on the acute effect of these substances. They generally have the following properties:</span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="cca56d6a-2a24-4a47-80f7-28a4d66a2bd0">
+        <span style="FONT-SIZE: 10pt" GUID="19bd056f-33bd-4af4-9e5b-e55280a4a962">
+        </span> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="48f2b58d-fd5d-4c44-93e3-38c97860e63b">
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="d664783d-f15b-4da9-a945-08d42bfd6217">
+          <span style="FONT-SIZE: 10pt" GUID="1fb68d27-951f-46d6-8f5d-817e6816d88f">an ability to cause corrosion of skin and other materials </span>
+        </li>
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="53b8a5e2-ab0e-49f9-9683-3cb30972c1be">
+          <span style="FONT-SIZE: 10pt" GUID="3148edca-c6f7-4026-af4a-6b4b27b7496c">capacity to harm the environment </span>
+        </li>
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="5ebc372d-aeac-4aa7-aa77-1505ed76426f">
+          <span style="FONT-SIZE: 10pt" GUID="a3535812-6164-446b-9603-73334c89b1a9">an ability to cause or accelerate combustion </span>
+        </li>
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="b608f99b-7202-4e91-8a6c-89e236077b01">
+          <span style="FONT-SIZE: 10pt" GUID="27d6fa74-3ea6-497f-970e-f49f40d927da">acute toxic effects </span>
+        </li>
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="62be4295-6077-4b99-9710-cf9706fdc4e7">
+          <span style="FONT-SIZE: 10pt" GUID="7f5a9364-e444-4902-9658-a005c2c35d9e">temperature or pressure hazards </span>
+        </li>
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="d1781f74-92aa-484a-8429-c7d08a8504c8">
+          <span style="FONT-SIZE: 10pt" GUID="91918978-d4a2-4375-b23e-25a908145504">ability to react with other materials adversely</span>
+        </li>
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="5d3d1b28-9b29-4c7f-8fc8-ab4e0266786d">
+          <span style="FONT-SIZE: 10pt" GUID="12a62989-17a3-4f69-838f-918a4d225a6c">potential to cause asphyxiation by displacement of oxygen</span>
+        </li>
+      </ul>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="a3572e69-b2bf-4681-a90d-fe157c0d0469">
+      <IncludedInTOC GUID="394eee12-6817-4c47-a7e2-277bc6253bea">true</IncludedInTOC>
+      <Title GUID="a9af2487-8ba1-4574-ba0a-172b0c036643">Dangerous goods classification </Title>
+      <PageElements GUID="eadd0389-42af-465a-8b45-0489b89b6682">
+        <PageElement GUID="eb0608d5-920a-4fed-b9ce-fa0df3b01c37">
+          <Graphic GUID="09d6616d-5101-4cc0-a5f5-6f5a3bd6c0de"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/890db707-bbf8-4a3a-aa21-0a6a711fca9a.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="297cfe2f-2716-4bd0-bc23-e4ff190b5d95">
+          <TextBox GUID="9796d0f5-b9b5-41ee-a6c6-f01fbb0cc2b7"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="1a6ccf7e-2d34-4682-a549-6a5978ffa814">
+    <div style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" GUID="f426ca62-cf25-4588-9c19-68be7398c635" xmlns="http://www.w3.org/1999/xhtml">
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 8pt" GUID="38cfa853-1754-48ba-8c32-9dc1ddddeaa5">
+        <span style="FONT-SIZE: 10pt" GUID="436230ea-c7a6-4aca-b213-5d28c8074073">Based on their hazardous properties there are nine classes of dangerous goods, some of which are further divided into divisions. </span>
+      </div>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="f8fd9fea-b5df-4ce7-86aa-39987976fa88" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="6836d002-5cbd-4568-abb1-f1543fdab24e">The Western Australian dangerous goods safety legislation covers nine classes of dangerous goods, based on their hazardous properties, some of which are further divided into divisions:</span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="daec1cbd-1a15-4f50-99c9-f3099edb331f" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="7b393da8-4f2e-4704-bf4e-8acca36f44b0">
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="ccae5767-d3d8-4c2e-b909-d732bbad2b77" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="cd339272-a599-4e69-8708-b808144f8da5">
+        <span style="FONT-SIZE: 10pt" GUID="cf3fc302-a43b-467e-973d-72b809c1d4b9">Class 1 (explosives)</span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="1a6f0b23-e638-4e12-9474-a30dfa17d008">
+        <span style="FONT-SIZE: 10pt" GUID="ebac0391-b738-40cf-b56f-be1df65fd9c7">
+        </span>
+        <span style="FONT-SIZE: 10pt" GUID="7c5c6ef4-eba1-4810-baa3-e28c5b6742ef">Class 2 (gases)</span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="0deb2789-8c0c-46c2-9058-5717ee42f9d4">
+        <span style="FONT-SIZE: 10pt" GUID="26c55c5e-4e6b-4803-95e7-cdc55d8bc60d">Class 3 (flammable liquids)</span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="a42d32d0-1227-41b8-a1b3-3a04f7f43008">
+        <span style="FONT-SIZE: 10pt" GUID="4a9667ea-94be-4e2b-98eb-0533813bf0db">Class 4 (flammable solids, substances liable to spontaneous combustion, substances that in contact with water emit flammable gases)</span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="ebdb8400-0f38-4d30-90d6-a531f07e4274">
+        <span style="FONT-SIZE: 10pt" GUID="c96eeaec-6a5a-4bd9-80a4-34db2cf92c4a">Class 5 (oxidising substances, organic peroxides)</span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="f6764e5d-47d5-443a-bbdb-5ec71f307a12">
+        <span style="FONT-SIZE: 10pt" GUID="eae59ac9-cbb3-4653-af1f-d199894b3656">Division 6.1 (toxic substances)</span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="3d4dc76b-4ba8-478a-8953-1b4b3061cd14">
+        <span style="FONT-SIZE: 10pt" GUID="537e2f77-3e0f-4cd2-a711-bfd19ffb9d44">Class 8 (corrosive substances)</span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="3bb89d4c-27cf-461e-ba0a-f5349eb5731b">
+        <span style="FONT-SIZE: 10pt" GUID="6fbc7d90-0c62-4b1d-9fc1-4ee2a1b681a1">Class 9 (miscellaneous dangerous goods and articles)</span>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="fc86c241-815b-47fe-8a05-fd6d839b2ccf" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="e8f88097-ed5c-4bcc-bbca-15d42c8e9e45">
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="e7bcc1c9-5ffc-4699-b337-de4a6eb2f24c" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="b6d4d272-c58d-4ff8-a73a-387e55db20ed">Note that there are also:</span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="2ebf165c-b577-4974-b889-a3569ea2bd6c" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="3dc9eec9-3a51-45f1-afa3-0699cbfc89a8">
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="def375a9-c538-4ebb-94f4-74abfb77de5a" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="7a2d6111-cc65-4759-8639-37552f03ee7f">
+        <span style="FONT-SIZE: 10pt" GUID="ed018153-811d-46af-a25c-f224437aa26a">Goods too dangerous to be transported</span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="72309d74-e922-4c10-8693-d20d4cd9538d">
+        <span style="FONT-SIZE: 10pt" GUID="2a1897f3-1533-47a8-9d43-0dac4ebd0320">C1 combustible liquids (combustible liquid with flashpoint between 60.5 and 150°C)</span>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="e2a89e54-8b3b-41e5-b0ba-1e1028344c7a" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="ca618836-5bb7-43df-9018-474e5cb27df7">
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="4458c8e8-10c9-40e1-9058-6b57bbcee72d" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="a283b079-d0de-4945-8727-b33ec8b9f39f">Notable omissions from the list are:</span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="07478d3b-7ea2-42e3-b485-5513584999fb" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="73fe11df-822f-4a41-8494-4e3ea34e8c6d">
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="bf622020-8243-4e70-baef-86257242ffbf" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0px; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px" GUID="ab01bced-a3c8-41b1-bad6-51d821985bf0">
+        <span style="FONT-SIZE: 10pt" GUID="85090dd8-1c8e-4f87-877a-2bee20911d5e">Division 6.2 (infectious substances); and</span>
+      </li>
+      <li style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" GUID="c17e12f5-1a1f-43bf-adf0-cd37482c4e23">
+        <span style="FONT-SIZE: 10pt" GUID="4f0881f6-cc1b-4642-ade4-1992a856e664">Class 7 (radioactive substances).</span>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="d903b423-c4dd-4325-9c4c-9725cc6119c0">
+          <ExtraInfo GUID="90b0ef95-eac0-4a1f-a05b-b5e56dafc2d6"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('ce3c91ce-f35d-4fee-b603-d15a3604e74a');">Click here to read more</A>
+      <div ID="Content_ce3c91ce-f35d-4fee-b603-d15a3604e74a" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="f70d86d2-7180-4a5f-bfd6-21d9029642ef">
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="0612fc59-f9a4-45c5-bd75-ba1207b424b7" xmlns="http://www.w3.org/1999/xhtml">
+                  <span style="FONT-SIZE: 10pt" GUID="05be9cef-353f-4f0f-9060-099282ac1ed9">
+                    <span style="FONT-SIZE: 10pt" GUID="c29875fd-4bed-4458-85ed-f149228a1d54">The Government of Western Australia Department of Mines and Petroleum has released a Dangerous Goods Safety Information Sheet. It sets out which goods are dangerous and which are hazardous. </span>
+                  </span>
+                </div>
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="22c90d81-b69f-426b-bffe-cce026e5e696" xmlns="http://www.w3.org/1999/xhtml">
+                  <span style="FONT-SIZE: 10pt" GUID="e1286271-83e8-4da0-9824-f848c47acc52">
+                  </span> </div>
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="9b94c4e0-76ab-43a5-b684-bd6c24151e6b" xmlns="http://www.w3.org/1999/xhtml">
+                  <span style="FONT-SIZE: 10pt" GUID="57f975f7-6b6d-444f-b67b-8ed99f1f93cb">
+                    <a target="_blank" href="http://www.dmp.wa.gov.au/documents/Misc/DG_IS_SafetyInfo.pdf" GUID="7e9180ee-6263-4799-84c0-3582e598aa1e">Click here to see more.</a>
+                  </span>
+                </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('ce3c91ce-f35d-4fee-b603-d15a3604e74a');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="81ecdd43-9a38-4405-a156-a6822b6f6d74">
+      <IncludedInTOC GUID="0aa22304-e289-43a7-a4ed-c88441651840">true</IncludedInTOC>
+      <Title GUID="fcee7ac9-137e-4ef7-b39c-a78d01c00165">Background to the Act</Title>
+      <PageElements GUID="e6a9993b-d7c5-451f-8573-e3b10bacdbb7">
+        <PageElement GUID="c95a2ad5-ecbd-40a9-95bf-dea84d6120a1">
+          <Graphic GUID="0990dd6d-5ae5-4c4a-a7f3-56ca647e269b"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/18623c0d-3e98-4664-b3ad-973524a79fd8.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="f9e0e63c-c415-44dc-9daa-2e2f75303174">
+          <TextBox GUID="c82d0d7b-f712-42f5-ac2c-8657a90ea51a"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="0a837380-cb24-45b3-99f5-3a6b05968bcd">
+    <div GUID="52a94042-31ed-49b8-8812-88f787d7db20" xmlns="http://www.w3.org/1999/xhtml">
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="4db85579-ddf8-46ac-abc4-a72c48c07912">
+        <span style="FONT-SIZE: 10pt" GUID="b5a141aa-51a9-4e93-b3cd-784244af53b4">On 1 March 2008, the <em GUID="7e18773b-3542-47b7-8d61-aec38bf87845">Dangerous Goods Safety Act 2004 (WA) </em>and its associated regulations came into effect. </span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="a39b6ac5-d239-47ef-ba75-440974a8a879">
+        <span style="FONT-SIZE: 10pt" GUID="54d758c0-ddf6-47d2-8925-56bb82ad7801">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="952e613a-ac8f-4619-b780-bc60bb7b4e34">
+        <span style="FONT-SIZE: 10pt" GUID="20925d2d-a162-4c66-89f9-5c8c154afcd1">The Act was passed four years earlier in 2004 but it did not come into force until seven supporting regulations were drafted and approved. These regulations address issues relating to major hazard facilities, storage and handling of non-explosives and security risk substances. You can find more information about the seven regulations and what they aim to do in the section below.</span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="3a8ee84c-43ad-4ccd-bdf7-98ee4ea0a858">
+        <span style="FONT-SIZE: 10pt" GUID="dec06733-2d76-42cd-9f04-0da853dbb84f">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="52b84912-da18-474e-acd6-c72db79a7aba">
+        <span style="FONT-SIZE: 10pt" GUID="03708d10-69a9-4850-8c19-82ca253d581e">The Act changed the way in which dangerous goods and major hazard facilities are regulated in Western Australia. By requiring industry to take reasonable and practicable measures to manage the risk involved with dangerous goods, the Act seeks to minimise risks to people, property and the environment. </span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="e97f1ca5-df9c-47a8-9ba9-045233729fec">
+        <span style="FONT-SIZE: 10pt" GUID="35defc6d-185c-49d7-a7b8-4eec50a48efb">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="97a2a840-188d-4c80-b117-016941da95ac">
+        <span style="FONT-SIZE: 10pt" GUID="376ec65e-8e66-4601-995a-7f841668fe49">It aims to reduce the focus on governmental regulation as a way of managing risks and instead shifts the responsibility to industry itself.</span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="79f61a4a-badb-4a83-adb9-0a0e49bce2c9">
+        <span style="FONT-SIZE: 10pt" GUID="3411f1fc-e354-4313-b2f2-3cec3d6405f8">
+        </span> </div>
+      <span style="FONT-SIZE: 10pt" GUID="50cf6769-879b-47af-b1e9-41a9d62f190a">The Act and its associated regulations replaced the <em GUID="14ecfaac-90f5-412e-8d6f-4b800c44eb99">Explosives and Dangerous Goods Act 1961 (WA) </em>and <em GUID="85611dca-0a9a-437d-9fc7-54cb318aed4c">Dangerous Goods (Transport) Act 1998 (WA)</em>.</span>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="d178abec-e5bd-4fac-8e46-fcd6e092e19f">
+          <ExtraInfo GUID="e70f07c3-50cf-4632-8920-71512cb9e2f8"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('3066a826-5db2-4ed2-b90a-f3a949d78ba0');">Click here for more information about the Act</A>
+      <div ID="Content_3066a826-5db2-4ed2-b90a-f3a949d78ba0" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="2b76b595-8293-43db-8163-ec99e3ec120b">
+                <div GUID="a487dff7-3285-4043-8962-cc51744047b7" xmlns="http://www.w3.org/1999/xhtml">To learn more about the Act and its associated regulations, click on the links below. </div>
+                <div GUID="db4d684f-0e7e-45aa-b9e9-c012fe13741d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="417c39fc-6b4b-464b-95f2-9e8f71d567f0" xmlns="http://www.w3.org/1999/xhtml">
+                  <a target="_blank" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_242_homepage.html" GUID="fd42ade0-41b0-405d-adf9-b9ef3289fc88">Dangerous Goods Safety Act 2004 </a>
+                </div>
+                <div GUID="9003690e-8960-4cc7-bd22-e8abc510c625" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="f848a080-f8eb-4264-8bf2-4a9b81d6a32e" xmlns="http://www.w3.org/1999/xhtml">
+                  <strong GUID="6e2910c5-008c-4953-8a03-1382b0375179">
+                    <u GUID="1d40c909-50fd-4cfd-95ef-96f836c25c14">Regulations</u>
+                  </strong>
+                </div>
+                <div GUID="121d61d8-e124-4f92-af39-a8bdab6ba60c" xmlns="http://www.w3.org/1999/xhtml">
+                  <strong GUID="8da351db-0be9-4dbb-933c-7b08f2f27148">
+                    <u GUID="59d07938-ef60-4009-9874-5678f81190c9">
+                    </u>
+                  </strong> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" GUID="f719c6de-777b-411e-a242-fd209d7c2d6b" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="29d4db2c-91ac-4ecb-b047-9551e8768719">
+                    <a title="Dangerous Goods Safety (General) Regulations 2007" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_2766_homepage.html" target="_blank" GUID="01c77f41-3f89-4bd7-872c-7629bb06407d">
+                      <span style="FONT-SIZE: 10pt" GUID="7c38bdcb-2583-4e2d-b6f7-01ead4d8ffcb">Dangerous Goods Safety (General) Regulations 2007</span>
+                    </a>
+                  </li>
+                </ol>
+                <div GUID="90cab1d1-4cde-4de8-bfb7-e01a834982e1" xmlns="http://www.w3.org/1999/xhtml">
+                  <u GUID="e5128daf-cfb3-465e-bbc7-ebbb0b94bade">
+                  </u> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="2" NDListNewStart="true" GUID="f2e86dd5-eb91-48ae-8155-4a4b7d4fce11" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="ddea1c56-d9b7-441a-b27b-5a0cabb78847">
+                    <a target="_blank" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_2770_homepage.html" GUID="459139b4-467f-40fa-ac97-68ea302fa200">Dangerous Goods Safety (Storage and Handling of Non-Explosives) Regulations 2007</a>
+                  </li>
+                </ol>
+                <div GUID="f201d09e-cedf-47a7-8d36-9cb8b3e6b639" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="3" NDListNewStart="true" GUID="1a6d57b2-6334-467e-9117-4f1ba483c3c0" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="4debf0b6-6680-4b89-b101-90d51f353d07">
+                    <a target="_blank" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_2768_homepage.html" GUID="5aca5915-1753-4457-b5fa-cdf2e4eafe68">Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007</a>
+                  </li>
+                </ol>
+                <div GUID="5e1e9966-a12c-490b-a1e9-d438273a1832" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="4" NDListNewStart="true" GUID="2c5311c2-f818-4c92-a9bf-73879b0496c4" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="4f570a88-3813-4784-a149-bec3e1ea7408">
+                    <a target="_blank" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_2769_homepage.html" GUID="f517c934-5171-48e0-ba8d-26bdf6517dcf">Dangerous Goods Safety (Road and Rail Transport of Non-Explosives) Regulations 2007 </a>
+                  </li>
+                </ol>
+                <div GUID="39e6a6a8-9e5e-44cb-aa63-05350dadc41f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="5" NDListNewStart="true" GUID="e838fa10-7d47-4ad2-8806-1c4c4b5849e1" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="672c6765-2cbb-4522-b78b-d790401f7740">
+                    <a target="_blank" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_2764_homepage.html" GUID="f9dedbf3-d6e9-4617-9fe1-73f71a1dcdef">Dangerous Goods Safety (Explosives) Regulations 2007</a>
+                  </li>
+                </ol>
+                <div GUID="550b2745-6695-4e47-9a05-31f8a38e4ef3" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="6" NDListNewStart="true" GUID="9dadf668-a64a-457d-b91b-8e1651c38af9" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="15c83084-a6ce-4a8e-adef-23c7bc9e358b">
+                    <a target="_blank" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_2765_homepage.html" GUID="e0e0cd08-15cf-4ee6-87ac-c15a0ac4a9db">Dangerous Goods Safety (Security Risk Substances) Regulations 2007 </a>
+                  </li>
+                </ol>
+                <div GUID="707a5126-1a8d-4afc-adcd-c2b61d0edc37" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="7" NDListNewStart="true" GUID="6a6759a3-2a48-48a9-8a2f-b32f826cdb14" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="91d46cab-1580-42f6-816a-3fe9f8756a13">
+                    <a target="_blank" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_2767_homepage.html" GUID="36e9e482-a017-414c-a6b0-c5fbc68b7e7c">Dangerous Goods Safety (Goods in Ports) Regulations 2007</a>
+                  </li>
+                </ol>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('3066a826-5db2-4ed2-b90a-f3a949d78ba0');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="c8074f4d-c1e1-43bd-846e-5f22c582c8b9">
+      <IncludedInTOC GUID="1f544d62-32a1-4816-8a90-05a8ea32bd45">true</IncludedInTOC>
+      <Title GUID="3313388e-fcf7-4b89-910c-7a5563c54999">Regulations </Title>
+      <PageElements GUID="3602dcca-48ab-4bb0-9f2a-e3ac5281167d">
+        <PageElement GUID="3058d42d-21f5-4a4f-acbf-5539191c7ed7">
+          <Graphic GUID="98d706c0-e338-46a1-8b9a-db0726286d9c"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/32146cb0-53b9-4c4c-b308-01a38933f57c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="4588cb12-6e8d-4adc-b43d-6a1def9ded6d">
+          <TextBox GUID="d5e4b0a3-8092-4f77-9f42-a6b3b45d31bc"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="eed30765-fee6-47c0-88a9-499be0d134b4">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="e0e11862-22f9-44b2-b96e-3d1dd09c4efa" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="cee57e71-d05e-4278-b824-257a367e31b2">
+        <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="f5f59991-a067-4932-945a-784c541e8e93">
+          <span style="FONT-SIZE: 10pt" GUID="19107fd8-56ef-424f-b83e-c9b25479cbc0">Which regulations are most relevant to your organisation?</span>
+        </div>
+        <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="6f05e1ea-972a-4e1e-8ad5-fd9e89c98b7e">
+          <span style="FONT-SIZE: 10pt" GUID="b61a1ef1-0cfa-4953-9713-72ca8e85fd9e">
+          </span> </div>
+        <span style="FONT-SIZE: 10pt" GUID="11d50741-2960-4ffd-8df1-62185a65ce55">The three supporting regulations to the Act which are most relevant are the:</span>
+      </span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="e88cc5fc-5f95-40bf-8531-e4edae26cbd1" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="e19916e3-3cf4-47b5-bdc9-2df3f0211908">
+      </span> </div>
+    <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" NDListNewStart="true" GUID="c882c9e9-1163-4c37-a1b0-3c148007bbf6" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="29b02e8e-929a-4ab5-b711-2dc306ddc9a9">
+        <span GUID="4eecd305-2a55-4e60-be6b-df0c50e4e684">
+          <a target="_blank" href="http://www.dmp.wa.gov.au/documents/DGS_Overview_Storage.pdf" GUID="ed853aa6-d5ae-4221-8d9e-980a11f2717b">Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007</a>
+        </span>
+        <span GUID="26511eaf-a547-4fee-a331-72a6cf4b03c1">
+        </span>
+      </li>
+    </ol>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="eb4ef1b0-2a8b-4344-94b3-a42e2df07eda" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="80174db0-2080-4b5d-960c-e5768d899ca3">
+      </span> </div>
+    <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="2" NDListNewStart="true" GUID="b7394801-be9c-4013-b15c-9dd69b7f6fd5" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="f2957867-f90c-4668-88b2-a8373bad29ff">
+        <span GUID="feab2f82-2b3b-426f-a032-b119fc8c6153">
+          <a target="_blank" href="http://www.dmp.wa.gov.au/documents/DG_IS_TrsprtRegsOverview.pdf" GUID="fcec2cc9-e676-4f44-9cc3-174ca9ac7380">Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007</a>
+        </span>
+      </li>
+    </ol>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="40c51868-ff60-431f-89be-ce2d789bdc65" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="3e33a249-1a4c-4527-ab50-041e855809a7">
+      </span>
+      <span GUID="f23d1259-d9e2-4458-b6b1-ad054c0df991">
+      </span> </div>
+    <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="3" NDListNewStart="true" GUID="4bb74cb6-be28-4e4e-a8dc-dd3ef195dc87" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="4a994585-66f5-48dc-82ef-8a9bf3404b2f">
+        <span GUID="aff309fa-3709-4f26-97a3-f3aa346fcde0">
+          <a target="_blank" href="http://www.dmp.wa.gov.au/documents/DGS_FAQ_InfoSheet_Ex.pdf" GUID="fbc55faf-ddbd-495c-b9e7-98489b7375b9">Dangerous Goods Safety (Explosives) Regulations 2007.</a>
+        </span>
+      </li>
+    </ol>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="e47e1c97-201a-4442-ab60-29eb7e16636f">
+          <ExtraInfo GUID="3e24bea5-3c4a-43c7-a7f9-e23b20e0fad9"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('0ae9b9a2-00c4-4301-98fb-d5f03a1f09f1');">Click here for more information about how the Act relates to other laws</A>
+      <div ID="Content_0ae9b9a2-00c4-4301-98fb-d5f03a1f09f1" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="40a58f48-0f2d-4e91-b3d2-098233346be0">
+                <div GUID="5e524ebd-0ff3-425c-8dc2-396db4d53708" xmlns="http://www.w3.org/1999/xhtml">
+                  <strong GUID="99c9da3f-0ae0-4f41-a9c3-d89360384b44">Relationship with other laws</strong>
+                </div>
+                <div GUID="1c03e016-145c-4f1e-b330-aee74f7ae9d9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" NDListNewStart="true" GUID="99d5daf0-ba9e-41a1-a2dc-b6590c78441b" xmlns="http://www.w3.org/1999/xhtml">
+                  <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="21ba93e8-8ce4-4edb-ad66-cbd72a6f5678">
+                    <span style="FONT-SIZE: 10pt" GUID="8aeac409-7634-4a6d-aad2-691d6000b205">
+                    </span>
+                    <span style="FONT-SIZE: 10pt" GUID="638e9e9a-ec83-459f-a594-b5d9ca3d6366">This Act does not apply to a pipeline carrying dangerous goods, to which the <em GUID="17fa6096-ff22-4c53-8245-edf237726c0b">Gas Standards Act 1972</em>, <em GUID="3a678623-33b9-4100-92a2-9cf9adf7f300">Petroleum Pipelines Act 1969 </em>or <em GUID="0a986c9e-5989-488f-9654-cd60698f3087">Petroleum (Submerged Lands) Act 1982 </em>applies.</span>
+                  </li>
+                </ol>
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="acaf2c51-6c3d-487b-a3df-a8296af48031" xmlns="http://www.w3.org/1999/xhtml">
+                  <span style="FONT-SIZE: 10pt" GUID="4e8c7b26-212d-4ffc-a0bf-a5860ee8c686">
+                  </span> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="2" NDListNewStart="true" GUID="83462c4a-eb6c-452b-ae8a-8f1a0577e530" xmlns="http://www.w3.org/1999/xhtml">
+                  <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="9d1fa3cb-6268-4614-a2b2-99dc8d66ee29">
+                    <span style="FONT-SIZE: 10pt" GUID="a74a0348-0aac-45c8-b8f1-767c39ec18ed">
+                    </span>
+                    <span style="FONT-SIZE: 10pt" GUID="857552c7-edad-466f-8861-c6f03018ca95">If another written law applies to or in respect of dangerous goods, that law applies in addition to this Act, unless subsection (3) or (4) applies or this Act expressly provides otherwise.</span>
+                  </li>
+                </ol>
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="49209f70-8343-4e39-bca2-149a4b212a2f" xmlns="http://www.w3.org/1999/xhtml">
+                  <span style="FONT-SIZE: 10pt" GUID="567211a9-5ae8-4078-a99b-c4d920ea14a4">
+                  </span> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="3" NDListNewStart="true" GUID="fb75de5c-22ba-4f1b-9b92-d6984bdeacba" xmlns="http://www.w3.org/1999/xhtml">
+                  <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="430d0e30-c596-411a-990a-924b40ecbc47">
+                    <span style="FONT-SIZE: 10pt" GUID="d2db0d8e-5374-4ec5-8117-ab246232fa25">
+                    </span>
+                    <span style="FONT-SIZE: 10pt" GUID="369ae55e-caa8-4245-b5ae-934c768654c5">If a provision of this Act conflicts or is inconsistent with a provision of another written law that applies to or in relation to dangerous goods, the provision of this Act prevails, unless subsection (4) applies.</span>
+                  </li>
+                </ol>
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="36818b5c-33c3-429a-8e4c-815e887296d5" xmlns="http://www.w3.org/1999/xhtml">
+                  <span style="FONT-SIZE: 10pt" GUID="ac965258-0dbc-47ad-b385-e6c4f0d3adb6">
+                  </span> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="4" NDListNewStart="true" GUID="cf283c51-8e65-484e-b0ec-263fe191b493" xmlns="http://www.w3.org/1999/xhtml">
+                  <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="4970b410-087c-4e1e-8274-71111484bd74">
+                    <span style="FONT-SIZE: 10pt" GUID="4ed18f53-13df-45e8-ac95-55ffeaf0b08b">
+                    </span>
+                    <span style="FONT-SIZE: 10pt" GUID="4d15fc73-756e-4e1f-b012-59a4c5fb8218">If a provision of this Act conflicts or is inconsistent with a provision of another written law that applies to or in relation to dangerous goods of a category that is prescribed for the purposes of this subsection by regulations made under this Act, the provision of the other written law prevails.</span>
+                  </li>
+                </ol>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('0ae9b9a2-00c4-4301-98fb-d5f03a1f09f1');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="34ebf9ed-050d-45ad-9e08-33d6437945f8">
+      <IncludedInTOC GUID="b5c9bb1c-6426-42f4-af77-39718c705863">true</IncludedInTOC>
+      <Title GUID="c2205d44-f14d-438c-805b-fa4a03846d67">Objectives of the Act </Title>
+      <PageElements GUID="87d652f9-2483-4ca4-9501-becf9920af72">
+        <PageElement GUID="84403870-6c4a-45fd-9876-170328873cf2">
+          <Graphic GUID="e0e8c941-e728-479c-961e-5bc2a9be0d21"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/4f01c4d5-6c78-4b75-915f-f2e2bb89f564.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="36b2b669-d9ea-4a88-8532-e77edbe8e7a5">
+          <TextBox GUID="5cfb12dc-a832-4ac7-90a7-cdc11c719e08"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="d87347e5-0717-4549-ade6-1fe725c7fcd4">
+    <div GUID="31918d4c-1da6-4d9a-8623-b2c7df3c87fa" xmlns="http://www.w3.org/1999/xhtml">
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="c16f8bdc-762b-48f5-945e-ade002ae3d6c">
+        <span style="FONT-SIZE: 10pt" GUID="8f3b816a-177e-421b-9db4-32e9cfaafe4b">The Act </span>
+        <span style="FONT-SIZE: 10pt" GUID="76e0f490-fb26-4ace-bc16-c3964691c100">updates the legislation regulating the way that dangerous goods must be stored, handled and transported in Western Australia. It also introduces stricter licensing requirements for companies that handle dangerous goods. </span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="b834fdb4-ed89-4c6b-b526-f5a6f91a2fb6">
+        <span style="FONT-SIZE: 10pt" GUID="132377cc-2022-46af-8d89-7ea5b4afccb3">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="dedcb652-0114-4e7d-b79c-8a383d1b5b36">
+        <span style="FONT-SIZE: 10pt" GUID="d97a4cb0-cd51-4bc0-b642-0b6dcbf689c3">The Act is designed to shift the responsibility for the management of dangerous goods from government to private industry. It adopts a </span>
+        <span style="FONT-SIZE: 10pt" GUID="d31b2264-ae9e-4d53-ac95-d46e8092a26d">risk-management approach to dangerous goods and incorporates performance-based standards and codes of practice. </span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="17528a3b-c7aa-46eb-a765-74eb96d0300e">
+        <span style="FONT-SIZE: 10pt" GUID="c28b64c6-e44c-4733-b62e-ed8b256eab82">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="5ac02089-7eff-4f23-8f28-c0922dd1ac88">
+        <span style="FONT-SIZE: 10pt" GUID="ef50da8e-e878-4992-a114-13948397ae91">The Act places a general duty on companies to minimise risks associated with dangerous goods that may affect people, property and the environment. It requires industry participants to take all reasonably practicable measures to manage these risks. </span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="e0e69419-8085-4b07-be08-f1a1ecf62630">
+        <span style="FONT-SIZE: 10pt" GUID="7ed53e74-fd3f-4a49-b34e-854e9c6ea05d">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="3e196a05-3ba7-475c-bb18-eecc32700f8a">
+        <span style="FONT-SIZE: 10pt" GUID="81b0793c-ddea-40a4-817f-3a673152f519">In relation</span>
+        <span style="FONT-SIZE: 10pt" GUID="36e2f91f-cd3d-4724-858f-cf18ef48b60d"> to dangerous goods, risk means the probability of:</span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="fa8dd696-c583-4758-b3b4-738340e9b312">
+        <span style="FONT-SIZE: 10pt" GUID="4e65c929-b895-469e-b15f-24f7bdc75f11">
+        </span> </div>
+      <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" GUID="1ba21471-4a2e-4952-9b5f-70f98553a51a">
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="c5ce51a4-ab59-4f23-baa8-4360191ba7ea">
+          <span style="FONT-SIZE: 10pt" GUID="88683b1b-3054-4603-a46c-d1d735fdd94e">the goods causing the death of, unreasonable injury to, or unreasonable harm to the health of, one or more individuals</span>
+        </li>
+      </ol>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 36pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="f416bd8a-c63e-4c3c-8efb-972ff414326b">
+        <span style="FONT-SIZE: 10pt" GUID="3c2c99e2-1257-4a46-9b03-a1d3937524fa">
+        </span> </div>
+      <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="2" GUID="3a672851-7b2a-4919-a51b-1035482090c6">
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="094e47f8-4fe3-4d58-b2c0-31aca83ac238">
+          <span style="FONT-SIZE: 10pt" GUID="1a73a941-7d94-48e7-b8b2-3cdbb7c4b96b">the goods causing unreasonable damage or harm to property or the environment</span>
+          <span style="FONT-SIZE: 10pt" GUID="af005fbb-832a-426c-9244-e551ace1e73d">
+          </span>
+        </li>
+      </ol>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page9" IsActive="true" GUID="332d8d00-48d5-412b-a846-d97e1ea6a09f">
+      <IncludedInTOC GUID="ef885485-b55d-4153-9566-422b83b29176">true</IncludedInTOC>
+      <Title GUID="16ee3eb3-9fd2-43f7-83e5-1bb6637576fb">Matters covered in the Act</Title>
+      <PageElements GUID="93950ed3-2078-419a-84a8-e8e3ea2d3196">
+        <PageElement GUID="3a1fac74-da08-4d8b-870d-ae6f38932fdf">
+          <Graphic GUID="a42e5f46-0128-485d-9da8-badd12608272"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/e07cc992-5553-477e-bb6d-e380f32a127e.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="7153120a-b158-4d24-aaa6-1a6570f38111">
+          <TextBox GUID="578c69f6-959e-45ec-8bf4-cea52a340749"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="b0f87849-30f4-454b-87e7-dd9cce304dc7">
+    <div GUID="6cf8cf8b-e2e1-480e-9456-25586d0bf238" xmlns="http://www.w3.org/1999/xhtml">
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="570d3107-ce69-4be5-bc55-528ad9fc7ebf">
+        <span style="FONT-SIZE: 10pt" GUID="1183b311-6aa9-4d6a-a514-f993a1a26d00">There are a great number of matters that are covered by the Act. These include: </span>
+      </div>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="35d86202-7cee-4519-a8c0-aa7125d98769" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="c1b9fcc6-62ca-4219-9788-72f1223547f6">
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="fdc5eb32-f804-4255-8cc8-b838bcb7d026" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="08d3b6ea-2c10-4b63-966e-69931d9a24d4">
+        <span style="FONT-SIZE: 10pt" GUID="ea15caaa-20db-4a1a-bbc8-6b1f0c6f655d">
+        </span>
+        <span style="FONT-SIZE: 10pt" GUID="5ff4d6b0-5b44-4ff6-b31e-e2e1539e24f2">General duties as to dangerous goods</span>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="4f1f6d94-d366-4e6d-8e49-078116e22eac" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="554a7760-127f-476e-83e4-a3fa4371c6d9">
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="69e8559f-1388-40ec-b7dc-f9df08bd897d" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="4128f972-ac7f-4cb2-ac50-1c1152b54144">
+        <span style="FONT-SIZE: 10pt" GUID="6b9bebdd-3ffd-4ae7-b33f-ace94ca835d4">
+        </span>
+        <span style="FONT-SIZE: 10pt" GUID="ed1a6b2a-0010-473d-bab4-03eaf938111f">Regulations and codes of practice</span>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="3769af19-953d-41de-94b5-4bb6a932e40a" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="8235e856-4a01-4e57-a10a-f507b3f70742">
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="dfa04abc-d864-4e8b-9c4d-38a6ac59cef4" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="5f147482-bf2b-4695-8a1a-11fe69d786cb">
+        <span style="FONT-SIZE: 10pt" GUID="ee0e77cd-a474-4f92-a0ae-89feca22598a">
+        </span>
+        <span style="FONT-SIZE: 10pt" GUID="6076c661-e85e-4434-8784-5cf0da5205b5">Exemptions</span>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="e94dcf2b-6f14-4fcc-b7ce-4746b915c79f" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="3714fc5d-05cc-4410-8163-ad3a90e80c9a">
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="e38969eb-0446-4bf5-9f40-122bf8ce66d7" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="23a0dccf-9388-4793-817b-16dc3550558d">
+        <span style="FONT-SIZE: 10pt" GUID="e9a79afc-6609-4d8a-a91d-cedb3d86f1ee">
+        </span>
+        <span style="FONT-SIZE: 10pt" GUID="b841c4e0-74a8-45f0-a682-a7900e788388">Administration</span>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="f38b5b24-011a-446b-8c2d-1eac0e304991" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="5402d276-7383-4047-b163-f723bebfd2f9">
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="f3091f4b-2b9b-4c20-afcf-b29cf1e62514" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="c96b6abd-afcd-4013-b6ba-06f53efa9549">
+        <span style="FONT-SIZE: 10pt" GUID="96bf75f9-e4db-41bc-bc70-dfd2b0f3912b">
+        </span>
+        <span style="FONT-SIZE: 10pt" GUID="7813a137-fd47-4a20-aee3-388ced49b372">Investigation and enforcement</span>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="93295cc6-cb4d-44e7-b948-8af397957427" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="e1b0b95d-f628-48ba-a4ab-50816f56a5d7">
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="fbd985fc-5a8d-4f03-8a67-ae1fe7a6a72e" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="71d1b3ae-cb3a-47df-a03f-f5f03a14064d">
+        <span style="FONT-SIZE: 10pt" GUID="d831ac42-05df-4747-a649-d84a8db6e408">
+        </span>
+        <span style="FONT-SIZE: 10pt" GUID="26664ec7-e406-458b-9269-1cdca6760c00">Legal proceedings</span>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="1aed61b8-f631-4137-8016-353b430c406c" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="a5b049d4-c819-46da-a971-8a37bfba8cf1">
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="506393be-c48c-4e7e-b932-f7e5290f1f30" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="61294fe6-b95c-40b5-9cf5-5b4b18eaa014">
+        <span style="FONT-SIZE: 10pt" GUID="2037e549-faee-408d-8977-80f0654d728b">Miscellaneous issues</span>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="d5af09d0-985b-48c4-9714-3dab139b624c">
+          <ExtraInfo GUID="c3f8cf8e-eb1e-4ce1-9262-2d551a34d64b"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('918969a4-220c-48bd-8fb5-312d82d43c81');">Click here to learn about additional requirements in Western Australia</A>
+      <div ID="Content_918969a4-220c-48bd-8fb5-312d82d43c81" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="71bbb6ac-1fb8-43bf-b7fb-19076e4cb810">
+                <div GUID="d6343462-dfe8-40a8-8127-73ebe0514916" xmlns="http://www.w3.org/1999/xhtml">
+                  <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="justify" GUID="7ec52306-9320-4c5f-8ee3-a8697aad2231">
+                    <span style="FONT-SIZE: 10pt" GUID="70354637-634e-49a6-879c-73356be6aafc">In Western Australia there are a few additional requirements. For example, all sulphur is a dangerous good for storage and handling, irrespective of form (such as lump sulphur). </span>
+                  </div>
+                  <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="justify" GUID="6976f15c-4f7a-4101-9674-604fe99179e8">
+                    <span style="FONT-SIZE: 10pt" GUID="1b2342c5-96b8-4ad8-bdd0-c868431c7387">
+                    </span> </div>
+                  <span style="FONT-SIZE: 10pt" GUID="2cd4908d-68cc-4f9e-b417-a4324e63c238">C1 combustible liquids (such as diesel fuel) are classified as dangerous goods for storage purposes, but not for road and rail transport.</span>
+                </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('918969a4-220c-48bd-8fb5-312d82d43c81');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page10" IsActive="true" GUID="bdf18819-11b3-43c4-a2dc-388ddcdd4b0d">
+      <IncludedInTOC GUID="ecbdf64b-5b8c-4784-83da-8d99563aff35">true</IncludedInTOC>
+      <Title GUID="cf37f415-1aa9-4c77-9b8b-36a7c4c6068f">Who administers the Act?</Title>
+      <PageElements GUID="595139fa-bf27-4178-bf1a-39e718cdfd35">
+        <PageElement GUID="41c532f0-261e-4117-8bc5-3e12d384c8fa">
+          <Graphic GUID="ecc44d7b-d233-4bce-900f-f23de50169b1"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/4da41ddc-9c0c-4b4b-9942-d51a1e770e48.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="e9fba4e8-5523-4e3b-922a-5f8e2601a9a0">
+          <TextBox GUID="720ac92c-3bb2-4beb-969d-95a0ce954582"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="89e0f0d2-c119-4d02-b769-be8efa4dc5ef">
+    <div GUID="ddfc3571-af56-44e2-bbf2-ad94024c5c6a" xmlns="http://www.w3.org/1999/xhtml">
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="c0388c0c-f1a7-4054-8b6b-6582459e4eec">
+        <span style="FONT-SIZE: 10pt" GUID="e16c9bc4-e165-4b2d-80c9-6d9fbf23e012">The </span>
+        <span style="FONT-SIZE: 10pt" GUID="2843abc3-d46c-4b07-917f-35f6579a1c54">Resources Safety Division within the </span>
+        <span style="FONT-SIZE: 10pt" GUID="b5eed798-7873-406c-a086-99e16d433969">Western Australian Department of Mines and Petroleum (the Department) </span>
+        <span style="FONT-SIZE: 10pt" GUID="dc6cbcc9-05e1-4d42-a6f0-45f09a9ca0f3">administers the:</span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="de2b5035-e7ba-4206-8af9-9d7fcee8dd9f">
+        <span style="FONT-SIZE: 10pt" GUID="69d6ae0e-2e84-481b-8e2d-d5abb30a276a">
+        </span> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="5aeaa61b-70b7-46e4-ac02-524824dd50cd">
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="50907015-ff73-4d9b-9e49-ce489ddd281d">
+          <span style="FONT-SIZE: 10pt" GUID="649b4458-9b93-46b6-8d3f-efed6b005b92">
+          </span>
+          <span style="FONT-SIZE: 10pt" GUID="c5bde311-d1af-4cbc-8679-34a8c413adc9">
+            <em GUID="9fb4683b-6933-4536-8962-f7a23c28d8c5">Dangerous Goods Safety Act 2004 </em>
+          </span>
+          <span style="FONT-SIZE: 10pt" GUID="317cbb59-d813-42ce-9de4-dd0d7aebedbd">(WA) </span>
+        </li>
+      </ul>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="d3b28041-5ce7-4839-ad88-5b4be344e353">
+        <span style="FONT-SIZE: 10pt" GUID="4951570d-c021-4d15-95e9-4aca70a07976">
+        </span> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="074b45ee-b43e-4351-95cf-91eb816c7ebb">
+        <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="ce0ff1b8-b6fe-4ed0-8a07-16fa0f66e7fc">
+          <span style="FONT-SIZE: 10pt" GUID="722aafc9-d866-4c8e-b9ad-84257ed60162">
+          </span>
+          <span style="FONT-SIZE: 10pt" GUID="bdd2e554-40d2-4e2e-8967-7578d5116695">
+            <em GUID="b700cf3b-3894-497e-b623-3ac1bb3851d4">Dangerous Goods Safety Regulations 2007 </em>
+          </span>
+          <span style="FONT-SIZE: 10pt" GUID="b7e6571c-4536-4a23-965e-02bb14825c0f">(WA) supporting the Act.</span>
+          <span style="FONT-SIZE: 10pt" GUID="c5970f22-7aea-4be5-b476-eee722e63beb">
+          </span>
+        </li>
+      </ul>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="a6a45b50-7f00-4fa5-a64a-697d44bafb46">
+        <span style="FONT-SIZE: 10pt" GUID="26be11b1-a276-424d-9cab-1621d61ed80c">
+        </span> </div>
+      <span style="FONT-SIZE: 10pt" GUID="9e005594-be27-4a5b-902f-1e76730b0c04">The Department is responsible for issuing licences, inspecting storage sites, facilities and vehicles used for transporting dangerous goods, and responding to incidents and complaints.</span>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="f45912e4-370f-49fc-886b-31daeca800c6">
+          <ExtraInfo GUID="1b2c2dae-be89-4890-bc2e-64d7b63e257f"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('35af4cb7-7774-4077-8db7-f29c7a8c2351');">Click here to learn about the regulation of hazardous substances</A>
+      <div ID="Content_35af4cb7-7774-4077-8db7-f29c7a8c2351" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="eda28389-00e2-4e9f-89bb-b59d6d564c3e">
+                <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 8pt" GUID="d31e69ae-6e50-4293-8c7d-22bd48727d7b" xmlns="http://www.w3.org/1999/xhtml">
+                  <span style="FONT-SIZE: 10pt" GUID="0d275d92-ab71-4029-809b-83b9cbc31a94">
+                    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 8pt" GUID="83239581-4ef9-4bc9-aa3c-9938ad91e23d">
+                      <span style="FONT-SIZE: 10pt" GUID="12916e22-0aed-45b1-832d-1e45e7887d34">Hazardous substances used at mining operations in Western Australia are regulated under the Mines Safety and Inspection Regulations 1995, which are administered by Resources Safety. </span>
+                    </div>
+                    <span style="FONT-SIZE: 10pt" GUID="850fb14a-715f-4a46-a30d-39ce0c6f267a">Hazardous substances at non-mining workplaces are regulated under the <em GUID="bf500a2b-08af-43cc-b258-0803ccc0cdfc">Occupational Safety and Health Act 1984</em> and attendant regulations, which are administered by the WorkSafe Division of the Department of Commerce. </span>
+                  </span>
+                </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('35af4cb7-7774-4077-8db7-f29c7a8c2351');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page11" IsActive="true" GUID="27012f5e-aa6b-4aa0-ab87-86b8b4e7e413">
+      <IncludedInTOC GUID="74ad7976-a1db-4a1f-a2ef-06c4aef912f8">true</IncludedInTOC>
+      <Title GUID="bbf71316-438a-41e2-be7c-d5b502bce8eb">Definitions</Title>
+      <PageElements GUID="ba6e45de-c35b-4850-b318-753fff8dfd5f">
+        <PageElement GUID="be5bce80-54c1-464b-b675-9429e5e70801">
+          <Graphic GUID="590f9705-2da0-433e-a875-b14b1e50f6e9"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/37009c58-f3b6-40af-b088-4d0542fe5a56.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="95930641-3799-47b0-a880-237d2d674d60">
+          <TextBox GUID="cd4f24e1-9d77-49e7-9571-0f82bf396e4a"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="e2bce52a-fab2-4f9d-ba57-a60223053234">
+    <div GUID="2e6a7984-8cff-44fd-9034-691ba47dd79c" xmlns="http://www.w3.org/1999/xhtml">
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="efed1f0e-01a4-4c4e-a011-518a3297f439">
+        <span style="FONT-SIZE: 10pt" GUID="01eee32c-a586-46f6-9c88-5c81c989af4f">What are dangerous goods?</span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="76daf111-affa-4f9c-b7c7-9e68b01bea48">
+        <span style="FONT-SIZE: 10pt" GUID="ff4b8aca-9647-4894-9ca4-065c385a1c53">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="justify" GUID="ca463ba1-13d5-4bee-898b-dafdf4719a30">
+        <span style="FONT-SIZE: 10pt" GUID="1c25e0d4-a4c7-4d4a-bf34-cd11ba837898">Dangerous goods are special category of hazardous substances and articles that have the potential to cause immediate harm to people, property and the environment.</span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="justify" GUID="cf274090-6eee-40a6-bcd7-f610aa4dd6e8">
+        <span style="FONT-SIZE: 10pt" GUID="b3ef803b-6dc4-4190-b3ca-e4b1efb4b8e3">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="justify" GUID="88f4d386-4e3c-49fe-8d46-c1d20a9526b9">
+        <span style="FONT-SIZE: 10pt" GUID="8948a9e4-2519-4252-ae4f-7ab8662589d2">The focus of the definition of dangerous is on the acute effect of these substances. </span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="justify" GUID="ba13ed1d-87d1-4795-97bc-559220695c77">
+        <span style="FONT-SIZE: 10pt" GUID="f4320318-382e-447d-9164-94fdce2993f0">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="justify" GUID="94876b4a-0195-483e-8035-8eae31f29cfd">
+        <span style="FONT-SIZE: 10pt" GUID="7baaf27f-d2f7-470b-9ccc-be2516d3fbbc">Hazardous substances are those that, following exposure, can have an adverse effect on health. </span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="justify" GUID="59fd6652-dddc-4eca-936e-b8abb3aec355">
+        <span style="FONT-SIZE: 10pt" GUID="92f4733b-ea02-42b1-b857-c7737bd5460f">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="justify" GUID="6e4c7494-6c49-423f-89f1-2f16c9db69f0">
+        <span style="FONT-SIZE: 10pt" GUID="720c4325-e138-4743-9dde-4d48dc1bb40b">Examples of hazardous substances include poisons, substances that cause burns or skin and eye irritation, and substances that may cause cancer.</span>
+        <span style="FONT-SIZE: 10pt" GUID="4dea3268-5098-49a7-a9e7-47b86da59ec0">
+        </span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="297bb9d6-aee4-4ff3-ac40-519c7f1b5e62">
+        <span style="FONT-SIZE: 10pt" GUID="5be75938-5865-4543-a289-62472a0f33de">
+        </span> </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 8pt" GUID="3304c611-2bda-42d6-b9f6-c28b45dc307a">
+        <span style="FONT-SIZE: 10pt" GUID="3486de92-ebcc-4b43-9689-0d6d3d488f24">Hazardous substances used at mining operations in Western Australia are regulated under the Mines Safety and Inspection Regulations 1995, which are administered by Resources Safety. </span>
+      </div>
+      <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 8pt" GUID="2a6ed2d3-943a-4ab7-8227-0a4ead44b8aa">
+        <span style="FONT-SIZE: 10pt" GUID="be559a5e-636b-4189-9056-fe7b54f888ac">Hazardous substances at non-mining workplaces are regulated under the <em GUID="b159fd9a-e23c-45fe-8360-3ac63867d116">Occupational Safety and Health Act 1984</em> and attendant regulations, which are administered by the WorkSafe Division of the Department of Commerce. </span>
+      </div>
+      <span style="FONT-SIZE: 10pt" GUID="52977c94-7556-42f7-bcad-b768b068f1ae">Many hazardous substances are also classified as dangerous goods.</span>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page12" IsActive="true" GUID="b7391d4c-6488-494e-8431-51d8581ac8f3">
+      <IncludedInTOC GUID="5ec2b64f-efd4-4a57-8b8e-136ab688ead5">false</IncludedInTOC>
+      <Title GUID="e2c3eec8-790a-437c-92fa-4460d2e13a57">End of lesson</Title>
+      <PageElements GUID="864f353d-0cf3-431a-9016-37791d622486">
+        <PageElement GUID="1bde64fb-379d-477a-9e49-eb417e3b7bce">
+          <Graphic GUID="7c7f4e78-76dc-49b4-8601-579500bd19a0"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/41390517-b9c5-4ffe-9af1-d0bad12b50f8.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="4f94ea5e-3b28-4ecc-96a9-7d30e0a407e6">
+          <TextBox GUID="41e786c0-027f-441a-885a-446b4570e406"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="941bcea3-b6f3-4319-ab0d-2da19cd3f756">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="fad7c6c2-ed36-4b55-9a32-603393431e71" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="0ddbc658-f093-41e9-a192-1efc1471de11">Congratulations! </span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="fe8672c5-b3d1-4e24-8307-9ee2ec7df18b" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="d3568f35-2321-4449-871e-c8c7c31e6d45">
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="79a49978-f4b2-4d19-b575-93fc3af238c2" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="843ab461-41df-45e9-a760-80c78cb131a3">
+        <span style="FONT-SIZE: 10pt" GUID="3a273c60-5fb3-4cc2-ad59-e2a52455ebac">You have completed your lesson.</span> </span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="8d4f46aa-7132-44e0-8cdb-6370926299d4" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="70c4fc29-1866-4520-a58a-1a3e6f928b34">
+      </span> </div>
+    <div GUID="dc9bc384-9131-4943-819f-a574a0970af1" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="15be8cde-938b-4fdb-bbb7-823b2610e247">Click the <strong GUID="8756e7aa-6b9e-4018-8e0a-8dd96471f01b">End Lesson </strong>button to exit the lesson.</span>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="95d4b4f9-4672-47d7-a5af-f812dc77197d">
+          <EndLesson GUID="46870430-75f5-4a04-acc6-74c4e70a0d01"> <![CDATA[<div class="EndLesson_Main">
+  <input type="button" class="Navigation_Button_Submit" value="End Lesson" onClick="__doPostBack('Lesson_End','')">
+</div>]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

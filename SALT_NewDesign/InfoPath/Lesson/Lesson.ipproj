@@ -1,0 +1,80 @@
+﻿"General"
+{
+"SccProjectName" = "\"$/Dev/SALT v3.0/Source/InfoPath/Lesson\", KOYDAAAA"
+"SccLocalPath" = "."
+"SccAuxPath" = ""
+"SccProvider" = "MSSCCI:Microsoft Visual SourceSafe"
+"ProjectIdGuid" = "{A34E5DD0-F595-4EA6-95FA-9A89FCB46A6F}"
+"NestedProjectID" = "{C5EBEA40-BF79-4264-93FE-676BAEFD3F9E}"
+"PreviewDocumentPath" = ""
+"PreviewRoleName" = ""
+"UniqueNamespace" = "2005-02-15T06-33-01"
+"Language" = "CSharp"
+}
+"Configurations"
+{
+    "Debug"
+    {
+    }
+    "Release"
+    {
+    }
+}
+"Files"
+{
+    "LessonFormCode.csproj"
+    {
+    "ProjRelPath" = "T"
+    }
+    "manifest.xsf"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "F"
+    }
+    "sampledata.xml"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "view1.xsl"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "template.xml"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "phrases.xslt"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "lessonschema.xsd"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "phrases.xml"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "phrases.xsd"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "upgrade.xsl"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}

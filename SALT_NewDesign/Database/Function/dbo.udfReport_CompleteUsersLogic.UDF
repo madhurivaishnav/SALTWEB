@@ -1,0 +1,225 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReport_CompleteUsersLogic]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfReport_CompleteUsersLogic    Script Date: 20/04/2004 8:25:58 AM ******/
+
+/*Summary:
+Selects User details for users that have not Completed their training
+
+Parameters:
+@organisationID Integer,
+@unitIDs	string		(Mandatory)
+@courseID	int		(Mandatory)
+@effectiveDateOrg	datetime	(optional) (in Organisations Timezone)
+Returns:
+
+
+Called By:
+prcReport_CompletedUsers
+
+Calls:
+fn dbo.udfGetUnitPathway( UnitID )
+fn udfReport_incompleteUsers()
+fn udfCsvToInt( csv )
+
+
+Remarks:
+
+
+Author: Stephen Kennedy-Clark
+Date Created: 18 February 2004
+
+Execution:
+
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1	Jack Liu	27/02/2004 		Change the "in" criteria to left join, this will improve performance
+Fix the unit id bug
+#2	Stephen Clark	1/4/2004		change the function to use the underlying table
+#3	Peter Kneale	7/4/2004		Added function for effective date style reports
+#4	Liz Dionisio(UW)	8/11/2005		Added Username, Email and ExternalID to returned recordset
+#5	Yoppy Suwanto	22/08/2007		Replace the udfGetUnitPathway function with the tblUnitHierarchy usage.  This will improve perfomance
+#5	j hedlefs		09/06/2011		Timezone
+**/
+CREATE   function [udfReport_CompleteUsersLogic]
+(
+@organisationID Integer,	-- Organisation of the user running the report
+@unitIDs Varchar(MAX),		-- string of unit id''s
+@courseID Int, 			-- course ID to restrict search to
+@effectiveDateOrg datetime = null	-- effective date of report in Org timezone
+)
+
+-------------------------------------------------------------------
+Returns @tblReturn Table
+(
+UserID		Int,
+UnitID		Int,
+FirstName		nVarchar(255),
+LastName 	nVarchar(255),
+UnitPathway 	nVarchar(4000),
+[Date]		Datetime,
+Username	nvarchar(100),
+Email		nvarchar(100),
+ExternalID	nvarchar(50)
+)
+
+as
+Begin --1
+DECLARE @effectiveDate DateTime
+SET @effectiveDate = dbo.udfDaylightSavingTimeToUTC(@effectiveDateOrg,@OrganisationID)
+
+if (@unitIDs is null)
+begin --2
+----------------------------------------------------
+--- Report on all units
+----------------------------------------------------
+if (@effectiveDate is null)
+begin --4
+----------------------------------------------------
+--- Report on the current date
+----------------------------------------------------
+Insert into
+@tblReturn
+SELECT
+tU1.userID
+, tU1.UnitID
+, tU1.FirstName
+, tU1.LastName
+--, dbo.udfGetUnitPathway(tU1.UnitID) as ''UnitPathway''
+, tUH.HierarchyName as ''UnitPathway''
+, dbo.udfUTCtoDaylightSavingTime(vUCS.DateCreated,@OrganisationID) as ''Date''
+, tU1.Username as ''Username''
+, tU1.Email as ''Email''
+, tU1.ExternalID as ''ExternalID''
+FROM
+tblUser tU1
+inner join tblUnit
+on tU1.UnitID = tblUnit.UnitID
+and tblUnit.organisationID = @organisationID
+and tU1.Active = 1 --< only want active users >--
+and tu1.userTypeID <> 1 --< not interested in saltadmins >--
+inner join vwUserCourseStatus vUCS
+on vUCS.UserID = tU1.userID
+and vUCS.CourseStatusID = 2 --< only want completed users >--
+and vUCS.CourseID = @courseID
+inner join tblUnitHierarchy tUH
+on tU1.UnitID = tUH.UnitID
+end --/4
+else
+begin --5
+
+----------------------------------------------------
+--- Report on the historic date
+----------------------------------------------------
+Insert into
+@tblReturn
+SELECT
+tU1.userID
+, tU1.UnitID
+, tU1.FirstName
+, tU1.LastName
+--, dbo.udfGetUnitPathway(tU1.UnitID) as ''UnitPathway''
+, tUH.HierarchyName as ''UnitPathway''
+, dbo.udfUTCtoDaylightSavingTime(vUCS.DateCreated,@OrganisationID) as ''Date''
+, tU1.Username as ''Username''
+, tU1.Email as ''Email''
+, tU1.ExternalID as ''ExternalID''
+FROM
+tblUser tU1
+inner join tblUnit
+on tU1.UnitID = tblUnit.UnitID
+and tblUnit.organisationID = @organisationID
+and tU1.Active = 1 --< only want active users >--
+and tu1.userTypeID <> 1 --< not interested in saltadmins >--
+inner join  dbo.udfReport_HistoricUserCourseStatus(@effectiveDate) vUCS
+on vUCS.UserID = tU1.userID
+and vUCS.CourseStatusID = 2 --< only want completed users >--
+and vUCS.CourseID = @courseID
+inner join tblUnitHierarchy tUH
+on tU1.UnitID = tUH.UnitID
+end  --/5
+end --/2
+else
+begin --3
+----------------------------------------------------
+--- Report on specified units
+----------------------------------------------------
+if (@effectiveDate is null)
+Begin --6
+----------------------------------------------------
+--- Report on the current date
+----------------------------------------------------
+Insert into
+@tblReturn
+SELECT
+tU1.userID
+, tU1.UnitID
+, tU1.FirstName
+, tU1.LastName
+--, dbo.udfGetUnitPathway(tU1.UnitID) as ''UnitPathway''
+, tUH.HierarchyName as ''UnitPathway''
+, dbo.udfUTCtoDaylightSavingTime(vUCS.DateCreated,@OrganisationID) as ''Date''
+, tU1.Username as ''Username''
+, tU1.Email as ''Email''
+, tU1.ExternalID as ''ExternalID''
+FROM
+tblUser tU1
+inner join tblUnit on
+tU1.UnitID = tblUnit.UnitID
+and tblUnit.organisationID = @organisationID
+and tU1.Active = 1 --< only want active users >--
+and tu1.userTypeID <> 1 --< not interested in saltadmins >--
+inner join vwUserCourseStatus vUCS
+on vUCS.UserID = tU1.userID
+and vUCS.CourseStatusID = 2 --< only want completed users >--
+and vUCS.CourseID = @courseID
+inner join dbo.udfCsvToInt(@unitIDs) tU
+on tU.IntValue = tblUnit.UnitID --< restrict units to thoes in the list >--
+inner join tblUnitHierarchy tUH
+on tU1.UnitID = tUH.UnitID
+end  --/6
+else
+Begin  --7
+----------------------------------------------------
+--- Report on the historic date
+----------------------------------------------------
+Insert into
+@tblReturn
+SELECT
+tU1.userID
+, tU1.UnitID
+, tU1.FirstName
+, tU1.LastName
+--, dbo.udfGetUnitPathway(tU1.UnitID) as ''UnitPathway''
+, tUH.HierarchyName as ''UnitPathway''
+, dbo.udfUTCtoDaylightSavingTime(vUCS.DateCreated,@OrganisationID) as ''Date''
+, tU1.Username as ''Username''
+, tU1.Email as ''Email''
+, tU1.ExternalID as ''ExternalID''
+FROM
+tblUser tU1
+inner join tblUnit
+on tU1.UnitID = tblUnit.UnitID
+and tblUnit.organisationID = @organisationID
+and tU1.Active = 1 --< only want active users >--
+and tu1.userTypeID <> 1 --< not interested in saltadmins >--
+inner join  dbo.udfReport_HistoricUserCourseStatus(@effectiveDate) vUCS
+on vUCS.UserID = tU1.userID
+and vUCS.CourseStatusID = 2 --< only want completed users >--
+and vUCS.CourseID = @courseID
+inner join dbo.udfCsvToInt(@unitIDs) tU
+on tU.IntValue = tblUnit.UnitID --< restrict units to thoes in the list >--
+inner join tblUnitHierarchy tUH
+on tU1.UnitID = tUH.UnitID
+End  --/7
+end --/3
+return
+end -- /1
+' 
+END
+GO

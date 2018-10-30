@@ -1,0 +1,506 @@
+$/SALT.Net3/SALT/DatabaseConfiguration/FrmProgress.cs
+
+*****************  Version 7  *****************
+User: Jhedlefs        Date:  3-04-12  Time:  5:01p
+Checked in $/SALT.Net3/SALT/DatabaseConfiguration
+Comment:
+  
+Changes:
+160 Change:             this.prgStatus.Size = new System.Drawing.Size(614, 26);
+        To:             this.prgStatus.Size = new System.Drawing.Size(532, 26);
+
+
+**********************
+Label: SALT 4.2.1 build1
+User: Jhedlefs        Date:  8-03-12  Time:  1:45p
+Labeled 'SALT 4.2.1 build1'
+Label comment:
+  
+
+*****************  Version 6  *****************
+User: Jhedlefs        Date: 30-09-11  Time:  8:30a
+Checked in $/SALT.Net3/SALT/DatabaseConfiguration
+Comment:
+  
+Changes:
+ 29 Change:   private System.Windows.Forms.Label lblError;
+        To:         private System.Windows.Forms.Label lblError;
+ 30    Del:         private ImageList imageList1;
+ 31    Del:         private PictureBox pictureBox1;
+ 83    Del:             this.components = new System.ComponentModel.Container();
+ 84    Del:             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmProgress));
+ 92    Del:             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
+ 93    Del:             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+ 95    Del:             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+186    Del:             // imageList1
+187    Del:             // 
+188    Del:             this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
+189    Del:             this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
+190    Del:             this.imageList1.Images.SetKeyName(0, "charleybrown.png");
+191    Del:             this.imageList1.Images.SetKeyName(1, "charleybrown.png");
+192    Del:             // 
+193    Del:             // pictureBox1
+194    Del:             // 
+195    Del:             this.pictureBox1.Location = new System.Drawing.Point(226, 138);
+196    Del:             this.pictureBox1.Name = "pictureBox1";
+197    Del:             this.pictureBox1.Size = new System.Drawing.Size(179, 223);
+198    Del:             this.pictureBox1.TabIndex = 11;
+199    Del:             this.pictureBox1.TabStop = false;
+200    Del:             // 
+206    Del:             this.Controls.Add(this.pictureBox1);
+222    Del:             this.Controls.SetChildIndex(this.pictureBox1, 0);
+231    Del:             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+251 Change:             pictureBox1.Image = imageList1.Images[1];
+        To: 
+
+
+**********************
+Label: salt 4.2
+User: Vernon          Date: 29-09-11  Time: 10:31a
+Labeled 'salt 4.2'
+Label comment:
+  tag before changes for 4.2.0.xxx
+
+*****************  Version 5  *****************
+User: Jhedlefs        Date: 28-09-11  Time:  2:31p
+Checked in $/SALT.Net3/SALT/DatabaseConfiguration
+Comment:
+  
+Changes:
+ 30    Ins:         private ImageList imageList1;
+ 31    Ins:         private PictureBox pictureBox1;
+ 81 Change:    this.lblSQLServer = new System.Windows.Forms.Label();
+        To:             this.components = new System.ComponentModel.Container();
+ 82 Change:    this.lblDatabase = new System.Windows.Forms.Label();
+        To:             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmProgress));
+ 83 Change:    this.txtSQLServer = new System.Windows.Forms.TextBox();
+        To:             this.lblSQLServer = new System.Windows.Forms.Label();
+ 84 Change:    this.txtDatabase = new System.Windows.Forms.TextBox();
+        To:             this.lblDatabase = new System.Windows.Forms.Label();
+ 85 Change:    this.prgStatus = new System.Windows.Forms.ProgressBar();
+        To:             this.txtSQLServer = new System.Windows.Forms.TextBox();
+ 86 Change:    this.lblStatus = new System.Windows.Forms.Label();
+        To:             this.txtDatabase = new System.Windows.Forms.TextBox();
+ 87 Change:    this.lblError = new System.Windows.Forms.Label();
+        To:             this.prgStatus = new System.Windows.Forms.ProgressBar();
+ 88 Change:    this.SuspendLayout();
+        To:             this.lblStatus = new System.Windows.Forms.Label();
+ 89 Change:    // 
+        To:             this.lblError = new System.Windows.Forms.Label();
+ 90 Change:    // pnlTitle
+        To:             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
+ 91 Change:    // 
+        To:             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+ 92 Change:    this.pnlTitle.Name = "pnlTitle";
+        To:             this.pnlTitle.SuspendLayout();
+ 93 Change:    // 
+        To:             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+ 94 Change:    // lblTitle
+        To:             this.SuspendLayout();
+ 95 Change:    // 
+        To:             // 
+ 96 Change:    this.lblTitle.Name = "lblTitle";
+        To:             // pnlTitle
+ 97 Change:    this.lblTitle.Size = new System.Drawing.Size(78, 19);
+        To:             // 
+ 98 Change:    this.lblTitle.Text = "In Progress";
+        To:             this.pnlTitle.Size = new System.Drawing.Size(720, 92);
+ 99 Change:    // 
+        To:             // 
+100 Change:    // lblGuide
+        To:             // lblTitle
+101 Change:    // 
+        To:             // 
+102 Change:    this.lblGuide.Name = "lblGuide";
+        To:             this.lblTitle.Location = new System.Drawing.Point(29, 28);
+103 Change:    this.lblGuide.Size = new System.Drawing.Size(154, 16);
+        To:             this.lblTitle.Size = new System.Drawing.Size(106, 20);
+104 Change:    this.lblGuide.Text = "Database is being configured.";
+        To:             this.lblTitle.Text = "In Progress";
+105 Change:    // 
+        To:             // 
+106 Change:    // btnBack
+        To:             // lblGuide
+107 Change:    // 
+        To:             // 
+108 Change:    this.btnBack.Name = "btnBack";
+        To:             this.lblGuide.Location = new System.Drawing.Point(29, 102);
+109 Change:    // 
+        To:             this.lblGuide.Size = new System.Drawing.Size(197, 17);
+110 Change:    // btnCancel
+        To:             this.lblGuide.Text = "Database is being configured.";
+111 Change:    // 
+        To:             // 
+112 Change:    this.btnCancel.Name = "btnCancel";
+        To:             // btnBack
+113 Change:    this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
+        To:             // 
+114 Change:    // 
+        To:             this.btnBack.Location = new System.Drawing.Point(490, 397);
+115 Change:    // btnNext
+        To:             this.btnBack.Size = new System.Drawing.Size(90, 26);
+116 Change:    // 
+        To:             // 
+117 Change:    this.btnNext.Name = "btnNext";
+        To:             // btnCancel
+118 Change:    this.btnNext.Click += new System.EventHandler(this.btnNext_Click);
+        To:             // 
+119 Change:    // 
+        To:             this.btnCancel.Location = new System.Drawing.Point(374, 397);
+120 Change:    // lblSQLServer
+        To:             this.btnCancel.Size = new System.Drawing.Size(90, 26);
+121 Change:    // 
+        To:             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
+122 Change:    this.lblSQLServer.Location = new System.Drawing.Point(24, 112);
+        To:             // 
+123 Change:    this.lblSQLServer.Name = "lblSQLServer";
+        To:             // btnNext
+124 Change:    this.lblSQLServer.TabIndex = 5;
+        To:             // 
+125 Change:    this.lblSQLServer.Text = "SQL Server:";
+        To:             this.btnNext.Location = new System.Drawing.Point(595, 397);
+126 Change:    // 
+        To:             this.btnNext.Size = new System.Drawing.Size(90, 26);
+127 Change:    // lblDatabase
+        To:             this.btnNext.Click += new System.EventHandler(this.btnNext_Click);
+128 Change:    // 
+        To:             // 
+129 Change:    this.lblDatabase.Location = new System.Drawing.Point(352, 112);
+        To:             // lblSQLServer
+130 Change:    this.lblDatabase.Name = "lblDatabase";
+        To:             // 
+131 Change:    this.lblDatabase.TabIndex = 6;
+        To:             this.lblSQLServer.Location = new System.Drawing.Point(29, 129);
+132 Change:    this.lblDatabase.Text = "Database:";
+        To:             this.lblSQLServer.Name = "lblSQLServer";
+133 Change:    // 
+        To:             this.lblSQLServer.Size = new System.Drawing.Size(120, 27);
+134 Change:    // txtSQLServer
+        To:             this.lblSQLServer.TabIndex = 5;
+135 Change:    // 
+        To:             this.lblSQLServer.Text = "SQL Server:";
+136 Change:    this.txtSQLServer.Enabled = false;
+        To:             // 
+137 Change:    this.txtSQLServer.Location = new System.Drawing.Point(24, 144);
+        To:             // lblDatabase
+138 Change:    this.txtSQLServer.Name = "txtSQLServer";
+        To:             // 
+139 Change:    this.txtSQLServer.TabIndex = 7;
+        To:             this.lblDatabase.Location = new System.Drawing.Point(422, 129);
+140 Change:    this.txtSQLServer.Text = "";
+        To:             this.lblDatabase.Name = "lblDatabase";
+141 Change:    // 
+        To:             this.lblDatabase.Size = new System.Drawing.Size(120, 27);
+142 Change:    // txtDatabase
+        To:             this.lblDatabase.TabIndex = 6;
+143 Change:    // 
+        To:             this.lblDatabase.Text = "Database:";
+144 Change:    this.txtDatabase.Enabled = false;
+        To:             // 
+145 Change:    this.txtDatabase.Location = new System.Drawing.Point(352, 144);
+        To:             // txtSQLServer
+146 Change:    this.txtDatabase.Name = "txtDatabase";
+        To:             // 
+147 Change:    this.txtDatabase.TabIndex = 7;
+        To:             this.txtSQLServer.Enabled = false;
+148 Change:    this.txtDatabase.Text = "";
+        To:             this.txtSQLServer.Location = new System.Drawing.Point(29, 166);
+149 Change:    // 
+        To:             this.txtSQLServer.Name = "txtSQLServer";
+150 Change:    // prgStatus
+        To:             this.txtSQLServer.Size = new System.Drawing.Size(120, 22);
+151 Change:    // 
+        To:             this.txtSQLServer.TabIndex = 7;
+152 Change:    this.prgStatus.Location = new System.Drawing.Point(24, 232);
+        To:             // 
+153 Change:    this.prgStatus.Name = "prgStatus";
+        To:             // txtDatabase
+154 Change:    this.prgStatus.Size = new System.Drawing.Size(512, 23);
+        To:             // 
+155 Change:    this.prgStatus.TabIndex = 8;
+        To:             this.txtDatabase.Enabled = false;
+156 Change:    // 
+        To:             this.txtDatabase.Location = new System.Drawing.Point(422, 166);
+157 Change:    // lblStatus
+        To:             this.txtDatabase.Name = "txtDatabase";
+158 Change:    // 
+        To:             this.txtDatabase.Size = new System.Drawing.Size(120, 22);
+159 Change:    this.lblStatus.AutoSize = true;
+        To:             this.txtDatabase.TabIndex = 7;
+160 Change:    this.lblStatus.Location = new System.Drawing.Point(24, 200);
+        To:             // 
+161 Change:    this.lblStatus.Name = "lblStatus";
+        To:             // prgStatus
+162 Change:    this.lblStatus.Size = new System.Drawing.Size(72, 16);
+        To:             // 
+163 Change:    this.lblStatus.TabIndex = 9;
+        To:             this.prgStatus.Location = new System.Drawing.Point(29, 268);
+164 Change:    this.lblStatus.Text = "Please wait...";
+        To:             this.prgStatus.Name = "prgStatus";
+165 Change:    // 
+        To:             this.prgStatus.Size = new System.Drawing.Size(614, 26);
+166 Change:    // lblError
+        To:             this.prgStatus.TabIndex = 8;
+167 Change:    // 
+        To:             // 
+168 Change:    this.lblError.Location = new System.Drawing.Point(24, 272);
+        To:             // lblStatus
+169 Change:    this.lblError.Name = "lblError";
+        To:             // 
+170 Change:    this.lblError.Size = new System.Drawing.Size(528, 48);
+        To:             this.lblStatus.AutoSize = true;
+171 Change:    this.lblError.TabIndex = 10;
+        To:             this.lblStatus.Location = new System.Drawing.Point(29, 231);
+172 Change:    // 
+        To:             this.lblStatus.Name = "lblStatus";
+173 Change:    // FrmProgress
+        To:             this.lblStatus.Size = new System.Drawing.Size(91, 17);
+174 Change:    // 
+        To:             this.lblStatus.TabIndex = 9;
+175 Change:    this.AutoScaleBaseSize = new System.Drawing.Size(5, 13);
+        To:             this.lblStatus.Text = "Please wait...";
+176 Change:    this.ClientSize = new System.Drawing.Size(592, 373);
+        To:             // 
+177 Change:    this.Controls.Add(this.lblError);
+        To:             // lblError
+178 Change:    this.Controls.Add(this.lblStatus);
+        To:             // 
+179 Change:    this.Controls.Add(this.prgStatus);
+        To:             this.lblError.Location = new System.Drawing.Point(29, 314);
+180 Change:    this.Controls.Add(this.txtSQLServer);
+        To:             this.lblError.Name = "lblError";
+181 Change:    this.Controls.Add(this.lblDatabase);
+        To:             this.lblError.Size = new System.Drawing.Size(633, 55);
+182 Change:    this.Controls.Add(this.lblSQLServer);
+        To:             this.lblError.TabIndex = 10;
+183 Change:    this.Controls.Add(this.txtDatabase);
+        To:             // 
+184 Change:    this.Name = "FrmProgress";
+        To:             // imageList1
+185 Change:    this.Load += new System.EventHandler(this.FrmProgress_Load);
+        To:             // 
+186 Change:    this.Controls.SetChildIndex(this.txtDatabase, 0);
+        To:             this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
+187 Change:    this.Controls.SetChildIndex(this.lblSQLServer, 0);
+        To:             this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
+188 Change:    this.Controls.SetChildIndex(this.lblDatabase, 0);
+        To:             this.imageList1.Images.SetKeyName(0, "charleybrown.png");
+189 Change:    this.Controls.SetChildIndex(this.txtSQLServer, 0);
+        To:             this.imageList1.Images.SetKeyName(1, "charleybrown.png");
+190 Change:    this.Controls.SetChildIndex(this.prgStatus, 0);
+        To:             // 
+191 Change:    this.Controls.SetChildIndex(this.lblStatus, 0);
+        To:             // pictureBox1
+192 Change:    this.Controls.SetChildIndex(this.lblError, 0);
+        To:             // 
+193 Change:    this.Controls.SetChildIndex(this.pnlTitle, 0);
+        To:             this.pictureBox1.Location = new System.Drawing.Point(226, 138);
+194 Change:    this.Controls.SetChildIndex(this.lblGuide, 0);
+        To:             this.pictureBox1.Name = "pictureBox1";
+195 Change:    this.Controls.SetChildIndex(this.btnBack, 0);
+        To:             this.pictureBox1.Size = new System.Drawing.Size(179, 223);
+196 Change:    this.Controls.SetChildIndex(this.btnCancel, 0);
+        To:             this.pictureBox1.TabIndex = 11;
+197 Change:    this.Controls.SetChildIndex(this.btnNext, 0);
+        To:             this.pictureBox1.TabStop = false;
+198 Change:    this.ResumeLayout(false);
+        To:             // 
+201    Ins:             // FrmProgress
+202    Ins:             // 
+203    Ins:             this.AutoScaleBaseSize = new System.Drawing.Size(6, 15);
+204    Ins:             this.ClientSize = new System.Drawing.Size(592, 373);
+205    Ins:             this.Controls.Add(this.prgStatus);
+206    Ins:             this.Controls.Add(this.pictureBox1);
+207    Ins:             this.Controls.Add(this.lblError);
+208    Ins:             this.Controls.Add(this.lblStatus);
+209    Ins:             this.Controls.Add(this.txtSQLServer);
+210    Ins:             this.Controls.Add(this.lblDatabase);
+211    Ins:             this.Controls.Add(this.lblSQLServer);
+212    Ins:             this.Controls.Add(this.txtDatabase);
+213    Ins:             this.Name = "FrmProgress";
+214    Ins:             this.Text = " Database Configuration";
+215    Ins:             this.Load += new System.EventHandler(this.FrmProgress_Load);
+216    Ins:             this.Controls.SetChildIndex(this.txtDatabase, 0);
+217    Ins:             this.Controls.SetChildIndex(this.lblSQLServer, 0);
+218    Ins:             this.Controls.SetChildIndex(this.lblDatabase, 0);
+219    Ins:             this.Controls.SetChildIndex(this.txtSQLServer, 0);
+220    Ins:             this.Controls.SetChildIndex(this.lblStatus, 0);
+221    Ins:             this.Controls.SetChildIndex(this.lblError, 0);
+222    Ins:             this.Controls.SetChildIndex(this.pictureBox1, 0);
+223    Ins:             this.Controls.SetChildIndex(this.pnlTitle, 0);
+224    Ins:             this.Controls.SetChildIndex(this.lblGuide, 0);
+225    Ins:             this.Controls.SetChildIndex(this.btnBack, 0);
+226    Ins:             this.Controls.SetChildIndex(this.btnCancel, 0);
+227    Ins:             this.Controls.SetChildIndex(this.btnNext, 0);
+228    Ins:             this.Controls.SetChildIndex(this.prgStatus, 0);
+229    Ins:             this.pnlTitle.ResumeLayout(false);
+230    Ins:             this.pnlTitle.PerformLayout();
+231    Ins:             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+232    Ins:             this.ResumeLayout(false);
+233    Ins:             this.PerformLayout();
+216 Change:    
+        To:             pictureBox1.Image = imageList1.Images[1];
+
+
+**********************
+Label: 4.2.0
+User: Jhedlefs        Date: 16-09-11  Time:  9:12a
+Labeled '4.2.0'
+Label comment:
+  
+
+**********************
+Label: Salt4.2Beta
+User: Jhedlefs        Date: 12-07-11  Time:  4:30p
+Labeled 'Salt4.2Beta'
+Label comment:
+  
+
+*****************  Version 4  *****************
+User: Jhedlefs        Date:  1-07-11  Time:  1:43p
+Checked in $/SALT.Net3/SALT/DatabaseConfiguration
+Comment:
+  
+Changes:
+303 Change:         if (description == "Optimising Reports" || description == "Creating SQL server Job" || description == "Load Data")
+        To:                                 if (description == "Optimising Reports" || description == "Creating SQL server Job" || description == "Load Data")
+304 Change:          sql = String.Format(sql,
+        To:                                 {
+305 Change:           ApplicationState.DatabaseName.Replace("'","''"),
+        To:                                     sql = String.Format(sql,
+306 Change:           webUserName.Replace("'","''"),
+        To:                                         ApplicationState.DatabaseName.Replace("'", "''"),
+307 Change:           ApplicationState.AdminUsername.Replace("'","''"),
+        To:                                         webUserName.Replace("'", "''"),
+308 Change:           ApplicationState.AdminPassword.Replace("'","''")
+        To:                                         ApplicationState.AdminUsername.Replace("'", "''"),
+309 Change:           );
+        To:                                         ApplicationState.AdminPassword.Replace("'", "''")
+310    Ins:                                         );
+311    Ins:                                 }
+312    Ins:                                 else if (description == "Set DB Server Time Zone")
+313    Ins:                                 {
+314    Ins:                                     sql = sql.Replace("@@@VVV@@@", ApplicationState.DBServerTZ);
+315    Ins:                                 }
+
+
+*****************  Version 3  *****************
+User: Jhedlefs        Date: 10-12-10  Time:  1:30p
+Checked in $/SALT.Net3/SALT/DatabaseConfiguration
+Comment:
+  
+Changes:
+370 Change:                         
+        To: 
+371 Change:     this.UpdateWebConfig(strWebConnectionString,ApplicationState.WebPassword);
+        To:                 this.UpdateWebConfig(strWebConnectionString, ApplicationState.WebPassword);
+372 Change:     this.prgStatus.Value =100;
+        To:                 //this.UpdateCPDWebConfig(strWebConnectionString, ApplicationState.WebPassword);
+373    Ins:                 this.prgStatus.Value = 100;
+399 Change:         private void UpdateWebConfig(string connectionString,string password)
+        To:         private void UpdateWebConfig(string connectionString, string password)
+401    Ins:         {
+402    Ins:             string strWebConfig;
+403    Ins: 
+404    Ins:             // holds just the password
+405    Ins:             string strConnecitonStringPassword = "";
+406    Ins: 
+407    Ins:             // holds the rest of hte connection string
+408    Ins:             string strConnectionStringNoPassword = "";
+409    Ins: 
+410    Ins:             // get the connection string and remove the password
+411    Ins:             string[] strParts = connectionString.Split(';');
+412    Ins:             foreach (string strPart in strParts)
+413    Ins:             {
+414    Ins:                 if (strPart.ToLower().IndexOf("password=") == -1)
+415    Ins:                 {
+416    Ins:                     // build up a string that doesnt contain the password.
+417    Ins:                     strConnectionStringNoPassword += strPart + ";";
+418    Ins:                 }
+419    Ins:             }
+420    Ins: 
+421    Ins:             SecurityHandler objSecurity = new SecurityHandler();
+422    Ins:             strConnecitonStringPassword = objSecurity.Encrypt(password);
+423    Ins: 
+424    Ins:             // Get the installation diretory 
+425    Ins:             // its the first parameter off the command line arguments
+426    Ins:             string strInstallDirectory = "";
+427    Ins:             try
+428    Ins:             {
+429    Ins:                 strInstallDirectory = Environment.GetCommandLineArgs()[1];
+430    Ins:             }
+431    Ins:             catch (Exception ex)
+432    Ins:             {
+433    Ins:                 MessageBox.Show(" This application requires arguements - first arguement is the install directory, message relating to arguements:" + ex.Message + Environment.NewLine + ex.StackTrace);
+434    Ins:             }
+435    Ins: 
+436    Ins:             // string strInstallDirectory = Environment.GetCommandLineArgs()[0];
+437    Ins:             // Above directory is web directory
+438    Ins:             DirectoryInfo dirSaltApplication = new DirectoryInfo(strInstallDirectory);
+439    Ins: 
+440    Ins:             // Full path and filename to the web.config file.
+441    Ins:             strWebConfig = dirSaltApplication.FullName + "\\Web.Config";
+442    Ins:             Bdw.Application.Salt.Deployment.DatabaseConfiguration.ConfigureWebConfig.WebConfigConnectionString
+443    Ins:                 (strWebConfig,
+444    Ins:                 "connectionstring", strConnectionStringNoPassword.Replace("\"", ""),
+445    Ins:                 "connectionstringpassword", strConnecitonStringPassword.Replace("\"", ""));
+446    Ins: 
+447    Ins: 
+448    Ins:             strWebConfig = dirSaltApplication.FullName + "\\Reporting\\Email\\Web.Config";
+449    Ins:             Bdw.Application.Salt.Deployment.DatabaseConfiguration.ConfigureWebConfig.WebConfigConnectionString
+450    Ins:                 (strWebConfig,
+451    Ins:                 "logconnectionstring", strConnectionStringNoPassword.Replace("\"", ""),
+452    Ins:                 "connectionstringpassword", strConnecitonStringPassword.Replace("\"", ""));
+453    Ins: 
+454    Ins:             // Full path and filename to the web.config file.
+455    Ins:             strWebConfig = dirSaltApplication.FullName + "\\Reporting\\CPD\\Web.Config";
+456    Ins:             Bdw.Application.Salt.Deployment.DatabaseConfiguration.ConfigureWebConfig.WebConfigConnectionString
+457    Ins:                 (strWebConfig,
+458    Ins:                 "logconnectionstring", strConnectionStringNoPassword.Replace("\"", ""),
+459    Ins:                 "connectionstringpassword", strConnecitonStringPassword.Replace("\"", ""));
+460    Ins: 
+461    Ins:         }
+462    Ins: 
+463    Ins:     
+464    Ins:         private void UpdateCPDWebConfig(string connectionString,string password)
+440 Change:             strWebConfig = dirSaltApplication.FullName + "\\Web.Config";
+        To:             strWebConfig = dirSaltApplication.FullName + "\\Reporting\\CPD\\Web.Config";
+442 Change:     (strWebConfig, 
+        To:     (strWebConfig,
+443 Change:     "connectionstring", strConnectionStringNoPassword.Replace("\"",""),
+        To:                 "logconnectionstring", strConnectionStringNoPassword.Replace("\"", ""),
+446    Del: 
+447    Del:    strWebConfig = dirSaltApplication.FullName + "\\Reporting\\Email\\Web.Config";
+448    Del:    Bdw.Application.Salt.Deployment.DatabaseConfiguration.ConfigureWebConfig.WebConfigConnectionString
+449    Del:     (strWebConfig, 
+450    Del:     "logconnectionstring", strConnectionStringNoPassword.Replace("\"",""),
+451    Del:     "connectionstringpassword", strConnecitonStringPassword.Replace("\"",""));
+
+
+*****************  Version 2  *****************
+User: Jhedlefs        Date: 25-11-10  Time:  9:20a
+Checked in $/SALT.Net3/SALT/DatabaseConfiguration
+Comment:
+  
+Changes:
+425 Change:            string strInstallDirectory = Environment.GetCommandLineArgs()[1];
+        To:             string strInstallDirectory = "";
+426 Change:            // string strInstallDirectory = Environment.GetCommandLineArgs()[0];
+        To:             try
+427    Ins:             {
+428    Ins:                 strInstallDirectory = Environment.GetCommandLineArgs()[1];
+429    Ins:             }
+430    Ins:             catch (Exception ex)
+431    Ins:             {
+432    Ins:                 MessageBox.Show(" This application requires arguements - first arguement is the install directory, message relating to arguements:" + ex.Message + Environment.NewLine + ex.StackTrace);
+433    Ins:             }
+434    Ins: 
+435    Ins:             // string strInstallDirectory = Environment.GetCommandLineArgs()[0];
+
+
+*****************  Version 1  *****************
+User: Jhedlefs        Date: 21-06-10  Time:  8:57a
+Created FrmProgress.cs
+Comment:
+  
+

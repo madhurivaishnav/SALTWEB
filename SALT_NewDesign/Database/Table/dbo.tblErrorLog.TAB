@@ -1,0 +1,84 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblErrorLog]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblErrorLog](
+	[ErrorLogID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[Source] [varchar](1000) NOT NULL,
+	[Module] [varchar](100) NULL,
+	[Function] [varchar](100) NULL,
+	[Code] [varchar](100) NULL,
+	[Message] [varchar](500) NOT NULL,
+	[StackTrace] [varchar](8000) NOT NULL,
+	[ErrorLevel] [int] NOT NULL,
+	[ErrorStatus] [int] NOT NULL,
+	[Resolution] [varchar](1000) NULL,
+	[DateCreated] [smalldatetime] NOT NULL,
+	[DateUpdated] [smalldatetime] NOT NULL,
+ CONSTRAINT [PK__tblErrorLog__ErrorLogID] PRIMARY KEY CLUSTERED 
+(
+	[ErrorLogID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON, FILLFACTOR = 90) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+SET ANSI_PADDING OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblErrorLog_tblErrorLevel]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblErrorLog]'))
+ALTER TABLE [dbo].[tblErrorLog]  WITH CHECK ADD  CONSTRAINT [FK_tblErrorLog_tblErrorLevel] FOREIGN KEY([ErrorLevel])
+REFERENCES [dbo].[tblErrorLevel] ([ErrorLevelID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblErrorLog_tblErrorLevel]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblErrorLog]'))
+ALTER TABLE [dbo].[tblErrorLog] CHECK CONSTRAINT [FK_tblErrorLog_tblErrorLevel]
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblErrorLog_tblErrorStatus]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblErrorLog]'))
+ALTER TABLE [dbo].[tblErrorLog]  WITH CHECK ADD  CONSTRAINT [FK_tblErrorLog_tblErrorStatus] FOREIGN KEY([ErrorStatus])
+REFERENCES [dbo].[tblErrorStatus] ([ErrorStatusID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblErrorLog_tblErrorStatus]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblErrorLog]'))
+ALTER TABLE [dbo].[tblErrorLog] CHECK CONSTRAINT [FK_tblErrorLog_tblErrorStatus]
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF__tblErrorL__Level__2AA05119]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblErrorLog]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF__tblErrorL__Level__2AA05119]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblErrorLog] ADD  CONSTRAINT [DF__tblErrorL__Level__2AA05119]  DEFAULT (2) FOR [ErrorLevel]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF__tblErrorL__Statu__2C88998B]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblErrorLog]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF__tblErrorL__Statu__2C88998B]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblErrorLog] ADD  CONSTRAINT [DF__tblErrorL__Statu__2C88998B]  DEFAULT (1) FOR [ErrorStatus]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblErrorLog_DateCreated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblErrorLog]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblErrorLog_DateCreated]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblErrorLog] ADD  CONSTRAINT [DF_tblErrorLog_DateCreated]  DEFAULT (getdate()) FOR [DateCreated]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblErrorLog_DateUpdated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblErrorLog]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblErrorLog_DateUpdated]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblErrorLog] ADD  CONSTRAINT [DF_tblErrorLog_DateUpdated]  DEFAULT (getdate()) FOR [DateUpdated]
+END
+
+
+End
+GO

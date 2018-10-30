@@ -1,0 +1,22 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblBulkInactiveUsers]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblBulkInactiveUsers](
+	[UserID] [int] NOT NULL,
+	[Processed] [bit] NOT NULL
+) ON [PRIMARY]
+END
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblBulkInactiveUsers_Processed]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblBulkInactiveUsers]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblBulkInactiveUsers_Processed]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblBulkInactiveUsers] ADD  CONSTRAINT [DF_tblBulkInactiveUsers_Processed]  DEFAULT ((0)) FOR [Processed]
+END
+
+
+End
+GO

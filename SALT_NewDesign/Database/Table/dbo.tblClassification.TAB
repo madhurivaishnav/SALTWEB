@@ -1,0 +1,28 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblClassification]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblClassification](
+	[ClassificationID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[ClassificationTypeID] [int] NOT NULL,
+	[Value] [nvarchar](50) NOT NULL,
+	[Active] [bit] NOT NULL,
+ CONSTRAINT [PK_tblClassification] PRIMARY KEY NONCLUSTERED 
+(
+	[ClassificationID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblClassification_Active]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblClassification]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblClassification_Active]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblClassification] ADD  CONSTRAINT [DF_tblClassification_Active]  DEFAULT ((1)) FOR [Active]
+END
+
+
+End
+GO

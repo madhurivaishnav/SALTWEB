@@ -1,0 +1,72 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblReportScheduleAudit]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblReportScheduleAudit](
+	[AuditID] [int] IDENTITY(1,1) NOT NULL,
+	[ScheduleID] [int] NULL,
+	[UserID] [int] NULL,
+	[ReportID] [int] NULL,
+	[LastRun] [datetime] NULL,
+	[NextRun] [datetime] NULL,
+	[ReportDuration] [int] NULL,
+	[ReportDurationPeriod] [char](1) NULL,
+	[ReportStartDate] [datetime] NULL,
+	[ReportEndDate] [datetime] NULL,
+	[NumberOfReports] [int] NULL,
+	[ReportFrequency] [int] NULL,
+	[ReportFrequencyPeriod] [char](1) NULL,
+	[DocumentType] [char](1) NULL,
+	[ReportTitle] [nvarchar](100) NULL,
+	[ParamOrganisationID] [int] NULL,
+	[ParamCompleted] [char](1) NULL,
+	[ParamStatus] [char](1) NULL,
+	[ParamFailCount] [int] NULL,
+	[ParamCourseIDs] [nvarchar](800) NULL,
+	[ParamHistoricCourseIDs] [nvarchar](800) NULL,
+	[ParamAllUnits] [char](1) NULL,
+	[ParamTimeExpired] [int] NULL,
+	[ParamTimeExpiredPeriod] [char](1) NULL,
+	[ParamQuizStatus] [char](1) NULL,
+	[ParamGroupBy] [char](1) NULL,
+	[ParamGroupingOption] [int] NULL,
+	[ParamFirstName] [nvarchar](200) NULL,
+	[ParamLastName] [nvarchar](200) NULL,
+	[ParamUserName] [nvarchar](200) NULL,
+	[ParamEmail] [nvarchar](200) NULL,
+	[ParamIncludeInactive] [char](1) NULL,
+	[ParamSubject] [nvarchar](200) NULL,
+	[ParamBody] [nvarchar](200) NULL,
+	[ParamProfileID] [int] NULL,
+	[ParamOnlyUsersWithShortfall] [char](1) NULL,
+	[ParamEffectiveDate] [datetime] NULL,
+	[ParamSortBy] [char](1) NULL,
+	[ParamClassificationID] [int] NULL,
+	[ParamUnitIDs] [nvarchar](max) NULL,
+	[ParamLangCode] [nvarchar](10) NULL,
+	[ParamDateTo] [datetime] NULL,
+	[ParamDateFrom] [datetime] NULL,
+	[ParamLicensingPeriod] [nvarchar](4000) NULL,
+	[ParamProfilePeriodID] [int] NULL,
+	[ReportPeriodType] [int] NULL,
+	[ReportFromDate] [datetime] NULL,
+	[IsPeriodic] [char](1) NULL,
+	[LastUpdatedBy] [int] NULL,
+	[LastUpdated] [datetime] NULL,
+	[LastUpdAction] [char](1) NULL,
+	[TerminatedNormally] [bit] NULL,
+	[NumberDelivered] [int] NULL,
+	[DateCreated] [datetime] NULL,
+ CONSTRAINT [PK_tblReportScheduleAudit] PRIMARY KEY CLUSTERED 
+(
+	[AuditID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+SET ANSI_PADDING OFF
+GO

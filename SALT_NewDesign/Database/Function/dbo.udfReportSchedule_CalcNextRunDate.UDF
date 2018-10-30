@@ -1,0 +1,77 @@
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReportSchedule_CalcNextRunDate]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'CREATE FUNCTION [udfReportSchedule_CalcNextRunDate]
+(
+@MinimumRun datetime,
+@ReportStartDate datetime,
+@ReportFrequencyPeriod char(1),
+@ReportFrequency int,
+@OrgID int
+)
+RETURNS  datetime
+AS
+BEGIN
+-- NextRun is saved in the ORGs timezone so that when an ORG goes into daylight saving the Report is run at the correct time.
+-- ALL other times are saved in the ORGs timezone to reduce load on the GUI when the ORGs timezone is changed
+DECLARE @NextRun DateTime
+SET @NextRun = @MinimumRun
+IF (@NextRun < @ReportStartDate )
+BEGIN
+     SET @NextRun = @ReportStartDate
+END
+DECLARE @NumReportPeriodsToNextRun bigint
+if (@ReportFrequency = 0)
+begin
+set @ReportFrequency = 1
+end
+SELECT @NumReportPeriodsToNextRun =
+1 + CASE
+WHEN (@ReportFrequencyPeriod=''Y'') THEN DATEDIFF(YEAR,@ReportStartDate,@MinimumRun)/ @ReportFrequency
+WHEN (@ReportFrequencyPeriod=''M'') THEN DATEDIFF(MONTH,@ReportStartDate,@MinimumRun)/ @ReportFrequency
+WHEN (@ReportFrequencyPeriod=''W'') THEN DATEDIFF(WEEK,@ReportStartDate,@MinimumRun)/ @ReportFrequency
+WHEN (@ReportFrequencyPeriod=''D'') THEN DATEDIFF(DAY,@ReportStartDate,@MinimumRun)/ @ReportFrequency
+WHEN (@ReportFrequencyPeriod=''H'') THEN DATEDIFF(HOUR,@ReportStartDate,@MinimumRun)/ @ReportFrequency
+END
+
+
+
+DECLARE @NumReportPeriodsToNow bigint
+SELECT @NumReportPeriodsToNow =
+CASE
+WHEN (@ReportFrequencyPeriod=''Y'') THEN DATEDIFF(YEAR,			@ReportStartDate,dbo.udfUTCtoDaylightSavingTime(getUTCdate(),@OrgID))/ @ReportFrequency
+WHEN (@ReportFrequencyPeriod=''M'') THEN DATEDIFF(MONTH,	@ReportStartDate,dbo.udfUTCtoDaylightSavingTime(getUTCdate(),@OrgID))/ @ReportFrequency
+WHEN (@ReportFrequencyPeriod=''W'') THEN DATEDIFF(WEEK,		@ReportStartDate,dbo.udfUTCtoDaylightSavingTime(getUTCdate(),@OrgID))/ @ReportFrequency
+WHEN (@ReportFrequencyPeriod=''D'') THEN DATEDIFF(DAY,			@ReportStartDate,dbo.udfUTCtoDaylightSavingTime(getUTCdate(),@OrgID))/ @ReportFrequency
+WHEN (@ReportFrequencyPeriod=''H'') THEN DATEDIFF(HOUR,		@ReportStartDate,dbo.udfUTCtoDaylightSavingTime(getUTCdate(),@OrgID))/ @ReportFrequency
+END
+
+
+IF ((@NumReportPeriodsToNextRun) < @NumReportPeriodsToNow) --We have missed an entire reporting period!!!
+AND (DATEADD(DAY,2,@NextRun) < dbo.udfUTCtoDaylightSavingTime(getUTCdate(),@OrgID))  --- it is more than 2 days that we are behind for this report!!!
+BEGIN --- need to skip some reports as the server has been down for a long time or the date has jumped by a big increment and we don''t want to thrash the servers
+SELECT @NextRun = CASE -- Just Move NextRun forward so we have at most one report to deliver
+WHEN (@ReportFrequencyPeriod=''Y'') THEN DATEADD(YEAR,@NumReportPeriodsToNow*@ReportFrequency,@ReportStartDate)
+WHEN (@ReportFrequencyPeriod=''M'') THEN DATEADD(MONTH,@NumReportPeriodsToNow*@ReportFrequency,@ReportStartDate)
+WHEN (@ReportFrequencyPeriod=''W'') THEN DATEADD(WEEK,@NumReportPeriodsToNow*@ReportFrequency,@ReportStartDate)
+WHEN (@ReportFrequencyPeriod=''D'') THEN DATEADD(DAY,@NumReportPeriodsToNow*@ReportFrequency,@ReportStartDate)
+WHEN (@ReportFrequencyPeriod=''H'') THEN DATEADD(HOUR,@NumReportPeriodsToNow*@ReportFrequency,@ReportStartDate)
+END
+END
+
+
+-- Return the result of the function
+RETURN  @NextRun
+
+END
+' 
+END
+
+GO
+
+

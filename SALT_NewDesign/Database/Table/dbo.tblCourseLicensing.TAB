@@ -1,0 +1,35 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblCourseLicensing]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblCourseLicensing](
+	[CourseLicensingID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[OrganisationID] [int] NULL,
+	[CourseID] [int] NULL,
+	[LicenseNumber] [int] NULL,
+	[DateStart] [datetime] NULL,
+	[DateEnd] [datetime] NULL,
+	[LicenseWarnEmail] [bit] NULL,
+	[LicenseWarnNumber] [int] NULL,
+	[DateLicenseWarnEmailSent] [datetime] NULL,
+	[ExpiryWarnEmail] [bit] NULL,
+	[DateWarn] [datetime] NULL,
+	[DateExpiryWarnEmailSent] [datetime] NULL,
+	[RepNameSalt] [nvarchar](200) NULL,
+	[RepEmailSalt] [nvarchar](200) NULL,
+	[RepNameOrg] [nvarchar](200) NULL,
+	[RepEmailOrg] [nvarchar](200) NULL,
+	[LangCode] [varchar](10) NULL,
+ CONSTRAINT [PK_tblCourseLicensing] PRIMARY KEY CLUSTERED 
+(
+	[CourseLicensingID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+SET ANSI_PADDING OFF
+GO

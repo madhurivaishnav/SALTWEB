@@ -1,0 +1,29 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblLessonPage]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblLessonPage](
+	[LessonPageID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[LessonID] [int] NOT NULL,
+	[ToolbookPageID] [varchar](50) NOT NULL,
+	[Title] [nvarchar](255) NOT NULL,
+ CONSTRAINT [PK_tblLessionPage] PRIMARY KEY CLUSTERED 
+(
+	[LessonPageID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+SET ANSI_PADDING OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblLessionPage_tblLession]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblLessonPage]'))
+ALTER TABLE [dbo].[tblLessonPage]  WITH CHECK ADD  CONSTRAINT [FK_tblLessionPage_tblLession] FOREIGN KEY([LessonID])
+REFERENCES [dbo].[tblLesson] ([LessonID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblLessionPage_tblLession]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblLessonPage]'))
+ALTER TABLE [dbo].[tblLessonPage] CHECK CONSTRAINT [FK_tblLessionPage_tblLession]
+GO

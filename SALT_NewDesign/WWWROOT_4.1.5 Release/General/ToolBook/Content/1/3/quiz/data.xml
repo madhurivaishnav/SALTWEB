@@ -1,0 +1,747 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution productVersion="11.0.6357" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" solutionVersion="1.0.0.3" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-us" GUID="b2de8190-02b4-4995-9041-7da2b0cc4b87">
+  <Summary ID="inactiveq" GUID="b2ee0144-5ec9-4e21-a1f9-7373e8349f10">
+    <ContentType GUID="cd98b019-9443-4952-9c51-142c0d8cfbf3">quiz</ContentType>
+    <UploadType GUID="c538ae6a-ad24-456f-bc6f-e37ba7a1b405">update</UploadType>
+    <Title GUID="180833cf-6d19-4bb1-b18d-19bd50e93f00">General Compliance Obligations Quiz</Title>
+    <CreatedBy GUID="d9e17dea-8462-40b5-8cdf-49e59bce6fe2">Administrator</CreatedBy>
+    <CreatedDate GUID="cc5b926b-19a3-4b87-bb10-2cc1d3153320">2005-03-01T14:16:05</CreatedDate>
+    <LastModifiedBy GUID="d7d4f422-13f9-40c5-8dc3-3b2127519f88">pkneale</LastModifiedBy>
+    <LastModifiedDate GUID="8fd9bfc0-c950-4bbb-9b79-4e83ea7d9cf3">2005-03-03T14:39:31</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="fc181ae4-6411-4ea8-a5ff-e1e057d1413d">
+    <Page ID="Intro1" IsActive="true" GUID="3a81a6b2-a20b-41ce-bdf1-6d1af7422ef0">
+      <Title GUID="4db08ded-886b-497a-9f71-4ff58bf59fe4">Welcome to the General Compliance Obligations Quiz</Title>
+      <PageElements GUID="7b350010-3fc6-4236-9c9c-dd542324f59d">
+        <PageElement GUID="b31c5620-4b8a-461b-88eb-f1fd0c294569">
+          <TextBox GUID="db064ff5-ac59-4e30-ac20-81205b278e7d"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="6a9a0fd0-7e31-451f-b88b-c36f6995e250">
+    <div GUID="a928d96b-e6e7-48a1-98d0-e94ac1a2e52a" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="0c7cbb9c-993c-45c2-8b14-c2de6a736c7b">%System_NumberOfQuestions%</strong>  questions about<strong GUID="75583f63-35e4-4a09-b0fe-50ace23bc1d9"> Stuff.</strong><br GUID="e6a72feb-236b-4267-b825-38e0d7639182"><br GUID="7f8030af-b2a7-4f19-b349-30cba497e3ed">You may be asked 3 different types of questions: multiple choice, true/false or yes/no. Answer each question by clicking the radio button to the left of the most appropriate response.<br GUID="48ce7acb-0f15-42d3-98b0-09e5df18fe1c"><br GUID="f4f00e01-f748-4334-83aa-1db499b5fc6c">After you answer the last question, you will be given the chance to review and then submit your answers.<br GUID="b182c604-11f4-4d4c-ac9e-f2d321156ca8"><br GUID="3ee472f8-e9f9-452a-ad32-f4b4bce2c0df">Please note that if you Exit the quiz before clicking the Submit Answers button then your answers will not be saved. <br GUID="3cb4682e-9a8d-410a-9b14-22137f51fec9"><br GUID="a519c30a-d406-47af-9bd8-a05aa4121a29">To move between questions, use the <strong GUID="c9077764-c920-4ced-aff3-a625ebbcc17d">Previous</strong> and <strong GUID="a4acc904-193b-49cf-937d-a19cfc3dae8a">Next</strong> navigation buttons on the bottom right of the page. <strong GUID="fadbf7a6-d14f-4712-a966-07686ead8ad4">Do not use your browser back/forward buttons as this will cause you to Exit the quiz.</strong></div>
+    <div GUID="4e7af984-c142-43ed-af45-a74620428a45" xmlns="http://www.w3.org/1999/xhtml"> </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="e681aafb-38e9-418e-891b-a965ff7365b1">
+    <Page ID="Q1" IsActive="true" GUID="a0fc55d4-9c8b-49b1-9a2f-183d01b55018">
+      <Title GUID="622f54a2-de60-414e-aeef-b3f7f6243ac0">Question</Title>
+      <PageElements GUID="65dd27bb-4339-4b2a-97a2-8b9fc94d882b">
+        <PageElement GUID="04d0f328-38cc-442f-b681-2c723ff18ef2">
+          <Question GUID="70b3df3a-8e65-46c4-91b6-7966d4db2c4e"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="0a734a70-4ae2-4446-93e3-ed2363595be6">The main general compliance obligations under the CA 2001 are found in:</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fbf11613-0ab8-4f91-a724-817a2876b994">Section 910A</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2516290b-c801-4a11-930a-7e4e0f3e9b21">Section 911A</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="815a5b32-9e25-4fe5-8cda-b5a809477ff4">Section 912A</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9a2f9c35-4e61-4fb1-bea0-200c5d67a991">Section 913A</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="fb523675-accc-40ae-91b2-2fd8e1eb4943">
+      <Title GUID="c51358c9-8191-41a3-a1ae-dddcf39a0fcb">Question</Title>
+      <PageElements GUID="f4eea3b1-d1f3-4454-b63a-061361a23012">
+        <PageElement GUID="ac520365-80e8-42da-ab5b-38d0d1f6277b">
+          <Question GUID="a1348f43-b4b0-4dab-87c1-d3f2e94ac445"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="7027d6a0-ec91-4836-8290-20f4aa9f4c90">The general obligations of AFS licensees are required under s 912A to include doing all things necessary to ensure that the financial services covered by the licence are provided:</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5956d877-4fcd-4d42-afe0-4c84e5be4002">Honestly</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="44118f8e-9711-48a8-b947-a864f4f64ea9">Honestly and effectively</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2ae7f613-f823-4f38-acd4-1f32ec95e63f">Efficiently, honestly and fairly</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ef022142-bca6-4f0b-8a24-a59f0abb0a32">Efficiently, honestly and reasonbly</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="6e62ca39-82ee-4dc1-a8d1-c1ef2e47d8ad">
+      <Title GUID="c155a945-999d-4a17-9ebb-2d6ef5d297f7">Question</Title>
+      <PageElements GUID="c3f2f36c-ee4f-40ee-9f1e-3a6eaa49e6fd">
+        <PageElement GUID="bb4f8eaa-ac3c-4e30-8835-2b4c20779323">
+          <Question GUID="b5ec191b-b4a9-490d-b380-232f674659e5"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="e0a19138-56ce-4782-bcb9-fe902b39ff5f">Advertisements for financial services and products are allowed if there is compliance with s 1018A. True or false?</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e8b9b017-daf6-4f88-99ec-56e21bebd51d">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8b0030f5-dd66-438b-8743-500a52556436">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="844b9d05-bed4-416e-8ecd-714740694a0d">
+      <Title GUID="bc27bc61-eecc-4a30-8195-d0b9202ba5e7">Question</Title>
+      <PageElements GUID="785b193e-1b92-42df-8273-95e85a02bede">
+        <PageElement GUID="bc69b6c4-1d85-494c-a41d-c30760e8e178">
+          <Question GUID="410d17da-b628-4c92-a109-987e05e26035"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="e9fff8fd-1488-4887-bd31-d2c42de23534">Cooling off periods for retail clients under s 1019A relate to the following types of financial services products:</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="71abbdd0-13a8-4c30-8f49-55728bc5ce47">Life assurance products and securities</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c70a7414-53e3-4176-96c3-9a9c0f3abe5a">Risk insurance products; securities and RSA products</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d22e19a6-f919-444f-9a0f-a9ba6bbd2605">Risk insurance products; managed investment products; superannuation products, debentures, securities, options and RSA products</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="af6d5cfb-fc4f-4c44-98c5-6b6d50281e01">Risk insurance products; investment life insurance products; managed investment products; superannuation products and RSA products</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="ff20ece8-4f9c-4693-8685-f070a2b7b53e">
+      <Title GUID="f87d7168-3563-4156-9f79-9f538b399960">Question</Title>
+      <PageElements GUID="7f213ec2-fa2c-425e-b20d-186016003b47">
+        <PageElement GUID="73272457-f367-4c70-bd09-d3e1a2afddbf">
+          <Question GUID="3094e439-4592-44e9-af05-6499b9c2edae"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="3e79ed0d-10d6-4b6f-b9df-7d5206157728">The remedy for a retail client exercising their rights within the cooling off period is to return the financial product and to receive the money they have paid to acquire the product repaid under s 1019B. True or false?</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c8d270d4-16bd-4652-850a-1006d790a5f7">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f20bd221-2567-4b74-ab39-3d14374341db">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="87fe1714-898d-44fb-8d2e-7f3b92529855">
+      <Title GUID="cfb8d645-56b3-4a19-86fc-0c0ec8dff9cb">Question</Title>
+      <PageElements GUID="3e3d364b-e3c0-4185-914b-3a5258f7cc2d">
+        <PageElement GUID="87a539d5-e12b-4018-8f08-173eb5a25d94">
+          <Question GUID="ce447b49-b853-4a66-8e88-f563759fab9c"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="b0e5c40b-0b3b-46eb-b4cd-11fc19b4e12a">The general obligations of AFS licensees are required under s 912A to include doing all things necessary to ensure that the financial services covered by the licence are provided efficiently, honestly and fairly. True or false?</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3a88a7a7-5198-4dba-96de-d89f9d72f94f">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5723c07b-2afa-4df4-b1d5-9cfb76859ab9">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="2f9b0b01-0112-4156-bd7a-6c06bde569b0">
+      <Title GUID="bb4d5cfa-2791-423d-b069-e0551e66432c">Question</Title>
+      <PageElements GUID="fc874fc9-f386-4f64-9a50-908bd9ac0280">
+        <PageElement GUID="711fdc19-fc93-4d99-8967-ecd22d011bdf">
+          <Question GUID="3a5a031a-7b39-4bbe-b558-cfdf8102a577"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="b6cf821f-f6b3-4a09-a6c3-1829276ce273">The AFS licensee or authorised representative must pay the retail clients money into the designated account to satisfy the s 981A obligations on the day it is received or the next business day. True or false?</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="afd119d9-69c3-454e-9d0e-8405ad39949a">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e2b672ba-6d20-4d16-a406-b69e651b576e">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="78a023e1-c73a-4bbd-9b44-b45f3a6be5d3">
+      <Title GUID="dd0cc52e-a5ab-442a-bbc7-8a675ce40dbd">Question</Title>
+      <PageElements GUID="9e55f6fd-35aa-46bb-bff5-43a969f670df">
+        <PageElement GUID="2c8879cb-f8d8-42ea-b15d-f135ac3690b8">
+          <Question GUID="736b3b9a-b913-4d52-99a9-a3cf6ec8ba1d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="2beffaf0-7611-4804-9ece-41016769cb0f">Unsolicited offers for financial services products must comply with s 1019D and usually relate to financial products or services that are dealt with:</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8b3c242b-95aa-4c04-aca6-8c3797964354">On a regulated market</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="47acd5f6-32a9-4cbf-aa0c-c9443afda4ac">Off a regulated market</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="eb31d116-a373-4c1c-baec-3e43ecc99f96">On an international financial market</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ad2cd817-241f-49fa-ab6f-5d96f1749674">None of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="3b9ff2a3-1928-4a41-b5b2-6c4ab069483b">
+      <Title GUID="862275eb-fbbd-4836-844c-cc52cf3163d5">Question</Title>
+      <PageElements GUID="ec43692e-0aec-4a23-b951-ba715f59228f">
+        <PageElement GUID="2773fe4c-2207-4941-b784-081189848ff6">
+          <Question GUID="12e9a1cf-ff52-4f5d-948e-44f3bbcf7336"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="d13f4da3-e1bc-4c6c-a848-4035677afbca">The confirmation of a transaction between a financial services provider and a retail client must provide the identify the issuer of the product and give details of the transaction, such as the date, description of the transaction and any payments made, including taxes/duties. True or false?</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="420f5fd5-4588-40b1-8ae0-1b6c7d552d06">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d6d2347c-e8a2-42c8-b94b-f96fb230911c">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="8e324077-55f9-42f1-be95-20964a842603">
+      <Title GUID="4b66384a-c447-4016-8b59-18888d405ced">Question</Title>
+      <PageElements GUID="8ba59cf0-936a-4a4a-917d-203f87ecfa00">
+        <PageElement GUID="1ea2fd0d-fad2-471f-b252-255112a2006b">
+          <Question GUID="ce66796a-8492-46ea-b0b0-8d29aed54d4f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="5986d491-a324-444f-97ea-a17f947b9c37">The AFS licence has a mixture of standard conditions and specific conditions attached to the licence granted by the ASIC. True or false?</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c086211c-8ec0-41ef-b337-66eb9ae8785e">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="def5bbbd-8e2b-4c53-aae1-e4e615aaca1f">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q11" IsActive="true" GUID="c48d6780-0039-43cc-93ab-e3c5c97e8c4f">
+      <Title GUID="e7afcee6-c286-4786-869d-67942249c771">Question</Title>
+      <PageElements GUID="4280a33a-ce2a-497c-b5f6-2ce924d4227c">
+        <PageElement GUID="c210b207-a02c-42ad-a7c4-d52b177b3296">
+          <Question GUID="a24661e0-5f01-4983-a0ab-befdf404ccd1"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="432828cd-307c-4b40-86cd-50932508898c">Section 1017F requires certain transactions between financial service providers and retail clients to be confirmed.  The responsibility for confirmation obligation is borne by the:</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fc2f06bf-e47b-4625-8efc-f4131649aec9">Retail Client</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="078a7a95-7f5e-48e9-8bb9-3f451edb256a">Wholesale client</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f1d8a846-0a97-4aff-a6bd-ec54fa0bbf93">Issuer or seller of the product</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="193afba9-4b0c-4041-9a83-f75c2b29275d">The ASIC</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q12" IsActive="true" GUID="8a19371b-2cc9-4f10-8dd6-20735799fa47">
+      <Title GUID="9af89a74-eae7-44cc-8ddb-7285ce16cacb">Question</Title>
+      <PageElements GUID="66a02770-f2d1-49b4-81f9-64124f76cc01">
+        <PageElement GUID="69d9b199-6e3e-4f86-82a9-66ecda5ad192">
+          <Question GUID="a4e7dbb4-b112-43d4-9820-40dd058a643b"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="fcd92682-f3f0-447f-ac18-e6d7613d22fd">Failing to comply with the advertising provisions for financial services and products may result in:</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b447c614-9890-4a50-8ede-91bdd2a0c802">A criminal offence and a civil action</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3287fbdd-c763-4d96-a1d7-c6a2b98b0624">Only a criminal offence</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="35cd5606-13b5-4aba-865f-436701f2684d">Only a civil action</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a0703a96-7891-447f-9a8b-51fb4dc263c2">Only a civil penalty provision</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q13" IsActive="true" GUID="cb55929b-cbd7-4687-880c-fd633f80faa9">
+      <Title GUID="98295c65-f5da-4270-b799-4290fbd48389">Question</Title>
+      <PageElements GUID="54d316a8-a725-4eea-9760-273246094aa8">
+        <PageElement GUID="edbbc177-060f-4986-8eaf-666cfff6084d">
+          <Question GUID="2dbfea07-467b-4ba4-a532-1c0bb76a6a83"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="f068cbfc-22b6-4db9-a867-b274a129675b">It is a criminal offence if the AFS licensee or their authorised representative does not comply with the advertising requirements of CA 2001. True or false?</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6927c3bd-1ee3-489f-b0ac-5a7ad816972b">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ec204317-6328-4c4c-84b6-47f713850a99">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q14" IsActive="false" GUID="d980a1de-c2aa-490c-9624-ea1a380d03fe">
+      <Title GUID="850f61d1-2223-4ac7-9db3-386b0ae3efaa">Question</Title>
+      <PageElements GUID="3ec81619-aaff-4ec7-bbbc-5938178eda45">
+        <PageElement GUID="4120d66b-ef3d-4c92-b106-95673adc1d7d">
+          <Question GUID="dcf04d54-da65-40fc-8e75-342c402ecd08"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="05b5d4ab-8806-4139-9fc3-72f4e3e507c5">INACTIVEThe general compliance obligations for the financial services laws are:</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="aad9ee40-ec47-4e8f-855a-e432eab07e8e">Split into three parts covering the CA 2001 obligations, the ASIC Act and the AFS licence conditions which are specified by the ASIC</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f6dba04a-8630-45ba-97b5-132bd450553b">Split into three parts covering the CA 2001 obligations, the APRA Act and the AFS licence conditions which are specified by the ASIC</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="900775a2-de79-4979-b7a8-af2e7a6a6a9d">Split into two parts covering the general law obligations and the AFS licence conditions which are specified by the ASIC</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="992437f7-d536-4a8d-8e26-96b68ac6e27a">Split into two parts covering the CA 2001 obligations and the AFS licence conditions which are specified by the ASIC</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q15" IsActive="false" GUID="5242155d-c12a-41b7-a0e6-714d0ecb13b7">
+      <Title GUID="1b335b4b-3234-449b-b7be-8db2ee525f51">Question</Title>
+      <PageElements GUID="896c05df-6ab4-40de-a442-cc5471a91167">
+        <PageElement GUID="b02280f4-a1b7-4e5f-8c6b-eabbc80505a1">
+          <Question GUID="52d64bcd-08e9-4004-a8ac-3fe6943cbe8a"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="ec502bef-9527-4e42-8319-66b498898d7a">INACTIVEConfirming transactions can only be made in writing and not electronically. True or false?</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9a2fd381-b50c-4db1-8f45-ae76c348613f">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="91dfce0d-2645-47c1-99c2-0498790b6763">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q16" IsActive="false" GUID="5b937b9b-5a47-400f-b945-9eb59f3c04fa">
+      <Title GUID="36436974-64fb-4128-a3ae-c694a9719dfa">Question</Title>
+      <PageElements GUID="01099934-8f58-4cb7-a6e1-386c780b07c1">
+        <PageElement GUID="b3ee9b86-a8bd-4cdb-98f9-8ee7f94b33d9">
+          <Question GUID="53640c57-fed6-4a90-8779-ea7c78538b06"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1c76b372-3e80-4d20-9ad5-656016dff254">INACTIVESection 991B requires an AFS licensee to give priority to client orders over their own in respect of financial products, so as to avoid what is known as "front-running".  A contravention of this provision is:</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8df2001e-016f-460a-a9f4-8abd32c783b8">A criminal offence</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8dbd5cae-64a3-4153-a93e-f2c84fb63770">A civil only action</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="edb84ae9-f807-4b21-a58b-0dc6c7c29ab2">A civil penalty action</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c57a8adf-b86d-4a6c-8d32-9b4c561d3e00">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q17" IsActive="false" GUID="b3fa2898-7a47-4aec-8d86-4e72db04cf26">
+      <Title GUID="83bae884-fbf3-485a-82bb-f7c5f953a1d8">Question</Title>
+      <PageElements GUID="1733b4c4-06f1-4aa0-bd31-463255c33f9f">
+        <PageElement GUID="8e7a4121-ae2b-4014-b81e-c42a7c006e1c">
+          <Question GUID="62d4f014-85d5-4a17-9a34-de60d14ecc76"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="17991080-b87f-4c42-84cd-cf2afe30cddb">INACTIVEThe AFS licensee is required to fully comply with the general condition of complying with the "financial services laws" under s 912A. True or false?</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a488b7b4-9507-4d6e-9758-48c48ed541f7">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f9f03ca9-42a9-46b5-89d9-41baed611048">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q18" IsActive="false" GUID="c7e4ca1b-ce48-4018-83de-108669a47641">
+      <Title GUID="3c77bc86-b3d5-44fb-879b-660893b0830c">Question</Title>
+      <PageElements GUID="51720573-91c6-4d71-a8b0-5db410d9bf96">
+        <PageElement GUID="effecc94-6b16-4de5-bd1d-354d0a012869">
+          <Question GUID="e99a77bb-2287-408d-8274-6d9e904d903f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="80eb24c1-4823-4bcd-b5af-5862f58f0ad0">INACTIVEThe advertising or promotion material of financial products or services under s 1018A must include:</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0b60c55a-91e3-4bed-a5f9-119ec1087b33">An identification of the product issuer and a statement that the PDS is available to the client</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="36c0668a-651f-490a-b047-79ed03b7d300">An identification of the product issuer; an advisory for retail clients to review the PDS prior to making a decision and a statement that the PDS is available to the client</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="94f57b3e-29c5-410e-9527-ae5af6826397">An advisory for retail clients to review the PDS prior to making a decision and a statement that the PDS is available to the client</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4e4502ac-78e3-4392-bddd-913834573c0d">Full compliance with the ASIC advertising policy statement</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q19" IsActive="false" GUID="4ac7e2dc-d541-46af-a046-58ec0d4b9edc">
+      <Title GUID="7f729fea-6d11-4b92-95c2-14d758f96b63">Question</Title>
+      <PageElements GUID="f505f662-4ba7-40ee-b7ee-d40675386247">
+        <PageElement GUID="9d4d6bc2-53f5-4d16-9b5d-5e02a63319e2">
+          <Question GUID="ed81e553-b087-449a-bdca-fcac10fc8bc6"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="e98ddc61-2e9c-4272-a554-f7a861e512bb">INACTIVEAll transaction between financial service providers and retail clients must be confirmed under s 1017F. True or false?</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c89b0cb6-23a8-46ef-9bd1-3f31e6d10cc9">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2ceaa78b-d40d-4b2c-a75f-c7c41c098f60">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q20" IsActive="false" GUID="3ccd67e8-fedc-4f68-b64d-2846dd292166">
+      <Title GUID="0ff2fa2a-c27d-43dc-828a-e8a358a30eb9">Question</Title>
+      <PageElements GUID="352769d0-bee6-4dd9-9d35-97eb72a52fac">
+        <PageElement GUID="7f1aa46f-f92c-482f-8a43-619d4f74452f">
+          <Question GUID="1708ea1b-e352-4a04-9d65-8ffee9a46909"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="fbe7e2e9-e05f-4a57-94b1-273554b3c2c0">INACTIVEThe s 912A general compliance obligations are applied to all AFS licences. True or false?</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fe372957-0500-4be6-8d0a-6e0db9da4159">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2f3eff69-38b9-4deb-ac60-bb0f82be9035">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q21" IsActive="false" GUID="2b7e4131-7bcb-4014-b17c-0ebcb1442e4c">
+      <Title GUID="6c56fd33-e132-49f8-901c-84f876968885">Question</Title>
+      <PageElements GUID="3227b3a4-5f45-4a26-8671-55262551ab50">
+        <PageElement GUID="6ce42571-d28c-495f-9de4-d286358f375e">
+          <Question GUID="dd7e44ec-e528-46db-a8f3-e074c0139296"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1648e2a9-6cf2-4d85-9ab8-182bed1ad4a8">INACTIVEThe AFS licensee, through its directors and responsible officers must be fully aware of the specific conditions of the license through:</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a2f7d169-c8a8-4b87-b274-967c438d76bb">Section 912A(1)(a)</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8b060d20-8216-454c-bcea-48757a6855ee">Section 912A(1)(aa)</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="732d7b9c-d815-480e-983a-da5a74510b9c">Section 912A(1)(b)</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="839b3cac-eb76-4fb7-90b9-f0bb60bb3b92">Section 912A(1)(ba)</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q22" IsActive="false" GUID="6994f6fe-0e8b-4210-9c33-a67dbf42a73a">
+      <Title GUID="998d887c-097c-4d04-948e-ea24d42cbee6">Question</Title>
+      <PageElements GUID="3429ced2-72e3-4fad-a0df-e78f3b57f617">
+        <PageElement GUID="668b7959-39d3-49d1-99e1-445894fc3471">
+          <Question GUID="a21d07ac-8a5f-4706-898c-7ccea9756a14"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="4b385476-80eb-4ea7-b6e0-de8ba2fbe694">INACTIVEThe CA 2001 provides a number of specific obligations beyond the general obligations in s 912A.  Specific statutory compliance obligations include all of the following:</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a5f793ef-a54b-4dec-9f83-68a0715aac50">Only advertising</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b695b2ba-b2ae-49d1-aa89-12c4eb11e52d">Advertising; cooling off periods; confirmation of transactions and financial record keeping</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="76cf6d7b-daec-4909-b660-6d09d9b32949">Advertising; cooling off periods; confirmation of transactions; payments of monies into accounts, and financial record keeping</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="98a1b48a-023a-4653-ba17-5588cc40faae">Advertising; cooling off periods; confirmation of transactions; unsolicited offers; payments of monies into accounts, client priority and financial record keeping</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q23" IsActive="false" GUID="05465b79-1294-4893-8baa-126c8811e261">
+      <Title GUID="4f5e4e63-0933-4178-8a48-b341d1f6e520">Question</Title>
+      <PageElements GUID="47399fe7-dcbd-41df-9353-81ecc3013c2f">
+        <PageElement GUID="6a500cfc-b353-4ec5-a273-5e5577a21cd5">
+          <Question GUID="9407b426-015a-446a-a379-adaed7a2906d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="728313f6-6aa1-48b4-94a3-c85ce49d1704">INACTIVEWhat is a cooling off period for a retail client?</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="76ca7907-d439-4794-99bc-121ed91b859c">It is the 7 days after the confirmation of the transaction of the financial service or product in which the retail client can return the product and receive a refund</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9e9c608f-cd6f-44d0-9724-07db64167940">It is the 14 days after the confirmation of the transaction of the financial service or product in which the retail client can return the product and receive a refund</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d32e311a-a2f5-4bac-a62a-8aae8f5575de">It is the 21 days after the confirmation of the transaction of the financial service or product in which the retail client can return the product and receive a refund</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a652bb8e-c286-444b-b799-aa4d5903de42">It is the 28 days after the confirmation of the transaction of the financial service or product in which the retail client can return the product and receive a refund</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q24" IsActive="false" GUID="a3b496ed-a101-4333-a49d-d01d208f4ac1">
+      <Title GUID="e7d47c48-4718-4657-8c92-42bfb9db773b">Question</Title>
+      <PageElements GUID="415c4786-2372-4bfc-898b-897a4a06768c">
+        <PageElement GUID="c692eeaf-d8e2-47e1-8224-4396e3df27e7">
+          <Question GUID="a1795582-54c8-4426-b2c5-f14cd9e88b19"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="0e16205f-d99c-40ec-afae-baf9ff5f51b0">INACTIVERetail clients' money should be paid into specific accounts, such as an Australian ADI, to comply with:</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="60c79f02-735d-4ed5-ab7c-226ca86bf8f4">Section 980A</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7476b1e8-980d-42e7-a453-2f957c4bf215">Section 981A</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="de62dfa6-9c42-4f32-9628-0c39036365b9">Section 982A</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cf708223-b221-40a5-a4cf-f686f3738560">Section 983A</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="854dc009-6b6d-440c-82e2-2544a47e3434">
+    <Page ID="Comp1" IsActive="true" GUID="f0d2433c-ae58-4dc8-9d21-d10d2328eccb">
+      <Title GUID="aac9667c-34fd-4b57-bc78-c23fd9906a07">End of quiz</Title>
+      <PageElements GUID="25d57755-9fb5-4b14-b2c9-7aed1c55d7fc">
+        <PageElement GUID="f59f57e0-9596-4de7-96b1-f7732b16c72a">
+          <SubmitAnswers GUID="0a24b0b3-ed08-4b2b-81ca-44d43f35deca"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

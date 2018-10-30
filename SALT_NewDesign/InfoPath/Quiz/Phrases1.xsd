@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<xsd:element name="Phrase">
+		<xsd:complexType>
+			<xsd:all>
+				<xsd:element ref="Title" minOccurs="0" maxOccurs="1"></xsd:element>
+				<xsd:element ref="Text" minOccurs="0" maxOccurs="1"></xsd:element>
+			</xsd:all>
+			<xsd:attribute ref="ID"></xsd:attribute>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Instruction">
+		<xsd:complexType mixed="true">
+			<xsd:sequence>
+				<xsd:any namespace="http://www.w3.org/1999/xhtml" processContents="lax" minOccurs="0" maxOccurs="unbounded"></xsd:any>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Phrases">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="ContentType" minOccurs="0" maxOccurs="1"/>
+				<xsd:element ref="Instruction" minOccurs="0" maxOccurs="1"></xsd:element>
+				<xsd:element ref="Phrase" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="ContentType" type="xsd:string"></xsd:element>
+	<xsd:element name="Title" type="xsd:string"></xsd:element>
+	<xsd:element name="Text">
+		<xsd:complexType mixed="true">
+			<xsd:sequence>
+				<xsd:any namespace="http://www.w3.org/1999/xhtml" processContents="lax" minOccurs="0" maxOccurs="unbounded"></xsd:any>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:attribute name="ID" type="xsd:string"></xsd:attribute>
+</xsd:schema>

@@ -1,0 +1,65 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetQuizQuestionIDByToolbookPageID]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfGetQuizQuestionIDByToolbookPageID    Script Date: 20/04/2004 8:25:57 AM ******/
+
+/*
+Summary:
+user Defined Function that returns a Quiz Question ID given a Toolbook Page ID
+only Works for a quiz
+Returns:
+scalar - Quiz Question Id - int
+
+Called By:
+ToolbookListener.cs Calls Stored Procedures which call this.
+
+Calls:
+
+Remarks:
+
+
+Author:
+Peter Kneale - Stephen Kennedy-Clark
+Date Created: 3 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+
+**/
+CREATE Function [udfGetQuizQuestionIDByToolbookPageID]
+(
+@toolBookPageID 	Varchar(50),	-- The id of the toolbook page
+@quizID		Integer		-- The id of the quiz
+)
+
+Returns Int --< QuizQuestionID >--
+Begin
+-- Declarations
+Declare @intRetVal Integer
+
+-- get Quiz Question ID for this Toolbook Page ID
+Set @intRetVal =
+(
+Select Top 1
+QuizQuestionID
+From
+tblQuizQuestion
+Where
+ToolbookPageID = @toolBookPageID
+And QuizID = @quizID
+)
+
+
+Return @intRetVal
+
+End
+' 
+END
+GO

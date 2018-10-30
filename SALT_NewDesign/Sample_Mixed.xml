@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../User.xsd">
+	<user>
+		<email>johnd@lost.com.au</email>
+		<firstname>John</firstname>
+		<lastname>Doe</lastname>
+		<password>P@ssword1</password>
+		<active>true</active>
+		<usertype>user</usertype>
+	</user>
+	<user>
+		<email>long@lost.com.au</email>
+		<firstname>LongNameLongNameLongNameLongNameLongNameLongNameLongNameLongNameLongNameLongName</firstname>
+		<lastname>LastLongLastLongLastLongLastLongLastLongLastLongLastLongLastLongLastLongLastLongLastLong</lastname>
+		<password>P@ssword1</password>
+		<active>true</active>
+		<usertype>user</usertype>
+	</user>
+	<user>
+		<email>janed@lost.com.au</email>
+		<firstname>Jane</firstname>
+		<lastname>Doe</lastname>
+		<password></password>
+		<active>true</active>
+		<usertype>administrator</usertype>
+	</user>
+</users>

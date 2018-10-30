@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" productVersion="11.0.8165" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="d352ff83-daa9-4daa-b77e-5f75ead97e5f">
+  <Summary ID="ksrma03q" GUID="7feea135-6168-490b-92bb-134337d313df">
+    <ContentType GUID="2c1a9081-5afb-4dd5-94ae-9b7df7e9f333">quiz</ContentType>
+    <UploadType GUID="650e4610-d02c-40e0-812a-28474030aee7">update</UploadType>
+    <Title GUID="9e352885-a16e-4912-be35-6db3aa68ba2e">Environmental Obligations under the RMA</Title>
+    <CreatedBy GUID="0421ef0f-1b9f-45ed-8528-3c6b90d3093e">LTG Casual</CreatedBy>
+    <CreatedDate GUID="a9825244-cb7b-4ded-a596-56862072aba5">2006-10-11T10:37:44</CreatedDate>
+    <LastModifiedBy GUID="5b99d90c-8202-41e9-9df3-4c9c360e3177">ltgltomi</LastModifiedBy>
+    <LastModifiedDate GUID="6c5f49dc-eb14-4e22-97c1-14389773f1d0">2010-07-20T10:52:57</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="5d8e3dae-3ced-436d-b664-62e8d4bf326f">
+    <Page ID="Intro1" IsActive="true" GUID="453231ca-f6d8-4621-9697-c3343fab139a">
+      <Title GUID="215663ce-97b9-4700-95e0-12ae6d3a9e14">Environmental Obligations under the RMA</Title>
+      <PageElements GUID="bcadca08-65c8-436d-9882-d7a9a1ded337">
+        <PageElement GUID="45f4fd44-098a-4cea-87c5-32d3cb469431">
+          <Graphic GUID="47e1722a-f058-49d1-8faf-83b6b2b3f52d"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/4f4f3264-c8c4-42d0-bf1e-b6806f9074d9.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="facca2eb-7495-4208-9bfc-96c625317622">
+          <TextBox GUID="575f6d8c-461b-44bc-9de3-2102e97a271c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="f5c47039-a495-4bab-bc09-794d3bf93fcf">
+    <div GUID="3bc6b835-b191-40cb-aeef-57c0f4a7665c" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="a842b2de-807a-4b5f-b0ef-386d44a7c5ae">%System_NumberOfQuestions%</strong>  questions about general duties and individuals and companies under the RMA.</div>
+    <div GUID="d2fd7cea-7cfb-42db-a31f-970524dc0c24" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="b6628540-070c-44d9-9f02-fae5e38d68de">You may be asked three different types of questions: multiple choice, true/false or yes/no. Answer each question by clicking the button to the left of the most appropriate response.<br GUID="0f95802b-7873-4088-94e1-5aa9d9eb4d9c"><br GUID="85bf3a97-d60b-43f1-8425-600a9ffb8f10">After you answer the last question, you will be given the chance to review and then submit your answers.<br GUID="622dc4e4-ea2d-4206-8800-28b531c7edf2"><br GUID="a7d0e799-86e3-4297-a359-d7eea234e70f">Please note that if you Exit the quiz before clicking the Submit Answers button then your answers will not be saved. <br GUID="50358f08-a566-4d58-8fad-d42332628d12"><br GUID="fd9f5e3e-0fc1-49bc-93a5-33a9b3f6c95f">To move between questions, use the <font face="Times New Roman" size="4" GUID="fe6481eb-7ed1-4058-96f9-119f60d28ea3">◄</font> and <font face="Times New Roman" size="4" GUID="6c717925-784d-49dd-8ac1-6bd044566649">►</font> navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="fa092140-9021-4790-9888-0872d80a017b">
+    <Page ID="Q1" IsActive="true" GUID="d62b223e-da00-4991-852b-ee8bea52a19c">
+      <Title GUID="69e092e5-260d-4090-9cce-404328320c8a">Question</Title>
+      <PageElements GUID="ba4fc9c4-fc30-4362-afdf-9ae2aacb8ab1">
+        <PageElement GUID="3041f0f1-020e-413a-8693-3687e4559a43">
+          <Question GUID="6ebc651b-0641-4d7a-90c9-cfa65b146108"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="a414ab5c-0d08-4592-aeee-7a926b840e73">
+      <div GUID="3155eaa2-bfdd-49d8-b02a-7db0267e875a" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="22f131a5-58a0-4d1c-9da5-f19cf3f0d065">What general duty does the RMA impose on all land owners?</strong>
+        <strong GUID="0cb33bdb-0e67-434c-907a-d006357c498f">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7db22aaa-653c-4b40-a55c-e866c0f101a7">To deal with their property in an environmentally friendly manner.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ef6797ee-d37b-43d0-af06-78ce51624e04">To avoid, remedy, or mitigate any adverse environmental effects caused by their activities.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5443c3f8-d597-4893-ba4f-10f49db28a3c">To ensure that all environmental spills or accidents are reported to the police.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="b5c449d3-8343-47a2-ad7e-ea746c299ff9">
+      <Title GUID="68a5ea43-f83d-4b05-8335-9132a9aeeb1a">Question</Title>
+      <PageElements GUID="4a148f14-914c-4232-9ad3-511bb49df3d9">
+        <PageElement GUID="3b1b8d4f-0cac-4ee1-875c-38334395f083">
+          <Question GUID="005386c7-7cb8-43f9-b8a6-a8c14448fe08"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="c7d242e3-3a9c-4117-b077-3d867d790f6a">
+      <div GUID="5e5281e2-e5e5-4461-b6f9-7e41bff916cf" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="7cc96c43-e345-4aae-b09f-48441a8b018c">LC Limited has an open watercourse (stream) running through its industrial site.  LC Limited wishes to build over part of the stream to extend the loading area adjacent to their factory. Is consent required for works in the stream?</strong>
+        <strong GUID="69c4f754-3655-4c0a-aeae-dbb9a02f7f59">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ea0b88b0-4218-4c9c-b6e3-1c6e80da68f1">Yes, LC Limited will require a resource consent from the regional council for the diversion of surface water.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a00ae5a7-baa0-450e-8941-2ba91e629da5">No, as long as LC Limited has obtained appropriate building consents from the district council, nothing further is required.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="3399d4ac-eaf5-452d-97f2-7b3e0ce2c254">
+      <Title GUID="8ef297eb-11f2-4fa0-b523-0af5ea62a7ec">Question</Title>
+      <PageElements GUID="c58dce28-27e8-49d4-85f0-c6439d8efe62">
+        <PageElement GUID="aaf0279b-3301-4da7-98ad-2c137bcbc245">
+          <Question GUID="d1322c60-9f53-4e2b-bbde-2b7e45eb5cd6"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="11d4c3be-d5ce-45f9-8922-4bab50c6ee09">
+      <div GUID="fd22af3b-b1c4-456a-a6f3-852003e1a7f6" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="1f9d65bb-2eee-4b71-9c43-fc772e50bb34">Mr Jefferson owns a dairy farm in the Manawatu which has a water bore. He wants to take water from the bore to irrigate his land. Is a resource consent required?</strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8ef0ddbe-3047-4c5a-b1f6-7306062a1c7d">Yes, consent is required for the taking or using of water whether it is on private or public land.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f5b333c4-c878-4f62-adc4-b9c2a76a227e">No, consent is not required because the water bore is on private land.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="52120251-d535-4ee9-92e1-cf07f35abb77">
+      <Title GUID="3a824ef6-ace9-4bbe-ac03-2451cb58af34">Question</Title>
+      <PageElements GUID="d54001a4-8bf5-4adf-b608-6689c3d3013d">
+        <PageElement GUID="1c55f2b8-d091-41cf-a63b-3c3314a17ca8">
+          <Question GUID="3e6f949e-6ffd-4903-abd1-4aa625cbd761"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="73a760f5-0696-46a0-a5de-e635d7721f7d">
+      <div GUID="b89aa3dc-ba22-4575-a0d4-3b87b9f277c5" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="4e362a26-10f0-40c2-aa82-6b0830e67a46">What responsibilities do companies have in relation to noise created by their operations under the RMA?</strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="94f1d617-6c0b-46d9-86de-f47d8858fad4">To adopt the best practical option to keep noise to a reasonable level.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f9a83fb4-7b0e-48c7-ba40-98060cde13ae">To abide by New Zealand noise guidelines.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="98d33f09-8699-474a-9024-2ae8d802a907">There are no particular duties other than to ensure that the activity is being carried out with consideration for neighbours.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="cf209a7a-52a2-4dbc-8cf6-c115e29f5f5f">
+      <Title GUID="22af0fc0-b231-4ca0-a610-f959204865da">Question</Title>
+      <PageElements GUID="e148bbfb-3fae-4565-9aa2-e80080a8430e">
+        <PageElement GUID="4ec0f5f0-c63f-480f-a7fe-c930e7b2d84c">
+          <Question GUID="3fc304c7-0f48-49bc-938e-d5def08192c5"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="35078bf6-c43c-4863-bc7e-031d6e8ae320">
+      <div GUID="daba8e21-b1f8-45dc-bc9b-e4e679afdaf5" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="32f5eb83-788d-4cdd-9adb-d287609b4888">Is it necessary to obtain consent from the district council to demolish a structure?</strong>
+        <strong GUID="a215bf6b-2c95-4b65-9f14-b0b48485f04b">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4082d591-1d0e-4d01-916c-dfc5c35eb182">Yes, if a rule in the district plan requires it. The ‘use’ of land is widely defined to include erection, alteration, removal and demolition of any structure. </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0e12ece1-d33e-4bfa-9e06-f75765025ce1">No, as long as the owner takes reasonable steps to prevent dust emissions from the site, no consent is required.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="b879d9ee-ddd2-44ec-ad64-a43f49ec7cda">
+      <Title GUID="4397ed0a-6c4f-42ab-bc2c-8a096a055801">Question</Title>
+      <PageElements GUID="775ae720-9c78-484c-8a93-73c98340384c">
+        <PageElement GUID="580723b6-8381-450e-8b37-5a78a76244d9">
+          <Question GUID="30d1e3e5-5daa-464a-b868-ca1b7ab2b3d3"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="9b3b261e-4d21-4b71-ad8d-4a81bcb6fa10">
+      <strong GUID="1d390eb1-830a-4dab-ab70-a5e31ad83846" xmlns="http://www.w3.org/1999/xhtml">Your next door neighbour has recently held a number of functions which you feel are exceeding a reasonable level of noise. What action can you take to prevent this from occurring?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c6ec6a3b-28a8-4d36-85d9-a213d85c8bfd">Issue your neighbour with an abatement notice.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="76cee31c-af9c-41c3-97f6-c69f96b6c61a">Obtain an enforcement order under the RMA or complain to the council.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="31fac840-f808-4d25-a606-0cfabf732ca4">Refer the matter to the Department of Conservation.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="66237b38-6b53-4d24-b857-db0ed5938521">
+      <Title GUID="f9557da4-f70b-42e2-b7b9-f27e7659a4e7">Question</Title>
+      <PageElements GUID="c46e9ed2-cd70-41f4-be38-57047e254b91">
+        <PageElement GUID="12147261-7967-4298-b9f1-077ab0fdef75">
+          <Question GUID="34d1b352-d765-4a94-833e-d512f163feb5"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="c11463c4-41f5-40b8-ba9f-12e72ef1750e">
+      <div GUID="79cd5693-fd52-4af9-b890-4faa923b7e9a" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="02b6be94-8504-4fae-a894-cf38b6f05895">What is a contaminant under the RMA?</strong>
+        <strong GUID="b7f4a6f8-2a15-43fa-bf52-bc819c2a35e6">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="903cf698-f0b7-4eba-89a2-fe72d6d7bb32">Any substance, energy, or heat that can change the physical, chemical or biological condition of the land or water.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e422a8e7-e479-48bf-b07e-fa057a93ba1f">Any chemical that pollutes the environment.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="720ce52a-27cf-4f14-a76a-cdad01c3c2bf">
+      <Title GUID="77881a57-b3ca-4b84-9992-9cfc9219b9d5">Question</Title>
+      <PageElements GUID="1e7f6ba1-129a-4a35-923e-a0c033f1ea8e">
+        <PageElement GUID="8bfcf097-5fea-4b4b-b644-25b502d0add1">
+          <Question GUID="d9ffd4a3-f65b-4d11-a300-476f5dfe074b"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="38c2e77c-587f-48d1-b34f-55a484ead91a">
+      <div GUID="0b5a01f7-3e50-40cb-8bff-f5d79ed119f9" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="7d12a6fd-3712-42fd-9cf0-b3f2f77f9dce">AB Ltd operates a cheese processing factory close to a residential zone. A number of neighbours complain about bad odour caused by the processing plant. Does ABL need to obtain a discharge permit under the RMA?</strong>
+        <strong GUID="13e60a8a-5c95-44dc-8649-d81804e76b19">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a7464e07-d6c4-4ac0-871b-eff9b8f7e917">Yes, the definition of contaminant under the RMA includes gases and odorous compounds and so a discharge permit is usually required.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="999676e7-cd2a-4bc4-a630-99c6b62e41f4">No, as long as they have obtained consent for the plant itself, no further consents are required.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="e16a1be5-2518-474b-b3af-b10ea2207882">
+      <Title GUID="a6d4154c-2912-4877-863b-8680c8b38f89">Question</Title>
+      <PageElements GUID="529c7bed-2e51-40a9-9d94-61c7575ce952">
+        <PageElement GUID="90757e91-ee6a-43ea-8b27-8aa77635654c">
+          <Question GUID="85b499fc-80b5-4813-b027-035f8f38fa6d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="45d802ba-6696-4227-a7c4-7cb63af9273a">
+      <div GUID="892c70f2-bf5e-4ff7-869e-bf92191c5396" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="57c63120-8cda-4f6c-95f2-003905ad63f8">Read the following statement. ‘The RMA is concerned with controlling discharges from industrial and trade premises.  Only unlawful discharges from factories or other industrial premises can be prosecuted under the RMA’. True or false?</strong>
+        <strong GUID="bfa40ad4-f024-4a7b-b9d8-76daaccd13a3">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bbcfc6ec-15b1-4032-95b6-74865f176a8a">False, the RMA is concerned with the discharge of any contaminant into the environment and any person can be liable to be prosecuted for an unlawful discharge.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="69a82c99-2008-48bd-8910-27489a42b7d7">True, the definition of ‘contaminant’ is a narrow one and relates only to trade wastes and by-products.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="b4034655-5f17-46b3-9132-55ea4effb5bd">
+      <Title GUID="b57d4947-a5f4-4402-926c-8eedd34bd4d6">Question</Title>
+      <PageElements GUID="ac4fc0e7-271e-4bcf-9dd9-fc691fc39485">
+        <PageElement GUID="42978875-f258-4a9c-9a90-7cc38a35106f">
+          <Question GUID="4da55c36-21d4-490d-8b1d-d9d1ee74469d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="606757a6-314f-4d2a-9262-f276656bfc80">
+      <div GUID="b77e0165-b79c-4074-b179-70dae51b680f" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="09fa019d-aeec-4dac-b107-1450cd602d25">I have met all of my environmental law obligations if I simply comply with my resource consent.  True or false?</strong>
+        <strong GUID="4e11f789-77f7-45d9-9e6d-e221bacf1234">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9e6e2029-9888-4ad4-a431-76ee609737a8">False, in going about my work I still have a duty to avoid remedy or mitigate any adverse effect of my operations, even if what I am doing has consent.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ec01edb6-9b29-44f2-b1b3-d70eb7008b9a">True, once I have complied with my consent, that’s all I need to do.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q11" IsActive="true" GUID="63b83bbc-7b34-4722-a583-c7823c9f870d">
+      <Title GUID="d9acc0e2-50d3-4a96-974e-6d02018ffbcc">Question</Title>
+      <PageElements GUID="ffcac529-d2d8-4e98-a2d0-9d2278087c42">
+        <PageElement GUID="cff0929c-b870-4ba8-a2f5-00e999e446b3">
+          <Question GUID="def39a73-f2b0-465a-8c8b-b49add900640"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="27b10caa-af63-4745-a78e-80cd1feaa445">
+      <strong GUID="eef6c781-b113-48e4-a334-5d733ed91630" xmlns="http://www.w3.org/1999/xhtml">ABC Ltd operate a shoe-production factory which produces a variety of air emissions. ABC Ltd hold a discharge consent, which requires a filter system designed to mitigate these fumes on-site. Two weeks ago a key component of the filter broke down and fumes are escaping daily. Is there a breach of the RMA?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6a3ba5bb-068e-408d-bc31-79710f2dddc4">Yes – s.15 prohibits the discharge of contaminants from trade premises into air, unless expressly allowed by consent, regional plan or regulations. </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c0a47138-c4d9-4340-973e-d0f872f533fe">No – this is a short-term situation, which is out of the ordinary for the factory. There was no intention to discharge fumes, so no offence has been committed.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q12" IsActive="true" GUID="d0937605-cf2d-4862-83ba-62b755485673">
+      <Title GUID="1dca898b-d1af-42c7-8aea-94da18f58166">Question</Title>
+      <PageElements GUID="00663e29-d5ba-4708-a232-83bc11dd94cd">
+        <PageElement GUID="eef27c45-0ad0-469f-9313-d0e4b59a56cd">
+          <Question GUID="21e143d8-c24f-4e81-a185-76d06876e894"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="f385857b-4ed7-48a6-868b-a4f05945e864">
+      <strong GUID="22eaaee2-67ac-42e1-91ae-b57e49d5f89c" xmlns="http://www.w3.org/1999/xhtml">Under the RMA, a person is only liable if they intend to discharge a contaminant into the environment.  True or False?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="034f79d8-eb74-4b74-9ec4-be078856db18">False, RMA offences are ‘strict liability’ and you can be convicted even if you do not intend to pollute.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5dfe0400-8ecc-4650-b706-b6a1135634e2">True, a conviction for a RMA offence can only occur if a person intends to commit an offence.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="298b1920-b20f-4080-a2c8-7ab989815a03">
+    <Page ID="Comp1" IsActive="true" GUID="5761ddd1-83fe-48a2-b1ed-62696c45384c">
+      <Title GUID="c38a32d5-326c-4a51-8d87-c538c3e4ff79">End of Quiz</Title>
+      <PageElements GUID="0d567ed4-7414-40a1-8b5d-50f061b14825">
+        <PageElement GUID="9d75dfba-9892-46e2-97a5-aef156ebadce">
+          <Graphic GUID="8cb27f9d-343c-4ba7-b0bf-ce18a7ae7ea4"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/3a51466e-abd4-49c2-bd9a-4a95b1959a2f.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="b446aeef-d71e-408f-ba4b-6973e53ff4a9">
+          <TextBox GUID="77a3804d-2ac7-420a-baad-c533589cd4ab"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="067ed72d-d72f-4e19-a186-e38df3652b2e">
+    <div GUID="22284525-ba73-48bf-8710-94d4cb7d0ea4" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="e54af741-e6ab-4e97-a4e2-22c053d329d6"><br GUID="f1ad7871-861d-44f1-bac5-afb1b3ebf5dc">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="bf5260a6-9a55-4db3-96c4-f584aed64683"><br GUID="5331cce8-2da0-4b4a-8111-1ea1f12c9bfb">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="ce63a714-ed45-4c23-a722-27c4c915fc44">
+          <SubmitAnswers GUID="96aae38e-c29e-4f25-82a7-dd4a700e1c91"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

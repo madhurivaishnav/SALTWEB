@@ -1,0 +1,70 @@
+/* Alternate layout specific styles. These classes are used by  Alternate.xslt*/
+.RightColumn,
+.LeftColumn
+{
+    width:110px;
+}
+.LeftColumn
+{
+    text-align:left;
+}
+.MiddleColumn
+{
+}
+.RightColumn
+{
+    text-align:right;
+}
+
+
+.AlternateTopLeft
+{
+    height:17px;width:17px;
+    vertical-align:bottom;
+}
+.AlternateTopMiddle
+{
+    background-image:url(/general/images/dialog/up.gif);
+    background-repeat:repeat-x;
+    height:17px;
+}
+.AlternateTopRight
+{
+    height:17px;width:17px;
+    vertical-align:bottom;
+}
+.AlternateMidLeft
+{
+    background-image:url(/general/images/dialog/left.gif);
+    background-repeat:repeat-y;
+    width:17px;
+}
+.AlternateMidCenter
+{
+    background-image:url(/general/images/dialog/backdot.gif);
+    color:#ffffff;
+}
+.AlternateMidCenterPlain
+{
+}
+.AlternateMidRight
+{
+    background-image:url(/general/images/dialog/right.gif);
+    background-repeat:repeat-y;
+    width:17px;
+}
+
+.AlternateBottomLeft
+{
+    height:17px;width:17px;
+}
+.AlternateBottomMiddle
+{
+    background-image:url(/general/images/dialog/down.gif);
+    background-repeat:repeat-x;
+    
+}
+.AlternateBottomRight
+{    
+    height:17px;width:17px;
+}

@@ -1,0 +1,286 @@
+/**************************************
+' Name:			SALT CASCADING STYLE SHEET
+' Author:		Stephen Clark
+' Created:		19 April 2004
+' Description:	Cascading style sheet unknown clients.
+' Called By:    Just the login page.
+' Calls:        null
+'''''''''''''''''''''''''''''''''''''''''''''
+'****************************************/
+
+/* #3399cc <- the light blue, colour 1 */
+/* #99cc33 <- the light green, colour 2 */
+/* #CCCC00 <- the kaky green, colour 2 */
+/**/
+
+
+/************************************
+* General Element level styles used
+* thropught the site
+*************************************/
+body, td
+{
+	font-size: 10pt; /* Default font size used throught the application unless overridden by other styles */
+	font-family: Arial, Helvetica, sans-serif; /* default font used throught the application unless overridden by other styles */
+}
+
+
+select
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	font-size: 11px; /* Font size used throught the application in all */
+	padding:1 0 1 0; /* top right bottom left */
+	margin: 0 0 0 0; /*top right bottom left */
+}
+
+/* feedback to users */
+.SuccessMessage
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */ /* */
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */ /* aligns this object in the middle of the verticle box that it is in */ /* aligns this object in the middle of the verticle box that it is in */
+	color:#00cc00; /* the colour for a success message - Green */
+}
+.WarningMessage
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */ /* */
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */
+	color:#ff3300; /* the colour for a warning message - Red */
+}
+.ValidatorMessage /* Validator Messages */
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */ /* */
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */
+	color:#ff3300; /* the colour for a validator message - Red */
+	white-space:nowrap; /* prevents the line of text from wraping -- don't use for long text */	
+}
+.FeedbackMessage
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */ /* */
+	vertical-align:top; /* aligns text in teh top of the vertical space that it has available (minus anu padding in that box)*/
+	color:#ff8C00;/* the colour for a feedback message - Orange */
+}
+
+.addButton /* Used for all the add buttons throught the site*/
+, .assignButton /* Used for all the add buttons throught the site*/
+, .backButton /* Used for all the cancel buttons throught the site*/
+, .cancelButton /* Used for all the cancel buttons throught the site*/
+, .findButton /* Used for all the find buttons throught the site*/
+, .generateButton /* Used for all the find buttons throught the site*/
+, .moveButton /* Used for all the move buttons throught the site*/
+, .populateButton /* Used for all the save populate throught the site*/
+, .saveButton /* Used for all the save buttons throught the site*/
+, .sendButton /* Used for all the send buttons throught the site*/
+, .searchButton /* Used for all the search buttons throught the site*/
+, .resetButton /* Used for all the reset buttons throught the site*/
+, .uploadButton /* Used for all the reset buttons throught the site*/
+, .runButton /* Used for all the run buttons throught the site*/
+{
+	width:100;  
+	cursor: hand;
+	color:#555555;
+	font-size: 11px;
+	font-weight:bold;
+	border-style:solid ;
+	border-width:1px;
+	border-color:#000000;
+	background-color: #E0E0E0;
+
+}
+
+
+a{
+	color: #3399cc;
+	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+.bg {
+	background-color:#FFFFF0;
+}
+
+input
+{
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.ApplicationNameInline
+{
+	color:#3399cc;
+}
+.TradeMarkInline
+{
+	position:relative;
+	top:-.4em;
+	font-size:xx-small;
+	color:#3399cc;
+	text-decoration:none;
+}
+
+
+
+/************************************
+* Classes specific to the Login Page 
+*************************************/
+body.Login
+{
+	
+	background-image: url(/General/Images/salt_login_page_v3b.jpg);
+	background-repeat:no-repeat;
+	background-position: left top;
+	background-attachment:scroll;	
+	background-color:3399cc; /* 8acd3f 3399cc 99cc33*/
+}
+
+
+
+input.Login /* the login text boxes */
+{
+	border-width:thin;	
+	background-color:#FFFFFF;
+	color:#000000;
+	font-size:X-small;
+	width:150;
+}
+.LoginButton /* the submit button on the login page */
+{
+	border-style:outset;
+	border-width:thin;	
+	background-color:#FFFFFF;
+	padding:1 3 1 3;
+	font-weight:bold;
+	font-size:12px;
+}
+.LoginFieldName /* the text next to the username and password text fields*/
+{
+	font-weight:bold;
+	font-size:13px;
+	color: #FFFFFF; /* White */
+	width:100;
+	text-align:center;
+}
+
+
+.Login
+{
+	font-size:small;
+	color: #FFFFFF; /* White */
+	
+}
+a.Login /* links in the footer */
+{
+	color: #FFFFFF; /* White */
+	font-size:12px;
+	text-decoration: underline; /* uererline beneith links in teh footer on this page ?*/
+}
+a.Login:hover
+{
+	/*color:CCCC00;  kakey */
+	color: #ffee44; /* light - green */
+}
+
+.LoginTerms /* the terms and conditions at the base of the login screen*/
+{
+	position:absolute;
+	top:500;
+	font-size:12px;
+	left:30;
+	color: #FFFFFF; /* White */
+	text-decoration:none;
+}
+
+
+.LoginControl /* the table containing the login text boxes and button*/
+{
+	position:absolute;
+	top:153;
+	left:30;
+}
+
+.MarketingText
+{
+	position:absolute;
+	top:81;
+	left:436;	
+	width:300;
+	font-family: Arial , Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:normal;
+	color:#FFFFFF;
+	padding-left:0px;
+	
+}
+
+.TradeMarkInlineInheritColour
+{
+	position:relative;
+	top:-1.1em;
+	font-size:6px;
+	text-decoration:none;
+}
+
+.BDWBrand
+{
+	position:absolute; 
+	top:40;
+	left:30;
+	font-weight:bold;
+}
+
+.ApplicationName
+{
+	position:absolute; 
+	top:150;
+	left:90;
+	font-family: Arial Narrow, Helvetica Narrow, Arial, Helvetica, sans-serif;
+	font-size:150px;
+	font-weight:100;
+	color:#FFFFFF;
+}
+
+.WarningMessageLoginPage
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	font-weight:bold;
+	white-space: nowrap;
+	border:solid 1px #ff3333;
+	background-color:#ffffff;
+	height:10px;
+	padding: 3 3 3 3;
+	color:#ff3333;
+}
+    
+/************************************
+* Classes specific to the About popup
+*************************************/
+td.about
+{
+	padding: 5 15 0 15;
+	margin: 10;
+}
+
+td.Banner
+{
+	background-image:url(/general/images/popup_banner.jpg);
+	background-repeat:no-repeat;
+	height:125;
+}
+/************************************
+* Classes specific to the Password popup
+*************************************/
+tr.password
+{
+	padding: 5 15 0 15;
+	margin: 10;
+
+}
+tr.info
+{
+	font-size:small;
+	padding: 5 15 0 15;
+	margin: 10;
+}

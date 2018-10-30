@@ -1,0 +1,92 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{95BDF528-B2E4-44AC-A49A-EF4A6D3E8D76}") = "Lesson", "Lesson\Lesson.ipproj", "{A34E5DD0-F595-4EA6-95FA-9A89FCB46A6F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{95BDF528-B2E4-44AC-A49A-EF4A6D3E8D76}") = "Phrases", "Phrases\Phrases.ipproj", "{D30B2CC3-7289-4C0A-99EB-0D25447F11D0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{95BDF528-B2E4-44AC-A49A-EF4A6D3E8D76}") = "Quiz", "Quiz\Quiz.ipproj", "{EC85EA51-2833-4F09-B8C1-01632014C2E7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\setup.vdproj", "{A74FAEB2-05C6-440F-A4EC-7A286F95C356}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 8
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {17B4BB57-7598-4FA4-9833-06B7BA84D558}
+		SccProjectUniqueName1 = Lesson\\Lesson.ipproj
+		SccProjectName1 = \u0022$/Dev/SALT\u0020v3.0/Source/InfoPath/Lesson\u0022,\u0020KOYDAAAA
+		SccLocalPath1 = Lesson
+		CanCheckoutShared = false
+		SccProjectUniqueName2 = Lesson\\LessonFormCode.csproj
+		SccProjectTopLevelParentUniqueName2 = Lesson\\Lesson.ipproj
+		SccProjectName2 = \u0022$/Dev/SALT\u0020v3.0/Source/InfoPath/Lesson\u0022,\u0020KOYDAAAA
+		SccLocalPath2 = Lesson
+		CanCheckoutShared = false
+		SccProjectUniqueName3 = Phrases\\Phrases.ipproj
+		SccLocalPath3 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection3 = Phrases\\
+		SccProjectUniqueName4 = Phrases\\PhrasesFormCode.csproj
+		SccProjectTopLevelParentUniqueName4 = Phrases\\Phrases.ipproj
+		SccLocalPath4 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection4 = Phrases\\
+		SccProjectUniqueName5 = Quiz\\Quiz.ipproj
+		SccLocalPath5 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection5 = Quiz\\
+		SccProjectUniqueName6 = Quiz\\QuizFormCode.csproj
+		SccProjectTopLevelParentUniqueName6 = Quiz\\Quiz.ipproj
+		SccLocalPath6 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection6 = Quiz\\
+		SccProjectUniqueName7 = Installer\\setup.vdproj
+		SccProjectName7 = \u0022$/Dev/SALT\u0020v3.0/Source/InfoPath/Installer\u0022,\u0020GRYDAAAA
+		SccLocalPath7 = Installer
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A34E5DD0-F595-4EA6-95FA-9A89FCB46A6F}.Debug.ActiveCfg = Debug
+		{A34E5DD0-F595-4EA6-95FA-9A89FCB46A6F}.Debug.Build.0 = Debug
+		{A34E5DD0-F595-4EA6-95FA-9A89FCB46A6F}.Release.ActiveCfg = Release
+		{A34E5DD0-F595-4EA6-95FA-9A89FCB46A6F}.Release.Build.0 = Release
+		{D30B2CC3-7289-4C0A-99EB-0D25447F11D0}.Debug.ActiveCfg = Debug
+		{D30B2CC3-7289-4C0A-99EB-0D25447F11D0}.Debug.Build.0 = Debug
+		{D30B2CC3-7289-4C0A-99EB-0D25447F11D0}.Release.ActiveCfg = Release
+		{D30B2CC3-7289-4C0A-99EB-0D25447F11D0}.Release.Build.0 = Release
+		{EC85EA51-2833-4F09-B8C1-01632014C2E7}.Debug.ActiveCfg = Debug
+		{EC85EA51-2833-4F09-B8C1-01632014C2E7}.Debug.Build.0 = Debug
+		{EC85EA51-2833-4F09-B8C1-01632014C2E7}.Release.ActiveCfg = Release
+		{EC85EA51-2833-4F09-B8C1-01632014C2E7}.Release.Build.0 = Release
+		{A74FAEB2-05C6-440F-A4EC-7A286F95C356}.Debug.ActiveCfg = Debug
+		{A74FAEB2-05C6-440F-A4EC-7A286F95C356}.Release.ActiveCfg = Release
+		{C5EBEA40-BF79-4264-93FE-676BAEFD3F9E}.Debug.ActiveCfg = Debug|.NET
+		{C5EBEA40-BF79-4264-93FE-676BAEFD3F9E}.Debug.Build.0 = Debug|.NET
+		{C5EBEA40-BF79-4264-93FE-676BAEFD3F9E}.Release.ActiveCfg = Release|.NET
+		{C5EBEA40-BF79-4264-93FE-676BAEFD3F9E}.Release.Build.0 = Release|.NET
+		{C7BEA2AB-6704-465F-B031-BBF52566D907}.Debug.ActiveCfg = Debug|.NET
+		{C7BEA2AB-6704-465F-B031-BBF52566D907}.Debug.Build.0 = Debug|.NET
+		{C7BEA2AB-6704-465F-B031-BBF52566D907}.Release.ActiveCfg = Release|.NET
+		{C7BEA2AB-6704-465F-B031-BBF52566D907}.Release.Build.0 = Release|.NET
+		{0DF41935-9135-4F02-B5FB-DE3115AE136A}.Debug.ActiveCfg = Debug|.NET
+		{0DF41935-9135-4F02-B5FB-DE3115AE136A}.Debug.Build.0 = Debug|.NET
+		{0DF41935-9135-4F02-B5FB-DE3115AE136A}.Release.ActiveCfg = Release|.NET
+		{0DF41935-9135-4F02-B5FB-DE3115AE136A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" productVersion="11.0.6357" name="urn:Lesson:Salt:Bdw" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="04c04fd5-84cd-4fcb-a748-6b462e43f970">
+  <Summary ID="bdwaml07" GUID="e42893cb-05fb-46e3-ab6c-8fdb2daae733">
+    <ContentType GUID="6fc1bd3d-440a-40c7-8b61-258cb50f75bd">lesson</ContentType>
+    <UploadType GUID="a630503a-0369-4c8c-8519-41206bc4ae51">update</UploadType>
+    <Title GUID="b5a3f7af-9111-421e-b133-ebf4398f6988">Knowing Your Customer – AML/CTF Programs</Title>
+    <CreatedBy GUID="a82cfb50-5742-450b-a2bc-62198c6a660e">LTG Casual</CreatedBy>
+    <CreatedDate GUID="32ae20f3-31a1-415b-8987-6089bc66cf49">2005-04-05T09:01:45</CreatedDate>
+    <LastModifiedBy GUID="6fec548e-38a3-4b4d-871c-686f4109ce28">LTG Casual</LastModifiedBy>
+    <LastModifiedDate GUID="833effba-cc2c-4bc9-a794-ba3cf5ef9632">2007-08-08T15:47:21</LastModifiedDate>
+  </Summary>
+  <Players GUID="225890ae-77ba-4228-946d-a5d833bdc555">
+  </Players>
+  <Pages PageFilter="0" GUID="5ddb9062-81a2-4777-a2c5-3ae0502390ac">
+    <Page ID="Page1" IsActive="true" GUID="632e56c7-ebed-45e2-bd10-3f92039e907f">
+      <IncludedInTOC GUID="40a16b9c-360a-4add-a261-ccb982d5b58d">false</IncludedInTOC>
+      <Title GUID="be07170b-3732-4837-9f9c-1c15785fc4bd">Knowing Your Customer – AML/CTF Programs</Title>
+      <PageElements GUID="2d55ff42-a1bb-4010-9c57-48750b4afbe9">
+        <PageElement GUID="cf5def55-b288-4284-a6b5-b958e6afe7b8">
+          <TextBox GUID="10320a36-3568-4d02-a3db-8d6a0295c276"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="dd4f6e17-9f2b-46d2-aa6f-42794b231bf5">
+    <div GUID="e08a95a3-d2ba-4b60-85ea-45218e50524b" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="a424520b-34f8-4714-bcd0-a4375ce790aa">
+        <span style="FONT-SIZE: 10pt" GUID="09765dc7-ef75-4fe4-913a-3d6bf61b57ca">This lesson looks at  <strong GUID="e0cd109a-ab64-457f-a313-81ce5f35c289">Knowing Your Customer – AML/CTF Programs</strong>.</span>
+      </font>
+    </div>
+    <div GUID="0e87727d-17b8-40fe-8e6b-a2bba9c0b88a" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="c865b29f-0cc6-49ad-926b-80695707052d">
+        <span style="FONT-SIZE: 10pt" GUID="9f21b996-338d-4c74-b20f-eae6b5c46f5e">
+        </span>
+      </font> </div>
+    <div GUID="939b4ffe-97c4-48c4-8d9d-e8c2037aa06e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="113ef4ab-8daf-462d-acbe-3248be0de0d2">
+        <span style="FONT-SIZE: 10pt" GUID="0ed02198-1f06-4cbc-a406-24da9c393537">Click on the <strong GUID="4e60c7ca-bef9-4782-a398-650824e6b6ef">Quick Facts</strong> menu button above to view a summary of the lesson. </span>
+      </font>
+    </div>
+    <div GUID="4f4e7573-88a3-48b3-b6dd-fc94a2c88fe4" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="8186de42-bbb1-4525-bbd9-6fbc3e8d6c93">
+        <span style="FONT-SIZE: 10pt" GUID="d5eb9476-864a-4f14-add5-6dbafc1e90a0">
+        </span>
+      </font> </div>
+    <div GUID="c179675c-fdc3-45fa-81c8-07c2e5484fa9" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="13f608c9-5bb1-4a74-b4e1-bf601000c8e9">
+        <span style="FONT-SIZE: 10pt" GUID="378c03af-f78a-44a5-878e-375e3a3d5027">Click the <strong GUID="ff3fd5b7-52a6-405b-8d42-dce5949a1db0">Next </strong>button below to continue, or select a topic from the Table of Contents list.</span>
+      </font>
+    </div>
+    <div GUID="03664184-dc4a-4c42-b42d-2bc075fac434" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="3a731e0c-2224-4d5c-978a-6a50e924918b">
+        <span style="FONT-SIZE: 10pt" GUID="2cee117e-4efa-4329-90a9-e98645d3035a">
+        </span>
+      </font> </div>
+    <div GUID="f6adb0f1-bb62-432b-b511-985374aa86cd" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="6118930d-f4d7-40b5-ab1c-8c4658673360">
+        <span style="FONT-SIZE: 10pt" GUID="2779932d-ad75-4410-9663-a63518bbd839">
+        </span>
+      </font> </div>
+    <div GUID="f8cdbfda-9102-4ac3-8bb4-9090216db0dc" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="5105d026-1845-49a2-9d5d-b597a03a205c">
+        <span style="FONT-SIZE: 10pt" GUID="ef1e24b3-5e67-4529-93a4-3f004a13e99b">Version Notes: This version released 9 August 2007.</span>
+      </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="923ce60e-383a-40cf-8f55-baf91bddb0e6">
+          <TOC GUID="7f8b7765-d26d-469a-b1b3-8c7f4b48a3cc"> <![CDATA[<div class="TableOfContents_Main">
+  <div class="TableOfContentsTitle">Table of Contents</div>
+  <ul class="TableOfContentsList">
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page2')">Learning objectives</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page3')">What is money-laundering/terrorist financing (ML/TF) Risk?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page4')">AML/CTF Programs and the AML/CTF Act and Rules</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page5')">Structure of AML/CTF Program</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page6')">Content of AML/CTF Program - Part A</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page7')">Content of AML/CTF Program – Part B</A>
+  </ul>
+</div>]]></TOC>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="82ecdd8c-c0b1-4c3b-b0ec-35ed6320a162">
+      <IncludedInTOC GUID="5f7fa700-a54a-42cf-8811-e75c100481c6">true</IncludedInTOC>
+      <Title GUID="e008d979-1834-4fc2-9078-0ddbbb90cd34">Learning objectives</Title>
+      <PageElements GUID="7e53256a-50ba-46a2-9d13-904263e2e72a">
+        <PageElement GUID="b828622e-43ac-4748-8fad-25b8945899ed">
+          <Graphic GUID="e662af68-962b-4f96-9187-d462083c9177"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/8dd440ab-30d3-4bf3-9059-d51406d0903c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="60e16aff-6e2c-45c4-9fed-d1ddd006ce8d">
+          <TextBox GUID="e96a3fb2-1791-4103-b687-14f6d8e16d6f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="f15b95c5-a448-432a-b54e-c4fb0604c607">
+    <div GUID="4e2c71d7-6a53-4dc3-b156-3f77f7baf557" xmlns="http://www.w3.org/1999/xhtml">This lesson looks at Knowing Your Customer – AML/CTF Programs.</div>
+    <div GUID="3949c531-f43b-461b-af90-1ea796509e9c" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="e321489f-00d5-444a-8f85-f37865337054">You should complete the lesson in about <strong GUID="468f807d-c698-40cc-adba-b02f5df90e37">15 minutes</strong>. You will learn about:</div>
+    <div GUID="a128c3d0-d18d-43d3-badc-33f9e0c067b7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="8006b800-9107-4ec5-a03a-0274d8140401" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="2c546467-b102-45dc-8711-2d50c20e9753">What ML/TF risk is</li>
+      <li GUID="deabaeb7-7c12-4438-86a2-086e36b4bc83">What your obligations are in relation to complying with your organisation's AML/CTF Program</li>
+      <li GUID="ac457745-7864-41c8-9063-414c522c6cb6">AML/CTF Program content requirements</li>
+    </ul>
+    <div GUID="8c946c32-5c37-4fb5-b621-52b475889f80" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="878fea39-95ef-4ac8-8d80-e805f6fcf8e4" xmlns="http://www.w3.org/1999/xhtml">To get started, please click on the <strong GUID="c27269b8-ac75-4e34-850b-a609784f00c5">Next </strong>button below. </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="f93cf5d6-8b49-4fae-b603-bb362018b5f3">
+      <IncludedInTOC GUID="60ea661c-21f8-40d5-a700-706ccf513553">true</IncludedInTOC>
+      <Title GUID="f6a5d679-8bf1-4ce8-ba3d-f34d0c5712e6">What is money-laundering/terrorist financing (ML/TF) Risk?</Title>
+      <PageElements GUID="7d790b80-d385-47d7-b6cf-f3dac065f24f">
+        <PageElement GUID="b450e2f9-3735-4bb0-9d41-483e6b233366">
+          <Graphic GUID="c370e3ee-8e61-4761-962f-db7bded6f72e"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/80166a99-f890-4ce0-bff1-14ba35c7d1a0.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="d58b387f-5632-4cdd-836e-167e31ee74ad">
+          <TextBox GUID="f04a4447-5b2e-4cd1-9ce5-75254d19221a"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="fa6e0956-cc0b-4b2c-97af-dc23b86291d9">
+    <div GUID="1d5d55ed-5178-48b9-a4ed-afae6148401b" xmlns="http://www.w3.org/1999/xhtml">The risk that a reporting entity (i.e. an organisation providing designated services) may reasonably face that the provision of its designated services might (whether inadvertently or otherwise) involve or facilitate money laundering or the financing of terrorism is known as "ML/TF" risk.</div>
+    <div GUID="b5364639-fec2-4d31-99bc-c95bf30303c8" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="df3b8496-9a57-4f82-999e-fe51c0f5d2f7">From 12 December 2007, each reporting entity must have an AML/CTF Program, Part A of which must have as its primary purpose, the identification, management and mitigation of its ML/TF risk.</div>
+    <div GUID="a1bc3650-f195-4cde-bfde-da452dea3906" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="df695a40-ffb9-45e2-a746-3d97d0ace124">The AML/CTF Act and Rules have been designed so that the content of your organisation's AML/CTF Program can be based, in part, on your organisation's assessment of its ML/TF risk.</div>
+    <div GUID="0d655e3e-d9eb-49e7-b54e-4628c3fbb9ed" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="0b1d8898-c012-4ba9-8804-e2dbb004ed99">In determining ML/TF risk, your organisation must consider the risk posed by the following factors:</div>
+    <div GUID="b1981bbe-a0f0-4947-878e-bc23fe358611" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="42f4e9a0-9aec-4ea8-9f0d-f7ddf244637e" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="d049cfa2-8414-40f1-9ae0-4b278a8c4621">types of customers it has;</li>
+      <li GUID="e236ec1e-f580-43c6-ae52-ec6819d10f77">types of designated services it provides;</li>
+      <li GUID="612e984d-4661-4270-9745-24acbc2dbeef">methods of delivering its designated services; and </li>
+      <li GUID="127d2393-d4fb-40f4-8bc4-54ca9c0b6588">foreign jurisdictions with which it deals.</li>
+    </ul>
+    <div GUID="cbe8fd78-952e-4ffc-b982-4b8b4184870d" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="dda3419c-cf96-4266-9bf9-7267b8a5c6dd">It is your obligation to comply with the requirements and procedures of your organisation's AML/CTF Program to the extent that it is relevant to your role and duties.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="8b3b37f0-60c9-4843-84f1-12709ade3bd3">
+      <IncludedInTOC GUID="e0b3cb3f-145d-417f-b531-88cd4f851165">true</IncludedInTOC>
+      <Title GUID="5c9c8e2d-e1eb-41ba-89ab-35c5c132bdaa">AML/CTF Programs and the AML/CTF Act and Rules</Title>
+      <PageElements GUID="2ae14819-140f-4d56-931d-0a45a3a82eee">
+        <PageElement GUID="87403e85-2ffd-4840-b116-ac61e536374f">
+          <Graphic GUID="68fdd63c-cfa1-4646-9986-8377444f48c5"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/5b360f76-7f9d-4899-84d2-600ee23616d4.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="1d56962b-380e-496e-8c35-da9d3d2e83ad">
+          <TextBox GUID="e49eebac-ff41-4a4c-afd3-cce552726653"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="08a041ee-d522-4496-b250-bf0a0ef6193f">
+    <div GUID="d8776c62-c413-4199-a425-4284ce0c47b4" xmlns="http://www.w3.org/1999/xhtml">From the 12 December 2007, every reporting entity must have and comply with an AML/CTF Program.</div>
+    <div GUID="77dd46cd-79df-463e-90da-552ac5738159" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="02a8e97d-cd4f-4d47-9624-4a4b320de24c" xmlns="http://www.w3.org/1999/xhtml">It is important to remember that you cannot commence to provide a designated service to a customer after the 12 December 2007 if your organisation has not adopted and does not maintain an AML/CTF Program.</div>
+    <div GUID="a296eb9b-629d-414b-8818-3d41f69ddffe" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="6a34ea68-cddd-478d-829a-4d7b2990e9a0" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="608293f7-1d42-45dd-98ae-1419cc58fb25">Civil Penalties</strong>
+      <br GUID="f3171f33-9ce2-447e-8ff7-3924479e2000">Providing a designated service to a customer without adopting and maintaining an AML/CTF Program can attract a civil penalty under the AML/CTF Act. Penalties of up to $11 million may be imposed on a company (for example, your organisation), or up to $2.2 million on an individual (i.e. you!).</div>
+    <div GUID="fab2340c-e39c-4385-ad27-0830ff5fcbc6" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="eabb4dcb-c244-4472-b45e-4df59f43404d">
+      <strong GUID="27f00fa4-9e2d-4f1e-a45e-0bb08aee5fdc">Types</strong>
+    </div>
+    <div GUID="287842ca-f005-4284-934c-c59cbc06b27c" xmlns="http://www.w3.org/1999/xhtml">A reporting entity must have one of the following types of AML/CTF Programs:</div>
+    <div GUID="0d1c505b-3249-4f6d-9e98-9461d860f8e9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c6e0636d-e28f-4aae-acaf-5eb15fec7255" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="8464dc22-526d-45db-9372-1aed0186a55e">standard AML/CTF Program;</li>
+      <li GUID="49d73a17-d8a5-4654-86e5-e1261bb16e2c">joint AML/CTF Program; or</li>
+      <li GUID="69093c7e-99ce-45c3-8781-e3e0e2ebc4c1">special AML/CTF Program.</li>
+    </ul>
+    <div GUID="dd5cfe50-60c8-43ff-bbf9-78f1b18f763a" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="eebd2206-e2be-44ad-b2c3-ad8458793927">For more information about the different types of AML/CTF Programs, see sections 84, 85 and 86 of the <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200627290?OpenDocument" GUID="5aa96380-858e-4866-a374-b0cc7e4d9367">AML/CTF Act</a>.</div>
+    <div GUID="d39fb3c1-18ef-430d-897a-d259ec686d6e" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="eb629e9c-ab33-4700-acf9-d424b280ab20">Although, as an employee, you need only comply with the requirements of your organisation's AML/CTF Program to the extent that it is relevant to your role and duties, this module advises on what an AML/CTF Program should address.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="34f6687d-f0bd-4cb7-be5a-889411597ca1">
+      <IncludedInTOC GUID="ead97eb7-9359-4a0f-9600-854b0db54a0a">true</IncludedInTOC>
+      <Title GUID="0cc009a8-02b6-432c-aa04-36268756484d">Structure of AML/CTF Program</Title>
+      <PageElements GUID="4583c933-3357-464b-8c7a-f32ca0e72320">
+        <PageElement GUID="ca9b8c9a-9e2c-48aa-80f0-7347dad76b11">
+          <Graphic GUID="2db4bc62-7717-4ec6-9ddd-5f723c42cf8c"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/ede53baa-7843-4fc7-9d16-6d26438e422a.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="5e053d9d-4352-4f81-845e-5825df48414a">
+          <TextBox GUID="32d7acf1-7c77-4bf2-adcd-c87af514a3a9"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="2597ce72-d248-4306-99da-eecc6d6c1f4a">
+    <div GUID="33ca5788-ccc7-4e2d-9d09-76b0a51c6f18" xmlns="http://www.w3.org/1999/xhtml">An AML/CTF Program must contain two parts – Part A and Part B.</div>
+    <div GUID="f29f3507-dcbe-4aee-af8a-7207dd372949" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="ef90963e-e5ce-432b-8e8a-5620aba98618" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="74252b75-4176-450f-847b-c97cc036449a">Part A must set out systems and controls designed to identify, mitigate and manage the reporting entities ML/TF risk; and</li>
+    </ul>
+    <div GUID="5c4c47ef-3dcd-4a0c-b6e7-8b07438eb7c5" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="160c1810-3a8c-4778-88bd-ca5688815a2a" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="b8f19b55-8257-42ba-a74e-bfb3901f339b">Part B must set out the applicable customer identification procedures to be followed by the reporting entity in identifying its customers.</li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="db5274e3-3f80-44bb-b250-ad7dca1d61e6">
+      <IncludedInTOC GUID="136b928f-2cc7-4d6c-9e0b-25df491438f6">true</IncludedInTOC>
+      <Title GUID="d8645945-0ca7-4bb0-8963-0baed7b33569">Content of AML/CTF Program - Part A</Title>
+      <PageElements GUID="f8cae0bc-0c69-4697-90ec-b2c41c4a52ef">
+        <PageElement GUID="51a0c453-aa6e-467b-aeb8-c940fa201773">
+          <Graphic GUID="39447a45-0505-4d84-9397-10025ec10e45"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/59201bfe-0538-45cb-b03a-07a78e90d7b4.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="57bb8a6e-900f-4497-bb2d-c3f2f508035c">
+          <TextBox GUID="2652bb0b-8bf7-47cf-a1b6-ae0807738c09"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="6f1c1635-0c07-449a-8c3d-c6001cbc0fac">
+    <div GUID="efe1d927-3391-40f4-b993-ed9211b41551" xmlns="http://www.w3.org/1999/xhtml">There are four main content requirements of Part A of an AML/CTF Program:<br GUID="ae426dca-b7a1-4428-ada9-955089b01e73"><br GUID="696089cf-6daf-473a-bfca-cc2586c57191"><strong GUID="b6aa4060-7e40-48ce-bbbc-adb2d7d4ff79">1.   Changes in risk</strong><br GUID="a087a71e-f338-47d7-9910-5fe890f6bcbb">It must include procedures to enable your organisation to identify significant changes in ML/TF risk and to assess the risk posed in particular by all new designated services (prior to their introduction), all new methods of delivery of designated services (prior to their adoption), and all new and developing technologies to be used in providing designated services (prior to their adoption).</div>
+    <div GUID="25e7fd0b-6fe0-4a9e-891d-d0604bfddb74" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="4e052e2b-21e9-4851-ac27-5bc3576a1137" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="29a05efd-9712-4e38-8e9c-fdd8758be341">2.   Risk awareness training program</strong>
+    </div>
+    <div GUID="60dcac69-3422-44f6-bcfa-10443fde6f70" xmlns="http://www.w3.org/1999/xhtml">It must include an AML/CTF risk awareness training program for employees. The training program must be designed to enable employees to understand their organisation's obligations under the <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200627290?OpenDocument" GUID="d8342dc0-1f48-49f0-874a-1ccecd92d56b">AML/CTF Act</a> and <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Legislation/LegislativeInstrument1.nsf/0/3807309A16A909FECA2572BA0015F784?OpenDocument" GUID="c9033cd2-35ef-4edd-916e-94cec98b7ada">Rules</a>, the consequences of non-compliance with the AML/CTF Act and Rules, the type of ML/TF risk the organisation may face and how their organisations AML/CTF Program is relevant to the work carried out by each employee.<br GUID="52f09267-c288-43ae-8c83-658c1dc90577"><br GUID="d7033664-177b-423f-b608-74d633574d30">This salt™ Program forms part of your organisation's AML/CTF awareness training.</div>
+    <div GUID="0e196085-e9bc-46d9-a7a4-5924b73fb0ef" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="9754346a-18a3-4e22-8e48-aa66f6d33d8e" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="db9714c9-f4f5-4260-b0bb-5a7546ff1f0c">3.   Employee due diligence</strong>
+    </div>
+    <div GUID="67eb8185-6b0e-42d2-80ae-06d41f7806cc" xmlns="http://www.w3.org/1999/xhtml">It must include an employee due diligence program which includes appropriate risk-based systems and controls to determine whether to, and, in what manner to: </div>
+    <div GUID="b8ee011b-1249-4f7e-9e85-87198ff33d45" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="a4b76961-5707-43f8-a2b2-d654f144d15c" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="eae00597-e53a-4edc-a22a-6aa8a55f0091">screen any prospective employee whose role may place them in a position to engage in money laundering or terrorist financing; and</li>
+    </ul>
+    <div GUID="58547bf8-b02b-4e6c-88b0-4284cfa62214" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="caf7ec38-3ee3-49d8-a265-cad3b3fe7a64" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="6afc1c5f-2f6a-47af-9c7e-468a527a1e1b">re-screen any employee who assumes a role which may place them in a position to engage in money laundering or terrorist financing.</li>
+    </ul>
+    <div GUID="aa589c42-6175-418e-acb0-cc809eb87e54" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="d197dd2b-f532-4d7a-aaee-ae222ada7e44" xmlns="http://www.w3.org/1999/xhtml">It must also establish a system for managing any employee who fails to comply with any procedures established under the AML/CTF Program.</div>
+    <div GUID="111f3ef8-cc4f-4d9e-bffd-ca2ce8de3977" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="e1d5f194-853e-4e87-bde4-c9b8387d61b2" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="72119862-09ba-4e8b-879e-7ae7f0c6649c">4.   Compliance Officer</strong>
+    </div>
+    <div GUID="6c279c91-9d07-4faf-8b36-e5f1dcbf8d2c" xmlns="http://www.w3.org/1999/xhtml">It must provide for your organisation to appoint an AML/CTF Compliance Officer at management level.<br GUID="ea3835a9-2aab-484c-be48-261867ecd4ef"><br GUID="fbf9167a-61fa-4e03-bcad-bfaa2de20db1">Part A of the AML/CTF Program must be approved by and be subject to ongoing oversight by your organisation's board and senior management. </div>
+    <div GUID="e8a3b56c-2d04-4a71-9173-d6428d44e61a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="8be2e98a-6b8a-4baf-8740-e20938721f37" xmlns="http://www.w3.org/1999/xhtml">For further information see Chapter 8 of the <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Legislation/LegislativeInstrument1.nsf/0/3807309A16A909FECA2572BA0015F784?OpenDocument" GUID="df88a6a1-9dad-4117-9e05-4358cd0a2a93">AML/CTF Rules</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="46a37c09-3de5-428a-9960-3956fa9f98f9">
+      <IncludedInTOC GUID="0c1587fa-5ba9-4e03-ac10-0fb1554c3c1c">true</IncludedInTOC>
+      <Title GUID="0eba31e0-6a8e-4272-98eb-e41c6f4412f5">Content of AML/CTF Program – Part B</Title>
+      <PageElements GUID="4ad36f73-8fe2-4054-b590-1642efad4509">
+        <PageElement GUID="c15cfbc2-e2b0-48ed-a14a-f325094041c8">
+          <Graphic GUID="199255d3-f475-4b80-86fb-1be05ae3c0c1"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/3cc60d57-5516-4a1b-9f5c-a9d315560aa2.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="3ecc5ecb-b977-42c6-ac59-d714786ff1b3">
+          <TextBox GUID="f5aa0db2-603d-4594-8625-d1106d8e7de8"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="705d6512-3102-41c3-b08c-65eff2ca28ee">
+    <div GUID="cc1fc586-f46d-49d0-9f6b-e7e14982aa92" xmlns="http://www.w3.org/1999/xhtml">Part B of your AML/CTF Program must set out your organisation's required customer identification procedures. Different customer types attract different levels of ML/TF risk. This means that your organisation's customer identification procedures will differ between different types of the following customers:</div>
+    <div GUID="4a5418bd-5ead-45dc-a646-adb8395c33ed" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="04684011-dcc7-4941-a369-88c32bbdd66d" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="31f79fd8-a051-434e-a6ee-0f535360a285">individuals</li>
+      <li GUID="1c0fd400-0bb4-491c-a74f-493f7c37628a">companies</li>
+      <li GUID="e43a850f-ade1-4df2-b635-7ba940fb488d">trustees</li>
+      <li GUID="36540549-3012-442d-9bdb-a7eccc5d03e7">partners of partnerships</li>
+      <li GUID="04f56add-3552-41c5-9b4b-abb5bd972499">associations</li>
+      <li GUID="b6448fbe-e5c6-48b4-8401-3705a15989c1">registered co-operatives</li>
+      <li GUID="e25364f0-70b2-4100-8de2-8bc1ecaacbb7">government bodies </li>
+    </ul>
+    <div GUID="84faeb36-e311-48ec-95bd-74f207b5561a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="47970b84-5ec7-4767-aa49-7f02d513b454" xmlns="http://www.w3.org/1999/xhtml">Commencing 12 December 2007, the <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200627290?OpenDocument" GUID="aa9ccc58-93d0-4657-9075-655b54b36e24">AML/CTF Act</a> prohibits a reporting entity from commencing to provide a designated service to a customer unless it has carried out the "applicable customer identification procedure" in respect of the customer. (This requirement and exceptions to it are discussed further in the Identification lesson. It is a matter for each reporting entity to determine for itself, in accordance with requirements of the <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Legislation/LegislativeInstrument1.nsf/0/3807309A16A909FECA2572BA0015F784?OpenDocument" GUID="62395b92-930e-4081-9996-adbfbce9c2f4">AML/CTF Rules</a> and its assessment of AML/CTF risk it faces, what the applicable customer identification (and verification) procedures should be. The reporting entity must then detail its applicable customer identification procedures in Part B of its AML/CTF Program.</div>
+    <div GUID="ed64ce25-d3fb-4f7b-8af6-bdf4b6890046" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="c82b45a1-eec3-4095-ad63-690915fc99ef" xmlns="http://www.w3.org/1999/xhtml">The customer identification procedures must outline what customer information your organisation must collect from each customer, what customer information must be verified at a minimum, what is used to verify the information and a procedure for when discrepancies arise.</div>
+    <div GUID="9058891e-3771-47d0-a7c5-62083a6955f1" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="0f0724de-3ed7-4bf6-a9d1-1784a49f5b22" xmlns="http://www.w3.org/1999/xhtml">Your obligation is to comply with these procedures.</div>
+    <div GUID="5a6a4852-fe0a-4000-86e8-4e06041e85bb" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="a0956df6-11d8-420d-a513-94706ab01084" xmlns="http://www.w3.org/1999/xhtml">For further information about the customer identification procedures required to be addressed by Part B of an AML/CTF Program, see Chapter 4 <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Legislation/LegislativeInstrument1.nsf/0/3807309A16A909FECA2572BA0015F784?OpenDocument" GUID="02bfe7ff-4bbd-40a6-9bb1-b5f87d8ddbdc">AML/CTF Rules</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="62411aa2-3288-4329-946d-624e11889e70">
+      <IncludedInTOC GUID="b5161ee7-104e-4339-8c08-bfeb6360e8dc">false</IncludedInTOC>
+      <Title GUID="43ba07a0-4362-481f-8010-8e3975f2ba75">End of lesson</Title>
+      <PageElements GUID="d668f311-b43a-4a56-9fe7-46a8fa8996b0">
+        <PageElement GUID="86696256-fa6f-4b8c-9261-daa2db15c527">
+          <Graphic GUID="f34915b5-d6a0-44f5-b7ed-3ac52b0fc698"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/098d2438-dd21-4894-9f2c-4cb58e37463c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="dec7069e-a349-4ce0-bc98-9dafe42a49f1">
+          <TextBox GUID="07a3670b-c9df-404e-817d-5938987d02d3"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="2ca004b7-55bf-4323-85b4-8e5551ea4557">
+    <div GUID="c29e2eeb-aa99-4697-9a9a-6bdc3c325687" xmlns="http://www.w3.org/1999/xhtml">Congratulations! You have completed your lesson.</div>
+    <div GUID="87ad947e-3548-4f0e-9bce-7a5f7eafefff" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="6f3a2ee5-cb3b-4259-9857-18fa2fa67057" xmlns="http://www.w3.org/1999/xhtml">Click the <strong GUID="4df6e8b8-9767-4c68-aa22-b4ec497eaf9d">End Lesson</strong> button to exit the lesson.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="8752e074-4061-4811-949f-a54cb6d95ab9">
+          <EndLesson GUID="feb5fd31-cdbd-49d9-a1db-5d4d0137746e"> <![CDATA[<div class="EndLesson_Main">
+  <input type="button" class="Navigation_Button_Submit" value="End Lesson" onClick="__doPostBack('Lesson_End','')">
+</div>]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

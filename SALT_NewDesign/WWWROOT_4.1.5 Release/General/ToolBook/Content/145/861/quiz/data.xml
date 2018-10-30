@@ -1,0 +1,654 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" productVersion="15.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="df07c37b-ede6-4728-bccc-a69e0372f4ef">
+  <Summary ID="grcwhs04q" GUID="dfa4489d-1568-4f23-86ac-c6c617ebedb2">
+    <ContentType GUID="7ecbdfd4-b4d8-4c30-ad70-31d04ed6a094">quiz</ContentType>
+    <UploadType GUID="c44d7446-df0b-4685-ab6c-35b9c36a7844">correction</UploadType>
+    <Title GUID="089632ab-81c2-4f88-9f74-c04a5fcbc3fe">Compliance and enforcement measures</Title>
+    <CreatedBy GUID="bca64d65-251a-4e99-ad18-13bf01b474cd">LTG Casual</CreatedBy>
+    <CreatedDate GUID="918975c6-7fb7-4d3e-937c-42636e6c4886">2005-03-31T09:05:37</CreatedDate>
+    <LastModifiedBy GUID="6af0b232-3feb-4669-903b-fb2cb466ebf4">Laura.Tomich</LastModifiedBy>
+    <LastModifiedDate GUID="213d68c0-bf8c-4899-a4ef-fe2d6f4c83e1">2014-10-16T11:51:08</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="2d53bc64-ff2d-4dfc-b6d7-043e1b658eeb">
+    <Page ID="Intro1" IsActive="true" GUID="101fcfc1-71bd-4cf8-96d3-5b3cce90437e">
+      <Title GUID="b4a262e6-2b42-4397-a812-445377936dca">Compliance and enforcement measures</Title>
+      <PageElements GUID="bf94c43c-591a-4620-9f8c-c4c9cf2418d6">
+        <PageElement GUID="e689798c-2ca7-42d1-b2c7-e8a2f303268a">
+          <Graphic GUID="931535d1-5b37-4b99-8ce7-32b32b512f90"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/757acec8-bc72-4cf3-aff5-4163dd83d2bc.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="e41634ff-68db-4596-9a50-e0f784f36500">
+          <TextBox GUID="cefca380-0b60-42be-b2bc-88263fe34fb0"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="9f9bf2ee-5a13-46c3-a4a4-230ddbd81da7">
+    <div GUID="5b593b9c-c252-4e79-8c69-cd5bbbc2a076" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="f6a01130-eadd-4f02-9d3c-46f2b7344c6c">%System_NumberOfQuestions%</strong>  questions about<strong GUID="aec6df32-266a-4d48-890a-d8d5e22e9843"> compliance and enforcement measures.</strong></div>
+    <div GUID="1dbcd646-e78f-4c7d-b82e-24180a922693" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="6bad6214-37f8-4571-bea7-90b11b6f7fe1" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="bdda0a77-cd66-4409-8de7-59900ecfd15e">
+        <font size="2" GUID="14e57726-7b66-4755-b45e-683c098a36f9">You will be asked multiple choice questions. Answer each question by clicking the button to the left of the most appropriate response.</font>
+      </div>
+      <div GUID="db6ef6b7-6a44-4baf-94e9-13e20d9c03b9">
+        <font size="2" GUID="92b4d10a-9773-4f49-a46d-b55fbb2318b2">
+        </font> </div>
+      <div GUID="4202376d-176f-4cd4-b0b0-098eb8efdc4d">
+        <font size="2" GUID="f9326e1c-b2ae-49fa-af31-b81efd643969">After you answer the last question, you will be given the chance to review and then submit your answers.</font>
+      </div>
+      <div GUID="c7a20313-f1a9-421a-8075-ce69d1759f1b">
+        <font size="2" GUID="ce56b9d1-f093-4331-9054-04082cdb7d07">
+        </font> </div>
+    </div>
+    <div GUID="77fdf0f1-e262-45ef-802b-861d26d1b31f" xmlns="http://www.w3.org/1999/xhtml">Please note that if you exit the quiz before clicking the Submit Answers button then your answers will not be saved. </div>
+    <div GUID="27843b15-c189-4ebc-a5ae-52e4d9e8005d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="104e4266-b728-419e-8112-ce39c24a94c3" xmlns="http://www.w3.org/1999/xhtml">To move between questions, use the <strong GUID="0eda6f0c-c0a2-4d49-bd2c-6de337d1299a"><font size="4" GUID="50e09635-b110-4c59-8a06-9097e1b238d4"><font face="Arial" GUID="e06a7a26-48a2-4abf-91fb-7efdabb9e437">◄</font></font></strong>and <font size="4" face="Arial" GUID="d24085b5-cf8f-41b1-b64e-5f7bcbeebb6b">► </font>navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="b296ac19-241e-4afd-a681-4b223cca5525">
+    <Page ID="Q1" IsActive="true" GUID="12499d49-0dae-4375-a34a-e1452f692dd3">
+      <Title GUID="6b4969dd-303c-404a-aef4-0a6389da8f6a">Question</Title>
+      <PageElements GUID="6f4f14ca-0814-4685-be66-e27cec8ad328">
+        <PageElement GUID="4380a132-03d7-4c98-8432-6843d4e757da">
+          <Question GUID="9a1cbd61-9afa-4cc6-851a-d7d478ee31d4"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="08e8eeaa-1893-4273-887e-19d6f8b019e1">
+      <strong GUID="030efd40-ac85-43c7-be0f-1b8521672d78" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="a9e6aaf2-5803-47ff-9ef5-0fb45d4f4611">
+          <strong GUID="7c047a78-d7fc-4710-9f2f-f1f303c93d78">
+            <strong GUID="73370663-7e7c-43ec-b8e2-1eb5d7fe86a1">What is NOT a function of the regulator?</strong>
+          </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b6c9b91b-3aa3-4d61-af3e-4f1b0a57bd11">To temporarily close down a business or enterprise that is found to have breached WHS laws</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="aaa71471-0899-4268-8c3c-600af0ca2b9b">To monitor and enforce compliance with WHS laws</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="906b7c9c-94b5-4b00-aecf-419d79f6501e">To foster a cooperative, consultative relationship between duty holders and the persons to whom they owe duties and their representatives in relation to work health and safety matters</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7068f1fe-f145-43f9-9000-09883ddeba7f">To advise the Minister on the effectiveness of WHS laws</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="b2718d5d-e5f1-4791-9f37-6107929dd200">
+      <Title GUID="ea80c592-4134-4f36-b25f-62ba1263ea34">Question</Title>
+      <PageElements GUID="a494ca4d-4c07-49dd-b202-57d8c2bca393">
+        <PageElement GUID="f9b6f2a7-4aec-4c16-8889-6a3c8cb4b0c6">
+          <Question GUID="fa55144b-d326-4f64-9d2c-38b3ffd8d532"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="4c6caff6-fe05-445f-863a-e00d6408bf49">
+      <strong GUID="71c94b92-919b-41fd-b5b5-44009026e710" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="497bbfd5-066e-4e54-a096-5b2e036e9d7f">
+          <strong GUID="1a81b8f4-7382-4bfc-8080-428648fefce8">What can the regulator require a person to do?</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2263d7be-2d16-4000-8b8e-3e24e4578859">To give the regulator information, in writing, that the person knows about</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e0f8c6ea-5071-4080-b1a0-6e30147fcf06">To appear before the regulator and give evidence</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e46bebda-e6ab-4f9a-aa20-dacc9df1f9d8">To produce documents to the regulator</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f5e7ca70-9905-4afb-99d1-596f3d6747bd">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="6b7b8f31-9bca-42ff-be8b-3929bd472378">
+      <Title GUID="d17e6503-5d45-4c49-9d63-418a6ad9b125">Question</Title>
+      <PageElements GUID="ebfa262a-bd74-4c65-9b94-228039aac615">
+        <PageElement GUID="818d9958-b3f8-4f0d-aca0-fabfa2767ab5">
+          <Question GUID="ebf13675-f0d7-45fa-ab1d-64647710b746"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="da8192c0-d0ab-4b07-a38a-3842a8a1ad3d">
+      <strong GUID="23ba7e7d-ffd0-433d-bd29-df6844bffae8" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="4bae9ab5-9172-4933-87f5-42b54273c85c">
+          <strong GUID="c402a5f8-d3dc-4c14-aae0-5045f53c8b86">One regulator enforces work health and safety laws in every state and territory. True or false?</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e178908e-ca38-4fa6-b181-4bf5154cf4f0">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="03318942-cd65-4448-adb6-ad781683b3b2">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="6e35e709-2dbf-4b70-82c9-d2f94b76ad40">
+      <Title GUID="bbaa407d-a3cc-49ab-85eb-974b6f72ec06">Question</Title>
+      <PageElements GUID="bf7ec6f6-cd53-48b8-a8ed-2b46c76ea484">
+        <PageElement GUID="bbf13390-3824-424b-9806-38c9bcc67e4f">
+          <Question GUID="e8a35342-36a9-40b7-91d2-08cf7461a6fe"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1710328b-cf4c-4b75-9ab7-fd0431d35759">
+      <strong GUID="89e54c5e-d774-4c28-bbb2-ddd40ee991ec" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="36e1d4b4-13c5-47a2-a873-e72ab4d3d675">
+          <strong GUID="80255428-c889-4093-b7f9-afc5339d2520">What is NOT a function of a health and safety inspector?</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="05290545-0513-4a07-9fdf-8006d83c15f3">To help resolve work health and safety issues </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="07c1257f-3753-4808-9cc0-ae5e09494277">To review disputed provisional improvement notices</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="258f1b88-2849-4e97-9196-08e485b13d56">To conduct hourly inspections of workplaces</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b9a14595-b24e-473c-972f-dc76797e0a86">To attend coronial inquests concerning work-related deaths</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="76a7234f-02c3-4647-86d2-9a485a60b06e">
+      <Title GUID="f3da7dff-3021-42cd-a29a-dbe6dd8d6227">Question</Title>
+      <PageElements GUID="6920696f-b86e-4ec6-a74e-3f0b3ede7356">
+        <PageElement GUID="4c9435dc-620a-420a-93b8-1331f239f42c">
+          <Question GUID="c88d7328-330e-49bb-b336-fdec33b096c4"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="df14d135-56b9-4647-ae0f-1adbc23cd056">
+      <strong GUID="b3d6ae8e-c1af-4637-a9eb-d224faa9d422" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="e1e4834a-d59d-4832-8362-25fdae092692">
+          <strong GUID="88b97dc9-2536-47ff-a594-ee6f6e792a67">
+            <strong GUID="fbad2e36-f98b-4f1d-9654-1ed3d1822ea4">
+              <strong GUID="6162c97f-7f4f-478a-a534-c108c11e3932">
+                <strong GUID="dc5cf236-b977-4e33-8579-6a46a72cb04f">What is a health and safety inspector empowered to do?</strong>
+              </strong>
+            </strong>
+          </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0240b91b-fb15-4f79-adee-e483bb1135be">Order all activities to stop for up to 21 days at any workplace</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ec74abe8-e4dc-4ef6-bf59-920f1fc0188e">Arrest a PCBU</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a6a7cb7d-fe32-4e67-a177-a784524695df">Fine any person who has substantially contributed to the commission of a Category 1 offence against the WHS Act</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d620eb7b-263c-406d-81f7-87cd53551f4b">Seize any object or document at a workplace that they reasonably believe is evidence of an offence under the WHS Act</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="6f630182-8ba4-4084-a686-8f659660cf35">
+      <Title GUID="c005e197-d57e-48be-9450-b0a40bffd57e">Question</Title>
+      <PageElements GUID="2d34356a-4289-4c4d-83fe-287b8bdf90e8">
+        <PageElement GUID="c8650552-d480-4ee2-b4c6-9574398b29b5">
+          <Question GUID="49a74805-01fb-4b3e-a3fe-f219ab25d3cf"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="a0a00e2b-9e8a-429d-a910-59e0bfd411fa">
+      <strong GUID="7e56ef20-e921-4ab6-99aa-c76df42343b4" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="a8897aa7-1805-4b8c-a8ef-77d30f5e787d">
+          <strong GUID="2688d47c-95a0-40fa-a22e-3e9cac989dd3">What is NOT a power of a health and safety inspector?</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d6617f37-369f-4691-bf3a-e2e7002f02a1">Entering any workplace at any time without prior notice to any person</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6199da90-6a95-4108-8fa0-2580d7ed4ed1">Requiring any person at a workplace which the inspector has entered to answer any question asked of them by the inspector</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3fdb42c8-e9c7-4567-a568-f022935fa97a">Seizing, for no reason, any object present at a workplace that the inspector has entered</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="81752ec9-a4d2-4c36-a98a-71405afd27e2">Requiring any person at the workplace to give reasonable help to the inspector in carrying out their authorised activities</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="15173b8a-fa90-40f5-815e-d39e63913374">
+      <Title GUID="5d8cabc4-c379-4699-a437-c99bf1a5547a">Question</Title>
+      <PageElements GUID="1aef0d7c-63d8-4022-a3e4-e7757b3001fc">
+        <PageElement GUID="82872ef0-7b08-4d3e-abd2-3366d547b6d9">
+          <Question GUID="e45c9baa-a21a-4dd2-8cd9-09f88a98f337"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="af6bad05-b07c-407d-9c43-76aa1246f854">
+      <strong GUID="1c83402e-58f2-46c0-ae4f-deaa21b0b07a" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="c856a56f-9afd-40be-a8cc-8d95a90f14fb">
+          <strong GUID="457c5d30-ee6f-48ef-aa82-d6758ca0e90f">What types of notices can be issued if an inspector believes there is a breach of WHS duties? </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f2acb411-ef49-4b4c-a1b4-1351a05dd7fa">Restitution, prohibition and non-disturbance notices</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="915faf26-ae8c-4d73-af35-4c21befc4df2">Non-disturbance, improvement and safety notices</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5abe8a06-ed12-408f-ba77-89f62daaacd7">Improvement, prohibition and non-disturbance notices</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="24aef24f-9f95-4d65-b3d7-f6e95c78975c">Restoration, improvement and prohibition notices</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="a2ded2ce-2f93-4094-bae6-66fa5bf4db11">
+      <Title GUID="877a1822-a7eb-4950-ade2-bae40696dcd1">Question</Title>
+      <PageElements GUID="1d7452ae-80d9-494b-9f09-83474e49bae6">
+        <PageElement GUID="8b37bedb-bcbc-429c-a352-ad301623a190">
+          <Question GUID="a20e1c79-633a-45e7-a435-243b19e9f158"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="8b8be56d-bc24-4491-9374-7f80769f9c87">
+      <strong GUID="4f797123-e80c-4de7-92c4-672744600bd9" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="9329a8b1-ded2-4197-b31e-40aa75fc43bb">
+          <strong GUID="71d2f53d-4100-44c5-b21d-4f2b014d7bb7">
+            <strong GUID="1edf769d-f169-46b8-b430-f529d8e06e90">What directions may a prohibition notice issue?</strong>
+          </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2bcd847e-190d-4768-b2a4-5bfbddbb489c">It may direct a person to stop a breach or prevent a likely breach to WHS duties</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="07788cd1-b5c6-48c9-a374-99506ce056db">It may direct a PCBU not to carry out an activity until the inspector is satisfied that the WHS risks have been remedied</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3edb0837-2e91-4f8b-b5dd-7c8383bcb3f8">It may direct a member of the public to eliminate or minimise health and safety risks arising from exposure to a particular hazard </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2ea91d74-f19a-4679-9bec-e1fd64d2ec39">It may direct a worker to ensure that a site be preserved for as long as the inspector thinks is reasonable</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="22ed5744-869e-4aa5-ba6f-e28ea7df5eca">
+      <Title GUID="b4aea8ee-b302-4aee-9748-b0a2e01e985e">Question</Title>
+      <PageElements GUID="f7e75730-d98b-40ae-99c8-848ffa6c5979">
+        <PageElement GUID="7e86d42e-cf95-4afc-9f20-7c4c7105a81e">
+          <Question GUID="bd298d1c-004b-4ca6-9c5c-312a3bb540c3"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="472fd131-9a86-45ee-993f-153e5c1682d8">
+      <strong GUID="8b80aa92-c939-43c0-aa06-cf746eb19bdc" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="24936a8a-fa9f-4202-9b53-c4a5c44f8563">
+          <strong GUID="61ea13c5-6494-40dc-803d-04fb14e8f4a1">
+            <strong GUID="30ef0e44-d591-4a58-98a5-4d19335ab052">A non-disturbance notice can only be issued in relation to the site of a notifiable incident. True or false?</strong>
+          </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="82da84d4-f191-4403-b9fe-9d6742673595">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="146ea4a2-59ca-4580-8218-1d537f8eb54d">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="bb06a9fc-9874-4a33-a7c5-97e78cdb001a">
+      <Title GUID="0fdaea76-7dd4-46a4-8d62-b1135d0c95eb">Question</Title>
+      <PageElements GUID="f7411861-27dd-4322-8572-6b078b946d21">
+        <PageElement GUID="6a1885f0-36ba-4c8f-8a04-dfca42a9b2f5">
+          <Question GUID="5701c066-1ce5-4c09-9fc9-87586416508b"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="ea62a0d1-6749-442f-9057-c11afb51e14a">
+      <strong GUID="0fef6139-35cf-4537-abd9-10ed14f04be0" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="5efafe2e-3f21-486a-bb05-1e11fc601724">What is an enforceable undertaking?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ff76e164-409f-41ec-ac33-60f5926888db">The penalty incurred by a PCBU as a result of a WHS breach</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="36abfbf1-4ec3-44b6-b163-66609b88ab5a">A binding direction from the regulator about how a PCBU must adapt work practices to improve work health and safety standards</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="16cb5601-5860-4d45-b67d-c2bdffc72573">A written promise by a person who has breached the WHS Act to take particular measures, as accepted by the regulator</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1f8088d7-b6ff-44ba-bf68-451e7fe5edd8">A written statement by a PCBU to acknowledge the existence of a WHS breach</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q11" IsActive="true" GUID="fc44c560-ec13-474d-a3af-42f481a0c896">
+      <Title GUID="343d3822-039f-4d89-a421-4d605da71f1b">Question</Title>
+      <PageElements GUID="586907c9-ce0c-430c-9ef8-d834e394c709">
+        <PageElement GUID="aeae9bbe-4819-4bff-bbf8-78b978a9d9b1">
+          <Question GUID="5da6a949-2c26-4d20-83dd-7873225ed3b3"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1bb9806c-1947-4789-8935-4d20b284870b">
+      <strong GUID="448210e9-347b-4d9a-9b8f-d967cb2125ed" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="9c659e37-4703-4ab5-ab4b-7be0d13667b5">When does an undertaking become enforceable?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1fd130ab-02f6-41db-b181-51853574a94f">When the person making the undertaking first informs the regulator about it</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4b77fda1-fbbc-4c8c-98e6-155327e585ab">When the regulator gives the undertaking to the person named in it</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2059dc6e-3be6-4b64-8f4d-fc04acfe9433">As soon as it is created, unless a later date is specified</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="608eea4a-dec8-4aaa-ac61-5bcf5f155d0f">When it is accepted by the regulator</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q12" IsActive="true" GUID="4c487ee0-2a10-4ac8-8b9e-47ee7dc19663">
+      <Title GUID="f1f37c7b-99b6-40d2-8b3a-2cdb078a3537">Question</Title>
+      <PageElements GUID="4b1ff11c-6111-4e05-81cf-28d1c2871197">
+        <PageElement GUID="3a3300f8-31cd-4a75-90fc-b67794561cec">
+          <Question GUID="a0de18cc-f53a-4616-b6a7-904e37ae0a83"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="e4764780-abca-4f64-a876-d21f717b2829">
+      <strong GUID="0a412687-a0e3-4eb1-89c0-b96dfd370493" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="74c8b87e-4375-4098-a928-19c5dceeb3f0">What happens if a person breaches an enforceable undertaking?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="170a61e7-7251-4820-aab7-3f2d275dd315">The regulator may apply for a court order directing the person to comply with the undertaking and any other order the court considers appropriate</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="696b9f29-f7c2-4b68-b73e-0e8b1b8a662a">The regulator may issue the person any order it deems appropriate</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9a038599-3667-4218-8db6-66e3982f2456">The regulator may impose any penalty or consequence that is reasonable in the circumstances</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="88f6f6b2-d937-4f47-ba25-f28fef58a2ca">There is no consequence for the person, as long as the breach has not created or exacerbated any risks to work health and safety</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q13" IsActive="true" GUID="2a9c5749-5869-4878-81e5-67314eaa3969">
+      <Title GUID="98f15e6d-29b3-493e-8216-05189c9d1671">Question</Title>
+      <PageElements GUID="6439b06b-c13d-4fea-9008-18a8f40c5cef">
+        <PageElement GUID="7bb0f0c5-0416-4fb6-b6d6-bd99fe3818bb">
+          <Question GUID="3233e1a2-1fed-4c6a-8d4c-8832e932e884"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="443039d8-fc4e-4d42-893b-1df9c27eaa40">
+      <strong GUID="e0788baf-c278-47f4-a661-6eb08a2ded3a" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="11221532-1610-4719-bd86-e5e1134d3e6c">
+          <strong GUID="23e26c7b-78e9-4370-a064-a42fcfa64862">What is a restoration order?</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9c1fd7ef-6198-4f25-b530-a95922c07c64">An order that a person who has been found to be breaching the WHS Act to stop breaching the Act</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0644bb89-34fd-4fea-b19d-800fa7e093fb">An order for offenders to publicise the offence they have committed</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6a11606b-5768-46cc-85ab-251025a0ff90">An order that an offender must take certain specific steps to rectify the consequences of the offence that the court considers the offender able to remedy</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7488cef7-3844-43fe-a008-ace23b2b2cbf">An order that an offender must undertake a particular project within a time period specified in the order</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q14" IsActive="true" GUID="73dab258-3c44-43aa-8c0f-bcbe399bbdf1">
+      <Title GUID="f56f9ec2-4268-4368-9810-a798ddb14db8">Question</Title>
+      <PageElements GUID="9eebf999-65bb-45bf-8a23-882c02cac83b">
+        <PageElement GUID="4ae069f2-fc0d-496b-958d-b2046360379f">
+          <Question GUID="4de83d85-ec8e-4da9-9818-83bcf829d2bc"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="c5badcc2-c004-4436-aa6c-5ed115f33fcb">
+      <strong GUID="1daeef15-200b-4cff-9298-4c3af9d94adf" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="ad3b3437-9607-4421-99ca-068e3ddf1904">
+          <strong GUID="2aa9b020-28d1-4155-948a-e384a53fbbbf">
+            <strong GUID="c9ae5e9d-1b67-4d84-a9dd-e8d42b6df1a1">
+              <strong GUID="77f26d9b-0bc0-4da8-b9d7-fca111bc8e08">If a person is found guilty of breaching WHS laws, the court can impose a fine or imprisonment on the offender, but not both. True or false?</strong>
+            </strong>
+          </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a49df6c6-792c-481d-bb30-e19c2fec6f04">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="dcede812-36b4-4e7f-82d5-fee15ca6c7d7">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q15" IsActive="true" GUID="389ec810-473b-4e8f-b084-faacedeb2a2c">
+      <Title GUID="64fb1180-5cbf-4482-bcdd-4826f2e82217">Question</Title>
+      <PageElements GUID="4286f30c-1486-4236-887c-c55165dc8dc5">
+        <PageElement GUID="f8f016c1-5de4-4992-b74e-4810b88c69fa">
+          <Question GUID="45b91d58-31ed-41b8-9ca4-0eae217a8e15"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="409076ae-d006-48cf-a689-01e3b332df94">
+      <strong GUID="6428c3eb-8ab1-41de-af0f-8239fb5e1ebb" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="bbc618e1-f4b7-4233-841d-030f869f7aec">
+          <strong GUID="4ac267bb-edcb-4648-a1f1-5a47ff07e0d0">
+            <strong GUID="59ac5465-30db-450f-ae13-2fe14c40eeff">
+              <strong GUID="25e57393-0023-46f6-b8de-6f16d2a846f3">
+                <strong GUID="b5011dd2-8066-42a1-b0a3-f9bbaffa0a2e">Under a court-ordered WHS undertaking, what must an offender do?</strong>
+              </strong>
+            </strong>
+          </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0248215b-d977-4b56-a74d-7ccbbda36558">Comply with any conditions imposed by the court</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8baeb9be-60e1-409d-b00b-bae7a1f65019">Avoid committing any offence against the WHS Act during the adjournment </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ce68087f-2d72-4097-82dd-813aa14d975e">Appear before the court if called to do so during the period of the adjournment </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fcf9f50f-0aee-4161-9503-a86f02ee4c22">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="4bb97919-3d35-4893-bbbb-b9a38dfe87ab">
+    <Page ID="Comp1" IsActive="true" GUID="91f7e5cc-a971-4e4e-b5b4-c7f6a6220a26">
+      <Title GUID="18d5bfe4-dc02-45e0-a743-a179d7c6fd8e">End of quiz</Title>
+      <PageElements GUID="ed64f6ec-2749-4dca-8314-a01a74a35eaa">
+        <PageElement GUID="a7bdecae-036f-4ef3-b3f3-f9369b388317">
+          <Graphic GUID="8967cabd-212d-4f48-b459-79185ab57b44"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/b43d4d46-ff87-4a25-91cf-6c85e1756225.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="4f0635eb-003d-44cf-83ef-b152d2b01935">
+          <TextBox GUID="cb9518cf-b8a1-41b3-850b-2e3b371f6c38"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="59de80be-78ad-4e1a-baf9-6f6362bbbb37">
+    <div GUID="5ea283e1-25af-4d96-b14b-1a21fdbdd461" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="ef0a4af9-394e-442e-b9d0-d291be2de4c5"><br GUID="0dbc5c4d-0c75-4194-84e8-ee9a68921f06">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="4c73c65d-c0bb-4a9a-8da4-9d05fd46fdc0"><br GUID="e8bf620c-5d7a-4c93-91ff-b47fef4542f6">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="6b7b9497-ebad-4e6a-a406-ef3c0c4f9c33">
+          <SubmitAnswers GUID="6139ba20-c5fc-41df-a07b-09b175fd3e7c"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

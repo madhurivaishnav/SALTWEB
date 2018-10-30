@@ -1,0 +1,62 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfQuiz_GetPassMark]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfQuiz_GetPassMark    Script Date: 20/04/2004 8:25:57 AM ******/
+
+/*
+Summary:
+user Defined Function that returns the pass mark for the given module for the given unit
+Parameters: @UnitID integer, @ModuleID integer
+Returns: integer
+Returns:
+scaler - Passmark - integer
+
+Called By:
+prcQuiz_GetPassMark
+Calls:
+
+Remarks:
+
+
+Author:
+Stephen Kennedy-Clark
+Date Created: 11 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1	Jack Liu        18/02/2003	 	Get quizPassMark from tblUnitRule, if it is null
+Get the organisation default quiz pass mark
+
+print dbo.udfQuiz_GetPassMark(1,2)
+
+**/
+CREATE   Function [udfQuiz_GetPassMark]
+(
+@UnitID 	int	-- Unit ID
+, @ModuleID 	int	-- Unit ID
+)
+RETURNS INT --< Passmark >--
+Begin
+
+DECLARE @retVal int
+--Get quizPassMark from tblUnitRule, if it is null
+--Get the organisation default quiz pass mark
+Select 	@retVal =isNull(ur.QuizPassMark, o.DefaultQuizPassMark)
+From  tblUnit u
+inner join tblOrganisation o
+on  o.OrganisationID = u.OrganisationID
+left join tblUnitRule ur
+on ur.ModuleID = @ModuleID
+and ur.UnitID=@unitID
+where u.UnitID=@unitID
+
+
+RETURN @retVal
+End
+' 
+END
+GO

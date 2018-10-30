@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CCList">
+  <DataContextMoniker Name="/CCListDataContext" />
+  <nestedChildShapes>
+    <classShape Id="18b6b719-bef2-4d30-bd19-ad06ce5a5ab2" absoluteBounds="6.625, 1.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/CCListDataContext/tblCCList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="acf82035-59a3-45a2-b8a3-66c6efd37671" absoluteBounds="6.64, 2.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

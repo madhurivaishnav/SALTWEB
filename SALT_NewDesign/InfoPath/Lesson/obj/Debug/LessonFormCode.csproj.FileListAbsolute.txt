@@ -1,0 +1,46 @@
+C:\Projects\Salt\InfoPath\Lesson\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Salt\InfoPath\Lesson\obj\Debug\LessonFormCode.csproj.ResolveComReference.cache
+C:\Projects\Salt\InfoPath\Lesson\obj\Debug\Lesson.dll
+C:\Projects\Salt\InfoPath\Lesson\obj\Debug\Lesson.pdb
+C:\Projects\Salt\InfoPath\Lesson\Lesson.dll
+C:\Projects\Salt\InfoPath\Lesson\Lesson.pdb
+C:\Projects\Salt\InfoPath\Lesson\Microsoft.Office.Interop.InfoPath.SemiTrust.dll
+C:\Projects\Blake Dawson\Salt\InfoPath\Lesson\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Blake Dawson\Salt\InfoPath\Lesson\obj\Debug\LessonFormCode.csproj.ResolveComReference.cache
+C:\Projects\Blake Dawson\Salt\InfoPath\Lesson\obj\Debug\Lesson.dll
+C:\Projects\Blake Dawson\Salt\InfoPath\Lesson\obj\Debug\Lesson.pdb
+C:\Projects\Blake Dawson\Salt\InfoPath\Lesson\Lesson.dll
+C:\Projects\Blake Dawson\Salt\InfoPath\Lesson\Lesson.pdb
+F:\SaltSource\InfoPath\Lesson\obj\Debug\ResolveAssemblyReference.cache
+F:\SaltSource\InfoPath\Lesson\obj\Debug\LessonFormCode.csproj.ResolveComReference.cache
+F:\SaltSource\InfoPath\Lesson\obj\Debug\Lesson.dll
+F:\SaltSource\InfoPath\Lesson\obj\Debug\Lesson.pdb
+F:\SaltSource\InfoPath\Lesson\Lesson.dll
+F:\SaltSource\InfoPath\Lesson\Lesson.pdb
+F:\SaltSource\InfoPath\Lesson\Microsoft.Office.Interop.InfoPath.SemiTrust.dll
+F:\Development\SALT_Source\SALT\InfoPath\Lesson\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\SALT_Source\SALT\InfoPath\Lesson\obj\Debug\LessonFormCode.csproj.ResolveComReference.cache
+F:\Development\SALT_Source\SALT\InfoPath\Lesson\obj\Debug\Lesson.dll
+F:\Development\SALT_Source\SALT\InfoPath\Lesson\obj\Debug\Lesson.pdb
+F:\Development\SALT_Source\SALT\InfoPath\Lesson\Lesson.dll
+F:\Development\SALT_Source\SALT\InfoPath\Lesson\Lesson.pdb
+F:\Development\SALT_Source\SALT\InfoPath\Lesson\Microsoft.Office.Interop.InfoPath.SemiTrust.dll
+C:\VS2008Projects\SALT\SALTSite1\InfoPath\Lesson\obj\Debug\ResolveAssemblyReference.cache
+C:\VS2008Projects\SALT\SALTSite1\InfoPath\Lesson\obj\Debug\LessonFormCode.csproj.ResolveComReference.cache
+C:\VS2008Projects\SALT\SALTSite1\InfoPath\Lesson\obj\Debug\Lesson.dll
+C:\VS2008Projects\SALT\SALTSite1\InfoPath\Lesson\obj\Debug\Lesson.pdb
+C:\VS2008Projects\SALT\SALTSite1\InfoPath\Lesson\Lesson.dll
+C:\VS2008Projects\SALT\SALTSite1\InfoPath\Lesson\Lesson.pdb
+C:\VS2008Projects\SALT_SCROM_Integration\InfoPath\Lesson\obj\Debug\ResolveAssemblyReference.cache
+C:\VS2008Projects\SALT_SCROM_Integration\InfoPath\Lesson\obj\Debug\LessonFormCode.csproj.ResolveComReference.cache
+C:\VS2008Projects\SALT_SCROM_Integration\InfoPath\Lesson\obj\Debug\Lesson.dll
+C:\VS2008Projects\SALT_SCROM_Integration\InfoPath\Lesson\obj\Debug\Lesson.pdb
+C:\VS2008Projects\SALT_SCROM_Integration\InfoPath\Lesson\Lesson.dll
+C:\VS2008Projects\SALT_SCROM_Integration\InfoPath\Lesson\Lesson.pdb
+C:\inetpub\wwwroot\SALT_CPD_Integration\InfoPath\Lesson\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\SALT_CPD_Integration\InfoPath\Lesson\obj\Debug\LessonFormCode.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\SALT_CPD_Integration\InfoPath\Lesson\obj\Debug\Lesson.dll
+C:\inetpub\wwwroot\SALT_CPD_Integration\InfoPath\Lesson\obj\Debug\Lesson.pdb
+C:\inetpub\wwwroot\SALT_CPD_Integration\InfoPath\Lesson\Lesson.dll
+C:\inetpub\wwwroot\SALT_CPD_Integration\InfoPath\Lesson\Lesson.pdb
+C:\inetpub\wwwroot\SALT_CPD_Integration\InfoPath\Lesson\Microsoft.Office.Interop.InfoPath.SemiTrust.dll

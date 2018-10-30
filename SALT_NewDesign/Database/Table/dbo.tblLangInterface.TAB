@@ -1,0 +1,48 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblLangInterface]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblLangInterface](
+	[LangInterfaceID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[LangInterfaceName] [varchar](200) NOT NULL,
+	[InterfaceType] [varchar](20) NULL,
+	[UserCreated] [int] NULL,
+	[UserModified] [int] NULL,
+	[UserDeleted] [int] NULL,
+	[DateCreated] [datetime] NULL,
+	[DateModified] [datetime] NULL,
+	[DateDeleted] [datetime] NULL,
+	[RecordLock] [uniqueidentifier] NULL,
+ CONSTRAINT [PK_tblLangInterface] PRIMARY KEY CLUSTERED 
+(
+	[LangInterfaceName] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+SET ANSI_PADDING OFF
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblLangInterface_InterfaceType]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblLangInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblLangInterface_InterfaceType]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblLangInterface] ADD  CONSTRAINT [DF_tblLangInterface_InterfaceType]  DEFAULT ('') FOR [InterfaceType]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblLangInterface_RecordLock]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblLangInterface]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblLangInterface_RecordLock]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblLangInterface] ADD  CONSTRAINT [DF_tblLangInterface_RecordLock]  DEFAULT (newid()) FOR [RecordLock]
+END
+
+
+End
+GO

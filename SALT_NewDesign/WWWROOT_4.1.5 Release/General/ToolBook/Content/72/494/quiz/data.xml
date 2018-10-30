@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" productVersion="11.0.8165" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="e6090f97-83c7-4403-b5c5-6f75f7c93f5a">
+  <Summary ID="bddg01q" GUID="d6d79450-1648-4dcd-a0df-7a249dd85d5f">
+    <ContentType GUID="3b4e9a0e-4b89-4b8c-b6ae-15c3e0e8fb38">quiz</ContentType>
+    <UploadType GUID="749ddf19-86ef-4a5e-bb01-00c037e1c677">correction</UploadType>
+    <Title GUID="60664fb4-2932-43f2-a068-2d68eef91851">Introduction and Background</Title>
+    <CreatedBy GUID="f7224bfd-80a9-4038-8d4a-dab070b765f8">LTG Casual</CreatedBy>
+    <CreatedDate GUID="8b0c3537-90bb-4ac7-af73-856cf985421d">2005-04-06T12:32:13</CreatedDate>
+    <LastModifiedBy GUID="10d9dd76-f486-4d0c-a19a-fb4fd13bfd81">ntomich</LastModifiedBy>
+    <LastModifiedDate GUID="c4cd5693-2949-46e5-a9e1-c399fac17aba">2011-02-25T10:07:31</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="9cd0bafc-4b2c-4395-b28b-189f5e6f6ec0">
+    <Page ID="Intro1" IsActive="true" GUID="15349cc2-7dd1-46d9-bae3-cd41de796a08">
+      <Title GUID="fe5a5cd9-085a-4324-8ad5-a8046474c806">Introduction and Background</Title>
+      <PageElements GUID="e16cf1d1-d699-48c5-a7a0-673a7fe7fd5c">
+        <PageElement GUID="8965df26-12eb-4f59-ab36-6461fc9e8e5c">
+          <Graphic GUID="ade4e9f6-aab0-4408-93a3-92f385349e47"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/ad1ce152-82c0-499f-8d28-2c9e8aa85d68.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="b1bd813d-30bc-4ed6-a969-f64276ea1219">
+          <TextBox GUID="7389d94b-1efe-4134-9277-94e99d126bba"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="6629c09c-530f-46c3-8ccc-d07b579bf233">
+    <div GUID="eed31432-0057-43a5-a4d9-2a771f1238ba" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="117f83e2-946c-4127-9400-7486df321e04">Before commencing this quiz, you must first read through the corresponding lesson. </strong>
+    </div>
+    <div GUID="5abb3e4b-dae8-498c-b632-990ca4cdeb20" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="b211add9-335c-4c36-b77e-c705321dbecb" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="242513d5-5bad-458b-85fb-31679a5fd135">%System_NumberOfQuestions%</strong>  questions about<strong GUID="18911326-99d2-4b30-bc30-afe6c781fd3d"> </strong>the introduction and background to the <em GUID="13ca9c5d-872b-45f7-944f-ce73f9eb88e7">Dangerous Goods Safety Act 2004 (WA).</em></div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="fa755e1b-e80b-47de-9a51-313774c3333f" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="91da782a-ded5-424c-8ef8-b07a90b185fb">
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="833d99f3-6434-4c7d-9463-e1e60d3cbb96" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="3ec4b771-e08f-4314-8785-21df60b60cef">You may be asked 3 different types of questions: multiple choice, true/false or yes/no.  Answer each question by clicking the button to the left of the most appropriate response.</span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="3aa1a367-5b27-45a6-857d-4102994bf2ba" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="13738c95-3ce0-48a2-a264-436103a76f26">
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="abca7087-c732-47e1-adb9-35253f2ed14d" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="0d0e0dde-8397-499b-aad5-d8c530a74026">After you answer the last question, you will be given the chance to review and then submit your answers.</span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="ecb1cd9f-677d-49ca-8055-d79147237e58" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="1363dd5c-254d-40b6-bcf0-758d7c068a29">
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="fcb88eee-549e-443f-8969-5fbd357743d4" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="077716f1-f839-4a4f-98db-183239cb877b">Please note that if you exit the quiz before clicking the Submit Answers button your answers will not be saved. </span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="ea91b02b-fd44-4858-9992-b33383f185fe" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="417e7c5e-899a-4bfb-a9ae-2dddc46ff493">
+      </span> </div>
+    <div GUID="a0df122e-0627-47d3-91d3-836ba5b672c4" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="b95374a1-3c79-44d7-99fa-1d831367ca9f">To move between questions, use the </span>
+      <span style="FONT-SIZE: 10pt" GUID="d2f4c777-8b1b-4dff-bf35-87dfbcf692b8">◄</span>
+      <span style="FONT-SIZE: 10pt" GUID="95bf4560-1b9e-4558-bb83-de5657e7f36c"> and </span>
+      <span style="FONT-SIZE: 10pt" GUID="05062949-3e89-49f2-bcba-af20a681aded">►</span>
+      <span style="FONT-SIZE: 10pt" GUID="4959884c-714a-4cb9-9a3a-acd7821cce6e"> navigation buttons on the bottom right of the page.</span>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="36a6f202-fd89-4ac1-bdef-0bfaa9e4b243">
+    <Page ID="Q1" IsActive="true" GUID="16cd8140-8134-477a-98b9-648ebe44ff81">
+      <Title GUID="cfe36fe9-ad9c-4344-953b-481986537d21">Question</Title>
+      <PageElements GUID="883b58be-4673-4045-bfdf-7ace6b457aed">
+        <PageElement GUID="6d156b27-1cd8-4554-bf39-09fc7e70ae4f">
+          <Question GUID="4c26a5be-3fe9-4a08-a320-d0e42cffbbb2"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="b34ae448-e9ed-4370-ada9-88765be8410e">
+      <div GUID="31fce230-f3c6-4312-a87a-9b2882209065" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="52f98df3-9e22-44b6-8bdc-41e4c9596e23">Select the best response. The <em GUID="eddfbb25-d9be-4fc8-bea4-71ae3458cb55">Dangerous Goods Safety Act 2004 (WA)…</em></strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c68ad07b-f63d-4ac3-85eb-5ccc7751c790">Is the first complete set of legislation that governs the use of hazardous goods in Western Australia.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f66b65b9-ccdf-466b-93e8-abde8b84f1fe">Updates the legislation regulating the way that dangerous goods must be stored, handled and transported in Western Australia. It also introduces stricter licensing requirements for companies that handle dangerous goods.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bd4ad62b-e235-4d12-ab65-2dfec6828191">Is a subset of the national regulations which include the Australian Code for the Transport of Dangerous Goods by Road and Rail, published in 2007.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="fcaa38bb-68d1-46ff-8dc6-26fcf66817b2">
+      <Title GUID="e5cd3757-ce0e-4e10-9dbc-ba4cbd927073">Question</Title>
+      <PageElements GUID="d11f436f-0cc8-490c-adb8-5e301ef1c911">
+        <PageElement GUID="3e645933-76f3-4866-aa82-39834cc1416e">
+          <Question GUID="498ed208-6b89-4e51-abd2-3d87a69a1726"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="45344584-e689-4d5a-8082-640c55eefa08">
+      <span GUID="eb8c3ceb-db8c-4d9a-8b54-e3a9c93cc8b2" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="7e015114-f8b2-4d40-8663-038aab2d7361">True or false?  The <em GUID="fcd735c8-623a-468f-af03-17cebcc9e324">Dangerous Goods Safety Act 2004 (WA) </em>and its associated regulations replace the<em GUID="cfe8c704-a6a3-43e5-87bb-cb9f0ff5b9ec"> Explosives and Dangerous Goods Act 1961 (WA) </em>and<em GUID="ae12bb05-1b57-48a1-8079-a26b63f3edf5"> Dangerous Goods (Transport) Act 1998 (WA).</em></strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f805fcba-e5ec-48db-9292-05cda0152838">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="09294c28-50b6-4002-8e37-9fafc8cdc2d9">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="05d3ef7b-8cbd-4433-b86c-ace27fc3e17c">
+      <Title GUID="16a0cfaf-857a-422b-a370-218671896de9">Question</Title>
+      <PageElements GUID="7363e8eb-3516-4a79-b8af-d3701b5ab256">
+        <PageElement GUID="23e012c7-d8aa-48d8-91a8-b8a46786f0fe">
+          <Question GUID="0007d785-7eff-4d4c-b652-ea022145000d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="74ac3063-1f7d-4ad9-b14a-1ec19296eba4">
+      <div GUID="0397db7f-262d-4d5b-b1d7-658e22ae06bc" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="undefined" GUID="aa980ab8-3a3d-4dfa-8ba7-0784a1d13a66">
+          <span GUID="76741f1e-5bfc-418f-bda8-22370279386f">
+            <strong GUID="1719fdf2-7733-4c4c-bb62-b5cb85357d33">How many new supporting regulations are used in conjunction to the <em GUID="85065476-f1d7-440f-98f1-47a9fba2dbcd">Dangerous Goods Safety Act 2004 (WA)</em>?</strong>
+          </span>
+        </font>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c5218d0c-c780-427b-9c89-d88d97d3d673">Five</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e98e8132-fc82-4259-a043-7faacf407d1a">Nine</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="921590dc-cc8f-40fa-8adf-1d6d2b6973a8">Seven</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="51911cb8-b4f1-409b-bb11-7df2d90705ab">
+      <Title GUID="888bd880-85a8-4dee-9d9a-9d0965d80ca1">Question</Title>
+      <PageElements GUID="d1c33660-ec55-47c2-bdb2-9f09ca078331">
+        <PageElement GUID="2489eed1-6ded-4ced-b1fe-1a8164a57026">
+          <Question GUID="63376c5a-9d28-41ff-912b-3a352bdf26cd"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="77370788-79cf-4784-9eee-2113c81e3d26">
+      <span GUID="fe22ff75-e12b-4be8-bc2f-51b2ca5c6b11" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="f78d2abd-1855-4c5b-bb56-a84d0da70a5d">Select the best response. Which of the following regulations are most relevant to your organisation?</strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d343e852-faea-4800-a4e7-069841519e40">
+        <span GUID="2b6bd296-9bce-4ea9-b2d2-e62a5572f6c9" xmlns="http://www.w3.org/1999/xhtml">Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7851a22a-ab8f-4ebd-af6c-601c01a7d951">
+        <span GUID="da662c18-b4c3-4480-9a26-15c840b7cbc0" xmlns="http://www.w3.org/1999/xhtml">Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="087b4008-72a2-4d37-a74b-316606fdf16a">
+        <span GUID="cf73fd04-7c27-4d98-bc23-053c6b5d7e8a" xmlns="http://www.w3.org/1999/xhtml">Dangerous Goods Safety (Explosives) Regulations 2007</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bcfe67a6-28e3-4436-9547-39050b6bd399">
+        <span GUID="955143da-080d-4daa-8394-4ccb9bddd6f8" xmlns="http://www.w3.org/1999/xhtml">All of the above</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="a2c3440c-0e91-468f-bffb-35172bd354fb">
+      <Title GUID="35b143e0-596b-4c1a-a922-ed8ed1957411">Question</Title>
+      <PageElements GUID="6b923847-3e1c-4b00-9963-45a89f3864d3">
+        <PageElement GUID="c137fb3a-828d-4200-82e0-f3508263f0b3">
+          <Question GUID="323149bf-8b54-437d-8146-fc3d07a4083a"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="ec020aee-8194-4e13-90eb-47fe7d4a7c12">
+      <div GUID="52bdbd42-60f9-4c6f-9608-290d9538bae5" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="37ac7cec-016a-41a1-a1b9-bae023ee1902">Complete the statement with the correct response. Which of the following classes of dangerous goods are covered under the Western Australian dangerous goods safety legislation? </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="60a6bc0a-ebef-4ba1-9e63-0d031d685ab3">
+        <span GUID="aab5f714-7659-4f31-b7c6-ff9f8001b57e" xmlns="http://www.w3.org/1999/xhtml">Class 1 (explosives)</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2ba91e71-d3df-4212-a66b-aa72d2a4affd">
+        <span GUID="f78b0c39-784e-437f-b9d1-88265561d779" xmlns="http://www.w3.org/1999/xhtml">Class 3 (flammable liquids)</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3ad87dc6-aba3-46b6-8190-4876e62344f7">
+        <span GUID="bbf0bd97-0810-4a79-934d-995a9b588278" xmlns="http://www.w3.org/1999/xhtml">Division 6.1 (toxic substances)</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1808da3d-776c-42a3-87fc-c5cc7bd07bd0">
+        <span GUID="f974bb05-3592-4436-b3af-d2f1ecaf7591" xmlns="http://www.w3.org/1999/xhtml">Class 8 (corrosive substances)</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_5" Name="Answer" Value="5" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5ea2b01e-6ed5-4f9c-b933-4debbd395fa1">
+        <span GUID="641edc1c-cfd9-4cdc-b404-0f723ac7a19c" xmlns="http://www.w3.org/1999/xhtml">All of the above</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="b06b1728-a953-4f9e-b841-584d773c64dd">
+      <Title GUID="053f7ecd-3ee8-4b07-a661-e81ef0a5059a">Question</Title>
+      <PageElements GUID="73481a28-421b-4e16-aa0d-26acc411aca5">
+        <PageElement GUID="edbcd309-375a-4521-b1a9-14f9ee3e7d4f">
+          <Question GUID="9267e8dd-bf93-46b1-8df5-f111830bce40"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="0d865a00-3d62-44fa-add4-21d459781492">
+      <strong GUID="bd2e81ed-4d7f-4310-bda7-35838cd53d8f" xmlns="http://www.w3.org/1999/xhtml">
+        <span GUID="9a9f1f05-4036-4eb0-b891-e373a02e161e">True or false. </span>
+        <span GUID="0fe9bf59-66cc-4785-b4b7-7f774c6892aa">The Act is designed to shift the responsibility for the management of dangerous goods from private industry to government.</span>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="355bca43-8f82-4ed9-9af0-a727463e1fe8">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3b0840a1-b133-4fef-92b3-7cb6b2d7089b">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="d4fdb8ff-c813-409e-99b8-1c3e15a9a156">
+      <Title GUID="2250a528-98d6-495b-9566-1932e221b000">Question</Title>
+      <PageElements GUID="a940131c-8b25-48fb-b964-39a8a384b7b1">
+        <PageElement GUID="317db06e-0a0d-4dfc-94ed-a34d9dc60557">
+          <Question GUID="ac56b7cb-730e-4010-983c-1f9c5f7d1f08"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="90d960ee-8cfc-44c9-9b41-566c7428d96e">
+      <strong GUID="4000d6fd-0695-460a-8026-745be184fddf" xmlns="http://www.w3.org/1999/xhtml">
+        <span GUID="85a8db9f-7599-4309-9ec5-70c515e90a80">True or false? The Act </span>
+        <span GUID="7b045202-5649-497f-b329-4a69e5283f43">places a general duty on companies to minimise risks associated with dangerous goods which may affect people, property and the environment.</span>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="25372ccc-bead-4585-8f70-cf1bcddfe84c">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="844d0445-54b0-4a90-aee0-ebfb197c1cac">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="ba37afb0-a5fd-4565-921c-9b7819b97b00">
+      <Title GUID="592f2885-0703-4ffe-a076-a6ef24894c9a">Question</Title>
+      <PageElements GUID="1a38ffe5-23cc-4208-bb72-7fc5f86de13c">
+        <PageElement GUID="c3c2cf00-a21a-4ffe-a56a-a7170fdc9f56">
+          <Question GUID="1474493e-7bec-446a-b6fd-591de2534ef7"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="296bd169-9005-45b5-ba8f-a6544431e507">
+      <span GUID="0c274b4f-fb4d-46f5-85d4-552b0b18d68e" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="3667c021-3c6a-4b19-8145-054aa61f66a6">True or false? Dangerous goods are regulated under the Occupational Safety and Health Act 1984. They are administered by the WorkSafe Division of the Department of Commerce.   </strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d46218eb-f1be-47cd-b083-5437460c27d7">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2e874ace-431c-4bac-a896-7a80a73805e6">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="e17942f3-bee1-4e8b-868b-9efbc407a229">
+      <Title GUID="4d5d411e-1d0b-4734-bbac-ab5be3805206">Question</Title>
+      <PageElements GUID="27c1a474-8191-4349-aa1f-47799d96f9ce">
+        <PageElement GUID="0d91768f-e78e-475c-a63b-6468dd732be6">
+          <Question GUID="9526e030-9a59-47af-a272-0902c2f3af59"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="c33395b3-005c-4468-acbd-4555e8221104">
+      <span GUID="c50611b2-fe47-47c4-9dd7-0f035a2060ce" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="9c559dd9-a795-413a-a627-a843fa8b9233">True or false? The Act adopts a risk management approach to dangerous goods and requires industry participants to take all reasonably practical measures to manage these risks.</strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="99f0bf3c-7a7d-4a61-bbab-e0890d964b65">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="45ef1d19-32e5-4c91-b215-b966033214b7">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="d3c2f256-bc6d-4ae0-acfe-27a57d4ec319">
+      <Title GUID="85ef0fa8-4c92-435f-b17e-1711b52214e7">Question</Title>
+      <PageElements GUID="70c65d67-05bc-41dd-808c-f457d9867057">
+        <PageElement GUID="6b656191-7bd8-4f6c-b784-420d76c46a58">
+          <Question GUID="794adfe6-ede6-4536-8dcf-f4129e806656"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="4e32f207-e044-4e42-b5d0-4f77ec768127">
+      <strong GUID="4d37cc71-6ffc-4248-b077-016d83e9dbb3" xmlns="http://www.w3.org/1999/xhtml">
+        <span GUID="70e852f3-22ec-49f9-be98-b4500dd58d26">True or false? On 1 March 2004, t</span>
+        <span GUID="b01f4f65-0dc2-43b6-b66a-d1d9c5400f90">he <em GUID="b428b9e7-22bb-4f47-a92e-ddb9791fe947">Dangerous Goods Safety Act 2004 (WA) </em>came into effect</span>
+        <span GUID="bf788083-4b32-4e4f-a69d-9e7dbb8b3780">.</span>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8ba99058-864c-4023-8589-9c70b57f46ae">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="82ecf115-8b7c-412c-b750-77d8dc1e3082">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="0734c230-9038-4226-aaa1-9ab7e88586b5">
+    <Page ID="Comp1" IsActive="true" GUID="eddea188-877a-4b7b-9c04-060b9ade2701">
+      <Title GUID="bb6f9ca9-2697-4b02-9717-091490fd642e">End of quiz</Title>
+      <PageElements GUID="618f2548-f3cc-4c2d-8a06-764bc5adc413">
+        <PageElement GUID="30d31dc1-eb86-494d-90de-25366f8e3524">
+          <Graphic GUID="4dfd682d-0044-4c1d-9236-477e0623e9e3"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/bc8e9c37-64fa-4a6c-b15f-a2ba81bb57c0.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="aaed133f-e806-4252-87e9-f36d82d80be0">
+          <TextBox GUID="9470ccea-4c33-4c18-b6f8-0139d19090fa"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="00e762c1-89c7-498a-9bbe-6e3d10fdf777">
+    <div GUID="8397e01e-3ca5-47c1-9b55-215aa90b1dff" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="d716135f-2efe-4f0c-a30d-d7466e376122"><br GUID="1d79f102-8ad0-4f5c-9233-0d68f7a46178">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="17332894-585a-466a-b944-3cda9c9e2189"><br GUID="ff82feda-ad66-4b00-a4c7-f80886aae7ca">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="7b5095bc-9135-49b9-ade2-0c563a1a55cf">
+          <SubmitAnswers GUID="e8d1e2b1-8a0f-4193-9e2e-ca901525a696"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

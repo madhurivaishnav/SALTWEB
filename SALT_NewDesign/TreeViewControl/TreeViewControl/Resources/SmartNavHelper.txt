@@ -1,0 +1,43 @@
+<script language="JavaScript"> 
+	//No working, need more testing
+	//The working javascript is inside the code
+	function RestoreScrollPosition() 
+	{ 
+		var scrollX = document.forms[0].SmartNav_ScrollX.value;
+		var scrollY = document.forms[0].SmartNav_ScrollY.value;
+
+		window.scrollTo(scrollX,scrollY);
+	} 
+	
+	function SaveScrollPositions()
+	{ 
+		var scrollX, scrollY;
+      
+		if (document.all)
+		{
+			if (!document.documentElement.scrollLeft)
+				scrollX = document.body.scrollLeft;
+			else
+				scrollX = document.documentElement.scrollLeft;
+	               
+			if (!document.documentElement.scrollTop)
+				scrollY = document.body.scrollTop;
+			else
+				scrollY = document.documentElement.scrollTop;
+		}   
+		else
+		{
+			scrollX = window.pageXOffset;
+			scrollY = window.pageYOffset;
+		}
+   
+		document.forms[0].SmartNav_ScrollX.value = scrollX;
+		document.forms[0].SmartNav_ScrollY.value = scrollY;
+
+		setTimeout('SaveScrollPositions()', 10);
+	} 
+	
+	SaveScrollPositions(); 
+	
+	window.onload = RestoreScrollPosition; 
+</script> 

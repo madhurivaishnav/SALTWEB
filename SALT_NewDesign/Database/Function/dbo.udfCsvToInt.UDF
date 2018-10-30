@@ -1,0 +1,114 @@
+SET ANSI_NULLS OFF
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfCsvToInt]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfCsvToInt    Script Date: 20/04/2004 8:25:57 AM ******/
+
+
+/*
+Summary:
+user Defined Function converts a comma seperated string into a table
+Returns:
+table
+Called By:
+dbo.prcOrganisation_SaveCourseAccess
+dbo.prcReport_CurrentAdminSummary
+dbo.prcReport_EmailReportToAdministrators
+dbo.prcReport_EmailReportUserSearch
+dbo.prcReport_HistoricPointAdminSummaryReport
+dbo.prcReport_HistoricRangeAdminLessonSummaryReport
+dbo.prcReport_HistoricRangeAdminQuizSummaryReport
+dbo.prcReport_Trend
+dbo.prcUnit_Search
+dbo.prcUser_ClassificationUpdate
+dbo.prcUser_GetEmailAddress
+dbo.prcUser_SaveModuleAccess
+dbo.prcUser_Search
+dbo.udfReport_CompletUsers_logic
+dbo.udfReport_HistoricAdminSummary
+dbo.udfReport_IncompletUsers_logic
+Calls:
+null
+Remarks:
+bassed on several examples found at http://www.sqlteam.com/
+
+Author:
+Stephen Kennedy Clark
+Date Created:
+Monday 16 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+use:
+
+select * from dbo.udfCsvToInt('''')
+select * from dbo.udfCsvToInt('',,,,,1'')
+select * from dbo.udfCsvToInt(''1,,,,,,'')
+select * from dbo.udfCsvToInt(''1,,3,,34534534,,'')
+
+**/
+
+CREATE   Function [udfCsvToInt]
+(
+@commaSepperatedList varchar(MAX) = '''' -- Input string, comma seperated list of integers to be returned as a table
+)
+returns @tblIntTable table
+(IntValue int)
+AS
+begin
+if @commaSepperatedList <> ''''
+begin
+-- get rid of spaces
+while CHARINDEX('' '' , @commaSepperatedList) <> 0
+begin
+set @commaSepperatedList = replace(@commaSepperatedList,'' '','''')
+end
+
+-- get rid of "null" values
+while CHARINDEX('',,'' , @commaSepperatedList) <> 0
+begin
+set @commaSepperatedList = replace(@commaSepperatedList,'',,'','','')
+end
+
+set @commaSepperatedList = replace(@commaSepperatedList,'',,'','','')
+
+-- get rid of leading and trailing commas
+if @commaSepperatedList like('',%'')
+begin
+set @commaSepperatedList = right(@commaSepperatedList,len(@commaSepperatedList)-1)
+end
+if @commaSepperatedList like(''%,'')
+begin
+set @commaSepperatedList = left(@commaSepperatedList,len(@commaSepperatedList)-1)
+end
+
+declare @sep char(1)
+set @sep = '',''
+
+declare @intPos int
+declare @strTemp varchar(500)
+
+set @commaSepperatedList = @commaSepperatedList + '',''
+
+while patindex(''%,%'' , @commaSepperatedList) <> 0
+begin
+
+select @intPos =  patindex(''%,%'' , @commaSepperatedList)
+select @strTemp = left(@commaSepperatedList, @intPos - 1)
+
+Insert @tblIntTable
+Values (Cast(@strTemp as int))
+
+select @commaSepperatedList = stuff(@commaSepperatedList, 1, @intPos, '''')
+end
+end
+return
+end
+' 
+END
+GO

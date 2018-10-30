@@ -1,0 +1,65 @@
+SET ANSI_NULLS OFF
+GO
+SET QUOTED_IDENTIFIER OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetQuizStatus]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfGetQuizStatus    Script Date: 20/04/2004 8:25:57 AM ******/
+
+
+
+
+/*
+Summary:
+user Defined Function that returns a status id for quizes given a module id and a userID
+only the users Latest Status ID is returned
+Returns:
+integer
+
+Called By: prcModule_GetDetailsForHomePage
+
+Calls:
+
+Remarks:
+
+
+Author:	Stephen Kennedy Clark
+Date Created: Fiday 13 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+print dbo.udfGetQuizStatus(3, 11)
+**/
+
+CREATE    Function [udfGetQuizStatus]
+(
+@moduleID int -- the module to get the users status for
+, @userID int -- the user id to get the status for
+)
+Returns Integer
+
+Begin
+
+Declare @retVal Integer -- User Status
+
+Set @retVal =
+(
+Select Top 1
+QuizStatusID
+From
+tblUserQuizStatus
+Where
+UserID = @userID
+and ModuleID = @moduleID
+Order by DateCreated desc
+)
+
+Return @retVal
+
+End
+' 
+END
+GO

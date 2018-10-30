@@ -1,0 +1,145 @@
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<Summary ID="">
+		<ContentType>quiz</ContentType>
+		<UploadType>update</UploadType>
+		<Title/>
+		<CreatedBy/>
+		<CreatedDate/>
+		<LastModifiedBy/>
+		<LastModifiedDate/>
+	</Summary>
+	<Introduction>
+		<Page ID="" IsActive="true">
+			<Title/>
+			<PageElements>
+				<PageElement>
+					<TextGraphic>
+						<Description/>
+						<Picture>
+							<Image/>
+							<AltText/>
+							<Align/>
+						</Picture>
+					</TextGraphic>
+					<TextBox>
+						<Description/>
+					</TextBox>
+					<Graphic>
+						<Picture>
+							<Image/>
+							<AltText/>
+							<Align/>
+						</Picture>
+					</Graphic>
+					<SubmitAnswers/>
+					<Question>
+						<Description/>
+						<Answers>
+							<Answer ID="" Correct="false">
+								<Description/>
+							</Answer>
+						</Answers>
+					</Question>
+				</PageElement>
+			</PageElements>
+		</Page>
+	</Introduction>
+	<Questions PageFilter="0">
+		<Page ID="" IsActive="true">
+			<Title>Question</Title>
+			<PageElements>
+				<PageElement>
+					<TextGraphic>
+						<Description/>
+						<Picture>
+							<Image/>
+							<AltText/>
+							<Align/>
+						</Picture>
+					</TextGraphic>
+					<TextBox>
+						<Description/>
+					</TextBox>
+					<Graphic>
+						<Picture>
+							<Image/>
+							<AltText/>
+							<Align/>
+						</Picture>
+					</Graphic>
+					<SubmitAnswers/>
+					<Question>
+						<Description/>
+						<Answers>
+							<Answer ID="" Correct="false">
+								<Description/>
+							</Answer>
+						</Answers>
+					</Question>
+				</PageElement>
+			</PageElements>
+		</Page>
+	</Questions>
+	<Complete>
+		<Page ID="" IsActive="true">
+			<Title/>
+			<PageElements>
+				<PageElement>
+					<TextGraphic>
+						<Description/>
+						<Picture>
+							<Image/>
+							<AltText/>
+							<Align>Left</Align>
+						</Picture>
+					</TextGraphic>
+					<TextBox>
+						<Description/>
+					</TextBox>
+					<Graphic>
+						<Picture>
+							<Image/>
+							<AltText/>
+							<Align/>
+						</Picture>
+					</Graphic>
+					<SubmitAnswers/>
+					<Question>
+						<Description/>
+						<Answers>
+							<Answer ID="" Correct="false">
+								<Description/>
+							</Answer>
+						</Answers>
+					</Question>
+				</PageElement>
+			</PageElements>
+		</Page>
+	</Complete>
+	<xd:SchemaInfo LocalName="BDWInfoPathQuiz" NamespaceURI="">
+		<xd:Namespaces>
+			<xd:Namespace LocalName="BDWInfoPathQuiz" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathQuiz" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathQuiz" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathQuiz" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathQuiz" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathQuiz" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathQuiz" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathQuiz" NamespaceURI=""/>
+		</xd:Namespaces>
+	</xd:SchemaInfo>
+	<xd:DataConnection Name="Phrases">
+		<Phrases xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+			<ContentType/>
+			<Instruction/>
+			<xd:SchemaInfo LocalName="Phrases" NamespaceURI="">
+				<xd:Namespaces>
+					<xd:Namespace LocalName="Phrases" NamespaceURI=""/>
+					<xd:Namespace LocalName="Phrases" NamespaceURI=""/>
+					<xd:Namespace LocalName="Phrases" NamespaceURI=""/>
+					<xd:Namespace LocalName="Phrases" NamespaceURI=""/>
+				</xd:Namespaces>
+			</xd:SchemaInfo>
+		</Phrases>
+	</xd:DataConnection>
+</BDWInfoPathQuiz>

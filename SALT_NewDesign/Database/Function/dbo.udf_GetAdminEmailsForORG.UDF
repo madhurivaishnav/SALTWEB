@@ -1,0 +1,34 @@
+SET ANSI_NULLS OFF
+GO
+SET QUOTED_IDENTIFIER OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udf_GetAdminEmailsForORG]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'CREATE  FUNCTION [udf_GetAdminEmailsForORG](@Org INT)
+--RETURNS @Result TABLE(UserID INT, UnitID INT, Hierarchy nVARCHAR(500), HierarchyName nVARCHAR(2000))
+RETURNS TABLE
+AS
+RETURN
+
+SELECT
+unt.UnitID, uadm.UserID, hier.Hierarchy, hier.HierarchyName
+FROM
+tblUnitAdministrator uadm
+INNER JOIN tblUnit unt ON uadm.UnitID = unt.UnitID AND unt.OrganisationID = @ORG
+INNER JOIN tblUnitHierarchy hier ON hier.UnitID = unt.UnitID
+
+--For units with no Unit Admin inform the Organisation Administrator instead
+UNION
+SELECT
+unt.UnitID, ORGadm.UserID, hier.Hierarchy, hier.HierarchyName
+FROM
+tblUser ORGadm
+INNER JOIN tblUnit unt ON ORGadm.OrganisationID = unt.OrganisationID AND ORGadm.OrganisationID = @ORG AND ORGadm.UserTypeID = 2
+INNER JOIN tblUnitHierarchy hier ON hier.UnitID = unt.UnitID
+WHERE NOT EXISTS
+(
+SELECT * FROM tblUnitAdministrator uadm WHERE uadm.UnitID = unt.UnitID
+)
+' 
+END
+GO

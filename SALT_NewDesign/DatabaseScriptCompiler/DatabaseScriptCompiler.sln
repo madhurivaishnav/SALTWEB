@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseScriptCompiler", "DatabaseScriptCompiler.csproj", "{832BEBCB-8D8A-4C53-996A-666E923E23AB}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = DatabaseScriptCompiler.csproj
+		SccProjectName0 = \u0022$/SALT.net1/DatabaseScriptCompiler\u0022,\u0020YCQBAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{832BEBCB-8D8A-4C53-996A-666E923E23AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832BEBCB-8D8A-4C53-996A-666E923E23AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832BEBCB-8D8A-4C53-996A-666E923E23AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832BEBCB-8D8A-4C53-996A-666E923E23AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

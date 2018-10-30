@@ -1,0 +1,33 @@
+IF  EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwDaily_Max]'))
+DROP VIEW [vwDaily_Max]
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwDaily_Max]'))
+EXEC dbo.sp_executesql @statement = N'
+CREATE VIEW [vwDaily_Max]
+AS
+	SELECT     
+		tblLogDaily.OrganisationID, 
+		MAX(tblOrganisation.OrganisationName) AS ''OrganisationName'', 
+		MAX(tblLogDaily.TimePeriod1) AS [Before 7am], 
+		MAX(tblLogDaily.TimePeriod2) AS [7am to 9am], 
+		MAX(tblLogDaily.TimePeriod3) AS [9am to 11am], 
+		MAX(tblLogDaily.TimePeriod4) AS [11am to 1pm], 
+		MAX(tblLogDaily.TimePeriod5) AS [1pm to 3pm], 
+		MAX(tblLogDaily.TimePeriod6) AS [3pm to 5pm], 
+		MAX(tblLogDaily.TimePeriod7) AS [5pm to 7pm], 
+		MAX(tblLogDaily.TimePeriod8) AS [After 7pm]
+	FROM         
+		tblLogDaily 
+	INNER JOIN
+		tblOrganisation 
+	ON 
+		tblOrganisation.OrganisationID = tblLogDaily.OrganisationID
+	GROUP BY 
+		tblLogDaily.OrganisationID
+
+'
+GO

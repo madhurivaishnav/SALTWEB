@@ -1,0 +1,53 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReportSchedule_IncrementNextRunDate]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'CREATE FUNCTION [udfReportSchedule_IncrementNextRunDate]
+(
+	@RunDate datetime, 
+	@ReportStartDate datetime, 
+	@ReportFrequencyPeriod char(1), 
+	@ReportFrequency int, 
+	@OrgID int	
+)
+RETURNS  datetime
+AS
+BEGIN
+	if (@ReportFrequency = 0)
+	begin
+	   set @ReportFrequency = 1
+	 end
+	-- NextRun is saved in the ORGs timezone so that when an ORG goes into daylight saving the Report is run at the correct time.
+	-- ALL other times are saved in the ORGs timezone to reduce load on the GUI when the ORGs timezone is changed
+
+	DECLARE @NumReportPeriodsToNextRun bigint
+	SELECT @NumReportPeriodsToNextRun = 
+	1 + CASE 
+		WHEN (@ReportFrequencyPeriod=''Y'') THEN DATEDIFF(YEAR,@ReportStartDate,@RunDate)/ @ReportFrequency
+		WHEN (@ReportFrequencyPeriod=''M'') THEN DATEDIFF(MONTH,@ReportStartDate,@RunDate)/ @ReportFrequency
+		WHEN (@ReportFrequencyPeriod=''W'') THEN DATEDIFF(WEEK,@ReportStartDate,@RunDate)/ @ReportFrequency
+		WHEN (@ReportFrequencyPeriod=''D'') THEN DATEDIFF(DAY,@ReportStartDate,@RunDate)/ @ReportFrequency
+		WHEN (@ReportFrequencyPeriod=''H'') THEN DATEDIFF(HOUR,@ReportStartDate,@RunDate)/ @ReportFrequency
+	END	
+	
+
+	DECLARE @NextNextRun DateTime
+	SELECT @NextNextRun = 
+	CASE 
+		WHEN (@ReportFrequencyPeriod=''Y'') THEN DATEADD(YEAR,@NumReportPeriodsToNextRun*@ReportFrequency,@ReportStartDate)
+		WHEN (@ReportFrequencyPeriod=''M'') THEN DATEADD(MONTH,@NumReportPeriodsToNextRun*@ReportFrequency,@ReportStartDate)
+		WHEN (@ReportFrequencyPeriod=''W'') THEN DATEADD(WEEK,@NumReportPeriodsToNextRun*@ReportFrequency,@ReportStartDate)
+		WHEN (@ReportFrequencyPeriod=''D'') THEN DATEADD(DAY,@NumReportPeriodsToNextRun*@ReportFrequency,@ReportStartDate)
+		WHEN (@ReportFrequencyPeriod=''H'') THEN DATEADD(HOUR,@NumReportPeriodsToNextRun*@ReportFrequency,@ReportStartDate)
+	END	
+
+
+	-- Return the result of the function
+	RETURN @NextNextRun
+
+END
+' 
+END
+GO

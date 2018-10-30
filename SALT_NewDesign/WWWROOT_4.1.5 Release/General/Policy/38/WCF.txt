@@ -1,0 +1,9 @@
+WCF Service library - "PeriodicReporting"
+	Method (blocking) UpdateReportSchedule(...) returns errorNum
+	Method (blocking) CreateReportSchedule(...) returns errorNum
+	Method (blocking) DeleteReportSchedule(...) returns errorNum
+	Method (blocking) ProcessNextNowReportSchedule(...) returns errorNum
+	Method (blocking) ProcessNextOnceOnlyReportSchedule(...) returns errorNum
+	Method (blocking) ProcessNextPeriodicReportSchedule(...) returns errorNum
+
+

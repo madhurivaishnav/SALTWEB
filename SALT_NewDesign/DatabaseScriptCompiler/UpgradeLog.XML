@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DatabaseScriptCompiler">
+</Property><Property Name="Solution File" Value="C:\Projects\DatabaseScriptCompiler\DatabaseScriptCompiler.sln">
+</Property><Property Name="Date" Value="Wednesday, 28 September 2011">
+</Property><Property Name="Time" Value="13:31:21 PM">
+</Property></Properties><Event ErrorLevel="0" Project="DatabaseScriptCompiler" Source="DatabaseScriptCompiler.csproj" Description="Project file successfully backed up as C:\Projects\DatabaseScriptCompiler\Backup\DatabaseScriptCompiler.csproj">
+</Event><Event ErrorLevel="0" Project="DatabaseScriptCompiler" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Projects\DatabaseScriptCompiler\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DatabaseScriptCompiler" Source="Class1.cs" Description="File successfully backed up as C:\Projects\DatabaseScriptCompiler\Backup\Class1.cs">
+</Event><Event ErrorLevel="0" Project="DatabaseScriptCompiler" Source="App.ico" Description="File successfully backed up as C:\Projects\DatabaseScriptCompiler\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="DatabaseScriptCompiler" Source="DatabaseScriptCompiler.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DatabaseScriptCompiler" Source="DatabaseScriptCompiler.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DatabaseScriptCompiler" Source="DatabaseScriptCompiler.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

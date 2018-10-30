@@ -1,0 +1,823 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" productVersion="11.0.6565" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="el" GUID="a62118d7-9239-4a4a-9931-dabbaf180cac">
+  <Summary ID="greekquiz1" GUID="5efe230a-6f81-48a0-8f1b-e7eaddf94939">
+    <ContentType GUID="90ae0032-558e-4929-8343-dc5daefa2baa">quiz</ContentType>
+    <UploadType GUID="76f0012b-75ff-44c4-876a-5ce5b15de7f1">update</UploadType>
+    <Title GUID="c1e05662-829f-46a9-a718-fa7764d6d2d5">Εισαγωγή στη Συμμόρφωση με το Δίκαιο Ανταγωνισμού</Title>
+    <CreatedBy GUID="632df909-5a23-46c2-ad1c-4490fa98abf1">907893</CreatedBy>
+    <CreatedDate GUID="16166c4d-88c8-4815-b65d-a3f97bc21e8a">2007-03-27T16:27:04</CreatedDate>
+    <LastModifiedBy GUID="2247d8fa-df32-4fb1-b3c8-7c21ad6e674a">907893</LastModifiedBy>
+    <LastModifiedDate GUID="408c09f6-2d73-4287-b7cf-7a0955a7a321">2007-03-28T15:12:37</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="0896025e-c6c4-4756-a928-088ab463e05f">
+    <Page ID="Intro1" IsActive="true" GUID="cc6be66c-0ac0-46ad-9800-6885123d2d77">
+      <Title GUID="c8942fa5-7832-468b-ad58-0b17787aa5ae">Πώς να συμπληρώσετε το ακόλουθο Τεστ 10 Ερωτήσεων </Title>
+      <PageElements GUID="ea781711-674e-44c0-a048-95c337e3d060">
+        <PageElement GUID="22117156-0cd0-45ec-a177-2c49512fd5dc">
+          <TextBox GUID="60713507-352c-419c-8f66-47814c64a69b"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="547a3a4f-bc65-4361-86da-b9f743514280">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; BACKGROUND-COLOR: white" valign="top" GUID="0002e6f8-1c2c-4596-8614-71d4cceb5c2b" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="30fda734-333f-4e87-a730-a59fcc60f16a">
+        <span GUID="b334f177-0756-400f-bdbf-3ebf48f7c167">Στις</span>
+        <span GUID="630f180d-3937-4eee-ba24-33287a17a121">
+        </span>
+        <span GUID="ab6c1c1c-f661-40f9-9c9c-febb1c8b2cde">σελίδες</span>
+        <span GUID="abaaf826-b8d7-4c47-94eb-549fd8e35e91">
+        </span>
+        <span GUID="1bc22e8d-d757-4d20-8ed4-ad5b93968997">που</span>
+        <span GUID="f913dfa4-9aa0-415c-b17b-a689fa30a3c0">
+        </span>
+        <span GUID="1d3bfb86-290b-4d60-b564-47fcd55b24a4">ακολουθούν,</span>
+        <span GUID="86c9a3c1-3976-42ab-8f61-9dd77cfe5545">
+        </span>
+        <span GUID="7fe1db58-1afc-4394-9626-d1e0417d8f34">θα</span>
+        <span GUID="530a42b2-8682-4b0b-945d-1883b3e7f884">
+        </span>
+        <span GUID="c8dcf6b9-efa6-4550-8ed6-29d3e3b04ea1">κληθείτε</span>
+        <span GUID="964a06e4-42ba-4232-a645-eecc69ff96b9">
+        </span>
+        <span GUID="af4388c3-e063-44cb-b22c-18dffebfe843">να</span>
+        <span GUID="0c544fe8-71af-4aa0-81d9-da96fb4545bd">
+        </span>
+        <span GUID="f9728166-7816-450b-88a0-2581d861c423">απαντήσετε</span>
+        <span GUID="c475c072-7595-40cc-aa5c-70162789e318">
+        </span>
+        <span GUID="23dca1e5-cc80-46eb-ab2f-88f8fbe7b6fd">σε</span>
+        <span GUID="2c03353f-793f-4b6b-b31e-2045f744290c">
+        </span>
+        <span GUID="5f9d7b7e-815f-450e-9633-ff760bec68d8">ερωτήσεις</span>
+        <span GUID="07461c9b-0918-4662-a877-edd0fd6faf64">
+        </span>
+        <span GUID="4d27f40e-24a0-473b-8cc9-53fff451b1b9">σχετικά</span>
+        <span GUID="de5a905f-aebb-478f-a082-32a332f03b66">
+        </span>
+        <span GUID="d952c95b-1327-4e38-b26d-c5fa1e247346">με</span>
+        <span GUID="10662258-36d9-49bd-8bce-d7c0f59b0247">
+        </span>
+        <span GUID="01a96d44-08ff-4c9b-a728-c0a188a0d601">την</span>
+        <span GUID="06deaa16-d469-430f-9e20-0d586dc25382">«</span>
+        <span GUID="27d0576d-bb3d-48ad-8f6b-66f0f55ea2a6">
+          <strong GUID="d18abe5a-7a1e-4ced-aeb7-f47d9c77efb1">Εισαγωγή στη Συμμόρφωση με το Δίκαιο του Ανταγωνισμού</strong>
+        </span>
+        <span GUID="7cfe7df2-636f-4c84-834b-9c38ce8afbee">»</span>
+        <span GUID="325c2361-2d99-4b02-86eb-26b6aa17f45e">. </span>
+      </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; BACKGROUND-COLOR: white" valign="top" GUID="c66ad688-0b82-4330-a233-ea4984145c47" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="5f294261-b02e-4455-b4f7-136bb5bb2677">
+        <font face="Arial" GUID="c4837f17-fbfe-484c-8df8-671a8404a192">
+        </font>
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; BACKGROUND-COLOR: white" valign="top" GUID="33a38c65-c349-4886-9ace-2877567d5baa" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="8f5969d1-cfa3-4663-a327-f30f5b38afb3">
+        <span GUID="ec11fcd5-00b3-4345-9dcb-84c94f37f2ed">Υπάρχουν 3 διαφορετικά είδη ερωτήσεων</span>
+        <span GUID="fc379962-e5d9-4dec-be6e-396bdd531a3b">: </span>
+        <span GUID="1fd3d07a-1581-4ad2-8859-bf94b84cde96">πολλαπλών επιλογών</span>
+        <span GUID="e182cabf-8cfb-4a09-b28f-1d433c0fe983">, </span>
+        <span GUID="0379335e-f238-4edd-9179-81bebece7b0a">σωστό/λάθος</span>
+        <span GUID="3e0312f9-6154-4be8-beb7-446ec1587e34">
+        </span>
+        <span GUID="471a01e4-a1b0-4908-a47d-a601a20b96b2">ή ναι/όχι</span>
+        <span GUID="73f24340-3e80-4fbf-84d2-c3438f35f5a5">. </span>
+        <span GUID="e5486fad-2c81-4c59-9785-e72083134366">Απαντήστε</span>
+        <span GUID="2cf398e4-63c1-474a-8de4-2c72275bcbc2">
+        </span>
+        <span GUID="f528269b-f17a-45a1-9a88-f8e15789f0b0">σε</span>
+        <span GUID="e83e1494-fb72-4bda-993b-9da72d613f89">
+        </span>
+        <span GUID="8e571b2c-8d7c-4bdc-aaf1-d0e597d44849">κάθε</span>
+        <span GUID="8c7ba6ba-94ff-4285-8e3e-425d5e00a1ca">
+        </span>
+        <span GUID="c42fe4a5-4f21-4a64-bc47-0318fb77db47">ερώτηση</span>
+        <span GUID="6ccc1d5d-dbd0-4268-8f95-b2ac82034756">
+        </span>
+        <span GUID="a8e633b6-6e83-4945-b43a-a20109527bbc">κάνοντας</span>
+        <span GUID="6c75217a-0b2b-43dd-9e26-6e5bbbfd3951">
+        </span>
+        <span GUID="d1a21ae1-4cae-4203-af50-0a03f2a25ed7">κλικ</span>
+        <span GUID="9aabfa4a-2300-4591-b70f-9e2e67afd6f1">
+        </span>
+        <span GUID="d7ab5830-0939-4c6c-8935-ba04dd704536">στο</span>
+        <span GUID="82c83988-05c5-42ec-a27c-1052dd5049fd">
+        </span>
+        <span GUID="9498e737-9b4f-4b8e-95fe-844ed6981ef4">κουμπί</span>
+        <span GUID="96878728-8011-47ff-903d-120a86908e07">
+        </span>
+        <span GUID="f8a808d5-deb7-46ee-97fe-79078757f269">στα</span>
+        <span GUID="1c117572-40c7-4afb-82cc-361027e96a76">
+        </span>
+        <span GUID="1232553d-d5af-446b-a51e-2223d29e0651">αριστερά</span>
+        <span GUID="28070703-3fe5-4ca5-a23e-979b91225e4c">
+        </span>
+        <span GUID="639857ee-5313-40de-9b43-6ab049e45934">της</span>
+        <span GUID="36da5efc-6d1b-420a-8269-3e55f4bd92b2">
+        </span>
+        <span GUID="1cf805dc-da1d-4591-9953-8ef1ba6890e9">πιο</span>
+        <span GUID="36d854cb-ebb3-4bdc-a17b-d8fd68fa8826">
+        </span>
+        <span GUID="182001a0-ee43-4cc1-8a7d-9348aa96a412">κατάλληλης</span>
+        <span GUID="5d136741-5b85-4829-b4d1-fb18426e169a">
+        </span>
+        <span GUID="ecae9a07-7e38-450e-b91c-a1695fa4b66d">απάντησης</span>
+        <span GUID="fb6dccb0-6a93-461d-b7eb-104946a5207c">. </span>
+        <span GUID="d71a731e-7fd9-4518-af4a-0430eb0dd26e">Αφού</span>
+        <span GUID="fb7f3bec-f118-4973-876a-d68e0cb3b92e">
+        </span>
+        <span GUID="3e509e92-9e0a-4cbb-b689-0fb8be6fd52b">απαντήσετε</span>
+        <span GUID="799a6782-1b47-4c23-ab8d-d775ce8ffd0f">
+        </span>
+        <span GUID="6a24e0de-b207-48ad-bf31-3cd61aa2e105">στην</span>
+        <span GUID="4cd18fe9-0580-437b-a35c-0a8492841ebd">
+        </span>
+        <span GUID="62622782-c6f6-4c69-bd9c-029a1db5ae91">τελευταία</span>
+        <span GUID="5c48a62e-2688-4944-93e2-57948275bfcc">
+        </span>
+        <span GUID="d8453ae7-bc52-4637-8ba2-268e7663c070">ερώτηση</span>
+        <span GUID="360cf0df-ffdd-408f-a76e-761236e9a8d8">, </span>
+        <span GUID="bda6b636-7f06-4ef4-babc-87e34e4d3a37">θα</span>
+        <span GUID="2c06fd44-aba2-40ff-8dfc-45f0668eb58a">
+        </span>
+        <span GUID="a4d7528c-42e7-4a37-9bb3-9d96f1f207fd">έχετε</span>
+        <span GUID="b5f6488b-227a-47c1-9a02-79dd5f1609aa">
+        </span>
+        <span GUID="9b9b4283-54bd-4369-a63d-62912c0f42b1">την</span>
+        <span GUID="4cd5e724-586e-47e6-abeb-6874e9b9e2c7">
+        </span>
+        <span GUID="2298d570-a2b5-4547-a629-816fd1c7180f">ευκαιρία</span>
+        <span GUID="a7cced4c-6849-4f40-a5c8-ab7581da9889">
+        </span>
+        <span GUID="5f6b1ac7-d05c-406c-8872-b21cdd31e1cc">να</span>
+        <span GUID="17862673-326f-4569-928c-8e19d89f863c">
+        </span>
+        <span GUID="9304cafb-ae6e-4fe8-94fa-ad9fe7ce7cc7">επανεξετάσετε</span>
+        <span GUID="cabab1cc-015c-4195-9e8e-d9dfc5ce3d1d">
+        </span>
+        <span GUID="88d4f071-e93a-43ed-a9e3-8bdb7b6b70c3">και</span>
+        <span GUID="39a9ac1a-a68b-4b2a-b70e-2e8add074a02">
+        </span>
+        <span GUID="47e51686-bace-4d3b-93e2-5fa27793a585">στη</span>
+        <span GUID="82699d4d-c97f-45ff-be2e-08424a2e277c">
+        </span>
+        <span GUID="d42d2b03-3ef3-4aea-a340-b25974f36660">συνέχεια</span>
+        <span GUID="ad3b024a-a43d-48b9-899a-20fd3c64e67c">
+        </span>
+        <span GUID="92c31edd-e6d7-4425-9ba9-7f6ae191ea7e">να</span>
+        <span GUID="05c90faa-5711-4ff9-ae02-890c92ddf5c9">
+        </span>
+        <span GUID="7fcadc84-0124-4a00-a027-e01a235dc3ad">υποβάλλετε</span>
+        <span GUID="0bfc9494-e5dd-4a78-af58-0f61e1da3531">
+        </span>
+        <span GUID="7d0ff1b7-84bb-49cb-a8ae-624017b61851">τις</span>
+        <span GUID="6d0172d3-5c77-4d15-9f95-89bb14c5260d">
+        </span>
+        <span GUID="ac7ccd7f-bff4-457f-8663-f9e30a2bd726">απαντήσεις σας</span>
+        <span GUID="345b23ba-1c12-4d82-bcf4-6e918a8ee436">.</span>
+      </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; BACKGROUND-COLOR: white" valign="top" GUID="64d1b948-44b1-40b9-b9df-a934dc6d1a1f" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="164549dd-09f2-40c6-a1f1-5b4c7a7ae103">
+        <font face="Arial" GUID="85921b18-6241-4c8c-ab4c-c972077487a8">
+        </font>
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; BACKGROUND-COLOR: white" valign="top" GUID="31991e99-260c-4ff3-a26d-a031b77f2397" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="4d971631-0995-40dd-8b39-4b9f5cdc16ce">
+        <span GUID="3037ec44-f0a5-446e-a7be-826bc0d86341">Σημειώστε</span>
+        <span GUID="6e0f7328-c552-483a-b071-993d7c0b57ae">
+        </span>
+        <span GUID="555397fc-94cd-42da-9179-861e59402102">ότι</span>
+        <span GUID="a7bce19d-c76d-4edd-9700-8154ebdc4f97">
+        </span>
+        <span GUID="619910c0-b2ae-4549-8b14-1ebb982363d6">εάν</span>
+        <span GUID="1baa4039-a5c2-4a00-80fa-b6bfb73a608c">
+        </span>
+        <span GUID="b11c9835-6fea-4248-af5c-b5388be8ce97">βγείτε</span>
+        <span GUID="e9795fb8-2510-460b-bb20-cadb28a928a8">
+        </span>
+        <span GUID="26801c85-6b15-47b0-93bd-391c337c255f">από</span>
+        <span GUID="95fcaaaf-2bf5-4ef0-91e0-d823b9ccccb5">
+        </span>
+        <span GUID="84edf5cd-ca1b-49a0-a0cf-7fe4b457198a">το</span>
+        <span GUID="d4c47571-5e9d-4c48-a17f-b5cd84e2613b">
+        </span>
+        <span GUID="17c71fd2-d3e9-4786-b682-6e6bd0acc8be">τεστ</span>
+        <span GUID="b7f44032-8d3c-4b6e-afed-5f58d937eccd">
+        </span>
+        <span GUID="2b33c6d9-b8ed-4d4d-8b83-72b8dc003821">πριν</span>
+        <span GUID="e0443dce-350e-45fb-97a4-53f0b60d7d61">
+        </span>
+        <span GUID="0b2abce0-0272-46d2-9d16-e3385ec58eb7">κάνετε</span>
+        <span GUID="7d882dfe-73a4-4b7b-884e-17c9876e5866">
+        </span>
+        <span GUID="bf887243-a6b5-4e23-8686-7eb4ef1d5fdc">κλικ</span>
+        <span GUID="a06c213c-ac78-47d0-826a-bce9f9548357">
+        </span>
+        <span GUID="c2e8f483-6f02-4b93-a319-40a973bba178">στο</span>
+        <span GUID="edb378cd-591b-4494-a4f2-fc91852c83e4">
+        </span>
+        <span GUID="c1b749eb-ee05-4934-854a-08fe6514c110">κουμπί</span>
+        <span GUID="160c6caf-cccb-4c97-b27d-1680d578c578">
+        </span>
+        <span GUID="f9d46877-96ad-4c14-a11b-866bfdff1e81">Υποβολή</span>
+        <span GUID="f798f352-b602-4dd6-bd82-601dda9aaf49">
+        </span>
+        <span GUID="4b4204d2-e872-40d7-9e5a-02edca326426">Απαντήσεων</span>
+        <span GUID="80cb091e-34b7-4def-b3db-5e5c24c63411">, </span>
+        <span GUID="50652eb8-b29b-407e-abe6-830aae2a7f11">οι</span>
+        <span GUID="2803eeff-68c7-440e-9995-da808b339a14">
+        </span>
+        <span GUID="037a8dd0-a7c7-4912-9fe9-c30dd2bc5ae4">απαντήσεις</span>
+        <span GUID="951833a5-4293-4c42-8b98-cf0ffefee199">
+        </span>
+        <span GUID="0e1040ed-46b9-476f-a4ba-d78de56187db">σας</span>
+        <span GUID="f18b7c83-5dd4-40dc-80b7-a6b05fe483be">
+        </span>
+        <span GUID="325ad36f-3fd4-4660-b1a4-402a4e1492db">δεν</span>
+        <span GUID="ba494886-c5a5-42a9-9d7b-3ea44e66c655">
+        </span>
+        <span GUID="82291314-4717-45c8-a90c-225f03f14dfe">θα</span>
+        <span GUID="f8574cfb-460b-4b4b-a22a-8d0a698d605d">
+        </span>
+        <span GUID="f09e1648-bc69-440a-94c5-e8255af6fec3">αποθηκευτούν</span>
+        <span GUID="633ab93b-f699-41ab-875f-ba9bc91eb347">. </span>
+        <span GUID="53941bd6-7338-42b3-a7a6-eaaed04c1b67">Για</span>
+        <span GUID="404b772b-6fbb-46de-8e34-ae195a4b763c">
+        </span>
+        <span GUID="568bb0ad-748c-4a43-9f3d-ea8b290db980">να</span>
+        <span GUID="fad3a6bb-fbf1-40f2-972e-7d460a564440">
+        </span>
+        <span GUID="4e29e756-4e81-41cc-aeaa-f70048bf2000">κινηθείτε</span>
+        <span GUID="0adca53c-8674-47df-97d0-362b1455bcdf">
+        </span>
+        <span GUID="aa1e8dce-70fd-47dd-bdcc-18fca82694b0">από</span>
+        <span GUID="6b3cacf2-802d-4cae-b13c-b3952cc4cb03">
+        </span>
+        <span GUID="aaf87855-1ff1-4856-8bc3-02ed77d3ee60">τη</span>
+        <span GUID="8a250f54-cc25-45a6-912f-4cd36c51f29d">
+        </span>
+        <span GUID="41d5a8d8-381f-4aa8-9fd4-b10075b76b72">μία</span>
+        <span GUID="e1da426c-58c2-4ace-bdaa-c81474f2a14e">
+        </span>
+        <span GUID="cb277835-cd6d-4eee-bcde-eaa1d370d5c1">ερώτηση</span>
+        <span GUID="7fc6771c-d721-41b9-bdd7-d829e82a3dd6">
+        </span>
+        <span GUID="98499ed5-9d10-47d4-b452-83fceb8f77bb">στην</span>
+        <span GUID="cb7b131b-a174-46c5-9109-96c4872144b6">
+        </span>
+        <span GUID="c428a603-7ddd-49cd-8318-a3773b61ea28">άλλη</span>
+        <span GUID="c8654a0a-6890-43fb-b2b2-d99860821698">, </span>
+        <span GUID="c4c370cc-bd0e-4b75-8877-49ffcf7c80c4">χρησιμοποιήστε</span>
+        <span GUID="9d817d18-6d40-4407-868d-ef5e84fcea06">
+        </span>
+        <span GUID="7c28ff12-07dd-422b-a40e-7636384bd849">τα</span>
+        <span GUID="c5986dd9-6f31-4591-b297-7b7ec40fd1d3">
+        </span>
+        <span GUID="12b4a4e6-dd7d-416e-b9b4-5c085d9798e3">πλήκτρα</span>
+        <span GUID="1f23abfc-6727-4416-9dc9-e1b61614743f">
+        </span>
+        <span GUID="759e71f5-c0d3-45b0-a11a-507c36bee772">πλοήγησης</span>
+        <span GUID="cbfbbc2d-28a1-4af4-abf8-65d192c4e966">
+        </span>
+        <span GUID="41a39399-6479-48f8-b19b-d7a4e444b65f">Πίσω</span>
+        <span GUID="b70d54d9-a50a-4bee-bd76-d6a58025b293">
+        </span>
+        <span GUID="92d71bed-eed1-4dd7-a8de-9382b15ee5fc">και</span>
+        <span GUID="52f384a3-662f-44cb-bb3f-ae8990313993">
+        </span>
+        <span GUID="a0cdbbf5-c894-4a0f-8f61-2cf0fc57dd48">Επόμενο</span>
+        <span GUID="864d30ae-2ce8-407e-b35c-fe1623cf9fa7">
+        </span>
+        <span GUID="386a1cb2-644c-4950-b0dd-87a70a72d0e2">στο</span>
+        <span GUID="795a7fd9-2641-4a63-b241-5e989af980a9">
+        </span>
+        <span GUID="7f63139a-5a97-41ca-a6eb-4ebef64636b0">κάτω</span>
+        <span GUID="be05f948-8da9-41d3-9a05-f0684fc99d99">
+        </span>
+        <span GUID="40bbd1b0-8a0b-4171-8046-78c2ff603a34">δεξιά</span>
+        <span GUID="f878fb82-8b96-4788-974f-eb2d53e0cea0">
+        </span>
+        <span GUID="5a05a240-e100-4734-9c4b-a4d888a55a74">μέρος</span>
+        <span GUID="60f9c620-210c-4294-8d14-c669abe2a0c6">
+        </span>
+        <span GUID="ede3e07e-1b3c-4fd5-b266-5a025acde927">της</span>
+        <span GUID="ef26da23-4f60-4f3f-8b3c-59494bdd6349">
+        </span>
+        <span GUID="b12b1fc6-77a9-405c-8b13-8ad7c20d4033">σελίδας</span>
+        <span GUID="58ed9419-df37-4a60-882a-d7a127d00eec">.</span>
+      </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; BACKGROUND-COLOR: white" valign="top" GUID="f9f4a6fb-c9d6-4821-82e4-04d9b37fac5d" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="9f6c6252-4f39-4692-8a4b-606b3350e075">
+        <font face="Arial" GUID="0ae4dd92-4ec9-48f5-b778-acd7f856b4e8">
+        </font>
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; BACKGROUND-COLOR: white" valign="top" GUID="a3930fbd-5a75-4e08-abb0-1f1306c77299" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="c92c0998-f270-4838-acda-9b71623cd032">
+        <span GUID="5b6176f4-a45f-48b4-9bda-bc3cebf4d1ad">Μην</span>
+        <span GUID="64e659ac-ba01-44b9-9211-67030aaacb22">
+        </span>
+        <span GUID="881d14f1-12f5-4078-ba7e-cf57d6d8b864">χρησιμοποιείτε</span>
+        <span GUID="5260af5a-8379-45c0-a2a3-c44ff16c29ec">
+        </span>
+        <span GUID="5e9eb796-887c-4bfb-8267-3761f26a9979">τα</span>
+        <span GUID="f005cf47-b5fa-47a7-9106-f78b89a55b30">
+        </span>
+        <span GUID="2cb8e6c2-cd26-4119-8ead-c5c9f0ec2a06">πλήκτρα</span>
+        <span GUID="871629e3-e5e9-4e2a-b8a1-679b8d7acca3">
+        </span>
+        <span GUID="f1752b95-fe34-4811-b66a-644700ad0dae">πίσω</span>
+        <span GUID="926ebe23-2ac3-4a8b-b959-5c04dd851ceb">/</span>
+        <span GUID="a7fec7dd-01fd-4f79-a304-7936bf1070f3">εμπρός</span>
+        <span GUID="d24e7a5f-5c0e-4c98-980e-77745c532246">
+        </span>
+        <span GUID="c74ba60e-68b8-4d9d-8c15-9ba0f7406f69">της μηχανής αναζήτησής σας</span>
+        <span GUID="eceba67c-9d63-4841-a05c-9fa990c9b105">
+        </span>
+        <span GUID="a71d13aa-d0be-4da1-bb04-902c1c69af9c">γιατί</span>
+        <span GUID="499efd58-3ff7-48d2-8310-5e7a5ffae620">
+        </span>
+        <span GUID="00a43adc-92e7-4b7c-b1b1-09cc30ef171a">έτσι</span>
+        <span GUID="a3d95e61-d2d0-467a-83b4-8c11205de0de">
+        </span>
+        <span GUID="42e0c87c-a9e6-4198-8a2e-1260b3d81939">θα</span>
+        <span GUID="8c65ab34-4400-42b5-9379-05e2ff1d00b4">
+        </span>
+        <span GUID="2fc1da22-ca1d-4d00-942f-147f26e9001d">βγείτε</span>
+        <span GUID="76bf306d-f404-4fa5-8f9a-69326f92826c">
+        </span>
+        <span GUID="497958b7-0cc6-4249-9757-04e5d5aba7eb">από</span>
+        <span GUID="03efbdfa-ba68-4de2-a410-21b21df2bc37">
+        </span>
+        <span GUID="4d0dbc19-3c09-4d05-94de-e3861f4baba2">το</span>
+        <span GUID="a471705b-b5dd-4aa5-aede-cd36a88f1a06">
+        </span>
+        <span GUID="9eade083-bf25-4d1c-ab3e-efc650311240">τεστ</span>
+        <span GUID="45a6d03b-5094-478b-ad84-32d726610e3d">. </span>
+      </font>
+    </div>
+    <div GUID="54454c74-44c0-49eb-b0f4-a8d000c9886f" xmlns="http://www.w3.org/1999/xhtml">
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="2e615e8f-2bcc-4152-b572-1b29a767ee77">
+    <Page ID="Q1" IsActive="true" GUID="5ecf5388-edf1-47b2-811c-6be899a655d0">
+      <Title GUID="bc816bf7-3384-4c93-8846-b009e6776765">Question</Title>
+      <PageElements GUID="cdd1845e-fd15-477a-9ae3-43f875e325b7">
+        <PageElement GUID="f4b943b5-4908-4f5c-91c3-51410b9c71fb">
+          <Question GUID="a1bebdc3-887b-4bd4-9958-dbd8f817aee8"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="57e28d39-aafd-4168-b22a-1e8ef341aa62">
+      <font face="Arial" GUID="f4799ee6-14dc-4791-9652-b7db33d95ef2" xmlns="http://www.w3.org/1999/xhtml">
+        <span style="LAYOUT-GRID-MODE: line" GUID="48319d77-ac44-4d36-88ec-fa4e29268dc5">Όταν διάφορες εταιρείες ανταγωνίζονται η μία την άλλη για να κερδίσουν πελάτες, οι τιμές είναι πιθανόν να είναι υψηλότερες από ό,τι εάν υπήρχε μία μόνο εταιρεία που να παρέχει τα αγαθά ή τις υπηρεσίες.</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="d9b65c01-e23d-408f-b562-fd9b367f0af2">  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e90bd378-72b3-4dc7-b630-796503bb5d5f">Σωστό ή λάθος</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e5b0be21-459c-422f-9284-204525aa2eea">;</span>
+      </font>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="07331715-d979-47e5-97aa-f4bf6947a972">
+        <span style="LAYOUT-GRID-MODE: line" GUID="dc57292b-2ba8-48bb-a855-65744a2e06e5" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="52f785ba-9e3f-4658-97d6-b1283b8d9e6c">Σωστό</font>
+          <font face="Times New Roman" GUID="a21ff77b-269f-4e9a-aabb-6fcd19dde539">
+            <font face="Arial" GUID="aabb8538-6fe4-4408-b3f1-cc8ad92f5d02">
+              <font face="Arial" GUID="6e50f050-12d5-4553-8b03-78d87a4b3545">
+              </font>
+            </font>
+          </font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="97757f6d-4fa6-4b10-b6d4-d3271a345f82">
+        <span style="LAYOUT-GRID-MODE: line" GUID="5f4c5a2b-c108-4847-89b0-1d830cdbdfde" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="7be15462-412a-4137-8add-25f38f36a726">Λάθος</font>
+          <font face="Times New Roman" GUID="a9683b9e-6cc3-4893-9b56-a400f473840b">
+            <font face="Arial" GUID="25ecd521-5025-4483-af6d-6c54fbe7534f">
+            </font>
+          </font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="4289070f-fe9e-4710-a3ff-8c55ee87d265">
+      <Title GUID="bb1e0383-a1af-4625-acbe-fa59d413a6d0">Question</Title>
+      <PageElements GUID="4345a085-92a8-4bae-b0a9-72e9e2d76c1d">
+        <PageElement GUID="8691bd1d-0f85-4f32-ba12-b970accaed54">
+          <Question GUID="465f12fe-7e1f-44e7-9b29-07fbaed8e499"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="03ec76d6-574a-430b-8c97-44208f1e8ee1">
+      <font face="Arial" GUID="9ca27984-a0f5-4f96-9e2e-87b6a2db9d77" xmlns="http://www.w3.org/1999/xhtml">
+        <span style="LAYOUT-GRID-MODE: line" GUID="273ed994-98b4-46c2-b01e-cca7f121779d">Το Δίκαιο Ανταγωνισμού εμποδίζει τις εταιρείες να γίνουν πολύ ισχυρές ελέγχοντας εάν μπορούν να συγχωνεύονται με άλλες εταιρείες.</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="95bad9d8-7581-4fd5-b96e-a8caec9b2e56">  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e5f5b696-fe6b-4d99-b985-966c27dfd908">Σωστό ή λάθος</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="0371c4de-8323-4ad3-815d-a9918180dd81">;</span>
+      </font>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="61ab2352-f16c-4bb9-bceb-ac3f85cd09ec">
+        <span style="LAYOUT-GRID-MODE: line" GUID="68a96a5b-1a85-4fb2-9ed4-fb016d70a80e" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="aa85ec0f-a3ed-4f11-849e-badbe9047804">Σωστό</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="30ff001a-0eb4-4021-99a5-b5e918a5b86d">
+        <span style="LAYOUT-GRID-MODE: line" GUID="b4a436d7-f720-4a11-aaf7-19c5ea50429b" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="729f8d8b-05e5-48dc-9b50-60108752fdd4">Λάθος</font>
+          <font face="Times New Roman" GUID="506fa2df-e7d2-4677-ab2b-0937c2cd09dc">
+            <font face="Arial" GUID="ec05d3d3-179b-46ac-bfba-48f98f06fe30">
+            </font>
+          </font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="d3312449-d0d2-42bc-b318-4dd16df48ab8">
+      <Title GUID="aac84a37-8ba6-497a-b89b-4979e98fdf60">Question</Title>
+      <PageElements GUID="ad7c0d0a-687f-4bb1-9713-d997bde4b056">
+        <PageElement GUID="3542eda1-6855-4588-b816-ddb5c0fdc27b">
+          <Question GUID="d096384c-e443-40c6-897c-abd2d0ea8752"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="d16e9c23-8791-417b-b6e3-57ac45a759ee">
+      <span style="LAYOUT-GRID-MODE: line" GUID="fc248d9c-6d2f-40d6-b82b-1138e946b3b6" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="Arial" GUID="90bf1334-d33c-4525-a475-104051c17aab">Ποιο από τα παρακάτω ΔΕΝ συμβαίνει συνήθως όταν οι εταιρείες ανταγωνίζονται η μία την άλλη;</font>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="43eef556-1dbb-4b21-a734-dfd7db8aff27">
+        <span style="LAYOUT-GRID-MODE: line" GUID="0ee42d08-a23e-4bcf-8778-a34dea04e4a6" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="96802798-7e7e-429f-afa5-59882507fc5e">Χειρότερα προϊόντα</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0889b87a-1dca-48a9-a5a3-2f2e772cabd9">
+        <span style="LAYOUT-GRID-MODE: line" GUID="f5641a63-d7b4-4634-b90e-27f980db77a0" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="866e27b5-c904-4290-ae42-66eb67176e91">Βελτιωμένες υπηρεσίες</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="824ca1f4-0629-4963-8578-256181bc5c3c">
+      <Title GUID="990507f6-4472-49ab-a4c2-ced23582abe2">Question</Title>
+      <PageElements GUID="b84462fd-722e-437b-8f7d-69b87311658e">
+        <PageElement GUID="e282e2d1-9c17-45fb-a526-ac1735e5d7b2">
+          <Question GUID="690bb366-afe9-413c-b562-6ed9eedd183e"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1cd1588b-068a-4eb8-899a-88bf6b773a7e">
+      <span style="LAYOUT-GRID-MODE: line" GUID="96e3fe1b-1043-4d01-8450-9a776ae5d2c6" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="Arial" GUID="9f1dfb08-31b6-4da1-a529-6471f80e0fff">Είναι δυνατό να εφαρμοστούν οι όροι μιας συμφωνίας που παραβαίνουν το Δίκαιο Ανταγωνισμού;</font>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ff814b71-12ed-41a8-a7e9-0ca420b37528">
+        <span style="LAYOUT-GRID-MODE: line" GUID="2dd1916c-d691-4775-ab5a-915a6a425528" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="7c95265b-d676-4613-a95a-f45d777bb306">Ναι</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="79810d0a-a147-4a85-ad0b-13333650fe67">
+        <span style="LAYOUT-GRID-MODE: line" GUID="6ca533e7-9082-4fb5-8707-a207cdf1ca69" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="317a9599-f6b7-48e9-ad31-bc42a2f98780">Όχι</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="9c14de1f-aa1d-4b30-862b-d29e11bd99bb">
+      <Title GUID="fb4127e8-22a3-4280-977e-5f1cf8f18100">Question</Title>
+      <PageElements GUID="d6b83a80-e941-4b42-aef9-805523958b8e">
+        <PageElement GUID="484b17ef-a353-4843-af7e-69954c63db6d">
+          <Question GUID="0fde9033-d5d3-4801-972f-da5ff9d79a0c"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="715ece3d-1e2d-4c6c-95bd-68407a78e035">
+      <span style="LAYOUT-GRID-MODE: line" GUID="6e599fca-f8a3-4ef0-bfb7-84d5fd0564a0" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="Arial" GUID="9efc488c-e489-4254-ac23-9e84eb795b5a">Σε μια εταιρεία που παραβαίνει το Δίκαιο Ανταγωνισμού θα μπορούσε να επιβληθεί πρόστιμο σε τι ποσοστό του ετήσιου παγκόσμιου κύκλου εργασιών της;</font>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6b51beb7-e7e9-4fe0-b55a-474d3a8adecf">
+        <span style="LAYOUT-GRID-MODE: line" GUID="8785e9b6-deb0-4c61-bb67-0a326c6f8970" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="4e68636a-5972-4089-b2d9-d25b32153863">1%</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e16af555-6a7d-4f0f-8688-cee447d1ef23">
+        <span style="LAYOUT-GRID-MODE: line" GUID="86f4ac51-b87e-4240-9efb-36563528834c" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="ca4dd9b9-b83a-42ec-afb7-b515df87ce7b">5%</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="a7faec95-51ea-4d07-a12a-60ea735c1e5a">
+      <Title GUID="fc837e0c-93b0-4141-93ef-eb6a50234c43">Question</Title>
+      <PageElements GUID="2386fe96-596f-459e-87b0-7d62d29888b8">
+        <PageElement GUID="a5fbd234-5d97-4baf-bc3b-82e83dd75544">
+          <Question GUID="f8e3a1cd-9130-4e93-b7cc-6b4bc7af3edb"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="80fb58fb-cf26-4601-8a6b-d110c388b516">
+      <font face="Arial" GUID="3550430a-7a1f-41b6-a3cf-15877fed771c" xmlns="http://www.w3.org/1999/xhtml">
+        <span style="LAYOUT-GRID-MODE: line" GUID="30e2e2ea-a587-46a7-af25-810f65aa600c">Οι εταιρείες δεν μπορούν να χρησιμοποιούν το Δίκαιο Ανταγωνισμού εις βάρος ανταγωνιστών και προμηθευτών τους.</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="b0610c52-21dc-441e-a6f6-30469f6b9e62">  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="113d24b8-6c19-49ef-89ac-997097549d0e">Σωστό ή Λάθος</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="4436a898-6cfa-42ed-a64a-2076d6047e78">;</span>
+      </font>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e69a66d5-e7c5-4c96-b3d1-8f99d73bfcae">
+        <span style="LAYOUT-GRID-MODE: line" GUID="86fc47cc-c556-4f8e-89c2-a6599b219bd1" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="1613b445-a42f-40db-9f6f-23e9efe7e4e1">Σωστό</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0a5a5d7d-04f2-47d6-a41c-723837232027">
+        <span style="LAYOUT-GRID-MODE: line" GUID="16ecca35-b517-4bcd-9ff0-a9d46de0882a" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="b57da467-f8de-4071-929c-a0f7fe34f9e2">Λάθος</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="55ba1cd1-523e-4a0b-91e8-cfcd5eb20430">
+      <Title GUID="13a5ccb7-b202-4cbf-9bed-1364af7d6f2c">Question</Title>
+      <PageElements GUID="55f99965-c341-46b4-b4e0-d70f52601c99">
+        <PageElement GUID="b051c544-9c5b-4bb4-84b5-749a38206707">
+          <Question GUID="8f9590f9-adcc-4fce-b26d-d83df166308e"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="fc49aadf-1dd0-4682-ac24-76fc42be26df">
+      <span style="LAYOUT-GRID-MODE: line" GUID="fc1684a5-3998-4887-bfe1-2c85fb6c36da" xmlns="http://www.w3.org/1999/xhtml">
+        <font face="Arial" GUID="1451d8d1-b55e-4652-828d-10cedfec7851">Εάν δύο εταιρείες συμφωνήσουν μεταξύ τους να πωλούν τα ανταγωνιστικά προϊόντα τους στην ίδια τιμή, θα θεωρούσαν οι αρχές ανταγωνισμού τη συμφωνία δίκαιη;</font>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1f1f8730-115e-404f-8cc7-c90e4c90dcae">
+        <span style="LAYOUT-GRID-MODE: line" GUID="608ad861-54e3-4b6b-91b1-8f7c2f572e4c" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="f8ba9473-a611-449d-8613-cd436e4f4400">Ναι</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="15efdc70-f2a1-466d-99ed-8768eca3e4a0">
+        <span style="LAYOUT-GRID-MODE: line" GUID="a51a2ac8-41a5-4040-83c4-068f2548e54c" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="f5a596cf-a08b-4ed8-b116-6c871096e28c">Όχι</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="2b445627-ec34-4b40-a1a7-c056689d6447">
+      <Title GUID="488b20bb-a871-4d7c-a088-9aebf1f825bb">Question</Title>
+      <PageElements GUID="777ba547-8856-4f33-95cb-0e8cefcfde05">
+        <PageElement GUID="8f034571-0060-476b-8a04-1ba1c05ba54d">
+          <Question GUID="1052aa38-e40b-4e2d-8f25-afc50207cf63"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="a822f2e3-c138-49b8-a162-41e3321ff7ff">
+      <font face="Arial" GUID="5f0a16e2-7000-406e-b387-ba11f54e7d3b" xmlns="http://www.w3.org/1999/xhtml">
+        <span style="LAYOUT-GRID-MODE: line" GUID="1f274384-ab8f-4876-925d-673322bc5ad9">Οι αρχές που επιβάλλουν το Δίκαιο Ανταγωνισμού επιβάλλουν αυστηρότερες ποινές σε εταιρείες που δεν έχουν εκπαιδεύσει το προσωπικό τους και παραβαίνουν το Δίκαιο Ανταγωνισμού. </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="2ec1fbe3-752b-454b-b078-4e5d80bee6ac">  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="65b1f9ff-d26e-46ca-8731-cf8de58c7d44">Σωστό ή λάθος</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="84ffae5d-6c9d-46be-9872-6e6642073433">;</span>
+      </font>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="878053f2-71f2-4d08-b185-dfe750d94198">
+        <span style="LAYOUT-GRID-MODE: line" GUID="6eeca2ae-ef1c-423f-a026-76c799e7fcf0" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="c25968b4-1210-4e5e-9f49-868c20f42b39">Σωστό</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="70f5c293-40bc-41ca-b74f-34c9585858b3">
+        <span style="LAYOUT-GRID-MODE: line" GUID="6f9ee2af-fdab-426f-974d-55b10d40d5b6" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="6ef8f69a-f09a-43f1-9cc3-d0d22cb2289b">Λάθος</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="ae44c8ce-b62b-4e52-b015-3896f89f69d2">
+      <Title GUID="5056b282-ef0f-4bbc-aea1-333fdd8f036a">Question</Title>
+      <PageElements GUID="3dbe7920-779d-4a7e-babd-fa655e7d645b">
+        <PageElement GUID="ad3c8d94-0736-4ff7-a892-597ffde5fd4b">
+          <Question GUID="e2d0f264-fe20-4a5e-ad94-eda3653f7401"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="0d5fefdb-fb8b-483e-85f0-7f928ce76bdf">
+      <font face="Arial" GUID="85e42310-fa7f-4f6e-a020-08171b79341b" xmlns="http://www.w3.org/1999/xhtml">
+        <span style="LAYOUT-GRID-MODE: line" GUID="cddf7655-88a6-429b-8a6b-6692cc3026c1">Εάν έχουμε νοοτροπία συμμόρφωσης με το Δίκαιο Ανταγωνισμού, οι αρχές θα είναι πιο επιεικείς εάν κατά λάθος το παραβούμε. </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="c9938799-584c-4b33-b6f8-94a80999a7f5">  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f86491d0-955b-45dc-a1f3-dfeefbc67d6a">Σωστό ή λάθος</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="48f50be7-a89b-4a45-a97d-99c08ef77c6e">;</span>
+      </font>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="03900004-ff03-4f7d-a714-fdc500fcbf1c">
+        <span style="LAYOUT-GRID-MODE: line" GUID="94a2eef5-f69b-40bc-8f78-a735b7733934" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="e38c5281-1977-4ef7-90f5-e3b148c4f865">Σωστό</font>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7c267292-34e6-4535-9029-98e61494d2c8">
+        <span style="LAYOUT-GRID-MODE: line" GUID="2b4adb9d-4a2a-4079-be70-798a6a7f6f94" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Arial" GUID="8227ddcc-ff48-44e9-8e2c-85b497224b29">Λάθος</font>
+          <font face="Times New Roman" GUID="89e190a5-e101-4ee5-a39f-1009afd8b807">
+            <font style="FONT-SIZE: 11pt" face="Arial" GUID="76259978-4a6d-4e2a-a1e7-6fbd9574faf3">
+            </font>
+          </font>
+          <font style="FONT-SIZE: 11pt" GUID="483c60e8-b491-442e-a35a-1c0ed2333f5e">
+            <font style="FONT-SIZE: 11pt" face="Arial" GUID="ab7fd4c2-9d0c-456b-a476-776d5fe427b1">
+            </font>
+          </font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="68ae6da3-8060-4d2b-a8ed-7671e9416e57">
+      <Title GUID="0483bdb8-cc29-45ad-92d5-58424989cdb9">Question</Title>
+      <PageElements GUID="bb7a86da-0ebe-44b9-937a-d6ed9024f105">
+        <PageElement GUID="ef831d89-ad94-482b-89cb-0380498ac1bc">
+          <Question GUID="d2877099-5101-406f-8319-4a721103fd24"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="e33bbd17-8157-4de0-9aaa-3d79a3a0654b">Α α Β β Γ γ Δ δ Ε ε Ζ ζ Η η Θ θ Ι ι Κ κ Λ λ Μ μ Ν ν Ξ ξ Ο ο Π π Ρ ρ Σ σ ς Τ τ Υ υ Φ φ Χ χ Ψ ψ Ω ω <br GUID="d4be51b9-3bfe-42bf-84de-21235d13233e" xmlns="http://www.w3.org/1999/xhtml"></Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7fa39e4e-f90f-424a-aaf6-37ba49e4ffd3">
+        <font face="Arial" GUID="0c0e0cb5-66bd-4c32-9e5e-fe315b13ee5e" xmlns="http://www.w3.org/1999/xhtml">
+          <span style="FONT-SIZE: 11pt; LAYOUT-GRID-MODE: line" GUID="bfe6f129-89dc-4593-ac3f-f383f9347485">
+            <font face="Times New Roman" GUID="e1374278-67e6-4d74-a2c8-f59f13bdd809">Ναι</font>
+          </span>
+        </font>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8ff3a26c-633f-4096-bf5f-db5fc7b092eb">
+        <span style="FONT-SIZE: 11pt; LAYOUT-GRID-MODE: line" GUID="e0f77c81-f6b7-4a88-b02a-394e480b21cb" xmlns="http://www.w3.org/1999/xhtml">
+          <font face="Times New Roman" GUID="46f59c54-2142-44d4-bf07-cad4a4439696">Όχι</font>
+        </span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="7e8a4b30-b7f9-4b26-8338-51fdd9553725">
+    <Page ID="Comp1" IsActive="true" GUID="bcaa3092-7d06-49f7-9fe8-8394238b1e31">
+      <Title GUID="77a49aac-b337-4ae7-8df9-f5af34ab43f7">Ολοκληρώσατε το τεστ σας</Title>
+      <PageElements GUID="92520bab-1dc0-4d87-a1e0-809aef101758">
+        <PageElement GUID="71217107-b387-4902-b0f7-b501e3aeac9f">
+          <TextBox GUID="cc0bc430-9885-44bd-a7d8-0967a9dfdd29"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7f63cc19-5acd-4739-804a-28459bdc6c35">
+    <div style="PADDING-RIGHT: 0cm; PADDING-LEFT: 0cm" GUID="93412f7f-477d-4153-be06-f53c300fdd85" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="647509d6-0e94-471e-a008-63eeb13730f9">Έχετε φτάσει στο τέλος του τεστ.  </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; PADDING-LEFT: 0cm" GUID="88619c3c-aa75-425f-a249-bd520b9e1c90" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="09b76b5a-0326-4c68-af2c-f6d824d7d5c3">Μπορείτε τώρα να επανεξετάσετε ή να αλλάξετε τις απαντήσεις σας. Χρησιμοποιήστε τα πλήκτρα πλοήγησης για να περάσετε από τη μία ερώτηση στην άλλη. </font>
+    </div>
+    <div GUID="e2a43246-005e-43a9-8949-f3d3e37e6111" xmlns="http://www.w3.org/1999/xhtml">
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Comp2" IsActive="true" GUID="b2cf771b-c3f2-4656-acbc-f51562a27f71">
+      <Title GUID="86c99f28-cd58-4f06-b56b-37fc5afbab6d">Μόλις ολοκληρώσατε το τεστ σας</Title>
+      <PageElements GUID="ab1ce462-bcd4-409a-9ad3-0a52a9554a36">
+        <PageElement GUID="cf349eeb-3af4-495b-a34b-bc7c4da15152">
+          <TextBox GUID="603e5a4a-cbac-4443-8852-261808ff498f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="9cc36ca7-b92c-4091-9cb3-2ac8d8c4da94">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 120%; BACKGROUND-COLOR: white" align="justify" valign="top" GUID="de5a5a7a-e0f2-4600-96a3-9e0b7669f245" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="e2ca4f15-4c4b-440b-ad2b-9eca63b342b5">
+        <div style="PADDING-RIGHT: 0cm; PADDING-LEFT: 0cm" GUID="39c32cac-463b-4a5f-a5d7-49a8a9b8d10c">
+          <font face="Arial" GUID="121865aa-6ce5-4104-9fda-e67d00c868c7">Όταν είστε ευχαριστημένοι με τις απαντήσεις σας, κάντε κλικ στο κουμπί Υποβολή Απαντήσεων παρακάτω. Θα δείτε τότε εάν περάσατε το τεστ. </font>
+        </div>
+        <div style="PADDING-RIGHT: 0cm; PADDING-LEFT: 0cm" GUID="1c6bfc4b-5e83-477e-ad71-0480d70d6709">
+          <font face="Arial" GUID="012d789b-f399-46fb-8715-9706caa8f3aa">Για να δείτε τα αποτελέσματα του τεστ σας, κάντε κλικ στην Περίληψη Αποτελεσμάτων Τεστ στην επόμενη σελίδα.<font color="#0000ff" GUID="0dbe4263-5860-4f03-a2db-db01cff528d2"></font></font>
+        </div>
+      </span>
+    </div>
+    <div GUID="577ba17d-d47e-441e-ba65-658247f4a460" xmlns="http://www.w3.org/1999/xhtml">
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="d02e0496-0d54-4587-b743-2623a69678ee">
+          <SubmitAnswers GUID="4e7e6b9c-da38-48ee-bb67-88f52da091a2"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

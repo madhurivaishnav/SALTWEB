@@ -1,0 +1,34 @@
+IF  EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwHourly_MostRecent]'))
+DROP VIEW [vwHourly_MostRecent]
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwHourly_MostRecent]'))
+EXEC dbo.sp_executesql @statement = N'
+CREATE VIEW [vwHourly_MostRecent]
+AS
+	SELECT     
+		tblLogHourly.OrganisationID, 
+		tblOrganisation.OrganisationName, 
+		tblLogHourly.TimePeriod1 AS [Last Minute], 
+		tblLogHourly.TimePeriod2 AS [Last Hour], 
+		tblLogHourly.TimePeriod3 AS [Last Day], 
+		tblLogHourly.TimePeriod4 AS [Last Week], 
+		tblLogHourly.TimePeriod5 AS [Last Month], 
+		tblLogHourly.TimePeriod6 AS [Last Year],
+		tblLogHourly.DateCreated
+	FROM         
+		tblLogHourly 
+	INNER JOIN
+		tblOrganisation 
+	ON 
+		tblOrganisation.OrganisationID = tblLogHourly.OrganisationID
+	WHERE     
+		(
+			tblLogHourly.DateCreated = (SELECT MAX(datecreated) FROM tblLogHourly)
+		)
+
+'
+GO

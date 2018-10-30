@@ -1,0 +1,2 @@
+<!-- all javascript functions have been moved to javascript.aspx. This file, Javascript.js is still referenced by published content --> 
+document.write("<script type=\"text/javascript\" src=\"/General/InfoPath/Include/Javascript.aspx\"></script>\n");

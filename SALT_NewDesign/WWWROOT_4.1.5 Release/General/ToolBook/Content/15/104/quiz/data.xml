@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" productVersion="11.0.6357" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="a47e0869-38bf-4866-b029-007462d68ec7">
+  <Summary ID="bdwaml07q" GUID="ea994124-0640-42af-86e3-8397b19d5ed3">
+    <ContentType GUID="9c2aa905-10a8-4c34-b72a-960dea205aa0">quiz</ContentType>
+    <UploadType GUID="231f5878-0561-41d1-b2b6-4a976127cdaf">update</UploadType>
+    <Title GUID="29bac128-5e08-4309-a30a-ecc659491820">KYC - AML/CTF Programs</Title>
+    <CreatedBy GUID="eaa84f6c-ba40-4eb5-8376-750eb40b0b3c">LTG Casual</CreatedBy>
+    <CreatedDate GUID="f76055a9-5a2a-4e75-a5bf-d0f64d8c8b02">2005-03-30T14:22:24</CreatedDate>
+    <LastModifiedBy GUID="5ade2a30-8df8-4bed-8a60-02dd66c9ff2b">LTG Casual</LastModifiedBy>
+    <LastModifiedDate GUID="84384607-eceb-435c-bf33-4e460c4b92be">2007-08-08T15:47:32</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="2dc7e560-7d06-449a-905c-8bfa4fb1e8c9">
+    <Page ID="Intro1" IsActive="true" GUID="2ee7724e-2545-4ac7-a4de-7d4af9ae9467">
+      <Title GUID="293db15e-08a5-4467-93b1-7e0118d2e0d5">KYC - AML/CTF Programs</Title>
+      <PageElements GUID="d3e78325-34cf-4a2a-b3fc-baf0619745c2">
+        <PageElement GUID="e2a7fe70-a93c-4715-9790-b5908afc07d5">
+          <Graphic GUID="5013752d-6358-4043-956a-8240321d46f0"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/21416f5e-e5c3-4c45-b106-5d72efb031f6.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="3eec25b6-7b81-4f1a-8693-36492010d0cc">
+          <TextBox GUID="07d70dc2-6a21-41b6-b9f6-12cbc69ef2ef"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="0f810273-ff57-4ffc-bdcc-d6c36e624212">
+    <div GUID="19ce6083-1af5-492a-acb5-99a29d8231cc" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="960cfd7e-0e75-4134-a5fb-e883018dbac9">%System_NumberOfQuestions%</strong>  questions about<strong GUID="55c7160e-6719-4a24-ba6e-6fa8a8f06b15"> Knowing Your Customer - AML/CTF Programs</strong></div>
+    <div GUID="8ae1ae16-fa15-4cd6-9563-3f38ed38d6ce" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="05163a06-6cdb-4753-a4e1-74839ae5b4fe">You may be asked 3 different types of questions: multiple choice, true/false or yes/no. Answer each question by clicking the button to the left of the most appropriate response.<br GUID="74bad0ee-1dc3-41c1-aa22-1018fd49c172"><br GUID="6cbec145-99cc-4f86-b929-63fdd3a6942a">After you answer the last question, you will be given the chance to review and then submit your answers.<br GUID="152446f3-d1fd-426c-8dad-732c57da2f1f"><br GUID="30945685-2c9c-4dfc-b9a4-4d30acafee31">Please note that if you Exit the quiz before clicking the Submit Answers button then your answers will not be saved. <br GUID="c67420bd-7476-4356-ba0c-a26a819e6aba"><br GUID="19fb95e4-6888-4bbd-964d-9b2ef88b3203">To move between questions, use the <strong GUID="9dad2d67-ecf9-42e6-b2a4-e5d4edab7f7c">Previous</strong> and <strong GUID="5f104cec-fd04-47ff-85b4-2a79b21c954a">Next</strong> navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="eb71b104-3ec6-4190-9d9e-cfd4138894e6">
+    <Page ID="Q1" IsActive="true" GUID="a053c551-e7ff-4acf-a266-872de7300d6f">
+      <Title GUID="b12b683e-72ca-425f-99cd-d4760b5e4379">Question</Title>
+      <PageElements GUID="0b325d77-89b7-49cb-8f6e-92b713206fc2">
+        <PageElement GUID="cef29b39-4ccd-4927-813f-6aee4779f06c">
+          <Question GUID="0b15a175-80b7-40b3-b66e-2a275ba407d3"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="9df58f19-517e-4d3d-a3a4-a89a2a8912c4">
+      <strong GUID="2dd8647b-952c-48f0-bbae-d40e6bcb4403" xmlns="http://www.w3.org/1999/xhtml">Money laundering and terrorism financing risk is the risk that a reporting entity may reasonably face that the provision of its designated services might involve or facilitate money laundering or the financing of terrorism. True or false?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a31dd8fc-8bd6-4e57-9f25-77272b759213">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="edb7e25b-1d80-4887-9bb6-74f953276f12">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="7adcd812-6d14-48bd-aaf2-9a8b071fc89d">
+      <Title GUID="fcc4c4e7-190a-4080-afa0-d63221df975b">Question</Title>
+      <PageElements GUID="300e8395-4660-44e5-b953-6972428be127">
+        <PageElement GUID="9b977760-9fd6-42b8-95d8-7d594a00c8f0">
+          <Question GUID="d48c4682-8e8f-4841-b272-660bcf9bfb73"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1be7f24f-60bd-4482-9779-25478457b809">
+      <strong GUID="8a9d1fce-80d2-4245-9933-32b8900879df" xmlns="http://www.w3.org/1999/xhtml">Choose the best answer.  In determining its money laundering/terrorist financing risk, your organisation must consider:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e4cb757d-e1f8-4b23-8d35-b0639dcf0eee">The types of customers it has and the types of designated services it provides</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9704b7d7-a84b-4c9b-a0e0-d27657d3ed57">The methods of delivery its designated services</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="039095ad-a54f-4bef-b1b1-02e7ded1ae4d">The foreign jurisdictions with which it deals </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b3514353-6ea8-4192-83e7-b2932c8a24bc">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="d4bce40c-4aae-46fd-82ee-481a020ed6bd">
+      <Title GUID="8e4bccef-dd4f-4cec-93e0-c3c3ca939ff6">Question</Title>
+      <PageElements GUID="d1c70f7e-290a-4ed4-8b55-9101b6ad274c">
+        <PageElement GUID="586ef4e6-62da-4baf-8974-7f67bb255c7c">
+          <Question GUID="d995abd6-3f55-40da-a808-afc78c2c3803"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="d7fe4e4b-6266-4131-8791-d6fb13c383db">
+      <strong GUID="7d371c90-c312-4360-9f9e-19bb0b7875ce" xmlns="http://www.w3.org/1999/xhtml">It is your obligation to comply with the requirements and procedures of your organisation's AML/CTF Program to the extent that it is relevant to your role and duties. True or false?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a701f2df-9915-43cd-a61f-97f56b53a882">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="41200be7-88f7-45a5-9110-65a7c0f46aa0">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="false" GUID="453f30cc-65f1-4e66-a2a6-6ddbf017729f">
+      <Title GUID="dcf8b194-ca50-4ae0-a7ff-9432ac1feb52">Question</Title>
+      <PageElements GUID="d6ccd44c-3c5b-4f03-97e3-7b907df67322">
+        <PageElement GUID="5261ad9c-fbe8-4679-9c60-a95257c25d76">
+          <Question GUID="76c13d63-3987-418c-b080-c56ed2862c36"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="f2b9709f-684d-47a6-9256-07e5118d65b5">
+      <strong GUID="a46146b2-1533-4a08-93ae-badcf0cf2933" xmlns="http://www.w3.org/1999/xhtml">From what date must every reporting entity have and comply with an AML/CTF Program?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fbe1f27f-7e5b-4b58-8b69-912da571e052">12 October 2007</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="48a377a4-0137-40ab-b53c-89d2fc931c4b">12 November 2007</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="50ddc3e7-aeb3-41e1-a7b6-e834e890bdeb">12 January 2008</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="69b2455c-88c1-4cf3-8537-a3331dae84a6">12 December 2007</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="4d379a84-2db7-40c2-b63a-1a3ddfc8c643">
+      <Title GUID="19e8a698-ec16-4eb7-a84d-d0f1405b9429">Question</Title>
+      <PageElements GUID="a07f7d44-805c-4452-a008-2d914fcb3ef8">
+        <PageElement GUID="3dabe59e-1673-4861-bcbc-c40bc2e8ed00">
+          <Question GUID="8d4741e4-16f6-497e-9cd4-366dd2aacace"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="b43c013e-221d-42b6-8b47-0fc3f7ba7c77">
+      <strong GUID="5f894122-9ee6-4b1e-abd5-fbc738d029c3" xmlns="http://www.w3.org/1999/xhtml">Your organisation can commence to provide a designated service to a customer after 12 December 2007 even if it has not adopted and does not maintain an AML/CTF Program. True or false?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="745bd2fa-bd0e-487e-8cec-ec00b20a6949">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9b0cd012-c8a9-4ee3-80e8-8ead135ce95c">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="cb908ee0-e58b-4245-9cb2-7b588ef413d7">
+      <Title GUID="e3c61821-e28c-4302-a918-672630a67b08">Question</Title>
+      <PageElements GUID="814bcb87-5af6-4bbf-85a8-9231418ea7d6">
+        <PageElement GUID="937c3e62-6533-4bd0-a93c-8b41ac6a82bd">
+          <Question GUID="36250a01-684d-4bc6-8461-af40ffb22921"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="316b66cb-78a6-4e48-9e5b-e5403896a063">
+      <strong GUID="5ad144f1-449c-48c8-aab5-e9ea85eeb567" xmlns="http://www.w3.org/1999/xhtml">A Standard AML/CTF Program contains two parts – Part A (setting out systems and controls designed to identify, mitigate ML/TF risk) and Part B (applicable customer identification procedures). True or false?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8f5e3767-a136-4391-8a85-f1fb150aafbf">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="89b0006a-a9bb-4718-aa2e-2a71d32b2884">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="9d5f0648-5cfc-4b01-94a0-f46d64b5a062">
+      <Title GUID="7baf1e55-96e6-4667-aeb8-ba0cc361d510">Question</Title>
+      <PageElements GUID="f10a8f1a-f4a2-4906-bec3-d130eb75c574">
+        <PageElement GUID="19373d94-b3c4-4cc2-86fd-2a335556b67d">
+          <Question GUID="e19a9e9e-16da-444c-8b15-93e630717339"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="495f43e7-6ec6-4ee0-9402-f79a453b5340">
+      <strong GUID="0e3d64f6-db34-4416-95b8-bdebbba30d5d" xmlns="http://www.w3.org/1999/xhtml">This online training course forms part of your organisation's AML/CTF awareness training. True or false?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="74d5ec50-8278-490c-8a2e-30d2b008eb4a">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b4a09735-0fbd-45c6-86d3-c599f1600ed2">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="119bf912-e62a-46f6-bf37-93bf40f3c4e5">
+      <Title GUID="e215eeec-ac2a-41fc-a1db-a5f419a32370">Question</Title>
+      <PageElements GUID="6cdc7ba7-9a7e-4f8b-a131-153f2d3dfd16">
+        <PageElement GUID="ac03a341-7619-4453-a84f-e79e50f9d40f">
+          <Question GUID="0bb0a488-07ee-4250-b85e-2b4655a99856"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="40206f13-f9a7-4abf-9a65-da7489ba7f60">
+      <strong GUID="d5c74c02-6339-422a-b6f0-56d0aa3bfdb5" xmlns="http://www.w3.org/1999/xhtml">Choose the best answer.  Part A of your organisation's AML/CTF Program sets out:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2d6c93f8-b91f-4235-b405-96ab7fb06fa9">Customer identification procedures</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d901145f-8b57-4673-baef-f99ec2effe34">Customer verification procedures</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a13b2f0b-4f4e-4d36-83c8-0a7e107737bf">Procedures to enable your organisation to identify significant changes in money laundering/terrorist financing risk</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1b6c47ae-ecb3-4e93-8edb-6e62a48fa82a">Systems and controls designed to identify, mitigate and manage your organisation's money laundering/terrorist financing risk</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="5c44e95e-0f13-461b-beb8-abf5e9d50df4">
+      <Title GUID="afa35577-142e-473e-979e-773006b37d58">Question</Title>
+      <PageElements GUID="af551711-5190-498e-86a7-233eb2366d58">
+        <PageElement GUID="02f38b69-d557-4d5c-838d-462f2cf8e013">
+          <Question GUID="c6ba4c50-a67a-4dfc-9433-eca31b02076b"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="9e931106-ff37-44f1-a3c0-b52ad8e58528">
+      <strong GUID="301c65de-a79d-44e1-ab0f-ca44b2dca80b" xmlns="http://www.w3.org/1999/xhtml">Choose the best answer.  Part B of your organisation's AML/CTF Program must address:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9df8a7d4-c0d4-411d-ba6c-a11967995934">The procedures to be followed to identify customers</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4072411a-65f4-4bd4-9b18-d7a61a76faf0">The procedures to be followed in making reports to the AUSTRAC CEO</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b54d3a97-9ba6-4bb4-a062-b2f70709d596">The procedures to be followed in verifying the identity of customers</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="84bcbe4a-35e2-451f-8d7d-a46979933640">The procedures to be followed to identify and verify the identity of customers</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="1934f295-53c5-41e6-8785-95e94ec4b65e">
+    <Page ID="Comp1" IsActive="true" GUID="47125c3e-5b41-4cc0-8f82-a77b99e2679b">
+      <Title GUID="d6ffb789-0405-473a-acb6-b6b4f01237c6">End of quiz</Title>
+      <PageElements GUID="e856271e-40e6-43b5-92b6-2a6126aa1e8d">
+        <PageElement GUID="78683d83-e8a0-4797-814f-30f52c06222d">
+          <Graphic GUID="5952ba11-7a2a-4623-abb7-358f8dfa231e"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/b4d68920-e74e-48af-9fdd-02358b6da2b9.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="3d0ba21e-cd44-4245-867a-1e59d5801b30">
+          <TextBox GUID="267fb2d4-68bf-46f0-b7aa-930cac6289e7"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="8e945716-3c30-4184-baef-16d8715ea78d">
+    <div GUID="b9f539d8-2b31-40a0-b816-037340147c12" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="51926961-1c86-4562-9bb8-9079209b2690"><br GUID="be4ac54c-8ba7-4795-8fb9-2c206a514531">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="3747cc61-7079-4364-9808-83e96551496a"><br GUID="217cb204-aabc-47de-86bc-100e52c5802e">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="bebea106-06bf-4e30-93d4-0a0ab2dafec6">
+          <SubmitAnswers GUID="bf770bbf-a5c6-4e75-b990-7d9c5d25bdba"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

@@ -1,0 +1,35 @@
+IF  EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwUserLessonStatus]'))
+DROP VIEW [vwUserLessonStatus]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+IF NOT EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwUserLessonStatus]'))
+EXEC dbo.sp_executesql @statement = N'
+CREATE  VIEW [vwUserLessonStatus]
+AS
+select 	LessonStatus.UserLessonStatusID,
+LessonStatus.UserID,
+LessonStatus.ModuleID,
+m.CourseID,
+LessonStatus.LessonStatusID,
+LessonStatus.LessonFrequency,
+LessonStatus.DateCreated
+from tblUserLessonStatus LessonStatus
+inner join tblModule m
+on m.ModuleID = LessonStatus.ModuleID
+inner join (select max(UserLessonStatusID) UserLessonStatusID
+from tblUserLessonStatus
+group by 	UserID,moduleID) currentStatus
+on LessonStatus.UserLessonStatusID = currentStatus.UserLessonStatusID
+where LessonStatus.Excluded = 0 or LessonStatus.Excluded is null
+
+
+' 
+GO
+
+

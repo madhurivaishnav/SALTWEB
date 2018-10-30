@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>20</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Quiz - Module 1</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>10</numrandom>
+<passinggrade>80</passinggrade>
+<cancelfail>a001_results_failed.html</cancelfail>
+<passdone>a001_results_passed.html</passdone>
+<prevpage>a001_quiz_quiz_first_page.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>a001_quiz_module_1_q1_01.html</name>
+<question>
+<id>128141</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0020</var>
+<text>What do good work health and safety practices achieve?</text>
+<correctans>All of the above</correctans>
+<choices>Create an awareness of issues among employees|Help employees identify potential issues |Give employees the tools on how to respond if something goes wrong|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>a001_quiz_module_1_q1_02.html</name>
+<question>
+<id>128129</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0005</var>
+<text>How can you ensure you are informed of WHS laws?</text>
+<correctans>All of the above</correctans>
+<choices>Reading your employer's WHS policies and procedures|Regularly reading the policies and procedures that apply to your work|Speaking to your employer about changes you think should be made|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>a001_quiz_module_1_q1_03.html</name>
+<question>
+<id>128117</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0001</var>
+<text>What is true in relation to workplace safety?</text>
+<correctans>Everyone within the workplace has an active role to play</correctans>
+<choices>Implementation of good policies guarantees workplace safety|Everyone within the workplace has an active role to play|Only employers can be charged with WHS offences|Minimising any health and safety risks to visitors is unimportant</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>a001_quiz_module_1_q1_04.html</name>
+<question>
+<id>128105</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0002</var>
+<text>What is NOT an objective of the WHS Act?</text>
+<correctans>Facilitate a segmented, state-by-state approach to work health and safety laws</correctans>
+<choices>Facilitate a segmented, state-by-state approach to work health and safety laws|Protect the health, safety and welfare of all persons from risks arising from the workplace|Facilitate advice, information sharing, education and training about work health and safety|Provide a framework for continuous improvements in work health and safety standards</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>a001_quiz_module_1_q1_05.html</name>
+<question>
+<id>128093</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0003</var>
+<text>What is a health and safety representative?</text>
+<correctans>A worker who represents a group of workers in WHS matters</correctans>
+<choices>A person appointed by the health and safety regulator in a jurisdiction|A union official who has the authority to enter a workplace|A person conducting a business or undertaking|A worker who represents a group of workers in WHS matters</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>a001_quiz_module_1_q1_06.html</name>
+<question>
+<id>128081</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQuestion_0009</var>
+<text>Who bears the primary duty of care for work health and safety?</text>
+<correctans>PCBUs</correctans>
+<choices>WHS entry permit holders|Workers|PCBUs|Health and safety inspectors</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>a001_quiz_module_1_q1_07.html</name>
+<question>
+<id>128069</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQuestion_0010</var>
+<text>What does the term reasonably practicable mean?</text>
+<correctans>A duty holder must, within reason, do what they can at a particular time to ensure the health and safety of others</correctans>
+<choices>A health and safety representative must do everything they can at all times to ensure the health and safety of others|A duty holder must, within reason, do what they can at a particular time to ensure the health and safety of others|A health and safety representative must do everything they can at a particular time to ensure his or her own health and safety|A duty holder must do everything they can at all times to ensure his or her own health and safety</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>a001_quiz_module_1_q1_08.html</name>
+<question>
+<id>128061</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQuestion_0004</var>
+<text>A particular duty can only be imposed on one person. True or false?</text>
+<correctans>False</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>a001_quiz_module_1_q1_09.html</name>
+<question>
+<id>128049</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQuestion_0011</var>
+<text>When can you contract out of a duty?</text>
+<correctans>You can never contract out of a duty</correctans>
+<choices>By including a term to a contract that excludes, limits or modifies the relevant section of the WHS Act|By transferring a duty to another person|You can never contract out of a duty|When a person has more than one duty, they can choose to contract out of one if it is not reasonably practicable</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>a001_quiz_module_1_q1_10.html</name>
+<question>
+<id>128037</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQuestion_0012</var>
+<text>Which parties have an obligation to consult with each other?</text>
+<correctans>People who owe duties in relation to the same matter must consult, cooperate and coordinate with each other </correctans>
+<choices>People who owe duties in relation to different matters must consult, cooperate and coordinate with each other|People who owe duties in relation to the same matter must consult, cooperate and coordinate with each other |Health and safety inspectors must consult with WHS entry permit holders about work health and safety matters|PCBUs must consult with WHS entry permit holders about work health and safety matters</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>10</index>
+<name>a001_quiz_module_1_q1_11.html</name>
+<question>
+<id>128025</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 11</name>
+<var>VarQuestion_0014</var>
+<text>If a PCBU cannot resolve a WHS issue with his or her workers, what party may the regulator appoint?</text>
+<correctans>Health and safety inspector</correctans>
+<choices>Fair Work Australia|An official negotiator|Health and safety inspector|None of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>11</index>
+<name>a001_quiz_module_1_q1_12.html</name>
+<question>
+<id>128013</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 12</name>
+<var>VarQuestion_0015</var>
+<text>Complete the sentence. When consulting with workers, a PCBU is NOT required to\u2026</text>
+<correctans>\u2026 take all actions recommended by the workers</correctans>
+<choices>\u2026 take all actions recommended by the workers|\u2026 share relevant information|\u2026 take the workers\u2019 views into account|\u2026 give workers a reasonable opportunity to express their views</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>12</index>
+<name>a001_quiz_module_1_q1_13.html</name>
+<question>
+<id>128001</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 13</name>
+<var>VarQuestion_0016</var>
+<text>Which is true about the duty to consult with others?</text>
+<correctans>If people share a duty to the same matter, they must consult, cooperate and coordinate, so far as is reasonably practicable, with each other</correctans>
+<choices>If more than one person has a duty in respect of the same matter, each must consult with each other.|There is no duty to consult with other duty holders, only with the PCBU|If people share a duty to the same matter, they must consult, cooperate and coordinate, so far as is reasonably practicable, with each other|Any individual who breaches this duty may face a maximum penalty of $200,000</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>13</index>
+<name>a001_quiz_module_1_q1_14.html</name>
+<question>
+<id>127989</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 14</name>
+<var>VarQuestion_0006</var>
+<text>Complete the sentence. To eliminate or minimise risks in the workplace, you can\u2026</text>
+<correctans>\u2026 report any potential risks in the workplace</correctans>
+<choices>\u2026 ignore any safety issues|\u2026 report any potential risks in the workplace|\u2026 leave it to management to identify risks|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>14</index>
+<name>a001_quiz_module_1_q1_15.html</name>
+<question>
+<id>127977</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 15</name>
+<var>VarQuestion_0007</var>
+<text>What can you do to minimise risk in the workplace?</text>
+<correctans>Comply with any directions and safety information, and make sure others do too</correctans>
+<choices>Wait for your manager to make training available|Develop, but not implement, risk management strategies|Comply with any directions and safety information, and make sure others do too|Not attend a training session because you think you already know the material </choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

@@ -1,0 +1,35 @@
+/* Scenario Page layout specific styles. These classes are used by  ScenarioPage.xslt*/
+.Main_Table
+{
+    background-color:#EFEFEF;
+    background-image:url(/General/Images/Infopath/salt_watermark.gif);
+    background-repeat:no-repeat;
+    background-position:100% 95%;
+}
+.ScenarioContent
+{
+    vertical-align:top;
+    padding-bottom:20px;
+}
+.ScenarioContentLeft
+{   
+    background-color:#FFFFFF;
+    vertical-align:top;
+    border-right:outset 3px #cccccc;
+    border-bottom:outset 3px #cccccc;
+    padding:20 30 20 30px;
+    overflow: auto;
+    height: 410px;
+    background-image:url(/General/Images/Infopath/scenario_watermark.gif);
+    background-repeat:no-repeat;
+    background-position:100% 100%;
+}
+.ScenarioContentRight
+{
+    vertical-align:top;
+    text-align:center;
+    width:200px;
+    padding-top:0px;
+    
+    
+}

@@ -1,0 +1,89 @@
+SALT V4.1 Installer Notes:
+Any changes to stored procedures or other database scripts (When deleting a file from Database ensure the file is deleted!! [not in database folder]) :
+a) Go to solution/Database/CompleteScript and select Database.sql, Function.sql, Procedure.sql, Table.sql, Triggers.sql and View.sql - Right click then Check Out
+b) Navigate to D:\VS2003 Projects\SALT\Database then run RecreateDatabase.cmd
+c) Check in Database.sql, Function.sql, Procedure.sql, Table.sql, Triggers.sql and View.sql 
+
+Any changes to language translation (new entry):
+a) Open the Salt_LanguageDeveloperAssistant project and run
+b) Open allscripts.txt file - select all then delete and save
+c) Click on Generate All Scripts button at top of the Salt_LanguageDeveloperAssistant
+d) In allscripts.txt - select all then copy
+e) In the SALT project, past into Upgrade 4.1.0 to 4.1.1.sql file - goes between --********** Language Translation **********-- and ---********** End Language Translation **********-- comments - Note that it is a long script (around 25000 lines) - It probably needs to be placed as it's own script but haven't got around to doing that yet.
+
+Any changes to language translation (update):
+a) Open Salt_LanguageDeveloperAssistant project and run
+b) Make update as required
+c) In log.txt refresh and copy update script
+d) Append update script to end of Upgrade 4.1.0 to 4.1.1.sql file - goes between --**********Language Upgrade **********-- and ---********** End Language Upgrade **********--
+
+Any changes to .rdl files:
+a) Check in any changes
+b) These have to be emailed separately from the install package to Blake Dawson for them to upload into their Reporting Services
+
+Any other changes:
+a) Check in any changes prior to building install package
+
+Alter Installer Project Properties:
+a) Right click on SALT/Installer then click on Check Out
+b) Untick Items below solution SALT then scroll down and just tick Installer.vdproj
+c) In the Properties pane (usually below the solution explorer in VS 2003), click on ... in ProductCode and click on New Code button - click OK
+d) In the Properites pane (usually below the solution explorer in VS 2003), click on ... in UpgradeCode and click on New Code button - click OK
+e) If Blake Dawson have asked for the name of the installer to be changed then change the Name to the appropriate one in Properties - ProductName and Propertiens - Title
+f) Once changes made Right click on Salt/Installer then Check in
+
+* * * A L W A Y S * * * Get Latest Version:
+a) Right Click on Solution 'SALT' then click on Get Latest Verision (Recursive)
+b) Wait for get latest to occur. Sometimes for ErrorLog.xml will prompt to see if you want to replace an older version with the version from SourceSafe - Click on Yes then OK (need to do this if you change script files)
+
+Build installer:
+a) In VS2003 change in the toolbar the build type from Debug to Release
+b) Select Build, Build Solution
+c) Installer components will be built to D:\VS2003 Projects\SALT\Installer\Installer\Installer\Installer\Release
+
+Test installer:
+(this is to ensure that there are no errors with any of the database scripting or incompatabilities with scripting when applying to sql 2000 database)
+If you happen to get a windows system error about IP address conflict then perform the following
+Run up a command prompt
+type in ipconfig /renew (may need to to a couple of times until it works)
+
+a) On my machine have two local virtual machines W2K3IISTS and W2K3IISRS (located at W:\aaronpc\Virtual Machines)
+b) For both of these revert both to snapshot
+c) Once this has been done then copy the contents of D:\VS2003 Projects\SALT\Installer\Installer\Installer\Installer\Release across to W2K3IISTS\SaltInstaller
+d) Run Setup.exe - Click on Next, select everybody click on next, click on next
+e) When first Database Configuration Wizard displayed, click on next select or enter server W2K3IISTS, select user a specific user name and password, enter sa, w2k3iists, select or enter database a, click on Next
+f) Click on Yes when asked if want to upgrade to Salt 4.1.1
+g) Enter user name of salt_user, password of password and select No, The access permissions have already been granted then click on next
+h) Click on next and wait for the database to be configured. If no errors then good - if errors then need to fix.
+i) Click on OK
+j) Click on Close
+k) Reporting Database - select or enter W2K3IISRS for server, click on User a specific user name and password, enter sa, w2k3iisrs, select or entere database b, click on next
+l) Click on Yes when asked if want to upgrade to Salt 4.1.1
+m) Enter user name of salt_user, password of password and select No, The access permissions have already been granted then click on next
+n) Click on next and wait for the database to be configured. If no errors then good - if errors then need to fix.
+
+Need to repeat above but for blank Reporting Database so at step k perform the following:
+k) Reporting Database - select or enter W2K3IISRS for server, click on User a specific user name and password, enter sa, w2k3iisrs, select or entere database c, click on next
+l) Click on Yes when asked if want to install the database into an empty database
+m) Enter user name of salt_user, password of password and select No, The access permissions have already been granted then click on next
+n) enter username: c, password: c, confirm password: c - click on Next
+o) Click on next and wait for the database to be configured. If no errors then good - if errors then need to fix.
+
+Packaging up for Blake Dawson:
+a) Zip up the installer files in the Release folder (Setup.ini, Setup.exe, Installer.msi) and name the zip archive appropriately (eg: SALT4.1_25032009.zip)
+b) If needed, zip up any changed .rdl files 
+c) Copy the zipped installer files and zipped .rdl files to \\Lara\users\Clients\Blake Dawson\BD Technology\Salt\SALT Releases\4.1.0
+d) Copy the zipped installer files and zipped .rdl files to ftp://ftp.emerging.com.au/BDW/
+e) Let William/Yoppy know via email new installer available
+f) Wait for email with further "bugs" :)
+
+Other Notes:
+If you add another Upgrade script like say upgrade 4.1.1 to 4.2.0.sql then need to alter stuff in SALT\DatabaseConfiguration\App.config
+a) key ApplicationName - change to correct version "Salt 4.2.0"
+b) key NewVersionID - change to correct version "Salt 4.2.0"
+c) for each currentversion need to add a step to include the new upgrade script so following <Step Description="Upgrading 4.1.0 TO 4.1.1" Script="Upgrade 4.1.0 to 4.1.1.sql"></Step> need to add <Step Description="Upgrading 4.1.1 TO 4.2.0" Script="Upgrade 4.1.1 to 4.2.0.sql"></Step>
+d) Need to add a new currentversion so that the upgrade script will be run ie: add a currentversion id="Salt 4.1.1" and steps to run the upgrade script then views functions procedures etc.
+
+Extra note:
+Allocation of Quiz and Lesson points occurs int Components/InfoPath/DefaultLesson.cs and DefaultQuiz.cs (Lesson_End and Quiz_End)
+

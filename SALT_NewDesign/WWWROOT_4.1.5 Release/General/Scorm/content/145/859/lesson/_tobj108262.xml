@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>20</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Quiz - Module 3</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>10</numrandom>
+<passinggrade>80</passinggrade>
+<cancelfail>a003_results_failed.html</cancelfail>
+<passdone>a003_results_passed.html</passdone>
+<prevpage>a003_quiz_quiz_first_page.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>a003_quiz_module_3_q3_01.html</name>
+<question>
+<id>126990</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0031</var>
+<text>Who is NOT included in a PCBU's primary duty of care for the health and safety of workers?</text>
+<correctans>Visitors</correctans>
+<choices>Employees|Workers the PCBU engages|Workers whose work activities are influenced or directed by the PCBU|Visitors</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>a003_quiz_module_3_q3_02.html</name>
+<question>
+<id>126978</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0032</var>
+<text>What would a PCBU NOT be required to do to fulfil his or her primary duty of care to workers?</text>
+<correctans>Personally supervise workers while they work to ensure they are not exposed to health and safety risks</correctans>
+<choices>Provide any information, training or supervision necessary to protect workers from health and safety risks|Monitor the health of workers to prevent illness of injury to workers|Provide and maintain safe systems of work|Personally supervise workers while they work to ensure they are not exposed to health and safety risks</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>a003_quiz_module_3_q3_03.html</name>
+<question>
+<id>126970</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0033</var>
+<text>A PCBU has the duty to ensure the safety of customers who enter the workplace. True or false?</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>a003_quiz_module_3_q3_04.html</name>
+<question>
+<id>126958</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0034</var>
+<text>What steps should a PCBU perform to manage health and safety risks?</text>
+<correctans>Identify hazards, assess risk, control risk, review control measures</correctans>
+<choices>Identify hazards, assess risk, coordinate with HS representatives, review control measures|Identify hazards, assess risk, control risk, review control measures|Identify hazards, assess workers, control risk, review control measures|Ignore hazards, assess workers, control risk, review control measures</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>a003_quiz_module_3_q3_05.html</name>
+<question>
+<id>126946</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0035</var>
+<text>If it is not reasonably practicable to eliminate a WHS risk, what should a PCBU do?</text>
+<correctans>Use a hierarchy of control measures to minimise the risk</correctans>
+<choices>Use a hierarchy of control measures to minimise the risk|Hold workers liable for the duty to ensure health and safety|Transfer the duty to ensure health and safety to another party |Nothing, the PCBU must eliminate the WHS risk</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>a003_quiz_module_3_q3_06.html</name>
+<question>
+<id>126934</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQuestion_0036</var>
+<text>What is the last measure in the process of minimising risk?</text>
+<correctans>Provide personal protective equipment for use</correctans>
+<choices>Provide personal protective equipment for use|Isolating the hazard from people|Putting in place engineering controls|Implementing administrative actions (for example, work procedures)</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>a003_quiz_module_3_q3_07.html</name>
+<question>
+<id>126922</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQuestion_0037</var>
+<text>Which is true in relation to the assessment of risks? </text>
+<correctans>You should consider what types of harm could arise from each hazard</correctans>
+<choices>You should consider what types of harm could arise from each hazard|Past incidents should not be taken into account|You should not consider how many people are involved in a task|You should calculate the probability of harm by considering whether it is necessary to perform a task</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>a003_quiz_module_3_q3_08.html</name>
+<question>
+<id>126910</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQuestion_0038</var>
+<text>Complete the sentence. Control measures\u2026</text>
+<correctans>\u2026 should be supported with workplace training, instruction and information</correctans>
+<choices>\u2026 should be used only if a risk has been eliminated|\u2026 should be supported with workplace training, instruction and information|\u2026 do not involve any isolation of hazards|\u2026 should only be considered at one level</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>a003_quiz_module_3_q3_09.html</name>
+<question>
+<id>126898</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQuestion_0039</var>
+<text>When reviewing a control measure, you should consider whether\u2026</text>
+<correctans>All of the above</correctans>
+<choices>\u2026 the measure is operating effectively and as intended|\u2026 safety or supervision procedures are being followed|\u2026 the severity and frequency of incidents have decreased|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>a003_quiz_module_3_q3_10.html</name>
+<question>
+<id>126886</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQuestion_0040</var>
+<text>What is NOT a notifiable incident?</text>
+<correctans>New machinery is adopted that may increase health and safety risks to workers</correctans>
+<choices>An employee suffers burns to their arms, requiring immediate hospital treatment|New machinery is adopted that may increase health and safety risks to workers|A sub-contractor is killed by a falling object at the workplace|A chemical spillage occurs at the workplace, immediately putting workers' health and safety at risk</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>10</index>
+<name>a003_quiz_module_3_q3_11.html</name>
+<question>
+<id>126874</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 11</name>
+<var>VarQuestion_0041</var>
+<text>Complete the sentence. If a notifiable incident occurs at a workplace\u2026</text>
+<correctans>\u2026 the PCBU must contact the regulator immediately after becoming aware of it</correctans>
+<choices>\u2026 the PCBU must adopt new control measures for addressing health and safety risks|\u2026 there are no obligations on the PCBU unless someone was killed or seriously injured|\u2026 the PCBU must contact the regulator immediately after becoming aware of it|\u2026 the PCBU must ensure that activities at the workplace proceed as normal until an inspector has arrived</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>11</index>
+<name>a003_quiz_module_3_q3_12.html</name>
+<question>
+<id>126862</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 12</name>
+<var>VarQuestion_0042</var>
+<text>Which statement is false?</text>
+<correctans>Workers are responsible for learning how to treat themselves with first aid equipment</correctans>
+<choices>A PCBU must ensure that first aid equipment is provided to the workplace|Workers are responsible for learning how to treat themselves with first aid equipment|A PCBU must prepare and regularly test procedures to be followed in an emergency|Relevant workers must receive information, training and instruction about the planned emergency procedures</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>12</index>
+<name>a003_quiz_module_3_q3_13.html</name>
+<question>
+<id>126850</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 13</name>
+<var>VarQuestion_0043</var>
+<text>What must a PCBU ensure so that the physical environment of the workplace is safe?</text>
+<correctans>That there is adequate space for work to be performed without risk to health and safety</correctans>
+<choices>That the condition of the workplace enables people to move around with moderate risk to their health and safety|That the workplace is visually stimulating to create a more pleasant workplace and, as a result, avoid harm to health and safety|That there is adequate space for work to be performed without risk to health and safety|That the PCBU conducts hourly safety checks</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>13</index>
+<name>a003_quiz_module_3_q3_14.html</name>
+<question>
+<id>126838</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 14</name>
+<var>VarQuestion_0044</var>
+<text>Which statement is false? Any training provided to workers by the PCBU must\u2026</text>
+<correctans>\u2026 be shorter than two hours in duration</correctans>
+<choices>\u2026 consider the nature of the risks associated with the work |\u2026 consider the nature of work performed by the worker being trained |\u2026 be shorter than two hours in duration|\u2026 consider any control measures that have been implemented to manage risks</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>14</index>
+<name>a003_quiz_module_3_q3_15.html</name>
+<question>
+<id>126826</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 15</name>
+<var>VarQuestion_0045</var>
+<text>What additional duties do PCBUs have if they are involved in activities that include plant, substances or structures?</text>
+<correctans>All of the above</correctans>
+<choices>Designing and manufacturing items to operate without risks to health and safety|Carrying out testing or examination to make sure that items are without risk to health or safety|Taking steps to ensure items imported or supplied are without risk to health and safety|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

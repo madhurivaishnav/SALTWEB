@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>20</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Quiz - Terrorist Financing</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>10</numrandom>
+<passinggrade>80</passinggrade>
+<cancelfail>page121221.html</cancelfail>
+<passdone>page121202.html</passdone>
+<prevpage>page120976.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page121020.html</name>
+<question>
+<id>121022</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0003</var>
+<text>A terrorist act can include threats to commit prohibited acts. True or false?</text>
+<correctans>True</correctans>
+<choices>False|True</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page121028.html</name>
+<question>
+<id>121030</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0018</var>
+<text>Complete the sentence. For an act to be a terrorist act, it must cause or be likely to cause\u2026</text>
+<correctans>Any of the above</correctans>
+<choices>\u2026 serious risk to the health and safety of the public|\u2026 serious damage to property |\u2026 serious disruption or destruction of critical infrastructure such as the water supply|Any of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>page121040.html</name>
+<question>
+<id>121042</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0019</var>
+<text>Which of the following is NOT an offence?</text>
+<correctans>Collecting information on terrorist acts for academic purposes</correctans>
+<choices>Collecting or making documents likely to cause terrorist acts|Providing or receiving training connected with terrorist acts|Possessing things connected with terrorist acts|Collecting information on terrorist acts for academic purposes</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>page121052.html</name>
+<question>
+<id>121054</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0020</var>
+<text>Complete the sentence. An organisation is a terrorist organisation\u2026</text>
+<correctans>\u2026 if a court finds that it is either directly or indirectly engaged in preparing, planning or assisting in the doing of a terrorist act</correctans>
+<choices>\u2026 if a court finds that it is either directly or indirectly engaged in preparing, planning or assisting in the doing of a terrorist act|\u2026 only if it directly engages in planning, preparing or assisting in the doing of a terrorist act only|\u2026 if it unknowingly receives funds from a terrorist organisation, even if it had no way of knowing that it was doing so|\u2026 only if it has been blacklisted by the government</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>page121064.html</name>
+<question>
+<id>121066</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0021</var>
+<text>Fill in the blank. It is an offence to ____ a terrorist organisation.</text>
+<correctans>All of the above</correctans>
+<choices>\u2026 provide support and resources to \u2026|\u2026 acquire funds from or for \u2026|\u2026 associate with \u2026|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>page121076.html</name>
+<question>
+<id>121078</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQuestion_0022</var>
+<text>You will be committing an offence if you recklessly receive funds from a terrorist organisation, even if the organisation is not listed as a terrorist organisation by the government. True or false?</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>page121084.html</name>
+<question>
+<id>121086</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQuestion_0023</var>
+<text>Which of the following is a source of money for terrorists?</text>
+<correctans>All of the above</correctans>
+<choices>Commercial enterprises|State sponsors|Contributions |All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>page121096.html</name>
+<question>
+<id>121098</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQuestion_0024</var>
+<text>What is NOT true regarding the financing of terrorist organisations?</text>
+<correctans>Terrorist organisations finance their operations exclusively through commercial enterprises</correctans>
+<choices>Contributions to terrorist organisations can come from charities and religious organisations|Terrorist organisations may operate legitimate businesses to generate profit to finance their activities|There is evidence that other countries have been involved in supporting terrorist organisations|Terrorist organisations finance their operations exclusively through commercial enterprises</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>page121108.html</name>
+<question>
+<id>121110</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQuestion_0025</var>
+<text>Why is terrorist financing described as reverse money laundering?</text>
+<correctans>Because it can involve legitimate funds being made available to terrorists for use in criminal activity</correctans>
+<choices>Because laundered money is often used to finance terrorist activities|Because it can involve legitimate funds being made available to terrorists for use in criminal activity|Because terrorism generates revenue that can be used in money laundering|Because laundered money cannot be used to finance terrorism</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>page121120.html</name>
+<question>
+<id>121122</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQuestion_0026</var>
+<text>If terrorists rely on the proceeds of crime to finance their activities, they will often need to engage in money laundering. True or false?</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>10</index>
+<name>page121128.html</name>
+<question>
+<id>121130</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 11</name>
+<var>VarQuestion_0027</var>
+<text>Choose the best answer. Which money laundering technique can also be used in terrorist financing?</text>
+<correctans>All of the above</correctans>
+<choices>Structuring|Smuggling of high value items|Corporate financing techniques|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>11</index>
+<name>page121140.html</name>
+<question>
+<id>121142</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 12</name>
+<var>VarQuestion_0028</var>
+<text>How can you avoid being charged for being "reckless"?</text>
+<correctans>By checking both the Department of Foreign Affairs and Trade blacklist and the Criminal Code Regulations blacklist</correctans>
+<choices>By checking the Department of Foreign Affairs and Trade blacklist|By checking the Criminal Code Regulations blacklist of terrorist organisations|By checking both the Department of Foreign Affairs and Trade blacklist and the Criminal Code Regulations blacklist|By engaging a private investigator to monitor an organisation before giving it funds</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>12</index>
+<name>page121152.html</name>
+<question>
+<id>121154</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 13</name>
+<var>VarQuestion_0029</var>
+<text>It will be an offence for you or your organisation to deal with money if \u2026</text>
+<correctans>All the above</correctans>
+<choices>\u2026 you are reckless to the fact that the money is proceeds of crime|\u2026 you are negligent to the fact that the money is proceeds of crime|\u2026 you intend for the money to become an instrument of crime|All the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>13</index>
+<name>page121164.html</name>
+<question>
+<id>121166</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 14</name>
+<var>VarQuestion_0030</var>
+<text>What are freezable assets?</text>
+<correctans>These are blacklisted assets or assets owned by blacklisted people and organisations</correctans>
+<choices>These are blacklisted debts that occurred as a result of terrorist activity|These are blacklisted assets, however, they can be used or dealt with by approval of the AUSTRAC CEO|These are blacklisted assets or assets owned by blacklisted people and organisations|These are assets that get intercepted when overseas terrorist organisations try to enter them into Australia</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>14</index>
+<name>page121176.html</name>
+<question>
+<id>121178</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 15</name>
+<var>VarQuestion_0050</var>
+<text>Which statement is correct?</text>
+<correctans>It is an offence to receive, possess, conceal or dispose of money if it is reasonable to expect that the money is proceeds of crime </correctans>
+<choices>Only individuals can be held liable for terrorism financing offences|Only corporations can be held liable for terrorism financing offences|Penalties for money laundering offences only apply if terrorist financing actually took place|It is an offence to receive, possess, conceal or dispose of money if it is reasonable to expect that the money is proceeds of crime </choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

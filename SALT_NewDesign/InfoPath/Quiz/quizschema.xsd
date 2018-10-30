@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xsd:schema xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:attribute name="ID" type="requiredString"/>
+	<xsd:attribute name="IsActive" type="xsd:boolean"/>
+	<xsd:attribute name="Correct" type="xsd:boolean"/>
+	<xsd:attribute name="PageFilter" type="xsd:integer"/>
+	<xsd:element name="BDWInfoPathQuiz">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Summary"/>
+				<xsd:element ref="Introduction"/>
+				<xsd:element ref="Questions"/>
+				<xsd:element ref="Complete"/>
+			</xsd:sequence>
+			<xsd:anyAttribute processContents="lax" namespace="http://www.w3.org/XML/1998/namespace"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Summary">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="ContentType"/>
+				<xsd:element ref="UploadType"/>
+				<xsd:element ref="Title"/>
+				<xsd:element ref="CreatedBy"/>
+				<xsd:element ref="CreatedDate"/>
+				<xsd:element ref="LastModifiedBy"/>
+				<xsd:element ref="LastModifiedDate"/>
+			</xsd:sequence>
+			<xsd:attribute ref="ID"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="ContentType" type="requiredString"/>
+	<xsd:element name="UploadType" type="requiredString"/>
+	<xsd:element name="Title" type="requiredString"/>
+	<xsd:element name="CreatedBy" type="requiredString"/>
+	<xsd:element name="CreatedDate" type="xsd:dateTime"/>
+	<xsd:element name="LastModifiedBy" type="xsd:string"/>
+	<xsd:element name="LastModifiedDate" nillable="true" type="xsd:dateTime"/>
+	<xsd:element name="Introduction">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Page" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Page">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Title"/>
+				<xsd:element ref="PageElements"/>
+			</xsd:sequence>
+			<xsd:attribute ref="ID"/>
+			<xsd:attribute ref="IsActive"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="PageElements">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="PageElement" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="PageElement">
+		<xsd:complexType>
+			<xsd:choice>
+				<xsd:element ref="TextGraphic"/>
+				<xsd:element ref="TextBox"/>
+				<xsd:element ref="Graphic"/>
+				<xsd:element ref="SubmitAnswers"/>
+				<xsd:element ref="Question"/>
+			</xsd:choice>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="TextGraphic">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Description"/>
+				<xsd:element ref="Picture"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Description">
+		<xsd:complexType mixed="true">
+			<xsd:sequence>
+				<xsd:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/1999/xhtml" processContents="lax"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Picture">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Image"/>
+				<xsd:element ref="AltText"/>
+				<xsd:element ref="Align"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Image" type="xsd:base64Binary"/>
+	<xsd:element name="AltText" type="xsd:string"/>
+	<xsd:element name="Align" type="xsd:string"/>
+	<xsd:element name="TextBox">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Description"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Graphic">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Picture"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="SubmitAnswers">
+		<xsd:complexType>
+			<xsd:sequence/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Question">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Description"/>
+				<xsd:element ref="Answers"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Answers">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Answer" minOccurs="2" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Answer">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Description"/>
+			</xsd:sequence>
+			<xsd:attribute ref="ID"/>
+			<xsd:attribute ref="Correct"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Questions">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Page" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attribute ref="PageFilter"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Complete">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Page" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:simpleType name="requiredString">
+		<xsd:restriction base="xsd:string">
+			<xsd:minLength value="1"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="requiredAnyURI">
+		<xsd:restriction base="xsd:anyURI">
+			<xsd:minLength value="1"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+</xsd:schema>

@@ -1,0 +1,59 @@
+SET ANSI_NULLS OFF
+GO
+SET QUOTED_IDENTIFIER OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetActiveQuizIDByModuleID]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfGetActiveQuizIDByModuleID    Script Date: 20/04/2004 8:25:57 AM ******/
+
+
+/*
+Summary:
+user Defined Function that returns a quiz id based on the module id
+Returns:
+integer
+
+Called By:
+prcUser_GetQuizHistory
+Calls:
+
+Remarks:
+None
+Author:
+Peter Kneale
+Date Created: 3 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+*/
+
+CREATE  Function [udfGetActiveQuizIDByModuleID]
+(
+@ModuleID Integer		-- Module ID from which we want the active quiz
+)
+Returns int
+
+Begin
+
+Declare @retVal int
+
+set @retVal =
+(
+Select Top 1
+QuizID
+From
+tblQuiz
+Where
+ModuleID = @moduleID
+And
+Active = 1
+)
+
+Return @retVal
+End
+' 
+END
+GO

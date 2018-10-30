@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<xs:schema id="UnitTests" targetNamespace="http://tempuri.org/TestData.xsd" xmlns:mstns="http://tempuri.org/TestData.xsd" xmlns="http://tempuri.org/TestData.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="UnitTests" msdata:IsDataSet="true" msdata:Locale="en-AU" msdata:EnforceConstraints="False">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="BusinessServicesTest">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="User_cs" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Record" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="FirstName" type="xs:string" minOccurs="0" />
+                          <xs:element name="LastName" type="xs:string" minOccurs="0" />
+                          <xs:element name="UserName" type="xs:string" minOccurs="0" />
+                          <xs:element name="Password" type="xs:string" minOccurs="0" />
+                          <xs:element name="Email" type="xs:string" minOccurs="0" />
+                          <xs:element name="UserTypeID" type="xs:string" minOccurs="0" />
+                          <xs:element name="Active" type="xs:string" minOccurs="0" />
+                          <xs:element name="CreatedBy" type="xs:string" minOccurs="0" />
+                          <xs:element name="DateCreated" type="xs:string" minOccurs="0" />
+                          <xs:element name="DateUpdated" type="xs:string" minOccurs="0" />
+                          <xs:element name="LastLogin" type="xs:string" minOccurs="0" />
+                          <xs:element name="ExternalID" type="xs:string" minOccurs="0" />
+                          <xs:element name="OrganisationID" type="xs:string" minOccurs="0" />
+                          <xs:element name="UnitID" type="xs:string" minOccurs="0" />
+                          <xs:element name="UpdatedBy" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="UpdatedRecord" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="FirstName" type="xs:string" minOccurs="0" />
+                          <xs:element name="LastName" type="xs:string" minOccurs="0" />
+                          <xs:element name="UserName" type="xs:string" minOccurs="0" />
+                          <xs:element name="Password" type="xs:string" minOccurs="0" />
+                          <xs:element name="Email" type="xs:string" minOccurs="0" />
+                          <xs:element name="ExternalID" type="xs:string" minOccurs="0" />
+                          <xs:element name="OrganisationID" type="xs:string" minOccurs="0" />
+                          <xs:element name="UnitID" type="xs:string" minOccurs="0" />
+                          <xs:element name="UserTypeID" type="xs:string" minOccurs="0" />
+                          <xs:element name="Active" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

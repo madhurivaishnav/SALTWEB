@@ -1,0 +1,55 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReport_IncompleteUsers]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/*Summary:
+List of users that have not completed there training requirements
+
+Returns:
+Table (userID int)
+
+Called By:
+BusinessServices.GetCompletedUsersReport
+Calls:
+vwUserQuizStatus
+vwUserModuleAccess
+dbo.udfReport_IncompletUsers_logic
+Remarks:
+This function abstracts dbo.udfReport_IncompletUsers_logic and
+filters for the required rows
+
+Author:
+Stephen Kennedy-Clark
+Date Created: 18 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+--------------------
+-- SELECT * FROM dbo.udfReport_incompleteUsers(null)
+
+**/
+
+CREATE    function [udfReport_IncompleteUsers]()
+Returns table
+as
+Return
+SELECT DISTINCT
+vUMA.UserID
+, vUMA.CourseID
+FROM
+vwUserModuleAccess vUMA
+left outer join vwUserQuizStatus vUQS
+on vUQS.UserID = vUMA.UserID
+and vUQS.ModuleID = vUMA.ModuleID
+and vUQS.QuizStatusID = 2
+where
+vUQS.QuizStatusID is null -- (is null = incomplete)
+' 
+END
+GO

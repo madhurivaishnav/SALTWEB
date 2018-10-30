@@ -1,0 +1,706 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Lesson:Salt:Bdw" PIVersion="1.0.0.0" productVersion="11.0.8165" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="0939cbe9-6747-4d80-bfb9-560460370c56">
+  <Summary ID="ksrma01" GUID="fc702f0e-302b-48b1-87f2-593642a2930c">
+    <ContentType GUID="e596044d-01de-400d-b9b6-fbd2d1534b70">lesson</ContentType>
+    <UploadType GUID="c9eb1818-5786-4cf5-b9e2-eca42f30b521">correction</UploadType>
+    <Title GUID="2a98ae51-a1cd-4dd9-9e68-acf13ec01bba">Introduction to Environmental Law</Title>
+    <CreatedBy GUID="64162453-9223-46e6-8ffe-ae7f6aad1776">LTG Casual</CreatedBy>
+    <CreatedDate GUID="6c8baf3b-6736-4a85-b50f-77bfb8428f25">2006-10-10T10:11:53</CreatedDate>
+    <LastModifiedBy GUID="afda22d6-712e-47ec-9234-fbecfad1be59">ltgltomi</LastModifiedBy>
+    <LastModifiedDate GUID="4762cd46-6439-4655-b414-1e984e1a878d">2010-07-20T10:42:00</LastModifiedDate>
+  </Summary>
+  <Players GUID="efd5a18b-91dc-4564-a642-c96854f493bc">
+  </Players>
+  <Pages PageFilter="0" GUID="eb3e2c16-495d-43b3-a675-45ef6e3f1c64">
+    <Page ID="Page1" IsActive="true" GUID="c4532544-1cde-4460-bd86-8f5c45ddbe8f">
+      <IncludedInTOC GUID="9e9d4166-7345-4552-a6d0-695097b14451">false</IncludedInTOC>
+      <Title GUID="bdf2f2d4-444d-45e5-a48b-7fc53568de10">Introduction to Environmental Law</Title>
+      <PageElements GUID="52885ac5-3ca4-4a4f-8f54-359905c1bbb6">
+        <PageElement GUID="5e1700e5-9f8d-47f3-9f4e-d4e77af5cdf7">
+          <TextBox GUID="0c405352-4a19-41ea-95be-78a83b4de530"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="d133e658-edde-45cd-b0c1-67609c424930">
+    <div GUID="a8242c7d-247b-4b87-95da-4b934c03527d" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="383351cd-627a-4b93-abb0-5fba1f3dd323">
+        <span GUID="18665744-aa1c-4f5f-8203-053d068f2081">In this lesson you will move through a number of information pages which will give you an introduction to environmental law and in particular the Resource Management Act 1991 (the 'RMA').</span>
+      </font>
+    </div>
+    <div GUID="c17ff433-b87f-4b02-aecf-97ad1a38195a" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="4b7f40f6-dedd-43d1-b75e-55674a319c01">
+      </font> </div>
+    <div GUID="3fb7d193-c2de-456f-a5ed-a28cb681f2da" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="39c431e1-f43b-4f44-a963-800119660866">
+        <span GUID="41120ee3-af1d-4ea9-a0a6-3d9e257d9f86">You will also be presented with scenario pages, where a situation will be described involving a number of fictitious characters. You will be asked questions which will test your understanding of environmental law and the RMA.</span>
+      </font>
+    </div>
+    <div GUID="7f29f670-5ce1-4c76-b36d-064b27322b46" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="7eb455ae-4f4c-407b-ab67-751c1de32833">
+      </font> </div>
+    <div GUID="36182046-df82-4c03-806d-ab55c0e8fa66" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="d603c7fe-1673-4343-a7ae-179659b4af10">
+        <span GUID="ede3a605-f2e6-4744-83a7-159b571d0578">These questions are not scored and your response is not recorded. Use the feedback provided to consolidate what you have learned during this lesson.</span>
+      </font>
+    </div>
+    <div GUID="883be2ad-2dcd-4acd-b75f-829e557776bc" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="ab016c9d-3d5f-4aec-8509-6896bee22bd8">
+      </font> </div>
+    <div GUID="6ec470d3-3f94-4799-af16-c7021ef51801" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="0b52cb90-e17f-4f85-844e-e0b6d8bcb6dd">
+        <span GUID="c70327f0-385f-450d-bab1-d7ec47d44b2d">Click on the <strong GUID="c136e0eb-7f6a-40c2-809e-b2d8e59baf79">Quick Facts </strong>menu button above to view a summary of points covered in the lesson.</span>
+      </font>
+    </div>
+    <div GUID="ee2877cd-feb6-4b2a-9fcf-916d585e399c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="9de8cd91-2588-4b7d-8f66-222040e31244">
+        <span GUID="ff57ddd6-5801-488e-a977-e87272f7eba2">
+        </span>
+      </font> </div>
+    <div GUID="bf9d2fa7-5ba4-4b38-b30b-88484a60126d" xmlns="http://www.w3.org/1999/xhtml">
+      <font color="black" GUID="437130e3-2ffb-4e90-a8ac-db14446e4b0b">
+        <span GUID="8b503f81-9770-447c-bc57-eb049b0c166c">
+          <font face="Arial" GUID="28be1ee2-dc20-4962-a1a2-3c434979b956">Click the <font size="4" GUID="276f4232-fcf6-49d5-a303-ce199da1f9ac">►</font> below to continue, or select a topic from the Table of Contents list.</font>
+        </span>
+      </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="52cd4e34-9be9-4164-9c8f-10b6f3874490">
+          <TOC GUID="e9de66db-82c3-4e3d-a88f-f850ca782cc4"> <![CDATA[<div class="TableOfContents_Main">
+  <div class="TableOfContentsTitle">Table of Contents</div>
+  <ul class="TableOfContentsList">
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page2')">Learning objectives</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page3')">Hypothetical situation</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page4')">What is environmental law?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page5')">Why should we take our environmental law obligations seriously?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page6')">Examples of where resource consents are required</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page7')">Scenario 1</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page8')">What are the sources of environmental law?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page9')">Liability under the RMA</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page10')">Scenario 2</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page11')">Consequences of breaching the RMA</A>
+  </ul>
+</div>]]></TOC>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="be1fb677-79b6-4ccf-970d-939e2059814d">
+      <IncludedInTOC GUID="6276b99b-6c0b-42a2-b4b4-634166a6b953">true</IncludedInTOC>
+      <Title GUID="4c6e97c0-40aa-4e9a-baa7-6c736cad89c1">Learning objectives</Title>
+      <PageElements GUID="9d61ec2d-2a53-47c6-9c2f-58585c2c63fd">
+        <PageElement GUID="8e821478-5b6c-4a29-ac6f-dda42740f435">
+          <Graphic GUID="2df1921a-ec6f-4de7-a7f8-62b091241593"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/d7645c28-4a11-45ac-89d1-c5d31170cb66.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="3ad1b88c-6d1c-4918-9d1c-6d83813645ed">
+          <TextBox GUID="089ec878-c5d3-4bf2-b2f2-3202a5e9ae0f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="20dcd722-a285-419a-ab00-d0e7db6d0d01">
+    <div GUID="01038465-2c53-4fde-8f17-997b8c726806" xmlns="http://www.w3.org/1999/xhtml">This lesson will give you an introduction to environmental law and the Resource Management Act 1991 (the 'RMA').</div>
+    <div GUID="70346cd4-a1f3-452e-b11b-8a01eded82f0" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="907e2acd-0913-4407-bd49-f27dfb6d1d64" xmlns="http://www.w3.org/1999/xhtml">You should complete the lesson in about <strong GUID="211bcae2-3bfd-4cad-b753-b4ef8e74d4f7">15 minutes</strong>. </div>
+    <div GUID="32a834de-cb02-4e04-8680-00f57d4bf3e4" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="5f6918b3-b1a8-4ad9-b480-d0066b819a83" xmlns="http://www.w3.org/1999/xhtml">You will learn: </div>
+    <div GUID="08c49e57-1527-4719-a0b2-958eb66a56cc" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="8415f6ae-6c59-4736-89b7-577193240463" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="7a4db8d2-1499-4010-af8e-7ab286efd284">What is environmental law?</li>
+    </ul>
+    <div GUID="e9512963-d701-418c-b609-f6f50479d3d4" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d812092c-27f5-4ae9-9742-5ec9d5aa0b7d" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="320fba2a-1af5-48ea-98de-1c515819d775">What is the purpose of the RMA?</li>
+    </ul>
+    <div GUID="42ae9036-279f-4086-99fe-3cefae7be3cc" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="1ca0666c-7f74-4c9c-ad18-4994599abf83" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="ea160915-7d23-4f90-8efd-d0fc2b53bbae">Why should we take our environmental obligations seriously?</li>
+    </ul>
+    <div GUID="64c04129-4926-4f71-900b-38d54d0cc377" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="49b74c9b-59cb-4013-b83c-bdd594e03b9e" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="1e445bf0-9a09-414e-8234-4b8d6f053c69">Who is liable under the RMA?</li>
+    </ul>
+    <div GUID="24c01126-0f9f-4301-98f1-7635bc3df241" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="01bfa7fc-13ab-46b4-9476-1cf2725fef73" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="ffa74de6-e9c2-4836-b28e-c24a8b75de28">What happens if the RMA is breached?</li>
+    </ul>
+    <div GUID="b6e8d014-5ddb-4b16-b10a-b9809878342e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="72254b8f-3ac8-45e9-8892-ee581fae0ac4" xmlns="http://www.w3.org/1999/xhtml">The purpose of this generic resource management training program is to alert users to some of the issues which may arise in their industry or area of operations. It does not contain targeted legal advice or a comprehensive tailored resource management compliance programme. You should seek specialist resource management advice on particular issues of concern.</div>
+    <div GUID="9767c980-6918-436b-b051-54cbc4c34774" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="d49c65d3-6d11-4dc4-9892-8d3dfd1569b8" xmlns="http://www.w3.org/1999/xhtml">To get started, please click on the <font face="Times New Roman" size="4" GUID="94bcb9a5-ee4a-4a07-9972-00ddd9ca5e52">►</font> button below.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="ab86f939-a6a8-436a-8ed7-379490b068e7">
+      <IncludedInTOC GUID="dd277042-0083-424f-95c7-ab2c92436010">true</IncludedInTOC>
+      <Title GUID="8d7d8402-79e4-4da3-9d5d-9a83036ea62a">Hypothetical situation</Title>
+      <PageElements GUID="9ea3834c-48e0-4c80-9620-215ad0c4f8e5">
+        <PageElement GUID="87f701d3-c430-4302-9f6c-21c3d7b6607a">
+          <Graphic GUID="93146d5f-9820-4e9e-8fb8-cdb2da1d265f"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/944d1fcd-32d2-478d-abd0-6ea3d10c7681.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="01c68f81-3253-4162-b999-f669415f5ba9">
+          <TextBox GUID="133cdcaa-4911-4702-8ff3-572a83a49970"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="8783d9b9-910b-48f7-b1ed-ee9b5aec280a">
+    <div GUID="ae8ed2b9-0d37-44da-b2a9-eb3e82209d96" xmlns="http://www.w3.org/1999/xhtml">ABC Limited is constructing a new motorway linking the outer suburbs to the State highway. In the first stage of construction the company contracts a bulldozer to carry out earthworks. The bulldozer breaks down, and an inspection reveals that the fuel has been contaminated. In order to refuel the bulldozer, the driver pumps the fuel into a nearby drain. The driver does not discuss this decision with the site manager.</div>
+    <div GUID="5ac5e7c8-fbe4-41df-8911-5f6fd1b1b288" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="454487fc-5e2c-4856-9230-5a34763382a0" xmlns="http://www.w3.org/1999/xhtml">ABC Limited does not hold any consents, permits or licences for these works. <br GUID="fbe3897a-a57a-4f95-942e-dc05e8722a9b"></div>
+    <div GUID="10b915ba-3851-4d78-b5fa-6cd253d00109" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="abb5b2c9-a527-4546-9865-69f9cdaabc3b">Consider this scenario while reading the next pages...</strong>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="6878c67d-bfe5-4fa6-b2ad-62d53ade7fcd">
+      <IncludedInTOC GUID="3a3d25ef-fdde-43e5-a73e-4eb2f4ae7b7a">true</IncludedInTOC>
+      <Title GUID="ca555157-4389-4aa8-a3a2-27c211af59a4">What is environmental law?</Title>
+      <PageElements GUID="6a3e2df2-c6e1-44fb-80f2-a5a29775b9a8">
+        <PageElement GUID="dd50fe0b-67a8-42fa-a4ab-970ed252af53">
+          <Graphic GUID="d9242cd8-8601-4b49-b744-369e8de09c4c"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/41530fe6-8a17-4e76-a8d5-d9321e49c308.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="b666f77c-04bb-42b0-8868-2104ef8f954b">
+          <TextBox GUID="81daef18-a569-4d31-87ab-b3f7a3f30213"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="2ce13ebb-2f2f-489b-b4bb-e9cd0d1eb245">
+    <div GUID="154be37b-11a7-4ec8-8712-7131435c3394" xmlns="http://www.w3.org/1999/xhtml">Environmental law is the general name given for many different laws that protect the environment and regulate the use of natural and physical resources.  </div>
+    <div GUID="ce627f31-0a5a-41b1-ac26-7157a4d424fc" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="60783265-d497-45b9-a8c6-5ba062127558" xmlns="http://www.w3.org/1999/xhtml">The key legislation is the Resource Management Act 1991 ('RMA'). </div>
+    <div GUID="558ab98c-cb25-42f2-a6c8-99d9944bfbdd" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="de167fad-edc7-45cd-89ad-72e883f7c5a0" xmlns="http://www.w3.org/1999/xhtml">The RMA came into force in October 1991 and was a major overhaul of town planning and environmental law.  It is an ‘effects based’ statute, i.e. it focuses on managing the environmental impacts or effects of activities rather than the effects themselves.  This contrasts with the zone based approach of previous Town and Country Planning Acts.  The Act seeks to enable the use, development and protection of resources, and will not intervene unless a proposed or existing activity is likely to cause unacceptable environmental effects.</div>
+    <div GUID="43d6b508-c1c4-46eb-9f9f-a7ed23c8c0cb" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="2e73cd3e-1877-4150-8a2b-32df8c54af88" xmlns="http://www.w3.org/1999/xhtml">The purpose of the RMA is to promote sustainable management of resources by: </div>
+    <div GUID="0d732989-f12f-4e29-b824-4aa74052f8ad" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="819f060b-aa1a-42bb-bb77-311c3296850a" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="0cf85357-4054-4897-89a6-ff83739e9b72">managing the use, development and protection of resources in a way, or at a rate, which enables people and communities to provide for their social, economic and cultural well being, and for their health and safety </li>
+    </ul>
+    <div GUID="c28abe91-e63c-4aae-b3ff-89629a8fce91" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="be2d309c-9ebb-4cf3-a166-d94fc32ddcbb" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="fab31ae2-9a9f-40f9-9f10-dc195e7befa6">sustaining the potential of resources to meet the reasonably foreseeable needs of future generations </li>
+    </ul>
+    <div GUID="7505e661-1c90-4d6b-9896-e3dccea4cd4a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c10fe1d7-b7e0-4e40-94d8-6dba01025e8a" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="db57f544-cae0-43fe-9213-92fbeb0c3ec2">safeguarding the life supporting capacity of air, water, soil, and ecosystems </li>
+    </ul>
+    <div GUID="11f57557-7185-4c8a-8bae-a8139b72f503" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="0dfb2432-6364-46c8-97ec-5cf392d13feb" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="2f5ce984-3aac-43c6-9ea3-131b68679538">avoiding, remedying or mitigating any adverse effects of activities on the environment. </li>
+    </ul>
+    <div GUID="3495b6de-c274-49d5-b694-39351554a8f4" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="3d19c82a-dd3b-4c93-a9d4-a62df6cd7b1e" xmlns="http://www.w3.org/1999/xhtml">The 'environment', which the RMA protects, is not simply the natural world. It includes people and communities, amenity values (i.e. the pleasantness or aesthetic coherence of an area), social, economic and cultural matters. It also includes ecosystems and their essential parts, which includes community activities and beliefs.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="232a783a-393e-4030-961d-eddc469dd9d2">
+      <IncludedInTOC GUID="98963215-caf2-46ee-bcf6-ae1169777e8f">true</IncludedInTOC>
+      <Title GUID="309ada63-378b-43cb-a1c4-3a31776b56c5">Why should we take our environmental law obligations seriously?</Title>
+      <PageElements GUID="0d51b7e0-f5a2-485e-9fd0-4b50f23b3c3b">
+        <PageElement GUID="d48a4905-1cf5-47fc-8334-a2e030e5965d">
+          <Graphic GUID="fb3daa1f-be20-4a03-b3a0-a432322d785c"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/2d0d551c-f0fe-4590-a4e6-95ae278a5c64.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="e1b4f090-5141-4ed9-a85b-4f7c26375e89">
+          <TextBox GUID="bfa90e7e-a46f-4950-b04f-bea0050d0cc8"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="57bee10f-d013-484e-8a2c-03d2ed43478f">
+    <div GUID="e43418dc-d80a-428a-aae7-a63e555a884e" xmlns="http://www.w3.org/1999/xhtml">Complying with environmental laws is good business practice and the right thing to do, to protect and preserve the environment for future generations.<br GUID="53a852b0-e5e7-4aaa-8840-950c471e912f"> <br GUID="de1e62d5-207d-447f-af59-3c81bec472c4">Non-compliance with the RMA also poses serious legal and financial risks for an organisation and its individuals. </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="13868d47-0790-41b7-ad19-556910cc2858">
+          <ExtraInfo GUID="1da9e083-4891-47fa-8802-9e0c0e8948ca"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('65a40dbb-92ca-4ca2-aaca-d5f7ba9767e8');">Click here for an example of a case where a company manager has been imprisoned for an environmental offence.</A>
+      <div ID="Content_65a40dbb-92ca-4ca2-aaca-d5f7ba9767e8" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="12584693-9142-475b-84c2-35954fdb28d1">
+                <div GUID="21b89aa8-17ce-48f6-9191-dc502966b3d6" xmlns="http://www.w3.org/1999/xhtml">
+                  <em GUID="8e2272e7-0ea3-4054-b253-da197cb0e2fa">R v Conway </em>[2005] NZRMA 274</div>
+                <div GUID="ad2d5c3b-ff49-4b33-a022-1e1971fa2c39" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="13909f47-bcdf-49fb-acf0-38a470724102" xmlns="http://www.w3.org/1999/xhtml">Mr Conway had been managing the operations of a metal scrap yard company on a property in South Auckland. Although it was necessary to obtain resource consent from the Manukau City Council to operate such a scrap yard, no such consent was ever obtained.  </div>
+                <div GUID="36b9c63b-d520-41e5-abfd-2d50434c876c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="ac821d76-1313-44d0-a186-55ae57a51248" xmlns="http://www.w3.org/1999/xhtml">Over a period of time scrap vehicles had been handled in a way which resulted in the discharge of contaminants into the nearby Tamaki Estuary and onto the land itself. No resource consent had been obtained for the discharge of contaminants.</div>
+                <div GUID="1cb04e98-be01-4b17-bd36-462430acd991" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="62b70357-44f6-44f0-a5e5-b01daedc1b57" xmlns="http://www.w3.org/1999/xhtml">In addition, Mr Conway had instructed an employee to puncture a large number of 200 litre drums containing oil and solvented paint washings. Their contents were discharged onto the ground near the estuary and a complaint was lodged at council. </div>
+                <div GUID="737ea0fb-6589-4f32-8442-8ae411510263" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="b506246c-d679-4c4b-9df9-79db01bc8e92" xmlns="http://www.w3.org/1999/xhtml">The council officers, on visiting the site, served abatement notices on Mr Conway and the two companies involved, requiring that the discharge problems be remedied. Subsequent visits revealed that very little was being done to remedy the issues, so enforcement orders were sought from the Environment Court. </div>
+                <div GUID="26e479f4-f07a-4e93-8c15-a9fc65e6f41a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="c2a70fc2-0047-430e-a747-46ad6fb2906e" xmlns="http://www.w3.org/1999/xhtml">The enforcement orders were breached and all three parties pleaded guilty when the matter came before the Court. </div>
+                <div GUID="64f7044f-2a38-48d5-b46b-6ddcd9bba287" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="768fc30c-964e-49c9-895e-23ec091e2fdf" xmlns="http://www.w3.org/1999/xhtml">A prison sentence of three months was imposed on Mr Conway for his part in the offences.</div>
+                <div GUID="b88a6296-a12a-4d72-a57c-b849fca2d360" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="16e02830-a693-4c0f-9b24-5a069ebc192f" xmlns="http://www.w3.org/1999/xhtml">The Court noted that although the actual harm caused on the environment was moderate, the defendants’ disregard of abatement notices and enforcement orders justified the need for such  firm sentences. In addition, in respect of the imprisonment of Mr Conway, the Court also stressed the need to deter such illegal actions where an offender may believe that they are only undertaking an economic risk.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('65a40dbb-92ca-4ca2-aaca-d5f7ba9767e8');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="f8e9a150-b875-45dd-a35d-c48d13b68726">
+          <TextBox GUID="5a2ecaaa-e38a-4f21-b0b5-8fa599f5bd0e"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="e5a636f5-3560-44ff-bdf9-098df19eec45">It is not just the company at risk: directors, managers, occupiers, employees and contractors can all be liable for environmental offences. Liability under the RMA is further explained, later in this lesson.</Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="243c4997-c052-4410-94b4-19f15ab4867d">
+      <IncludedInTOC GUID="8eb6acbe-6612-4080-8816-f852abab9048">true</IncludedInTOC>
+      <Title GUID="87c5087c-0bfb-4ba0-a426-6d582466b130">Examples of where resource consents are required</Title>
+      <PageElements GUID="f647c676-b6ea-4aa3-94ed-745867430643">
+        <PageElement GUID="4e954894-c2cd-44cc-a8c1-f97c1a8be7ff">
+          <Graphic GUID="98acc57e-d532-4bf9-bbc9-0f42a4811f92"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/fb41e8ec-511f-4a39-abbf-2c64e31ec7ab.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="59c78ad7-3d7f-4ab6-aa9c-0e4f351e2219">
+          <TextBox GUID="46c52592-e36e-46cb-8fb8-8c9bd173fc55"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="4115d1b5-dd21-4763-938c-c5ad4ae0b6b5">
+    <div GUID="f41c95c1-7366-401c-94bf-70f6f885d3ef" xmlns="http://www.w3.org/1999/xhtml">Generally, a resource consent will be required for an activity that might have a significant impact on the environment.  For example, the following activities will usually require one or more consents:</div>
+    <div GUID="2af00b3d-d430-44d3-bd8f-d99759551797" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="3a24b350-d647-4027-b1c9-da655fa5789b" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="3e989a7c-382e-45ea-ae11-745377000501">new major projects that are likely to have a significant impact on the environment (e.g. lakes, rivers or harbours) </li>
+    </ul>
+    <div GUID="ca12c35e-4035-4c42-a38a-af1106a23b39" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="0879c5f1-ddb0-4e78-9ad5-a35c7851694d" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="e7c78759-4f8b-4b41-b6ef-63e1d8c93838">discharging substances into water, including soil, sand, dust and cement and wastewater</li>
+    </ul>
+    <div GUID="0a9a6a71-b82b-46ca-8c9d-0d955d8dd86e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="1f5b8a3a-261b-4b92-96e6-65a2e24c2333" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="578d02bd-11e2-4525-a7c7-2553f6c25b2f">discharging substances onto land, including treated wastewater or recycled water </li>
+    </ul>
+    <div GUID="2cc411c9-8d51-40a0-9a41-b32945f44e67" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="eecf4ed9-2d1b-4c05-8765-4d26783efc55" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="b9dd5aa7-a938-4a6f-95cd-320592f4cb73">releasing substances into air, including smoke, dust and odour </li>
+    </ul>
+    <div GUID="b19b0a48-eb03-4fb7-ad8a-01d24c25f54f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="2abbd70a-2ec6-4549-8e32-b455e547e4d6" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="182e280c-00dc-4181-8b3c-6539bab31aea">excessive noise, such as noise from industrial equipment or blasting </li>
+    </ul>
+    <div GUID="884aef7b-df4d-4d4c-bd86-5da7df143c43" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="6a9d2a58-6912-4786-9e6c-ad9af32aac73" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="a6926d9d-6983-4c28-b5e6-6d8352db16c4">clearing land, including removal of individual trees or plants </li>
+    </ul>
+    <div GUID="1c1eb67c-0523-4a1c-96e9-f43e2c95c447" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="f8f81af8-fc9d-4afd-8d71-e438743c638e" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="5abc4a98-31d5-4486-948e-beef378b0cec">exploring for minerals, oil and gas </li>
+    </ul>
+    <div GUID="2a63adbb-73e5-4868-8369-d50c154b6ee9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c8841e84-ed7a-46c9-8ae3-b564716f4a10" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="ff3a44e2-8ed4-445f-b7fe-ad549e8f4e2b">constructing and operating mines, quarries and processing plants </li>
+    </ul>
+    <div GUID="0866521b-5c0c-413c-a047-956105bd24a1" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="024cf6ba-e7d8-463a-b4ec-82de67a41fd8" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="0c9b24dd-2d94-424d-af16-097e16f75005">transporting and disposing of industrial waste </li>
+    </ul>
+    <div GUID="836b39e6-3d14-41ac-90d7-be7bd183a27a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="cc24e6e9-43c1-4560-9c3b-eeed81ed0071" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="e349f006-c0ad-4c2f-831d-fb7913c00797">transporting, storing and disposing of hazardous chemicals and substances (e.g. explosive, poisonous or radioactive substances including asbestos) </li>
+    </ul>
+    <div GUID="af7a9c94-1c94-4fd6-9ec9-b43628112a08" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="58a8c3cc-a011-4589-9bc3-b3034af5c14e" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="b6558b48-c857-4434-b0a8-b94c0905591e">disturbing or destroying cultural artefacts, relics and sites of significance to Maori, e.g. ancestral lands or sites of archaeological significance </li>
+    </ul>
+    <div GUID="71871203-ec0b-4239-91a9-784127dc8c1d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="af7b9417-558a-4d45-854c-27823660b6e0" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="b382fc12-b9d0-411b-ad75-aad46644d5cc">constructing, altering or demolishing a building and using land for particular purposes </li>
+    </ul>
+    <div GUID="d1cb8231-c5b6-46c3-afa2-1e9228d66de7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="5f102ec0-ff79-440d-8633-288b35854462" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="3105fa2a-e478-480f-9cc6-b0c3fba75cae">disturbing or destroying European heritage.</li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="159115ae-3030-48d6-af21-393dd907ec8f">
+      <IncludedInTOC GUID="57177fe2-d236-4b96-9306-9d73bd52cbd0">true</IncludedInTOC>
+      <Title GUID="260b70d3-3fa2-4ca6-ae03-82fdf4c4a078">Scenario 1</Title>
+      <PageElements GUID="5a337e39-374a-4bd9-a95d-0d6c93678ce5">
+        <PageElement GUID="b832998b-c360-4851-9813-90d6029e1f52">
+          <Graphic GUID="b33c2d6a-8836-44ed-971e-c5124733c68e"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/2464b263-e742-4e6d-9bfc-239e0d40704a.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="cfd988d7-d50b-40a2-97b7-380ce4e026da">
+          <TextBox GUID="560c7da8-4740-4f14-9cf7-6bd76bdcb89b"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="8abc9269-3e45-4a41-a0af-a1cc4bd16aba">Do you remember the hypothetical situation?</Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="cf159154-c97a-468a-98a3-3625db739fe2">
+          <ExtraInfo GUID="f0130e30-83c3-497b-bc2c-6c958b15c75c"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">If not, click here for a reminder and then try answering the question below</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('2b43aabf-74fa-4e64-b439-481346488f05');">Hypothetical situation</A>
+      <div ID="Content_2b43aabf-74fa-4e64-b439-481346488f05" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="ffd92a8b-f48a-47e0-b9ca-b4912d51ab1a">
+                <div GUID="86d882c3-67b9-4184-b406-6e7bea0ae062" xmlns="http://www.w3.org/1999/xhtml">
+                  <div GUID="c7b33b54-9fa1-4de7-9f7f-cb5417879a67">ABC Limited is constructing a new motorway linking the outer suburbs to the State highway. In the first stage of construction the company contracts a bulldozer to carry out earthworks. The bulldozer breaks down, and an inspection reveals that the fuel has been contaminated. In order to refuel the bulldozer, the driver pumps the fuel into a nearby drain. The driver does not discuss this decision with the site manager.</div>
+                  <div GUID="20007fbd-91be-449f-840e-f80e9e99e979"> </div>
+                  <div GUID="c2c6d78b-67fa-449d-8aed-793435fe073a">ABC Limited does not hold any consents, permits or licences for these works.<br GUID="b14a62c2-e80d-4923-aae4-ff3e0c6e5c34"></div>
+                </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('2b43aabf-74fa-4e64-b439-481346488f05');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="34f12163-e2de-4470-a259-e4d0b6009ace">
+          <MultiChoiceQA GUID="c40e045e-69a4-4533-9732-9b9d7138b7cc"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="06a63a98-d830-45c8-8912-191c705ae9f4">
+      <div GUID="b1aaf567-eeb1-4111-9128-a62c8366d4e4" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="84ad8756-a5ad-415f-919a-f519c5be0011">Has the bulldozer driver breached any environmental laws?</strong>
+      </div>
+      <div GUID="6a9f5ff5-419a-44cd-85c6-9aa354a16382" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q06a63a98-d830-45c8-8912-191c705ae9f4" ID="Accbcce52-fe73-4da3-9820-074b44f4958d" onClick="ShowAnswer('ccbcce52-fe73-4da3-9820-074b44f4958d','true');">
+      <AnswerText GUID="821f0138-c055-4f86-9a80-31bae6efd1f7">Yes</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="ccbcce52-fe73-4da3-9820-074b44f4958d">
+      <Feedback GUID="73edf0df-4a3a-42e5-afd6-2e38c34e229d">
+        <div GUID="65fff4bd-44e7-4355-88f6-313518a17b57" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="de336e18-7d57-4665-845b-d184f595767b">That is correct!  </strong>
+        </div>
+        <div GUID="042597d1-64d4-4ac8-9982-f0b4cc428eba" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="a559ad72-eaad-4fc0-b99d-e50df8035372" xmlns="http://www.w3.org/1999/xhtml">To dispose of the contaminated fuel lawfully, the bulldozer driver should have given it to a licensed waste contractor in accordance with the waste disposal procedures that apply on site.  </div>
+        <div GUID="0e20045f-850b-4223-8768-10f6781a4a29" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="e9e8e6c9-1fdd-4adb-aed2-7b91f0fcea5d" xmlns="http://www.w3.org/1999/xhtml">For more information on disposal of contaminated fuel click on the link below.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q06a63a98-d830-45c8-8912-191c705ae9f4" ID="Ae5eef97a-d81c-4685-85e5-668286f82082" onClick="ShowAnswer('e5eef97a-d81c-4685-85e5-668286f82082','false');">
+      <AnswerText GUID="2375a033-c266-4dae-a4d0-3ac5bb412837">No</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="e5eef97a-d81c-4685-85e5-668286f82082">
+      <Feedback GUID="2e1e83cf-d5fd-479f-b41f-1559d1d8828d">
+        <div GUID="cfc273ac-5ae3-4939-8e9c-854aa8d521c9" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="7073c397-50b9-4fcf-8723-771d8250bb28">That is incorrect.</strong>
+        </div>
+        <div GUID="c13ce199-cafe-4975-8dbb-9f677cd87677" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="f52bd711-a89b-4594-9a8d-baff1ababe57">
+          </strong> </div>
+        <div GUID="2478f5a0-ebdb-4402-92bd-b9cb066150e0" xmlns="http://www.w3.org/1999/xhtml">To dispose of the contaminated fuel lawfully, the bulldozer driver should have given it to a licensed waste contractor in accordance with the waste disposal procedures that apply on site.  </div>
+        <div GUID="a87fb665-931f-439e-98e9-afae574bd838" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="b21d75f4-235a-4f2a-a455-bd21ba1e081d" xmlns="http://www.w3.org/1999/xhtml">For more information on disposal of contaminated fuel click on the link below.</div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+        <PageElement GUID="75d8fc27-6092-4980-8f23-0c9af711e5b6">
+          <ExtraInfo GUID="4a78b528-9d0e-405f-a894-e6fb399b54ab"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('54557645-b408-4da2-80b9-d0db64a37d68');">Click here for more information on the disposal of contaminated fuel</A>
+      <div ID="Content_54557645-b408-4da2-80b9-d0db64a37d68" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="5745d5b8-a28d-4cca-9358-c6205fea1acb">
+                <div GUID="a897a5a3-0a2f-4878-adec-e205311ed9bd" xmlns="http://www.w3.org/1999/xhtml">Grease, oil, fuel, or other pollutants, should never be put down stormwater drains, as they run into creeks, rivers, beaches, bays and harbours, polluting the water. It is also generally an offence to put pollutants in stormwater drains, or to leave pollutants in a place where they can be washed or blown into drains.  <br GUID="9bd0f13b-4d91-4e58-9556-5ebe5057664c"> <br GUID="08217de4-e3bf-446d-816c-d7fea6dd1fc3">These actions could be punished with an infringement notice, or might even attract Court prosecution. The public often report suspicious spills and environmental damage to the relevant regional or district council for investigation. Organisations are also often required by their resource consent conditions to analyse drains on or near their sites to identify harmful materials.</div>
+                <div GUID="b4806276-09a4-4d16-8e19-a607fffaa114" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="7bbb31b7-b93c-4dba-be95-3d71e4e9b2bd" xmlns="http://www.w3.org/1999/xhtml">The contractor who employs the bulldozer driver or the organisation engaging the contractor should have waste disposal procedures which (depending on the type of waste created on site) would normally include arrangements with licensed waste contractors. The organisation should have ensured it and/or the contractor had a waste disposal procedure in place.  Both the organisation and the contractor should have ensured the bulldozer driver was aware of the waste disposal procedure for the site. </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('54557645-b408-4da2-80b9-d0db64a37d68');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="2e56b722-a163-4a38-8a3f-5a872ccc7351">
+      <IncludedInTOC GUID="f182ef04-69eb-4d54-b528-931c80b7e4fd">true</IncludedInTOC>
+      <Title GUID="ef321031-d53e-48a9-b8db-293228930546">What are the sources of environmental law?</Title>
+      <PageElements GUID="8d1eeaeb-c64b-4b68-8de5-d3d4660e827f">
+        <PageElement GUID="036e3542-23f6-42d2-8f2b-0b789560548f">
+          <Graphic GUID="83a42b94-077c-4fbb-ac29-b60702f835bc"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/25789f4f-c4e4-4c40-89b5-f758df4db546.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="10c8ac6e-e47a-4afb-9e25-6b4bbcaa2018">
+          <TextBox GUID="07d461f6-9b0e-4baa-98db-e6593d6deb86"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="6780fd44-85d0-4d04-b13f-cdaca6b47d41">
+    <div GUID="c9ea51d9-7142-4c27-8a72-09c65e584af7" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="767d8884-50a2-4200-be85-d41e0ed5d701">Legislation</strong>
+      <br GUID="84fc9706-660d-40c2-8cfd-0db23b053e69">Legislation (such as the RMA) sets out the primary statutory obligations and what penalties the courts can impose if the legislation is breached. </div>
+    <div GUID="4bb83af2-5a3c-4e7d-baa2-f019054f1e4d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="263e1fac-b180-42ea-9919-7fe3095b8cc0" xmlns="http://www.w3.org/1999/xhtml">Legislation also lists who has the power to make decisions about environmental matters, such as government ministers and regional or territorial authorities (i.e. district or city councils). These decisions include: </div>
+    <div GUID="70960086-9a4e-420c-9644-5b8bf4cede22" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="34380520-229c-41e6-882d-921110974fdf" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="0cf35ff6-a295-4072-8cbf-63897412abaa">whether to start legal proceedings to ask a Court to find an organisation guilty of committing an offence and impose a penalty  </li>
+      <li GUID="98e67563-d69a-49ec-9272-b43294524659">whether to grant a resource consent.</li>
+    </ul>
+    <div GUID="f8a0de14-0ec5-49ee-8482-7ad26d907a08" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="d6c93f5f-7a74-4e0c-b475-1697c771699b">
+      <strong GUID="88c45798-f30c-4eae-a4ae-2c3443ada300">Resource Consents </strong>
+    </div>
+    <div GUID="22572bb4-aafe-49b6-b2ae-d69672b3d1f4" xmlns="http://www.w3.org/1999/xhtml">Resource consents under the RMA are usually granted subject to conditions. The conditions are legally binding requirements.  If an organisation does not comply with the conditions, it will commit an offence.<br GUID="c9790155-005e-48c8-8f1b-77cbb2b7f2b3"><br GUID="6b6c07c2-9db8-431a-b9d4-04024c119a38"><strong GUID="f7a49c3b-4461-40d9-8e45-fbb0227e64ee">Judge-made law (i.e. case law) </strong></div>
+    <div GUID="96311933-b4c8-4e54-9342-ae06f2db4558" xmlns="http://www.w3.org/1999/xhtml">The Courts determine a variety of issues including: </div>
+    <div GUID="1e6dcaa6-a03c-4d43-abe7-bcabb71e66f8" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="8c6cd039-ff40-4965-8da4-a33990b96faa" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="3fbef500-b593-4732-9ad8-dccfd2b798d6">disputes about the meaning of legislation, whether a resource consent should be granted, changes to planning rules, conditions in a consent </li>
+      <li GUID="ca719d95-b277-448b-8cee-6d2e55dbed4b">whether a person has breached any legislation, a contract or a resource consent</li>
+      <li GUID="00862807-8a66-49a6-946d-1f6eaaead538">what penalty or remedy to impose.</li>
+    </ul>
+    <div GUID="9d88efe9-9044-4937-84db-62ee0b538059" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="4a4dfce2-9f4f-4c5f-8d59-d1a96460ac41">
+      <strong GUID="4bb4d2ef-99d3-412c-91dd-d462b552997c">Contracts </strong>
+    </div>
+    <div GUID="5a4353e7-2c49-4e00-913b-1f8515e7c0d2" xmlns="http://www.w3.org/1999/xhtml">Contracts are agreements that create legal obligations between the parties to the contract. <br GUID="04d9b371-51a0-48ab-a9d1-bff8305a77fd">They can contain an agreement between two or more parties (e.g. a principal and a contractor) about how they will together comply with the law and manage the environmental risks and liabilities associated with an activity.   For example a contract for sale of land between a seller and a purchaser might specify how, and to what standard, contaminated land must be cleaned up before the title and purchase price are exchanged. <br GUID="4e9bc3b9-e0eb-41aa-9dba-6f85b9ebc906"><br GUID="7b73f9f1-a524-43d7-a8b2-3389167180a8">If a party does not comply with a contract, the other party can, in some circumstances, bring an action in the Courts seeking damages, an order requiring performance of the contract or various other remedies.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page9" IsActive="true" GUID="33473bf0-b938-4587-a95b-313cd4279399">
+      <IncludedInTOC GUID="fa28e200-2649-495b-9581-f5a7be7e41a9">true</IncludedInTOC>
+      <Title GUID="6c8314dc-8c6d-4275-8822-442411914bb0">Liability under the RMA</Title>
+      <PageElements GUID="c5729f3c-34ff-4f74-8f0e-2d5584d0ade2">
+        <PageElement GUID="1cdd9e67-8d58-4c5f-adf4-b2a397bf64c1">
+          <Graphic GUID="3988608f-51da-425e-95b2-ecbb09964b01"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/e0133d48-2ae1-4257-8e7d-6a68c700a529.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="c1b22570-cf55-4743-85bb-6297951aa6df">
+          <TextBox GUID="08553c98-73a6-4e1a-9bf1-fbdccb52a062"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="ab75db6f-c3cd-4c39-b45b-0b9106cef131">
+    <div GUID="92ecf110-50cb-488d-8673-80d66bc7e47c" xmlns="http://www.w3.org/1999/xhtml">The RMA applies to any ‘person’ who wishes to use or develop any natural or physical resource to which the RMA relates – i.e. land, coastal marine areas, rivers, water, air.</div>
+    <div GUID="5518e681-d2de-46fa-9f0b-59c7e13f5b25" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="d980c614-8b9b-4879-bf3f-30df38be5923" xmlns="http://www.w3.org/1999/xhtml">The definition of ‘person’ includes all individuals, companies, organisations, local and regional councils, and any other body of persons whether incorporated or not. It also includes the Crown.</div>
+    <div GUID="3bb67fc2-c8e8-4a89-8248-594d92b74799" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="6021680b-1440-44e4-a15c-3e56a997a9e8" xmlns="http://www.w3.org/1999/xhtml">The RMA provides that a company will be liable for the actions of its agents, contractors and employees, unless the company can prove that neither the directors nor management knew that the offending activity was being committed, or that the company took all reasonable steps to prevent it from happening. The company must also show that subsequently it took reasonable measures to remedy the effects of the offending act.</div>
+    <div GUID="8d3cfe7f-705b-420c-b901-09e78ea6901e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="a64a0f90-29a2-45a6-8d95-1883ff72fee3" xmlns="http://www.w3.org/1999/xhtml">Where the company is convicted of an offence under the RMA, every director or member of management who either authorised or knew about the offending act (and failed to take reasonable steps to prevent it), is also liable.</div>
+    <div GUID="65700096-909e-4154-a982-d5c5754f7e9d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="86eb55a7-a4cb-4145-978a-791d49c26c17" xmlns="http://www.w3.org/1999/xhtml">Directors and employees of the company will remain liable under the RMA, regardless of the liability of the company. They cannot take a passive role in terms of their environmental responsibility, nor be indemnified by the company if prosecuted under the RMA. The regime of the RMA is to encourage individual responsibility. It is no defence to say that 'you were doing what you were told'. </div>
+    <div GUID="2ec5ceb5-5b50-4a4c-bbc5-39ad2c73d830" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="a89645d2-28fa-4ab8-afea-9582330e8e9a" xmlns="http://www.w3.org/1999/xhtml">Even when an activity is permitted, it must be carried out in such a way as to minimise adverse environmental effects.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page10" IsActive="true" GUID="0cfaa966-ecd9-42a3-b172-c4f93931c0c5">
+      <IncludedInTOC GUID="2f7cb26e-1e6e-4530-911a-96069f0d53c0">true</IncludedInTOC>
+      <Title GUID="7403fdb5-f88c-4975-9c0d-40b42ceaa1b8">Scenario 2</Title>
+      <PageElements GUID="7b8ff621-1881-4878-b00e-1b826dfc4dfc">
+        <PageElement GUID="b8160c74-7f2c-49b9-aef4-3e35c0d2ecc1">
+          <Graphic GUID="af157be4-cdde-4040-9126-81b25df557eb"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/b2b7a39a-5918-48fb-9d82-548d90f02441.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="8d3ca73c-fc68-4f7a-8e55-e49482d21ad6">
+          <TextBox GUID="b91cbd7b-9c7c-40a8-8b12-e7a56e685bb7"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="cbd2c88a-152b-48aa-b2ff-74935be3bdd2">
+    <div GUID="eee0dd82-a3bc-4d67-ab55-c5098cb2b946" xmlns="http://www.w3.org/1999/xhtml">Miss Milne is employed by Medi Vans Ltd as a delivery driver. During a delivery run, she forgets to lock the medical waste and chemicals she is transporting into place inside the van. Upon hearing the containers fall out and smash in the back, Miss Milne stops the vehicle. The containers are leaking all over the inside of the van floor and to prevent damage to the company vehicle she pulls the broken, leaking containers out onto the side of the road.</div>
+    <div GUID="f0ec0c1f-6ac2-40d3-9da9-68e1ebecd326" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="2b0cf859-8995-438b-bdb0-b2a7dff1bbbf" xmlns="http://www.w3.org/1999/xhtml">The chemicals and waste flow into the stormwater drain and cause substantial pollution.</div>
+    <div GUID="b0c5b879-0f68-4489-9fd3-0e6ec7bc0a1a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="771aace6-4998-4f7e-81a1-90ecb773d13b" xmlns="http://www.w3.org/1999/xhtml">Subsequently, both Miss Milne and Medi Vans Ltd are prosecuted under the RMA.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="fdbbd7de-3edd-4bf9-bb0f-4711684b7b45">
+          <MultiChoiceQA GUID="88ceef3d-b37e-4889-91c7-e682296b6f39"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="fc774049-8085-4fcb-85ca-ad2d1c045f41">
+      <div GUID="bf4411ea-7e13-4595-8cbc-796bb932b63c" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="2e9ba45d-1d85-4f43-a038-f66da8b3e9ad">Does Medi Vans Ltd staff training programme, which outlines what to do in the instance of a spill offsite, provide a defence to the alleged breach of the RMA?</strong>
+      </div>
+      <div GUID="767bf0a6-70bc-439a-a358-c27fe56fa1ee" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qfc774049-8085-4fcb-85ca-ad2d1c045f41" ID="A9bc011d8-356e-45ea-a5e9-105a5eddc0d6" onClick="ShowAnswer('9bc011d8-356e-45ea-a5e9-105a5eddc0d6','false');">
+      <AnswerText GUID="b6f9016c-bc1a-40ec-aefb-3ff0edf96e78">No, the company is always liable for the actions of its employees. </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="9bc011d8-356e-45ea-a5e9-105a5eddc0d6">
+      <Feedback GUID="45a76515-ffd5-4857-a052-04503de7b3a3">
+        <div GUID="4e068f57-d4eb-4a12-ae01-3b80a1f3029f" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="386d0abf-ff49-4393-9dce-b8bc919cfd0c">That is incorrect.</strong>
+        </div>
+        <div GUID="378da3da-a017-4df5-a132-7dfd2a940f22" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="576a28a1-5663-4ac5-a3e0-ee6f9d945a7b" xmlns="http://www.w3.org/1999/xhtml">Although companies are liable under the RMA for the actions of their employees, contractors or agents, it is a defence to show that the company took reasonable steps to prevent the offence happening. Evidence of a comprehensive staff training programme may provide a basis for a successful defence. It is also a defence if the company can show that neither directors nor management knew (or should have known) that the offence was or could be committed.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qfc774049-8085-4fcb-85ca-ad2d1c045f41" ID="Ac82fa1ff-202a-4f5e-b622-4dd8fd0d3415" onClick="ShowAnswer('c82fa1ff-202a-4f5e-b622-4dd8fd0d3415','true');">
+      <AnswerText GUID="6dd7f270-5eca-48d6-9781-2da702e29b71">Yes, it is a defence for a company to show that it took reasonable steps to deal with foreseeable incidents.</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="c82fa1ff-202a-4f5e-b622-4dd8fd0d3415">
+      <Feedback GUID="b035ddea-298e-49af-be4a-a0e60fac9458">
+        <div GUID="3b536ae6-aa7b-4b94-8fdc-47867f4cd57c" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="bcf18ba4-d963-4f3f-8141-e3aacbf3f2da">That is correct!</strong>
+        </div>
+        <div GUID="03f89293-ad75-46a5-a208-b28f91da1a99" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="b70ae8dd-8631-4ae0-b4ac-504198a98d83" xmlns="http://www.w3.org/1999/xhtml">Although companies are liable under the RMA for the actions of their employees, contractors or agents, it is a defence to show that the company took reasonable steps to prevent the offence happening. Evidence of a comprehensive staff training programme may provide a basis for a successful defence. It is also a defence if the company can show that neither directors nor management knew (or should have known) that the offence was or could be committed.</div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page11" IsActive="true" GUID="7ab43314-7259-4795-90ab-f9f642e9cb3a">
+      <IncludedInTOC GUID="3fda5a10-963a-4693-8d85-3e4901ebadb0">true</IncludedInTOC>
+      <Title GUID="e32ed08d-d903-451d-8953-8ba6eebf9309">Consequences of breaching the RMA</Title>
+      <PageElements GUID="1012570b-da0d-4d86-acbd-58a0f14746f4">
+        <PageElement GUID="e7fe58d0-b1dd-498d-a001-e9aecc43f236">
+          <Graphic GUID="95468827-d627-4b59-9e9f-35c8d9432158"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/6f9eb188-516c-4c37-a3f8-c299a92eb269.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="05b54ba1-8938-4079-aa5e-dc440e88ceca">
+          <TextBox GUID="1887c4f6-34a4-4c66-aa40-4461a5ff942c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="c81ede01-e770-4f44-9651-e0dcd4197cdd">
+    <div GUID="9c8f9a5d-a297-48bc-acee-5c048bc87af0" xmlns="http://www.w3.org/1999/xhtml">As a general rule, an activity will be in breach of the RMA if it is not permitted by:</div>
+    <div GUID="98c7d9d7-95c3-430c-ab47-e655fa4a602c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="182ba568-6149-4ace-bac7-ed8676df806f" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="57ca6f89-4778-4699-96d7-53d0c9e6d6bd">a rule in an applicable district or regional plan</li>
+      <li GUID="735dfe3c-33ee-4e92-916a-a996c997d608">a resource consent</li>
+      <li GUID="bfc957dc-63a1-4bee-8c2f-dbfcc4bfbae8">‘existing use’ rights</li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="1491e315-98fd-43ac-9b02-d2d4f035f79e">
+          <ExtraInfo GUID="d8840e5d-bd0d-45ad-a9a0-2d2af9335aea"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('095925f7-e3a4-455f-9320-f0230ab16d00');">Click here for information on existing use rights</A>
+      <div ID="Content_095925f7-e3a4-455f-9320-f0230ab16d00" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="4f5a7a19-792b-4c2e-8849-afd6bd7659a3">
+                <div GUID="bf89f1e0-0c3d-4172-9b55-0a0812d45db7" xmlns="http://www.w3.org/1999/xhtml">Existing use rights apply in some circumstances where an activity has been lawfully established before rules controlling that activity came into force.  Where it has been lawfully established, and the activity remains of the same ‘character, intensity and scale’, it will be protected against enforcement action (even if a rule is later included in the district plan which controls or prohibits it.)</div>
+                <div GUID="c68694c5-0b6d-466d-823a-213fa643a8b9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="47940947-b2b8-4940-b0fb-1b315c4668cf" xmlns="http://www.w3.org/1999/xhtml">For example, Gillian runs a wedding function centre and has done for the past ten years. At a later date the new local council changes its district plan, resulting in Gillian’s land being rezoned as residential. Gillian will be able to claim an ‘existing use’ right and is permitted to continue to run wedding functions on the site despite the zone change.</div>
+                <div GUID="0e73726b-421b-4d48-a5f4-e78ad7b0502c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="0d32b220-0a84-461e-aa97-89d25340785d" xmlns="http://www.w3.org/1999/xhtml">However, if Gillian decides to open the function centre up to the public as a restaurant and bar (increasing the scale and intensity of her business) such activity will be subject to the new regime and is likely to fall outside her existing use rights. </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('095925f7-e3a4-455f-9320-f0230ab16d00');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="c48d51c5-14ea-4849-a8b6-fc086e0cdc56">
+          <TextBox GUID="ca7e6693-b384-4598-9eac-acea077fc95a"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="d40bfd61-fd8b-4d06-9c77-2ee7cbce95c9">
+    <div GUID="c72eb98b-ad17-4850-9713-6b3c0bbdf4c8" xmlns="http://www.w3.org/1999/xhtml">District /Regional plans and resource consents are considered in more detail in the next two lessons of this course. </div>
+    <div GUID="1240a101-874e-493a-97ce-99b1dd6ce786" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="6f08f9cd-03dc-401c-bb4e-7ba4d2071f86" xmlns="http://www.w3.org/1999/xhtml">There are four principal enforcement mechanisms under the RMA: </div>
+    <div GUID="febc40f1-a0e2-48ff-8e18-6330982f241b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d737bb9a-8d4c-4a6e-8ec1-4f232b1320a2" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="d5e2103a-7941-421c-bd7e-2dde1d6fafaf">infringement notices (instant fines for low level offences)</li>
+      <li GUID="03759b29-7790-46b7-91b7-4e36c76bbf11">abatement notices (a notice issued by the Council requiring a person to stop an activity or take steps to remedy adverse effects on the environment)</li>
+      <li GUID="5136bea7-17fc-42fe-810f-0cf4980379e4">enforcement orders (an order of the Environment Court requiring a person to stop an activity or take steps to remedy the situation - these act in a similar way to injunctions)</li>
+      <li GUID="c577a42c-6797-43f5-8f3d-1ae829f8c0f2">prosecutions. </li>
+    </ul>
+    <div GUID="5392eaf1-fa42-4e20-9d32-60800455790e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="1d472bdc-1e5a-456b-914d-3505375035db" xmlns="http://www.w3.org/1999/xhtml">The maximum penalties under the RMA have been modified by recent legislative reform and for serious breaches by an individual may amount to $300,000 in fines or up to two years in prison. In the instance of a company or business committing the offence the penalty may be up to $600,000. In either case if the offence is a continuing one, a fine of $10,000 per day for each further day may apply.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page12" IsActive="true" GUID="55c61b7e-3ecc-4396-bb75-651c53dc9338">
+      <IncludedInTOC GUID="9c35f3ba-2730-4a07-98af-dcd61adaedc3">false</IncludedInTOC>
+      <Title GUID="9f12e091-d827-4b0c-a894-d4e81ff7b1ad">End of lesson</Title>
+      <PageElements GUID="56cb01e8-9710-467f-82db-30b5ac702d8f">
+        <PageElement GUID="2aa0b8bf-3f53-4aba-8b2c-a738f41476dc">
+          <Graphic GUID="4882369a-b8d6-40bf-b5ee-0116cd01618a"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/51501c6f-781c-4b3d-9536-018a6f5f1a60.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="82f1a192-097f-46d1-8cd6-15444400c01b">
+          <TextBox GUID="bb875708-5001-4b85-8008-4ed99f856c27"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="d7018df7-63ae-4dd8-a2f3-451adfecb73f">
+    <div GUID="0b6a70b6-58a4-4ec1-a492-efff4900c16c" xmlns="http://www.w3.org/1999/xhtml">Congratulations! You have completed your lesson.</div>
+    <div GUID="628e52a3-b873-48eb-a36d-67eed5a5d03b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="292b125f-e631-4a2a-9f27-67be03897289" xmlns="http://www.w3.org/1999/xhtml">Click the <strong GUID="4cd0aed6-1e57-4bb7-8147-d5ede670a856">End Lesson</strong> button to exit the lesson.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="84312709-eb55-4e9d-84dc-9426d43c5219">
+          <EndLesson GUID="d69e17a8-9f6a-4a5a-a628-6d55aa998114"> <![CDATA[<div class="EndLesson_Main">
+  <input type="button" class="Navigation_Button_Submit" value="End Lesson" onClick="__doPostBack('Lesson_End','')">
+</div>]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

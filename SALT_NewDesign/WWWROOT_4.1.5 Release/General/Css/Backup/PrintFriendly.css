@@ -1,0 +1,36 @@
+body
+{
+    color: Black;
+    background: White;
+    font-family: "Times New Roman" , Times, serif;
+    font-size: 8pt;
+}
+a
+{
+    text-decoration: none;
+    color: #0000ff;
+}
+/***************************
+* These are all invisible
+***************************/
+#NoPrint,
+input,
+.formLabel,
+.TreeView_Control
+{
+    display: none;
+}
+
+#divCriteriaVisible
+{
+    display: block;
+}
+#divCriteriaVisible
+{
+    display: block;
+}
+.tableborder 
+{
+	border:solid 1px Black;
+	vertical-align:top; 
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Salt">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=bdw2008r2;Initial Catalog=bd_dev_partially_truncated</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>b2807a64-1941-421e-b3c4-1e55a0c3fa8e</DataSourceID>
+</RptDataSource>

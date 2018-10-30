@@ -1,0 +1,739 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" productVersion="11.0.8165" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="a85b4df6-a8c5-401d-8609-d8e9b53aab5f">
+  <Summary ID="ksrma02q" GUID="ef86636b-df71-4ef7-9212-a4c4c30f411e">
+    <ContentType GUID="90ba8a59-3126-4ddc-9bb6-63d4ee74365e">quiz</ContentType>
+    <UploadType GUID="f54c0602-1fec-486f-a226-3bef8d5efc89">update</UploadType>
+    <Title GUID="ec29cf2f-6d49-4619-b10f-ae02b8ac307e"> Resource Consents / Designations</Title>
+    <CreatedBy GUID="4b7318ab-38d8-4d67-8db3-88cf2f12ed05">LTG Casual</CreatedBy>
+    <CreatedDate GUID="b375d91e-841a-4717-858e-2d537f89b4fa">2006-10-11T10:37:44</CreatedDate>
+    <LastModifiedBy GUID="c6eb9cd6-25a0-4335-ab3a-b6dc1e89d544">ntomich</LastModifiedBy>
+    <LastModifiedDate GUID="36b66584-a307-4db2-8ec1-12ab3a51cdfe">2010-07-05T15:05:47</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="58af8334-5446-4d0f-9885-1d0c6b05abd6">
+    <Page ID="Intro1" IsActive="true" GUID="619f9ad0-8fbf-44f5-8e4d-12bbabfd42dd">
+      <Title GUID="f77656a1-cd41-4764-b10e-b2447ea496d9">Resource Consents / Designations</Title>
+      <PageElements GUID="70ea0178-4509-433b-84c3-44c8c1c8078c">
+        <PageElement GUID="e2e1c1be-f6f7-44fb-9800-557c00d70331">
+          <Graphic GUID="262d5d16-2464-4ec7-8533-96060c2987d2"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/51436838-7444-4336-88ad-de2a4f7e9fe4.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="7fa93033-ec85-4b8b-8804-2646c7b79e3a">
+          <TextBox GUID="42791989-7580-4397-ba95-6e8af17ed064"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="5762a83d-8806-4335-9f60-347687b9aa9f">
+    <div GUID="518cbdfe-cf0f-43e5-9e0c-df590292d0de" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="bb511742-6eff-41ae-9bd3-2ca78fffc895">%System_NumberOfQuestions%</strong>  questions about resource consents under the RMA.</div>
+    <div GUID="494faf2b-6ef7-4a06-981a-8759445fcb90" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="cc4692e0-97b6-4ff9-a0ab-ac3fdaeb4ac1">You may be asked three different types of questions: multiple choice, true/false or yes/no. Answer each question by clicking the button to the left of the most appropriate response.<br GUID="147f984a-9b39-4598-9c66-bbb0f2f50cf5"><br GUID="d0ccb21a-70d9-4b52-bdcc-66eed20eefd0">After you answer the last question, you will be given the chance to review and then submit your answers.<br GUID="8225809d-7fde-410a-ad47-436bf47f92ce"><br GUID="31e959e4-e90c-414c-9004-62d8b8876fa9">Please note that if you Exit the quiz before clicking the Submit Answers button then your answers will not be saved. <br GUID="390c3ded-6e15-467f-93b7-c85af78af6f1"><br GUID="a4fa4695-a22b-4dce-a5d4-32c3776afeab">To move between questions, use the <font face="Times New Roman" size="4" GUID="d80133bb-1724-4bb0-8069-fa9861159ce9">◄</font> and <font face="Times New Roman" size="4" GUID="2a0deb66-e47a-4bd9-9aef-db5d745c0cef">►</font> navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="eda1c09a-46a9-4001-8bec-4b8e3679ea33">
+    <Page ID="Q1" IsActive="true" GUID="91cec6ef-bafb-4d02-a0bb-89aa07e6dc72">
+      <Title GUID="31904505-4223-4fb1-a64e-f57dc724349b">Question</Title>
+      <PageElements GUID="b8641496-219d-43c4-8dc3-e084e3fa2057">
+        <PageElement GUID="89cd23f0-81e0-4cf2-8c5d-a89d283bcd7d">
+          <Question GUID="23d25ed7-e968-4db2-a14b-123fd3e601f3"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="2414858f-d7b7-4d01-9206-6a2ae2afeec3">
+      <strong GUID="10a09d97-9004-439f-aa78-92183bb2bfb0" xmlns="http://www.w3.org/1999/xhtml">What is a resource consent?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bec5a381-9398-438d-8f77-6e847aa75a9b">A document granted by the Environment Court in relation to major infrastructure projects.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e6132d09-cb44-4634-a865-ed2311ea1caf">An approval required from the relevant council when you want to carry out any activity which contravenes a regional or district plan in some way.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="6a39077f-9669-4453-bb8d-94f44efeee34">
+      <Title GUID="455a5c14-11b0-4e09-9290-de4ccc4275bf">Question</Title>
+      <PageElements GUID="5824d1fc-4e52-4284-8e49-64cbaddaa9b2">
+        <PageElement GUID="7843c695-347d-48ba-9a01-d220c570d1c6">
+          <Question GUID="a3a1137f-556b-4624-ae41-55e50d9a7699"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="dd678e83-50f0-4825-80ee-0750267f1c95">
+      <strong GUID="f8f69048-0e05-4737-9f1b-87f80cd41690" xmlns="http://www.w3.org/1999/xhtml">All consent applications relating to the development of land need to be notified (i.e. open to public submissions).  True or False?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="59dec76c-68ff-472f-857d-7853445f0759">True, the RMA allows for public participation in all development proposals.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ab8a4403-5db8-4fb3-9722-37edce07f08c">False, generally it is only where a proposal will have more than minor environmental effects that the council will require the application to be notified for public submissions.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="3e172061-2e84-4bf8-ba4a-5f511ca74fba">
+      <Title GUID="b8f46f44-d8c4-47c4-bf83-92cfa661183b">Question</Title>
+      <PageElements GUID="61f7b375-02a7-4a73-af90-0a7e9995b842">
+        <PageElement GUID="1df27451-67a3-4d5d-97f7-184de012c554">
+          <Question GUID="b3727c19-4fc6-4d18-8e30-9c708827f687"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="406291a2-b3d3-471c-8c2b-79a133eb0eff">
+      <strong GUID="f0da3a89-923a-492f-ab2d-a6e2fa4bdc5a" xmlns="http://www.w3.org/1999/xhtml">What is the maximum permissible term for which air or stormwater discharge consents under the RMA can be issued?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ee090a26-e4c3-496e-8802-864d996d7ad0">Ten years.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7a02bfda-b010-4874-a56a-e432b53b9a4a">35 years.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0f66ea83-111f-42eb-a94d-f6d4125de6bd">Indefinite.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="4d710b27-1949-41f0-b337-4d5cfbf6a0fd">
+      <Title GUID="b3cd31a5-e5cf-439f-a3cf-65c555610f47">Question</Title>
+      <PageElements GUID="67e485b5-7f0e-4dbd-b961-4adb3ab8830e">
+        <PageElement GUID="15382051-7e5b-4650-83e2-9567d528dad3">
+          <Question GUID="9e340a94-9c61-46c2-8638-069b972d1c27"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="a63219bd-42a6-462f-a0df-0ed98a569724">
+      <strong GUID="8a5cf346-3674-4374-ba0b-c1d806f54f98" xmlns="http://www.w3.org/1999/xhtml">Work should not begin on a project until:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="eb7d2056-9d3e-4fb2-9c19-4fce1d77a7bd">All resource consents are in place.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4ff1f3e3-68b5-4a0b-a729-dace86f9b80f">An application has been made for all resource consents.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="177d8531-7e84-49f1-b95b-04cd2af01f90">The local council has been notified.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4e6fb4e1-1969-4d8b-85b2-85f48a6e2746">The weather has cleared.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="b36e6451-3335-483d-9174-0728dbb43290">
+      <Title GUID="40378c06-a343-4e16-b7f5-9d239237f6ad">Question</Title>
+      <PageElements GUID="e665c43e-b7e4-4720-bbb5-a888943e2844">
+        <PageElement GUID="7432663f-e46c-412b-a4ef-bf34444bd530">
+          <Question GUID="1c26e9a7-1693-4933-b6a1-32d418ce49b0"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="7e5d616c-1832-484c-8abd-4de61b48b50e">
+      <strong GUID="82ebaaab-5f9e-42f0-896b-8bdcae9f69c1" xmlns="http://www.w3.org/1999/xhtml">How long does a consent holder have to give effect to a land use resource consent?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="83613e3b-e461-4368-996a-da6fd5b62bec">Consents will lapse on the earlier of the date specified in the consent or five years after the date the consent was granted.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="477a0fd8-5875-4300-a446-d9ae805ed5ed">Once granted, consents are valid indefinitely.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="7848e2f0-1982-42cf-adcd-265dc008fffa">
+      <Title GUID="9e832ab0-7582-4f60-a638-17f9b9d76464">Question</Title>
+      <PageElements GUID="f19d4be9-e2b2-441f-853d-94dd3d943e83">
+        <PageElement GUID="bb9d338a-e3d6-48a5-b1a1-d5a96b1fba3c">
+          <Question GUID="5a2296f5-3af5-4127-a63d-4acc94d6b8f4"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1fcf2ec4-754c-4e2a-a0c5-0ca03f563c39">
+      <strong GUID="fee4d87d-3c05-4526-9598-e67ef5e6f6cc" xmlns="http://www.w3.org/1999/xhtml">XY Ltd wishes to set up a soft drink manufacturing business in a ‘mixed use’ zone (i.e. both industrial and residential activities).  Z Ltd is a soft drink company based in another area of the city and wishes to object.  The council considers that there are potentially serious environmental effects arising from the proposal in terms of extra noise, fumes and increased traffic.  They decide therefore to notify the application.  Can Z Ltd make submissions on XY Ltd’s application?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="756fa31e-d9b5-4931-a344-6309cce068db">No, only directly affected persons, such as immediate neighbours can make submissions.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2444e970-853b-4b71-872d-631076098fba">Yes, trade competitors always have the opportunity to object.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e94458c3-0ea0-4a3d-852f-af8d84ac4188">Yes, Z Ltd can make a submission, but only if the submission is in relation to activities that adversely affect the environment and does not relate to trade competition.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="b32be0a0-7f17-4d6a-882c-ddb039908c0c">
+      <Title GUID="e10449fa-2e87-4a04-90f2-1cc23066cafb">Question</Title>
+      <PageElements GUID="dca21188-6eba-4775-b2e8-d66eb6abdd05">
+        <PageElement GUID="cf84060d-d5bc-40be-b4e0-e19589140089">
+          <Question GUID="badcefda-c781-4805-9361-f894d22f3a87"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="955a3594-a635-45e5-bb92-aa0838063443">
+      <strong GUID="786fbbe7-8025-4025-82a3-71112c4f78f9" xmlns="http://www.w3.org/1999/xhtml">If an activity is prohibited under the district plan, is it possible to obtain a resource consent to carry out that activity?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="26785f56-5e5a-41a2-bb96-966d21311175">Yes, although such activities are not contemplated as generally suitable in the particular zone, it is possible to obtain a resource consent.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b9b715d3-a6c0-4262-86dc-ef63cba73d19">No, if an activity is prohibited then no resource consent is available.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="f271739f-a9e4-4599-bd11-6ea433ef0be7">
+      <Title GUID="19fb1f76-3e19-463e-803b-741c53a346b1">Question</Title>
+      <PageElements GUID="90d8bfa9-ae3b-4f2a-a22f-bc3a7ce69ef2">
+        <PageElement GUID="2d40515b-31e0-402f-92e4-2a4f3333f86c">
+          <Question GUID="e7e58b68-adc0-4ffb-ac66-b5fa349c84e9"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="8a37a8a8-efd6-42ec-abae-ba70977e034b">
+      <strong GUID="98b78897-f3e0-46a0-b64d-4951bf0e0783" xmlns="http://www.w3.org/1999/xhtml">In general, where there is no other time specified, within what period must a resource consent be implemented once it is granted?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="40b5b6ea-e042-4f91-bdc5-604769ec5743">Five years</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d5b3ad3b-865e-4716-a4f8-c6cb5f384a49">Twenty years</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="a59166b5-81b8-45f2-8e4a-33d148c63fdc">
+      <Title GUID="3b495699-8a78-4884-b5a9-4fcf826d3776">Question</Title>
+      <PageElements GUID="299cb6e5-fa72-4d29-9314-dc6a7483652d">
+        <PageElement GUID="6529ec73-91d6-44b2-a238-35f584d6540f">
+          <Question GUID="11dc984a-99a9-44d2-bbd9-40f2c3779143"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="c4258ab6-6542-4e32-a542-24419e4b62ed">
+      <strong GUID="322c565a-6895-40d9-96f3-c21fb7656a3b" xmlns="http://www.w3.org/1999/xhtml">An applicant can usually appeal to the Environment Court against a refusal to grant a resource consent or the consent conditions (if consent is granted).  True or False?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c1ce76e2-6c76-4264-92b0-860db21a5180">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d8ee6d3d-e777-4a12-8b3e-01d268162cc1">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="b5bc7ce4-0c41-4e1f-a6cf-fb1c30a9c453">
+      <Title GUID="5f032854-a820-4152-b4dd-a69aa18882fb">Question</Title>
+      <PageElements GUID="96858d5b-6c8e-4f50-a729-7e42f8d77f62">
+        <PageElement GUID="86354c78-4ad7-4d70-8c7f-21de478d9ca9">
+          <Question GUID="c3ae5875-f21b-4959-8d13-3169c3964e66"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="8852d546-6992-4680-81bd-d28cdf0e5d95">
+      <strong GUID="30d9189d-ff9b-4e7e-a2d2-39d9c127a633" xmlns="http://www.w3.org/1999/xhtml">Your office is next door to industrial premises that manufacture bread and yeast products.  You notice that the main chimney stack is discharging yeast by-product and dirtying your office exterior.  Which is the appropriate body to complain to?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="63fdf0bf-a584-42ca-9b1e-75f5ddbd0f26">The local district council is the right body to deal with issues relating to discharges from industrial premises.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e8b67611-7826-4c00-a6e7-d17a30864612">The regional council is the correct body because it has responsibility for issues relating to air pollution and discharges.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q11" IsActive="true" GUID="0d4aa487-d7f2-4c16-b54c-1f30ae793cc8">
+      <Title GUID="93a3a83d-245c-4ad0-8360-3f83b160590e">Question</Title>
+      <PageElements GUID="d01acf54-9706-4496-bc2b-81895f900533">
+        <PageElement GUID="f1d68cd7-deaf-43e7-9160-1c5db573e3b4">
+          <Question GUID="7d5e79e4-d76a-4dc4-b6ff-455d1fb35922"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="0d9baeed-90e7-437b-b3c8-2d19e0c42f5a">
+      <strong GUID="d4b11025-cba3-4862-a085-884e33f56c75" xmlns="http://www.w3.org/1999/xhtml">You are asked to transfer some contaminated fuel from a number of small containers into a large drum.  You should:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="15fd8c7f-f77e-45f9-a603-dd28b52933e7">Get the job done as quickly as possible.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cf8da3f9-6b82-490c-94d5-8129ecd126f0">Follow the work procedure, take care, do the transfer on a sealed surface, and only within a secure area which will contain a spill if one were to occur.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4ace32c5-b92d-41d2-858e-9c1d07098414">Fill the drum to its brim and discard the remainder in the stormwater drain – it is too costly to obtain another drum.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0d6910a3-b398-40fa-b072-72d4498fc94d">Do the transfer wherever the containers are without worrying about spills.  It is someone else’s job to clean up the site at the end of the day.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q12" IsActive="true" GUID="ac1a7aed-d146-491a-9242-af475134b478">
+      <Title GUID="0d0e6bd7-1796-4662-9025-3fa371777d67">Question</Title>
+      <PageElements GUID="01c886c8-17bb-49bd-97b1-20037090b7ef">
+        <PageElement GUID="e500af2b-e623-471d-aed2-7be3e437f9e3">
+          <Question GUID="ddc64b27-2a7f-4952-b687-b5a1a16d6b4a"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="ea7c1280-b635-4abb-9705-1fb1a282918d">
+      <strong GUID="48d28d80-82d4-49d8-9126-657869a85271" xmlns="http://www.w3.org/1999/xhtml">
+        <span GUID="cc259526-eb77-4422-a7f4-d79882cdb382">
+          <strong GUID="ef7e7590-0331-4ee7-9ada-72f343a94c91">Often a number of resource consents may be required from different local authorities for the same operation or activity. True or False?</strong>
+        </span>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7259e0cb-d4f6-44fa-9e4c-8e7c69772a69">False</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cf4fc50b-23f8-4cb2-a963-cc0b82018b19">True</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q13" IsActive="true" GUID="ab7b918f-002d-4456-af4c-f60a49598f8b">
+      <Title GUID="eed06da9-b1ba-4a68-970e-b95811046a6c">Question</Title>
+      <PageElements GUID="d942e532-968a-4765-bcff-be52eccb30dc">
+        <PageElement GUID="5db746be-71ae-4421-bd42-10f913326d15">
+          <Question GUID="04689660-e442-44d0-bfdd-0611c70479f4"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="457af12f-e0c2-4eb6-9107-0abacf3062c7">
+      <strong GUID="2b7b7d43-503b-416f-8839-1ead39ee1d29" xmlns="http://www.w3.org/1999/xhtml">You are employed by a civil engineering company.  You are asked by your employer to demolish a house.  You are unsure whether the demolition has consent.  You should:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b3673819-505d-4627-bfad-d5d818540172">Not worry about it – it is someone else’s problem.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="aa9e0a8d-804b-43e4-9419-c2a3f49ee078">Demolish the house, and check with your site supervisor at the end of the day.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7c0b0aa1-17da-4f85-9fa8-f768a27a9249">Get the job done as quickly as possible.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fba87d04-7e1e-4478-a2a4-7aaae34236ab">Check with your site manager or supervisor that the demolition work has approval.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q14" IsActive="true" GUID="f04a986d-2c97-410d-8cbc-447013c38208">
+      <Title GUID="01040e7f-3061-4137-bd2d-09c2567b8816">Question</Title>
+      <PageElements GUID="1af6eaa4-d16a-44f4-addd-12a8b82695c8">
+        <PageElement GUID="67b0eefa-22da-4f11-bdfa-382aeb5b675c">
+          <Question GUID="7296bce8-e86a-41ca-aeaf-51031f0f55cb"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="015a08e1-a9c7-41a4-9829-c3c170b6e473">
+      <strong GUID="4bfe3aeb-eeb3-4715-b481-ec36362d00ac" xmlns="http://www.w3.org/1999/xhtml">Under the RMA you and your company must:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e0413a3f-da14-4a69-9694-e45aaa4d1c85">Get the job done as quickly as possible.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d65b934e-33a2-4f5a-875d-a50a5db938ac">Take all reasonable and practical measures to avoid harming the environment.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9d219d72-9a82-4995-a958-2c96e3059032">Avoid harming the environment, but only if it is cost-effective to do so.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6de40fb0-ef99-4a99-b890-3b0a15b434f2">Avoid harming the environment if you have time.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q15" IsActive="true" GUID="845f5cd7-6873-4ac7-99e3-bf2c639980e8">
+      <Title GUID="f999e6f8-7bef-404f-b633-e7ff4e9da1f5">Question</Title>
+      <PageElements GUID="aa6bf9ce-ff48-4e05-a692-46ebf7d2f737">
+        <PageElement GUID="4eb27b24-cead-4ade-945f-d7a7d4af3fc2">
+          <Question GUID="3f62a587-4274-4e3d-a1a0-5e59e4f4a13f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="3f5eddf5-8639-4f99-af64-f95c2857fa31">
+      <strong GUID="fba5010d-7ba1-4b74-9b43-a8ec7b1733d4" xmlns="http://www.w3.org/1999/xhtml">To work out what consents I need, I should</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6772045c-4fab-4679-886f-18d3ef9c3c6e">Identify all of the actions involved and the potential environmental impacts of those actions.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c6035b76-2080-488b-8064-70c55f72bef8">Consider the relevant legislation and consult with the person responsible for consents in my organisation.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2363e03a-7336-4ae1-9395-08144318daaa">Speak to the relevant government agencies and read their guidelines.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cd2e07c2-433e-4787-aac5-f15f6bb70cb0">All of the above.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q16" IsActive="true" GUID="278f344c-62dc-403c-a71b-46f8b6439f5b">
+      <Title GUID="720a9b01-13d2-47c2-9f6f-b2382f920e25">Question</Title>
+      <PageElements GUID="c62209b8-40d3-437d-9531-3446c9e5f62f">
+        <PageElement GUID="ff7c5091-cf74-41d0-8a4f-16668b49b542">
+          <Question GUID="b6db5245-2cfb-4a89-bc83-7feb53d13e94"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="953f76e8-0113-4262-a4aa-01af4c378dd5">
+      <strong GUID="cdc3e022-fc13-4d9e-8abc-10d00beae97b" xmlns="http://www.w3.org/1999/xhtml">A new or varied resource consent may be required if:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c1c09f83-bf87-46dd-990d-d5d9e99c63e4">A project expands.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="659550b4-3acd-47c1-af3b-e3e71153d91a">The location of the infrastructure is changed.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0ad08b87-f322-4dd6-8797-f5d56c96b689">The project is altered in some significant way.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="31a2ffcb-a725-4457-9101-f7d5d3b4b17f">All of the above.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q17" IsActive="true" GUID="96bce9b8-4e12-4bbb-b776-994a6cef915c">
+      <Title GUID="a85d69da-257b-4e8c-85b7-6cab4872417e">Question</Title>
+      <PageElements GUID="21b9f95d-1407-4cad-84a1-cf6f409bfce7">
+        <PageElement GUID="3faae44d-6dc4-4dea-b0d5-1b4362e63acc">
+          <Question GUID="a09c6634-451c-43d9-9b24-21a74806d7c5"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="bc28ca65-2e6d-4388-a36a-5251275d5565">
+      <strong GUID="ed3bcee6-bfef-4f19-ad81-508a36cb7dea" xmlns="http://www.w3.org/1999/xhtml">Once an application for resource consent has been publicly notified by a local authority, who can make submissions on that application?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bf363fcf-d5b2-4dac-a73f-85a25a871238">Neighbours.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c52ca118-0dc3-4a83-bf01-e169b6ccada5">Anyone.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a13e3777-7320-4acf-ae47-c7eef5790b19">Community groups.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0d100496-6b96-481e-91d7-d4f3b35520f2">Government departments.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q18" IsActive="true" GUID="4db44069-6413-42bc-92d4-c2031ca96188">
+      <Title GUID="70981f53-f19e-4c79-9b4b-03a1bbb705cd">Question</Title>
+      <PageElements GUID="c0f19270-76e4-4f0e-ad56-cad3dfbe5f27">
+        <PageElement GUID="ba234c74-420b-4025-bdce-8d4f600910f2">
+          <Question GUID="4a9ab1bd-f54f-48e4-8678-646e861eb1dd"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="27936315-7b13-434a-bab4-a8ab7a59842f">
+      <strong GUID="056a5259-d5c2-451d-ac46-6e639bedd362" xmlns="http://www.w3.org/1999/xhtml">MegaMall Ltd has applied to the Council for resource consent to expand its buildings, and has obtained approval from all the surrounding businesses. Before the Council hears the consent application, a number of the businesses write to the Council withdrawing their approval.  Does the Council have to consider the effects of the application on those businesses?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="455e50fe-58f5-45c3-99da-70f2a33fb6cb">No – once given, approval cannot be withdrawn.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="626d6a8e-5220-4828-916d-7aacecb4af58">Yes – because the approval was withdrawn in time, the Council must consider the adverse effects on them.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q19" IsActive="true" GUID="6b8a47e3-a0e8-48e0-a252-4781d9d9f76e">
+      <Title GUID="faf0328d-34bb-4ad7-a4f1-3763bb01e232">Question</Title>
+      <PageElements GUID="5fc53dcf-e9e3-458e-9aab-5e44b9674937">
+        <PageElement GUID="1a0d7f12-6e06-4462-91d8-f56b81b08cab">
+          <Question GUID="e8b5913c-45af-4822-b803-fec6d0abebfa"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="96cdbfd9-d850-4614-ac79-2c5f0ddd7a1a">
+      <strong GUID="81bfb74c-e592-431a-b966-2f30ea6b599e" xmlns="http://www.w3.org/1999/xhtml">The conditions attached to a resource consent are:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2475c7b7-2196-48e6-9187-f3fc567ffd4c">Only for guidance.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a76da330-dc1c-4d18-ad78-1af43e3f081b">Legally binding.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="74e3de6f-4f5f-4418-a76a-66774b74e347">Not part of the consent.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7635b38a-d30d-4cd5-80e4-971545c861f7">Irrelevant.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q20" IsActive="true" GUID="c88ab9be-e9e7-4bae-a1db-1dbd0175fd76">
+      <Title GUID="36d27b76-f735-47ef-9d6c-00624c655947">Question</Title>
+      <PageElements GUID="d9339dd4-d8e1-4451-a30f-d0fb1642a74c">
+        <PageElement GUID="3303349f-87e6-42fc-b86f-b151b2df9534">
+          <Question GUID="2c974fcd-f6fa-44c3-af2f-9e5deb1ee78e"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="fa5d0e47-ce69-4c88-a06d-2766627ae278">
+      <strong GUID="72d3bafc-d0d3-4072-a587-6ed0a3a71c41" xmlns="http://www.w3.org/1999/xhtml">Construction Co. has a consent to build a factory on their land. They decide to sell the land to Buildings R Us. Do Buildings R Us need to re-apply for consent to construct the building (as originally planned by Construction Co)?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bd278082-8a1a-473c-925d-32c7dde47c95">Yes – a new owner must reapply for a land use consent for the same activity.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="dd86b407-f877-4b3c-b3c4-18f8764b7f85">No – land use consents ‘run with the land’ and can be enjoyed by a purchaser of the land.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q21" IsActive="true" GUID="471d43f7-79c9-4870-87c6-ad0eca0c17d6">
+      <Title GUID="2056f969-a612-4a5a-bfe5-2753b6eb2729">Question</Title>
+      <PageElements GUID="3efe28fc-b47f-4c01-871f-2060e351d950">
+        <PageElement GUID="d60dfbbe-8a21-4632-b237-e44eb111f113">
+          <Question GUID="d708abce-03d6-43ad-a583-a1cbd5aad6e3"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="fdc85c58-2787-4674-8c34-11576c868b50">
+      <strong GUID="97baa600-a269-4c21-8013-a3df1deb49a5" xmlns="http://www.w3.org/1999/xhtml">A ‘designation’ in a district plan is:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a972722d-3dd5-45a4-89da-c08b1a4120ea">An area of nature reserve set aside for conservation purposes.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="52832ffd-3f24-4fb6-ba2f-a6a15682c4e6">A type of subdivision consent used for council projects.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2d0ad207-4082-455c-908e-cf3c0f4c5ec7">A form of land use consent often used for large public works projects or network infrastructure.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q22" IsActive="true" GUID="0762c06f-b9f2-4d9d-b733-4eb4c4a96529">
+      <Title GUID="85946655-445c-4556-95e6-f2273a01dd57">Question</Title>
+      <PageElements GUID="0f148b6c-9d29-432a-8ab5-fa326fd4798b">
+        <PageElement GUID="9fe3a369-2fc0-4d25-84d0-5817ed936b51">
+          <Question GUID="2f454185-8c00-4a19-9b67-f27052628a64"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="28fa9005-bee6-4945-8095-baaeea709ffd">
+      <strong GUID="08bbce61-0174-4ab1-b909-59e6d76f3e59" xmlns="http://www.w3.org/1999/xhtml">If land is designated for a particular purpose in a district plan this means that:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8663a61d-a969-4fc0-8ebe-80fd01c4fae5">The Council wish to use the land for conservation purposes.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e7a1d488-f32e-4f33-8a78-534c303999b6">The owner is restricted from doing anything that may hinder that use and must obtain the consent of the requiring authority before doing so.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3debb1cb-2503-4530-a273-1de5cc9c3eba">The public may access the land and use if for the designated purpose.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="6bc69983-2dd1-4746-b6d9-4ebfba7f39fb">
+    <Page ID="Comp1" IsActive="true" GUID="96af3089-e29c-45f4-a199-75d4acd5ad04">
+      <Title GUID="936b34bc-c7ad-4d62-9229-797dddfd9c16">End of Quiz</Title>
+      <PageElements GUID="7c0cd1aa-76b5-4c59-96fb-a6ddc903177f">
+        <PageElement GUID="a13adabe-ce37-43b3-8b59-24a900018a4b">
+          <Graphic GUID="25d345ee-80aa-4746-81b4-23bbb16b15ae"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/965bfae9-32b6-4660-8972-23f2ea4622ae.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="1236fb5b-9424-41c1-8e96-75b7ef073698">
+          <TextBox GUID="36110a5f-ea5d-4bea-8ad5-525651678fc6"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="abeb1491-28e0-400a-8528-7c327f639235">
+    <div GUID="9d6e0f2f-9094-41fa-b1a1-bd2da6bd7b2d" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="9e6b2afd-848c-469f-8292-5fe66902f556"><br GUID="d6d28c1b-9d57-490c-93b4-90feee96f468">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="8ad51e7d-b4e3-4e64-9680-e86b3730c03b"><br GUID="66039677-8862-4080-9d09-7dfe3d66ec48">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="1bd1c696-5a8f-4302-8a79-b6de79689a12">
+          <SubmitAnswers GUID="d9ef2321-6f68-4294-9864-84fd09c8e3da"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

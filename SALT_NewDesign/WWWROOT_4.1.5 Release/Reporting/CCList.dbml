@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="salt_4.3.0" Class="CCListDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=bdw2008r2;Initial Catalog=salt_4.3.0;Persist Security Info=True;User ID=salt_user" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="bd_dev_partially_truncatedConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblCCList" Member="tblCCLists">
+    <Type Name="tblCCList">
+      <Column Name="CCId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ScheduleId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,44 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblUserCPDPoints]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblUserCPDPoints](
+	[UserCPDPointsID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[ProfilePointsID] [int] NOT NULL,
+	[UserID] [int] NOT NULL,
+	[Points] [numeric](10, 2) NOT NULL,
+	[DateAssigned] [datetime] NOT NULL,
+	[LessonQuizStatus] [int] NULL,
+ CONSTRAINT [PK_tblUserCPDPoints] PRIMARY KEY CLUSTERED 
+(
+	[UserCPDPointsID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserCPDPoints_tblProfilePoints]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCPDPoints]'))
+ALTER TABLE [dbo].[tblUserCPDPoints]  WITH CHECK ADD  CONSTRAINT [FK_tblUserCPDPoints_tblProfilePoints] FOREIGN KEY([ProfilePointsID])
+REFERENCES [dbo].[tblProfilePoints] ([ProfilePointsID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserCPDPoints_tblProfilePoints]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCPDPoints]'))
+ALTER TABLE [dbo].[tblUserCPDPoints] CHECK CONSTRAINT [FK_tblUserCPDPoints_tblProfilePoints]
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserCPDPoints_tblUser]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCPDPoints]'))
+ALTER TABLE [dbo].[tblUserCPDPoints]  WITH CHECK ADD  CONSTRAINT [FK_tblUserCPDPoints_tblUser] FOREIGN KEY([UserID])
+REFERENCES [dbo].[tblUser] ([UserID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserCPDPoints_tblUser]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCPDPoints]'))
+ALTER TABLE [dbo].[tblUserCPDPoints] CHECK CONSTRAINT [FK_tblUserCPDPoints_tblUser]
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblUserCPDPoints_DateAssigned]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCPDPoints]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblUserCPDPoints_DateAssigned]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblUserCPDPoints] ADD  CONSTRAINT [DF_tblUserCPDPoints_DateAssigned]  DEFAULT (getutcdate()) FOR [DateAssigned]
+END
+
+
+End
+GO

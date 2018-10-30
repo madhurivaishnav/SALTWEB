@@ -1,0 +1,965 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" productVersion="15.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="e3791078-f761-4639-8dfb-e434c059caad">
+  <Summary ID="nzkswp06q" GUID="b8a94c38-86aa-497a-a5ae-6c31e6db4caf">
+    <ContentType GUID="617dd5f4-2021-4439-ae33-84eb0d238a30">quiz</ContentType>
+    <UploadType GUID="2a18ce19-5b65-4bab-807a-e29536cba117">update</UploadType>
+    <Title GUID="ba3ea696-56de-4c1e-be77-6550b805e2b8">Health and Safety Representatives and Health and Safety Committees</Title>
+    <CreatedBy GUID="26e9e435-8430-4a56-b9c5-b76f336940ac">LTG Casual</CreatedBy>
+    <CreatedDate GUID="b00cba27-bef1-4eb3-9205-c0aecc12cf7a">2006-06-29T16:22:54</CreatedDate>
+    <LastModifiedBy GUID="66d9a4f0-b336-4bfe-bff8-2bc526cd467e">lyndon.lovell</LastModifiedBy>
+    <LastModifiedDate GUID="9fd62ae8-1978-4880-8d52-c6cdb1568866">2016-04-14T11:47:37</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="0b55f8bf-8ab4-480f-a5fe-01f5ca3a3555">
+    <Page ID="Intro1" IsActive="true" GUID="d13e1eed-51a0-457a-8246-184d4927c411">
+      <Title GUID="bed5c794-020a-4a2a-a6a7-3fb196c6c253">Health and Safety Representatives and Health and Safety Committees</Title>
+      <PageElements GUID="fb87911b-ee80-4544-8dad-9c55e6a5b819">
+        <PageElement GUID="769f2eae-8b58-4089-a932-4cf6843ee195">
+          <Graphic GUID="b9f611ce-164f-4384-9fc4-e55db2b4edd4"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/1bb6be28-6e90-4e76-8d1a-6f2fb4301aa2.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="1a1931d8-8e2f-4759-a7c9-8b668cc766b8">
+          <TextBox GUID="3d677a51-5194-4c11-b514-7b4ff96b4ab4"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="2c3cd4f3-8652-469c-87fa-aef7c15ec100">
+    <div GUID="1cc420ae-a6d8-4c0e-8aa4-187d4b0b0113" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="f95bb910-97af-4fb5-bc92-b23de549f1c6">%System_NumberOfQuestions%</strong>  questions about health and safety representatives (HSRs) and the duties that a PCBU owes to the representative. We will also ask questions about health and safety committees.</div>
+    <div GUID="72ec109f-a896-47c2-acbf-ba25f87a6ab3" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="17dc35e0-ed1e-44e0-9dec-4d7098d70e99">
+      <font size="2" GUID="82e30381-aab4-4bf3-af12-ed75bcfbc56f">You will be asked multiple choice questions. Answer each question by clicking the button to the left of the most appropriate response.</font>
+    </div>
+    <div GUID="e867b04a-3904-4c75-b043-572b96a4e3ac" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="59f15d78-4d24-4c58-b2d3-9d9403974133">
+        <font size="2" GUID="d429b2a3-54f2-4774-9b9c-7c56742ae11d">
+        </font> </div>
+      <div GUID="90386d80-aeef-4bd8-bf21-1769eed68cce">
+        <font size="2" GUID="02d92023-3d5d-4082-ba99-178f5c35e908">After you answer the last question, you will be given the chance to review and then submit your answers.</font>
+      </div>
+      <div GUID="882641f0-accd-4d6b-9a35-ab334993ce6d">
+        <font size="2" GUID="7242865a-01b9-4a32-b4d4-dc2b55977c73">
+        </font> </div>
+      <div GUID="7c6b832b-5fa6-4a9e-add8-34776f74ce77">
+        <font size="2" GUID="5e10f981-3e40-4443-997f-25ac6f861b9e">Please note that if you exit the quiz before clicking the Submit Answers button then your answers will not be saved. </font>
+      </div>
+    </div>
+    <div GUID="6720b34d-4a43-47af-a5d9-ba72032b5b08" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="94bf7e03-bfbc-4aae-b9a0-f4cb9e22f158">To move between questions, use the <font size="4" GUID="d12f4a97-02f0-4d49-994b-c321d6b66f39"><font face="Times New Roman" GUID="a96f3f42-0dba-4146-b61d-a3c9bbbd2d1d">◄</font></font>and<font size="4" GUID="f5a8f54d-a66f-44c6-bb3a-74492687fb49"> <font face="Times New Roman" GUID="3285af25-0d54-4859-9813-4fa955d9121b">►</font></font> navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="405dd110-53b1-4282-b747-5862aaa5e621">
+    <Page ID="Q1" IsActive="true" GUID="2cfb8b20-a6aa-4894-a743-56eb3d63c288">
+      <Title GUID="b644c1d7-5424-43bd-8835-68f8d2069bcc">Question</Title>
+      <PageElements GUID="74dd5ba6-ec9f-4e87-b3df-622c15264a53">
+        <PageElement GUID="d02b8a22-1bed-489b-9f98-f609a46c9523">
+          <Question GUID="55a52389-9996-4c9f-91b1-f5844d586a8b"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="b324212c-3339-4504-9620-4b52c44c214b">
+      <div GUID="615657c3-5b34-4879-8876-c79fd2c3c642" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="fe02c786-5432-4e35-971b-6293a89a1858">
+          <strong GUID="039d1e07-7287-4488-88ae-7d06b3bfda36">
+            <strong GUID="b772a9fe-daef-4a1b-b9fd-2d784488707e">
+              <strong GUID="8eecae53-ce0c-4ff8-94d3-5eea0c9e3b1c">
+                <strong GUID="3e908f21-f287-4b4c-bcd3-5ce90b7b060d">Fill in the blank. An HSR is a __________ who is elected from among a designated group of workers.</strong>
+              </strong>
+            </strong>
+          </strong>
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7b97439f-497c-4969-858f-65610492e51e">… worker…</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2f4369e4-7b01-4d7c-a468-b212fc661e32">… customer…</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="460b1dfa-ba2f-48f8-9241-07d6bbce1a22">… PCBU…</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3033ed29-ac91-4005-8a78-39dc1eaf90b2">… manager…</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="7a4f4290-700c-4da4-85a1-9f975e1003cd">
+      <Title GUID="4aa9b69c-6b24-4326-9cd7-d4ffe394820a">Question</Title>
+      <PageElements GUID="da8efaeb-453b-42ea-bb06-c3c4e6871049">
+        <PageElement GUID="4291e3bf-873a-4f1d-a7f4-b55141f0b4cb">
+          <Question GUID="fce8d68e-a7ca-44d2-97e4-77d6135b7b41"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="c054a372-c690-429b-994e-82c224bd0e76">
+      <div GUID="f2134d88-d8a0-4511-86e4-0627f57056f6" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="a3272a87-d78c-4a6e-a7fb-68e15531eaba">
+          <strong GUID="b909652f-9687-4177-b355-471120c184ce">
+            <strong GUID="7dc8fc3e-13c0-4000-858e-e6a05100dd4d">
+              <font size="2" GUID="b563f617-0ed1-4ca4-8fba-f5d9783d9004">
+                <strong GUID="254538ec-020e-4a37-9381-223c1cb69496">
+                  <font size="2" GUID="84163b72-4228-4432-a091-ecb71d0f88f1">
+                    <div GUID="4c654cf3-ca63-41c3-abc6-861c912048e5">
+                      <strong GUID="f8c8b574-8569-494b-b40c-52d61a68f51c">
+                        <font size="2" GUID="a38f3339-cea9-4b28-a6ec-daa45361b761">
+                          <strong GUID="9b55e510-94bb-42f7-b7a4-183d6c47e9bc">
+                            <strong GUID="41f06adc-ee3d-4c1a-8f59-9f4fb244a36e">
+                              <font size="2" GUID="4e29f537-9ae8-4c9f-aa11-3e698191de3a">
+                                <div GUID="87c30ee4-7526-4672-ad7e-10ace83c73c7">
+                                  <strong GUID="771bcd10-f75e-4fdb-9ef3-cbe0c31fd37e">
+                                    <font size="2" GUID="53fa23e3-4ef0-463c-a4ba-4c0efa0ca284">
+                                      <strong GUID="488570b6-3f4b-4d2b-ac97-1ae06ddbd1a1">
+                                        <strong GUID="b48ca1b6-c2e6-4910-aaea-a2f5b14ca666">
+                                          <font size="2" GUID="d2a91b5a-11f0-4935-9bed-c6e463ae6c6c">
+                                            <div GUID="39ce277d-1d35-4019-bbe6-665d617a311e">
+                                              <strong GUID="31fba97e-bbee-4a85-b24b-fec5a3d2241e">
+                                                <font size="2" GUID="e64fed8f-13ce-4a63-a5ba-f63b58548548">
+                                                  <strong GUID="4ff7666f-8e8b-4b2c-9ff9-f825f083c7f4">
+                                                    <strong GUID="e16f9ed4-0ae1-447c-b5cc-b4b9e27efae4">
+                                                      <strong GUID="da6c6f39-9575-44ab-a055-4268a53cae1a">Workplace health and safety laws impose certain obligations on PCBUs to HSRs. True or false?</strong>
+                                                    </strong>
+                                                  </strong>
+                                                </font>
+                                              </strong>
+                                            </div>
+                                          </font>
+                                        </strong>
+                                      </strong>
+                                    </font>
+                                  </strong>
+                                </div>
+                              </font>
+                            </strong>
+                          </strong>
+                        </font>
+                      </strong>
+                    </div>
+                  </font>
+                </strong>
+              </font>
+            </strong>
+          </strong>
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bcc27dd2-3e0b-43ad-b072-17f7b0c55b53">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cd4e498e-3b37-4c33-8914-f790792b4acc">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="b8ace323-5065-4834-9d02-c4fd77ef1a77">
+      <Title GUID="81cb9b54-eed4-471f-bd2b-f2d0224f8ea3">Question</Title>
+      <PageElements GUID="052548f3-9c63-409d-be99-1d6704c6a7d0">
+        <PageElement GUID="0a6f8254-e120-45da-8bcd-a9959a15d511">
+          <Question GUID="7cc25b4f-9fad-4e55-8451-ddcc7fe46c56"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="3d984dd3-1e84-4346-9f48-7949c7798dd5">
+      <div GUID="48ad2527-0b2e-439a-86e0-ed380fd33b6a" xmlns="http://www.w3.org/1999/xhtml">
+        <font size="2" GUID="94acd2a4-06b5-4d7a-8b9e-219b19b6c59d">
+          <font size="2" GUID="0f9abd88-7996-4a28-b69c-e3765e8e7b90">
+            <div GUID="b25943c7-8010-42cd-9200-23cbc7a7208d">
+              <font size="2" GUID="defb646f-794b-4571-aefd-a6486a171cfb">
+                <strong GUID="8b4f5145-1ed7-4e09-be0a-f9d3e2ca47fe">
+                  <strong GUID="ab68e167-3b44-4bf1-a00f-c79542bb17e6">
+                    <strong GUID="4052e1c5-d5ab-4798-a203-ec00ce984d22">
+                      <font size="2" GUID="d96b47c7-eae6-48a9-b37d-c86a739e3e47">
+                        <strong GUID="eea25984-1a27-4e5a-86f0-f5e695507c6a">
+                          <font size="2" GUID="f77256a4-c1ea-4837-b279-4fd8ca603298">
+                            <div GUID="ca1c1518-3cd2-4dfa-806d-fae85aa39d55">
+                              <strong GUID="f7531839-11ce-497a-adc7-63e4b463b445">
+                                <font size="2" GUID="6d212b76-eba6-4ad4-b38c-233e7f1a4de6">
+                                  <strong GUID="4a07302c-dacc-46ca-a628-b09d947a6642">
+                                    <strong GUID="23b669ab-f23d-40c1-bddf-932d84fa1458">
+                                      <font size="2" GUID="23ef72ff-b946-4268-a684-9997f293ec2b">
+                                        <strong GUID="18a8b2bb-78da-4a79-bce4-161e2880fb24">
+                                          <font size="2" GUID="c285f33f-0270-4ddd-badf-f4bcabdfe093">
+                                            <div GUID="86eec557-79a7-4c63-b7c9-1853ccdb3f6b">
+                                              <strong GUID="81de2f57-d146-4747-9c01-3821614e73ac">
+                                                <font size="2" GUID="19088e8d-9b07-4ce5-a13c-3e2f9099312d">
+                                                  <strong GUID="5b95af6c-6571-4770-bd60-0c8e40e799a4">
+                                                    <strong GUID="944a19b6-5f67-4f07-876e-5a282550cb86">
+                                                      <font size="2" GUID="0dc80d26-dd1c-4a1e-a066-64589358401e">
+                                                        <strong GUID="2b042bc7-b8fd-4979-a3ff-9964509b5422">
+                                                          <font size="2" GUID="9fadc7d1-9e79-476c-886c-1063ff97b928">
+                                                            <div GUID="d96d86e7-07cd-44f6-bdd4-53040b52dc26">
+                                                              <strong GUID="2cdc1ce2-2fc1-474f-88e4-75b1b7346575">
+                                                                <font size="2" GUID="33446dc8-2b5d-4339-ae29-31c9a2360eda">
+                                                                  <strong GUID="0e998603-5cee-458a-a183-69cef63c57cd">
+                                                                    <strong GUID="b25b6db2-3ae9-4b17-a929-e11965bdf4a7">
+                                                                      <strong GUID="0258da49-8b17-4b88-ba5c-81b339860e31">Which of the following is an HSR's function?</strong>
+                                                                    </strong>
+                                                                  </strong>
+                                                                </font>
+                                                              </strong>
+                                                            </div>
+                                                          </font>
+                                                        </strong>
+                                                      </font>
+                                                    </strong>
+                                                  </strong>
+                                                </font>
+                                              </strong>
+                                            </div>
+                                          </font>
+                                        </strong>
+                                      </font>
+                                    </strong>
+                                  </strong>
+                                </font>
+                              </strong>
+                            </div>
+                          </font>
+                        </strong>
+                      </font>
+                    </strong>
+                  </strong>
+                </strong>
+              </font>
+            </div>
+          </font>
+        </font>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5d1370c0-8a5d-44cb-8f99-e9a8bd688403">To monitor measures taken by the PCBU that are relevant to health and safety</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6a2c8f8a-471a-46e1-b3a1-7905bac147ba">To investigate complaints from workers in the work group concerning health and safety</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="69de5fe2-763b-4729-bb8d-580704b0ec00">To represent workers in the work group in health and safety matters</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1fd0e92d-8b94-44fb-8ea1-992bee4eadf9">All of the above </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="0083330e-281f-4f12-af2d-59488a679dc7">
+      <Title GUID="bbd8ef4d-4a49-4659-9473-50e1102d6cab">Question</Title>
+      <PageElements GUID="84f4ad69-9ec3-4f6f-94f5-22e27b2c55ea">
+        <PageElement GUID="5d00a305-fd4d-4700-96d2-8b3e2550522d">
+          <Question GUID="805dfe11-7cbe-45e8-b99f-67b08e65d568"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="8c2a27b9-b4a2-486d-9f19-9fbee2a97bd5">
+      <div GUID="42b05c24-669a-4437-b5da-f54a9c97ed41" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="74064253-2f6f-46ec-ba74-73b6ff6baca6">
+          <strong GUID="53899c9b-dc60-4cf3-b44e-cc703529b3ba">
+            <strong GUID="47fe3abe-dea4-4313-a59c-a6a8de62bf4c">
+              <font size="2" GUID="fef7a480-6376-4779-9437-a5bb7c8b26b1">
+                <strong GUID="0ceb4118-c095-4f27-8600-93c7f85c7db9">
+                  <font size="2" GUID="6a85d9a9-f231-4dc9-b231-aea17db3fb33">
+                    <div GUID="dff44f69-5429-4d5a-a6bb-ae662fbd534f">
+                      <strong GUID="e16fb8af-5ccb-46c7-b143-dcc5c79231e4">
+                        <font size="2" GUID="24886534-f9d9-4029-a730-6b0c903f509e">
+                          <strong GUID="f666bfb2-3da7-48b6-a126-949581442df5">
+                            <strong GUID="69ea47c6-b949-4220-b117-82f871714370">
+                              <strong GUID="f8100605-af77-4d4d-b533-d1769b963ca4">
+                                <font size="2" GUID="a8e32f43-9728-498b-b2aa-04da6dbc87f2">
+                                  <strong GUID="44f25aae-9862-4d1f-9972-68449698395b">
+                                    <font size="2" GUID="1fb906a4-395d-41c2-a492-49b5e1f58262">
+                                      <div GUID="25a692f6-035f-4d42-a804-e6b49dfa9d72">
+                                        <strong GUID="0367640c-258c-43f4-bde7-8b9de84d226e">
+                                          <font size="2" GUID="89208459-a9c2-41a9-b395-6d1c0895a286">
+                                            <strong GUID="205decc6-0003-4b87-a658-29cab8f2d7f7">
+                                              <strong GUID="bfcad011-c7a3-4360-9f17-73b6c66b861f">
+                                                <strong GUID="edfde87d-2ed1-4cc7-815c-542b83e93c5d">Which of the following is NOT the power of an HSR?</strong>
+                                              </strong>
+                                            </strong>
+                                          </font>
+                                        </strong>
+                                      </div>
+                                    </font>
+                                  </strong>
+                                </font>
+                              </strong>
+                            </strong>
+                          </strong>
+                        </font>
+                      </strong>
+                    </div>
+                  </font>
+                </strong>
+              </font>
+            </strong>
+          </strong>
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d8d1e62d-6470-45af-9ec3-c280790d6c37">To promote the interests of members of a work group who have suffered injury at work</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ede78a42-322c-4600-962e-52fca5ca4ab2">To inquire into anything that appears to be a health and safety risk posed to workers in the work group</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1725188b-c691-4c82-bf89-62e6045bbf9c">To represent workers in health and safety matters without being asked to do so by them</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="658b5b0c-e2b2-4417-8c8e-98a1bfdff818">To make health and safety recommendations</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="69fc8a3c-8a5b-49eb-bb6b-79004713f5a3">
+      <Title GUID="5f66e354-059f-4e00-a5aa-7d0ba6f43228">Question</Title>
+      <PageElements GUID="7964a290-8f1b-4f85-868d-fb4a4c35175a">
+        <PageElement GUID="da0262cf-edaf-4032-9d83-65392b3e251f">
+          <Question GUID="1b6f07b4-8705-4e8f-bc8f-bd838bf4a796"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="be721e81-cf16-4fc1-ab2e-6b850a75f046">
+      <div GUID="b64f27b4-fed3-40f3-b94c-6dcaef3f89e4" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="bb910654-5a51-4208-bc16-04bcf4527c69">
+          <strong GUID="f076c4d1-0afb-4652-a837-2a0f3ec2a4e4">
+            <strong GUID="a5b5fd58-2fc2-45d0-a7d0-13f2684d3731">
+              <strong GUID="d36cd7ac-e40a-45c9-96ee-8c276b1a97c4">
+                <font size="2" GUID="5d779bf7-f1d3-40bc-8db0-b041ef85dbe2">
+                  <strong GUID="699e7fed-7a8f-49c2-a5a3-4bffec0b8a21">
+                    <font size="2" GUID="18d586cc-6d7b-476d-8627-b655423a7b9a">
+                      <div GUID="4bb46100-545c-4c38-bc56-211bb220fece">
+                        <strong GUID="9776ddd9-c500-4e72-b1e3-f2be755d7ab9">
+                          <font size="2" GUID="af7ad09e-b999-4c07-960c-1d047de4ae5b">
+                            <strong GUID="3f62caf0-37e6-459d-b920-8ae9eaeafee9">
+                              <strong GUID="3fedf968-a5fa-46c4-9360-5c76043b7e0e">
+                                <font size="2" GUID="5169db83-424a-4620-bd6e-52cc3b28356a">
+                                  <strong GUID="c8d0f105-0945-4e8d-b422-9ce1a9d223af">
+                                    <font size="2" GUID="9c7c27a1-ddcd-4226-ac7b-0e8179836cd9">
+                                      <div GUID="ea643550-d139-48ad-8f63-64d58b10ba29">
+                                        <strong GUID="7455af50-8525-48fb-ae65-51e03a05e437">
+                                          <font size="2" GUID="9f899cda-ceb6-4269-bd96-18dd6b1865b9">
+                                            <strong GUID="e53421f3-99bf-4324-b856-8283a691dfd9">
+                                              <strong GUID="66b6a822-5b09-492e-aac9-3c8445ca2cda">
+                                                <font size="2" GUID="d8bb804d-c1f4-494a-b98d-d93679828a3a">
+                                                  <strong GUID="28005e85-b471-4090-98f5-534fc6648dfa">
+                                                    <font size="2" GUID="da715282-a1c1-403a-ad3b-7a86668fa30c">
+                                                      <strong GUID="47435823-ce84-47c0-8f5a-a83c256d78a3">
+                                                      </strong>
+                                                    </font>
+                                                  </strong>
+                                                  <div GUID="01057801-5b25-47b3-9d28-e5fb397fe155">Fill in the blank. HSRs may issue a(n) __________ to any person they reasonably believe is contravening health and safety laws.</div>
+                                                </font>
+                                              </strong>
+                                            </strong>
+                                          </font>
+                                        </strong>
+                                      </div>
+                                    </font>
+                                  </strong>
+                                </font>
+                              </strong>
+                            </strong>
+                          </font>
+                        </strong>
+                      </div>
+                    </font>
+                  </strong>
+                </font>
+              </strong>
+            </strong>
+          </strong>
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d17bb475-5b76-4ad7-afb6-18a48545a558">… undertaking…</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ce6fe9e8-7490-49ef-8647-90afc627c9e6">… fine…</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7003deb7-973f-4a64-bf1f-b602b2aed17c">… provisional improvement notice…</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5b1c16c6-8886-4343-9e53-f485a763ed93">None of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="02110c98-0563-488e-a81e-3c9081fa2200">
+      <Title GUID="74127d7e-cb76-4987-89b5-4d6d0467ef85">Question</Title>
+      <PageElements GUID="54587709-8f4c-48ea-856c-66791880b372">
+        <PageElement GUID="0a1db5f9-d525-40f3-93a0-240f431edc88">
+          <Question GUID="cae43fea-e3f8-4161-9a7f-31fd41b0406c"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="cdef6af2-a50d-4ff0-b389-62609e86231b">
+      <div GUID="be9e3ddd-2d48-4a16-a617-d3fde598dc18" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="e3bb7591-72b2-42b5-a0b9-49d03febfcb5">
+          <strong GUID="c7cc0a4e-15c6-402e-a28b-56b2739079f5">
+            <strong GUID="67e49076-44fd-42d1-950f-89576951bdea">
+              <strong GUID="5dae37b1-73b6-4f85-813d-5610238d059c">
+                <font size="2" GUID="96e909f3-804e-45f4-89ea-e94ab327c868">
+                  <strong GUID="1d0f51a7-15de-4a51-80dc-bd33d3b413e2">
+                    <font size="2" GUID="36b33727-fbef-4359-8c0a-82b3482a3972">
+                      <div GUID="e13afd8b-c870-4b5f-9308-f40a16006fcc">
+                        <strong GUID="d5a37713-45ba-4b5d-a2cc-63f9ef4c26c6">
+                          <font size="2" GUID="3199f085-ee3b-4621-b896-e017a2bf4d82">
+                            <strong GUID="cb26e3e3-3a55-4632-945d-f62264575254">
+                              <strong GUID="ff83f573-977d-44da-ae3f-9162b1128a88">
+                                <font size="2" GUID="6933b2b9-52de-4d00-8098-ace917c6c38d">
+                                  <strong GUID="96e35bef-be12-4c91-a320-6390fbab212e">
+                                    <font size="2" GUID="c50adec9-a395-4856-bc0e-21d12df11c7f">
+                                      <div GUID="832de12f-47a0-4320-b04b-3743b055d054">
+                                        <strong GUID="a60516fa-e686-4678-8493-feb9e0d705da">
+                                          <font size="2" GUID="7cf6ee70-f7fb-461a-852a-d08b010de70d">
+                                            <strong GUID="a45458eb-75dc-4aa0-abe4-5a92097d1c72">
+                                              <strong GUID="93e2ebf9-c0d2-40d8-883f-3f80ef5745cc">
+                                                <font size="2" GUID="4d736ba2-d555-4d12-8cc2-457efa0f2a7b">
+                                                  <strong GUID="6cbc6f2f-ff14-449f-bc21-1b11f52041a9">
+                                                    <font size="2" GUID="19f28164-c168-41ae-9d34-4e8cf6141328">
+                                                      <div GUID="1b3fc53a-35fe-4afa-8100-a166fe0e4e88">
+                                                        <strong GUID="132d96f0-664b-4140-8e37-9bd3f55b4c01">
+                                                          <font size="2" GUID="98a8e05c-c37b-45ea-afc8-598c7484db4e">
+                                                            <strong GUID="9300d06e-1aac-4fb9-9314-32ac3175975f">
+                                                              <strong GUID="f2406ecc-f60d-46a2-bc5b-a86b9f9f0758">What is an HSR personally liable for? </strong>
+                                                            </strong>
+                                                          </font>
+                                                        </strong>
+                                                      </div>
+                                                    </font>
+                                                  </strong>
+                                                </font>
+                                              </strong>
+                                            </strong>
+                                          </font>
+                                        </strong>
+                                      </div>
+                                    </font>
+                                  </strong>
+                                </font>
+                              </strong>
+                            </strong>
+                          </font>
+                        </strong>
+                      </div>
+                    </font>
+                  </strong>
+                </font>
+              </strong>
+            </strong>
+          </strong>
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a99589ed-7f45-442c-bf45-3fe2169ab58f">Any type of function they perform at the workplace, regardless of whether it is health and safety-related</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7db0abd9-b8c7-41ee-8c96-26a203f1dcf5">Any omission in the performance of their job</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="de2dab9b-46a8-45de-a2a3-cd319e19a503">Any exercise of health and safety powers unless those powers have been exercised in good faith</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7bcc7707-58f5-4a47-959a-3239819ab858">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="8b525ea2-3f4f-4d4e-9917-17b47dce0077">
+      <Title GUID="592d3173-876a-4ea7-85c1-129c59c605d4">Question</Title>
+      <PageElements GUID="2c0733e7-5270-4822-ba23-c9577ba21807">
+        <PageElement GUID="06eb0c55-4e93-4636-bad4-f58631281b34">
+          <Question GUID="a4a7aee4-dd4a-427e-b77f-34a0f71bfb6c"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="b201ec93-5804-4f3c-aee1-d68e4d6595bb">
+      <div GUID="8de14cb1-9802-4270-9c44-334a3c0e4d5d" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="090ef72d-42a5-4731-aa7a-a114d11658ad">
+          <strong GUID="f4d0f18e-7ee3-45e9-abba-ff4454f548bb">
+            <strong GUID="e13fd691-9257-4c78-a5bc-3b9650887111">
+              <strong GUID="23b2a8e4-73e2-409a-8362-f5e51d866811">
+                <font size="2" GUID="1463ee97-d169-4bf2-bd60-c02c69678606">
+                  <div GUID="dc2b41cb-34fa-4b0e-8c5b-c4b8b8dfb84e">
+                    <strong GUID="25f14f66-e788-4ed7-8e1c-8a481895f590">
+                      <font size="2" GUID="3daf7757-65a4-4ca4-87a8-1d7d731b7d76">
+                        <strong GUID="8984d0d8-d906-4302-b699-5655001c52d7">
+                          <strong GUID="1de02f28-459d-4be3-9c6e-27dc30eec97e">
+                            <font size="2" GUID="f883a770-9d2a-4faf-b0f5-20a50be18332">
+                              <div GUID="e299b8fa-a209-4168-aee4-788cf3eed271">
+                                <strong GUID="e7797427-8e98-485d-bc59-930776323e46">
+                                  <font size="2" GUID="15b57491-5d9b-4947-ae73-6fc23b7e9544">
+                                    <strong GUID="6bda2d1d-e7de-4059-9e64-6bd212c845b9">
+                                      <strong GUID="48d06918-0a18-4293-961a-2cc7a6bb7a9a">
+                                        <strong GUID="f5740e03-30c7-4f3b-b332-d1edc654fa4a">Complete the sentence. A PCBU…</strong>
+                                      </strong>
+                                    </strong>
+                                  </font>
+                                </strong>
+                              </div>
+                            </font>
+                          </strong>
+                        </strong>
+                      </font>
+                    </strong>
+                  </div>
+                </font>
+              </strong>
+            </strong>
+          </strong>
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5cd80232-f885-48c3-a421-6b50a7f4ca40">… has no obligations to an HSR</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c40fffe8-f7a0-457c-a57e-3d6bd2a44426">… owes several obligations to an HSR</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4c09db36-8a25-425c-b612-f3bd6591951e">… only owes an obligation to not dismiss an HSR for performing his or her work</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c87863ae-3264-4eef-8721-a5f831c3a6d9">… has no additional obligations to an HSR besides the ones it owes all of its workers</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="294237d4-f320-4212-870b-46ea5861af2c">
+      <Title GUID="72dafb98-3781-4114-a8f3-7008f8442c6b">Question</Title>
+      <PageElements GUID="db3b6da4-74cb-45ea-a80d-4e20296c6c2f">
+        <PageElement GUID="e8addf9b-fd97-4aba-8b40-9bd38748d608">
+          <Question GUID="c90de866-3347-4aad-bccb-201e2a4f4bab"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="d3038ed7-fce0-41a2-8c6d-e76d6f0fc0f7">
+      <div GUID="f6ceb71d-e129-44c7-8e65-e7a2d1ae9397" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="162b5237-f78e-42ac-8847-943f47159469">
+          <strong GUID="cd086063-abf0-4b4e-a3b6-84836a195304">
+            <strong GUID="6ca67efb-e8ea-40e8-94dc-72c6466d810c">
+              <font size="2" GUID="e7d93636-3f33-4ed9-89a2-2dd518a1de9d">
+                <strong GUID="364dd3d7-93dd-4edb-a262-65142838aa27">
+                  <font size="2" GUID="691df82b-fcd3-4e99-b57c-d0ddde9a6175">
+                    <div GUID="25bfbcea-a3e3-4660-a96b-14592489c7f6">
+                      <strong GUID="9f1e4fe7-52f7-41c0-ae9f-a42d3ac9b716">
+                        <font size="2" GUID="7f9113b7-66a4-4777-afea-99867b3d9c7a">
+                          <strong GUID="58e51833-f6ae-4dc6-b366-0225f876ec62">
+                            <strong GUID="4bfb17eb-5480-47bf-8670-f4f66bfee61b">
+                              <font size="2" GUID="123c8cc6-76a5-4125-804d-7e4501667f83">
+                                <strong GUID="61c5461b-8ff5-4991-a4c5-9aad4f7c8e9d">
+                                  <font size="2" GUID="2ed168c7-b1be-4847-aa76-541724b24a34">
+                                    <div GUID="54e7f9bf-54a2-4b9e-9e0f-32020e16d3db">
+                                      <strong GUID="931f4547-7a93-46b3-9082-b536d7b96ef3">
+                                        <font size="2" GUID="524b8586-6e74-4e87-bff6-077e79fdf901">
+                                          <strong GUID="52294a62-b6fd-4254-b474-00131378696d">
+                                            <strong GUID="7bd5eb33-d112-4ca5-9ebc-2d95a23fc3a8">
+                                              <strong GUID="46ce5b4c-2077-4f55-833e-203828d121c4">
+                                                <strong GUID="b0275ada-48f1-42a2-b617-211d0e0d5941">If an HSR requests to attend health and safety training what must the PCBU do?</strong>
+                                              </strong>
+                                            </strong>
+                                          </strong>
+                                        </font>
+                                      </strong>
+                                    </div>
+                                  </font>
+                                </strong>
+                              </font>
+                            </strong>
+                          </strong>
+                        </font>
+                      </strong>
+                    </div>
+                  </font>
+                </strong>
+              </font>
+            </strong>
+          </strong>
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d59f47c0-8496-435d-b919-250c8acdecd1">Grant the HSR at least two days' leave to complete the training, and pay the HSR's training fees and regular income</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a038b985-6371-4846-a163-f64d672843b7">Grant the HSR at least two days' leave to complete the training, but the HSR must pay for the training</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0f621dd1-52e7-4a38-9085-704e32fb16bc">Consider whether to permit the HSR to attend</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1faa1915-773a-4785-bd11-aca65affff07">Refuse the request, as an HSR is not allowed to be absent from the workplace for a prolonged period of time</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="cdee1083-3334-4020-98a7-9794390def4b">
+      <Title GUID="ecf56111-e6de-48f5-95aa-941ab6794a24">Question</Title>
+      <PageElements GUID="175f61b3-c1bd-407e-bd2e-0472d4d19c48">
+        <PageElement GUID="871ed64e-8686-4aef-a2ea-9fd48b0afed5">
+          <Question GUID="5c6331cd-2dce-4e31-947d-c1d790a53bf9"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="5b8fa1eb-ae08-430d-a971-5e6d60686d76">
+      <strong GUID="422d44af-0e21-442a-aa5e-724769d0d440" xmlns="http://www.w3.org/1999/xhtml">Which obligation does a PCBU owe to an HSR?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9e87c9c2-64b3-44f8-934c-2300d9a3b16f">To consult with the HSR about health and safety matters, so far as reasonably practicable and confer with a HSR whenever reasonably requested by the HSR</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="aa10544e-04a5-46d3-bc27-0322cf765082">To grant the HSR access to information relating to any possible risks to workers in their work group</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="30a87340-e18d-4e8d-bf32-792168eb5802">To provide the HSR with resources that are reasonably necessary for the HSR to perform their functions</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b0a1eb90-80fa-4fa7-9f39-822a9005359b">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="c6e3b1dc-e8e4-473d-968c-8d3491caa376">
+      <Title GUID="ca5c6223-ca14-4084-b1a0-6097b8ee2c94">Question</Title>
+      <PageElements GUID="8cc21e3b-45a5-4a26-a3b6-3e4277cea8cb">
+        <PageElement GUID="095c049a-0da2-4220-92ef-af8eda5a3551">
+          <Question GUID="647ce4e9-5a9a-467d-af8f-cc9dfaedff22"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="78bb723e-ddd2-4966-b928-4b39a3cbd232">
+      <div GUID="2bb499b1-e6d5-40d2-95d2-b8d152219e82" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="e1ef276e-81a7-4676-bfc4-89b430a8dcd1">
+          <strong GUID="6d034773-d710-4329-a2e9-27883cbefe2e">
+            <strong GUID="ef3ecd87-5d2e-4f15-a045-9df76f4f9240">
+              <font size="2" GUID="900a40c8-ee35-4c45-8509-635ff8acdd24">
+                <strong GUID="f5c3f593-f64f-437c-be04-e64c4cc0f30a">
+                  <font size="2" GUID="a70f0687-bee4-42e8-af8a-f97ea0241c95">
+                    <div GUID="87627bdf-e2e3-4ed4-aacc-3598682cc675">
+                      <strong GUID="bfb4ff4c-4316-433b-a836-3e223a7dd531">
+                        <font size="2" GUID="4bd23137-06d0-4520-b288-cc54b6f500a2">
+                          <strong GUID="b39cd964-6d7a-410d-818c-9d331138860a">
+                            <strong GUID="6fee4db4-7e3f-4da2-8326-b20f680d2c8f">
+                              <font size="2" GUID="fd0e71fe-b842-4b9e-bbf6-5bc415ec5bb1">
+                                <strong GUID="d27d8728-8328-44bb-9507-4f90ab1e6bbd">
+                                  <font size="2" GUID="81156adb-453b-4b6f-8bec-a59b45ecf792">
+                                    <div GUID="5ebadac0-60b1-4478-bab2-a70ab4d509c7">
+                                      <strong GUID="bba27a11-a270-4e8d-82e7-916ad270d3ce">
+                                        <font size="2" GUID="a0d6dd02-bab7-44f3-bb35-b5f7cd6b528a">
+                                          <strong GUID="329b5f48-9bdf-43fb-b0ce-a573e2d881e3">
+                                            <div GUID="54979f2d-7a42-4923-b359-43ef04b76dac">
+                                              <strong GUID="bf939e51-3649-4c08-9ac9-79c4d86923c8">
+                                                <font size="2" GUID="172232f4-46d7-45f6-9c65-5d5bc15555b4">
+                                                  <strong GUID="9010e893-3e49-4a68-bab4-fd372f2f926a">
+                                                    <strong GUID="d8f9a5cb-321f-4039-9129-da24c876fd1e">
+                                                      <font size="2" GUID="408a04b6-cf12-4d40-aeb2-f79ce330036b">
+                                                        <div GUID="dcd23cd8-6d75-4e71-88e4-ecd26c276ccc">
+                                                          <strong GUID="4dd5661c-c99f-4493-9a8e-827882ae9051">
+                                                            <font size="2" GUID="565fc0f2-0974-4f20-a308-7e438392dcac">
+                                                              <strong GUID="9fafb503-de8b-417d-b3aa-efc433e84207">
+                                                                <strong GUID="044f67b1-914f-4838-a4dc-2b0503b4395f">Fill in the blank. A Health and Safety Committee facilitates cooperation between __________ in workplace health and safety matters.</strong>
+                                                              </strong>
+                                                            </font>
+                                                          </strong>
+                                                        </div>
+                                                      </font>
+                                                    </strong>
+                                                  </strong>
+                                                </font>
+                                              </strong>
+                                            </div>
+                                          </strong>
+                                        </font>
+                                      </strong>
+                                    </div>
+                                  </font>
+                                </strong>
+                              </font>
+                            </strong>
+                          </strong>
+                        </font>
+                      </strong>
+                    </div>
+                  </font>
+                </strong>
+              </font>
+            </strong>
+          </strong>
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d59571de-9ba0-4c6e-8160-25a6f21337ce">… the PCBU and customers…</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a8e74e38-8cb5-4ddf-9b14-632e491ccdeb">… the government and workers…</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="54fd5abc-b7e4-48ae-a61d-d28cab70ce43">… the PCBU and workers…</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e1e808e2-73b0-44fa-8cbc-73368986a0a2">… customers and workers…</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q11" IsActive="true" GUID="70c736c9-45f5-4730-9bf9-7cbff5cde596">
+      <Title GUID="c6167782-dfd0-4658-9fa1-5200f8bc3281">Question</Title>
+      <PageElements GUID="6520d93c-4a86-491c-943b-55c5b7c9bcea">
+        <PageElement GUID="cdd37e64-d81a-4ef0-93c1-b21b38045c48">
+          <Question GUID="277d72d7-6498-45eb-b44b-ac47bb5bce9c"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="c3cfdf18-2499-4b3f-9a8f-1b6c5eac1de8">
+      <strong GUID="30e79c0b-3d28-4388-8bb2-4a0360319dd0" xmlns="http://www.w3.org/1999/xhtml">If a valid request is made for a Health and Safety Committee, when must the PCBU establish the committee?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d847abd7-ee99-4b63-801c-d96e832cb4c7">Within 14 days</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="20a33eda-d25b-4df5-ad39-6703060704c6">Within two months</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fad1ae26-aae8-4746-ad4d-2ad3add516c4">At a date specified by the workers</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b2115cf4-0238-4294-8013-d89869af7329">As soon as reasonably practicable</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q12" IsActive="true" GUID="37ceee84-204d-44e1-a87e-520ab20e32e9">
+      <Title GUID="d4540d81-0570-4738-b7b8-7998377740f8">Question</Title>
+      <PageElements GUID="ca4253f9-bf7d-49c7-90d3-f2c6838b20a4">
+        <PageElement GUID="d2468013-6e0d-4ec1-b610-93c380c4d78a">
+          <Question GUID="5db086c7-c0b1-4d69-af42-2d553deb9b27"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="d98b7c98-1cbc-4bb3-b0d8-392c383e3499">
+      <strong GUID="2bfbfeaa-3d82-4485-bd14-460409aa83b7" xmlns="http://www.w3.org/1999/xhtml">What must a PCBU allow members of the Health and Safety Committee to do?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cc79f172-fd14-483c-aab2-6401c3110867">Spend as much time as necessary, and within reason, to meet and perform their functions</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fe378c4c-48b3-41d7-8533-d46f23db4446">Decide whether or not to wear the company uniform</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d346adbf-371c-4051-aa20-bf1a0fdaa1a8">Raise their level of pay</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2178cac9-999c-436a-878b-52319226207e">Have one day off each week to have a Committee meeting</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q13" IsActive="true" GUID="1cef6385-2ede-4619-9461-fdac380f6e79">
+      <Title GUID="5ab957ca-1bc9-4074-9675-be45172b3ab4">Question</Title>
+      <PageElements GUID="95654d05-e75d-4c54-bbcc-dcc2697947d2">
+        <PageElement GUID="a4f34e59-46c5-4312-b358-3b37c237acfd">
+          <Question GUID="d2461fcf-f331-413a-b64b-241408d1c09f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="8667cc19-3630-4ef2-813f-51be56a0f67f">
+      <strong GUID="21e7718d-b5f1-46df-b2cb-ae348e6b7e5c" xmlns="http://www.w3.org/1999/xhtml">Which of the following is NOT a function of a Health and Safety Committee?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f8f21de2-9845-4b0f-a6be-56ba23fc248c">To make recommendations relating to health and safety</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d0e3fe6c-4e5d-48a3-9f4f-99afa11eb659">To facilitate cooperation between the PCBU and workers in instigating, developing and carrying out measures designed to ensure health and safety at work</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0d944574-7ca0-42c9-8141-754fb011f0f8">To enter and search workplaces suspected of health and safety breaches</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7c6705e2-d7a7-4a3e-9b1d-3f761ee7ea5d">To assist in developing health and safety standards, rules, policies and procedures</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q14" IsActive="true" GUID="8c6b3504-2f17-4f03-8c4e-6c911637afa9">
+      <Title GUID="40725b1a-3aa3-4d69-8833-47f6b4770ae8">Question</Title>
+      <PageElements GUID="4cebfa35-b315-4475-abdf-a63150bf8c6d">
+        <PageElement GUID="4338ceee-8e68-43ab-b1e5-93a804827108">
+          <Question GUID="41645ff4-f43a-448b-90dc-2b0651964b53"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="d3253021-13a8-420a-99eb-f4e738b88a0e">
+      <strong GUID="95647799-f933-410f-a32a-eefa3ff8a589" xmlns="http://www.w3.org/1999/xhtml">How is a health and safety committee formed?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b18ee20b-876a-4c06-812b-b142b308480b">The PCBU selects all the members of the committee</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="344721be-7026-4751-9182-dbf84a1956b1">The most senior workers automatically form the committee</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="241d657e-f52c-4f25-887b-dcb86a67843e">The PCBU and workers (or their representatives) must agree on the members</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="33913e59-a8f1-46b4-bf26-25f343e2edb5">The committee members must be selected at random</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="10d07b30-4666-407a-9398-9935f0d59ccc">
+    <Page ID="Comp1" IsActive="true" GUID="ddbfd2a6-a317-498f-b68a-e4e263fc5cbd">
+      <Title GUID="97ee15c4-bde4-4d5e-9a9d-9c0838d733c7">End of Quiz</Title>
+      <PageElements GUID="55ff09ca-2c4f-4afd-b5ff-a024f9a6c29b">
+        <PageElement GUID="be4eb0b2-6572-4efa-900f-da9ae3b358f3">
+          <Graphic GUID="52caba9b-3df9-4187-922c-8adc44fa1e12"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/0ba20795-d95f-4ccd-b845-adf91bcf292e.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="03327417-f959-46b6-82b0-27a9a4aac046">
+          <TextBox GUID="4ad35350-0614-4100-9a3f-efd504b948a3"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="785497fa-7005-48e4-9725-9bb8b9088c50">
+    <div GUID="7cf632e9-7d91-4a0f-841f-2848ab3466cf" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="cde0e09c-ab7d-471b-b5dd-616544de7dcb"><br GUID="84ef5eb8-e4ca-4b56-94fc-94408901a18c">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="cf488085-0f60-4d12-b1b6-5c880e72d377"><br GUID="73123282-cd47-4754-9d70-65b2c9d6a7e6">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="25055a10-bb7d-4734-86ab-35a9e41646b2">
+          <SubmitAnswers GUID="f1e54045-7193-464c-a87f-d2a1ea3d0d3c"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

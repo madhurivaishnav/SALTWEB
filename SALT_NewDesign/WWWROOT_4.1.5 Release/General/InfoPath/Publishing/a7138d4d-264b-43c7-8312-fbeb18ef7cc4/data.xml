@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" productVersion="11.0.6357" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="282376fe-4ed3-4840-b169-42e021ad2474">
+  <Summary ID="bdwpr02q" GUID="78c98585-bd21-40a3-8bab-d4ae40b6a1b4">
+    <ContentType GUID="4513cd3d-a65e-4899-afc5-a81a5008bad2">quiz</ContentType>
+    <UploadType GUID="21bb8f8a-f857-4514-aba5-4c3895feb0c6">update</UploadType>
+    <Title GUID="52fa1f7b-75c0-4985-a6fe-f7a157117bd9">The Collection Principle</Title>
+    <CreatedBy GUID="0cfe3b1d-0dda-4250-8d01-c8c039a7a7ed">LTG Casual</CreatedBy>
+    <CreatedDate GUID="39ea952c-7129-4421-8b5e-68367c182e2b">2005-03-29T11:49:22</CreatedDate>
+    <LastModifiedBy GUID="aab4d176-9eeb-4cb1-bd9a-591b94429226">LTG Casual</LastModifiedBy>
+    <LastModifiedDate GUID="f8e3bd53-7acd-4f95-97ef-29152f7a03dd">2005-11-16T10:45:38</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="7c33e76a-e840-4779-854b-32da0038090d">
+    <Page ID="Intro1" IsActive="true" GUID="1a4cc924-7a50-44b2-a074-3397579a4c3d">
+      <Title GUID="cfc54f28-bebf-4dac-87d4-fd876b867363">The Collection Principle</Title>
+      <PageElements GUID="e4706d84-2cc9-439f-a908-909bb2cb0d96">
+        <PageElement GUID="bfaf168c-df62-4ace-9a5d-faae900624d1">
+          <Graphic GUID="c809560b-bb6b-4781-9667-f88e9a28c775"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/5d74b52d-9be2-485b-a76a-6440aed1ee8b.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="386896f5-dfb4-4747-b7eb-cfcd05215b47">
+          <TextBox GUID="89dd9fcf-0b20-4229-9a37-321434dc94a5"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="f3eeb5df-5fd6-4edf-9b54-f69ee4c7e918">
+    <div GUID="87b6b53c-b468-4041-84b5-c99085c52b56" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="b078c011-8b01-43f4-9a16-c86d65394962">%System_NumberOfQuestions%</strong>  questions about<strong GUID="b0f620e1-9c9e-4466-8f71-0596e92f4fa8"> The Collection Principle</strong>.<br GUID="29dde801-1ff3-4c8c-a851-166f4f4caf80"><br GUID="e2a0680c-83c0-440f-af3a-e611c76926b1">You may be asked 3 different types of questions: multiple choice, true/false or yes/no. Answer each question by clicking the radio button to the left of the most appropriate response.<br GUID="080d585b-fd8e-46a6-947c-3a2d58ee3b2c"><br GUID="75fc784a-a22d-40a5-a36e-25b55a08aff2">After you answer the last question, you will be given the chance to review and then submit your answers.<br GUID="68258ece-a354-407a-9fb7-6f67cc888ade"><br GUID="2c0d5c3c-3645-440b-bafa-7e2e127cd23f">Please note that if you exit the quiz before clicking the Submit Answers button then your answers will not be saved. <br GUID="16d4b2f9-4280-4b7f-9d16-09bfd9defb95"><br GUID="683e0bd0-c99d-4089-b670-d039682e9a39">To move between questions, use the <strong GUID="ab1d4ddc-5f89-4a76-8cde-d2fde91a0508">Previous</strong> and <strong GUID="54da9f52-bbda-4a20-8e71-bbaaa8b5813d">Next</strong> navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="afae10a8-c204-420c-b521-254935f141d4">
+    <Page ID="Q1" IsActive="true" GUID="66b94f9b-2e27-475a-aa64-1e801e6d691c">
+      <Title GUID="4de1562c-afdc-44fc-aff7-039a3e110eea">Question</Title>
+      <PageElements GUID="ce7022eb-80af-4ff1-916f-f85162b324ba">
+        <PageElement GUID="748425bf-7839-4eb1-9fa1-2ffcc894c85b">
+          <Question GUID="eb35471c-b905-471e-bc37-719fbd83164b"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="d3542c06-ee16-413c-8e74-2124765929ac">
+      <strong GUID="46619b76-0116-4dac-87b4-76ace7ae24c2" xmlns="http://www.w3.org/1999/xhtml">Collection of personal information from third parties is:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2a1595b1-ea64-40ea-acd7-1f94c4693397">never allowed</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f5eaac87-18b4-4ead-a2a6-8f1174eb5336">allowed only with the individual's consent</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b133a5a0-19c6-45f1-b561-561067c0fd1b">not allowed where it is reasonably practicable to collect from individuals</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f3d3196c-4d36-47dd-8a01-019732d0be85">only allowed for sensitive information</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="5bcf7863-b2c6-4385-be0a-69915153a31a">
+    <Page ID="Comp1" IsActive="true" GUID="1078d1f4-874a-4135-be18-6c114565dff0">
+      <Title GUID="9750d853-95f4-4694-9fae-d7a6f87b9571">End of quiz</Title>
+      <PageElements GUID="741ec566-3230-453b-8668-11ee2f151669">
+        <PageElement GUID="4581ac4c-9aee-41de-a401-227e7b0cbbba">
+          <Graphic GUID="9a04d489-b410-404a-86e7-ca549263ff05"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/fa3b77f4-cf55-488e-a750-428cd6b1a257.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="637a4c5e-0773-4721-95f1-492eee394bec">
+          <TextBox GUID="f5c586a2-7602-4260-bed6-eb10c51aa523"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="65d5bd3d-4a17-407a-9dfc-c72abb681967">
+    <div GUID="c4e4dd4d-3977-464d-81fe-df3fa169e402" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="644c92af-ff2c-4c6a-8b75-98bf6454312e"><br GUID="babf3a18-1475-4efe-9a8b-aee509c2e922">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="ccb1c213-c385-46ee-a2b8-1213e2646350"><br GUID="8bc75968-80a5-43c3-a3a9-29116d79dc99">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="3b05cf28-4f9e-4167-b389-030bdf499766">
+          <SubmitAnswers GUID="8923b7d9-9e1f-4a74-a1aa-553c7cb73fcb"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

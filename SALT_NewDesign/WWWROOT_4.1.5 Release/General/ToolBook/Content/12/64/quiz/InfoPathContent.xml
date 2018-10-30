@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" productVersion="11.0.6565" PIVersion="1.0.0.0" ?><?mso-application progid="InfoPath.Document"?><BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-gb">
+	<Summary ID="chinesequiz1">
+		<ContentType>quiz</ContentType>
+		<UploadType>update</UploadType>
+		<Title>公司全體股東一致決議</Title>
+		<CreatedBy>907893</CreatedBy>
+		<CreatedDate>2007-03-29T10:58:19</CreatedDate>
+		<LastModifiedBy></LastModifiedBy>
+		<LastModifiedDate xsi:nil="true"></LastModifiedDate>
+	</Summary>
+	<Introduction>
+		<Page ID="Intro1" IsActive="true">
+			<Title>公司全體股東一致決議</Title>
+			<PageElements>
+				<PageElement>
+					<TextBox>
+									<Description><div xmlns="http://www.w3.org/1999/xhtml" style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt" align="justify"><font face="undefined"><span dir="ltr"><font face="PMingLiU">批准</font></span>(i) <font face="PMingLiU">擬議的朱女士向</font>DRTL<font face="PMingLiU">轉讓其在公司註冊資本中的全部權益，即公司註冊資本的百分之五十一</font>(51%)<font face="PMingLiU">；</font>(ii) <font face="PMingLiU">擬議的鍾先生向朱先生轉讓其在公司註冊資本中的全部權益，即公司註冊資本的百分之三十</font>(30%)<font face="PMingLiU">；</font>(iii) <font face="PMingLiU">其後公司由一個內資民營公司轉變爲中外合資經營企業；及</font>(iv) </font><font face="PMingLiU">公司名稱由“上虞市雲濤化工有限責任公司”相應變更爲“上虞帝瑞雲濤化工有限公司”。</font></div></Description>
+								</TextBox>
+				</PageElement>
+			</PageElements>
+		</Page>
+	</Introduction>
+	<Questions PageFilter="0">
+		<Page ID="Q1" IsActive="true">
+			<Title>Question</Title>
+			<PageElements>
+				<PageElement>
+					<Question>
+						<Description><div xmlns="http://www.w3.org/1999/xhtml"><font face="undefined"><span dir="ltr"><font face="SimSun">朱春秀女士（“</font></span><strong><font face="SimHei">朱女士</font></strong><font face="SimSun">”），朱运涛先生（“</font><strong><font face="SimHei">朱先生</font></strong><font face="SimSun">”），钟新龙先生（“</font><strong><font face="SimHei">钟先生</font></strong><font face="SimSun">”）和</font>DRTL Export Overseas, S. L ("<strong>DRTL</strong>")<font face="SimSun">近日签署股权转让协议，根据该协议，朱女士同意出让而</font>DRTL<font face="SimSun">同意收购朱女士在公司注册资本中所持有的全部百分之五十一</font>(51%)</font><font face="SimSun">的权益。</font></div></Description>
+						<Answers>
+							<Answer ID="1" Correct="false">
+								<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">钟新龙先</font></span></Description>
+							</Answer>
+							<Answer ID="2" Correct="true">
+								<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">姓名</font></span></Description>
+							</Answer>
+						</Answers>
+					</Question>
+				</PageElement>
+			</PageElements>
+		</Page>
+	<Page ID="Q2" IsActive="true">
+									<Title>Question</Title>
+									<PageElements>
+										<PageElement>
+											<Question>
+												<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">钟先生和朱先生</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">[</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">近日签订</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">]</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">／</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">[</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">将签订</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">]</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">另一份股权转让协议，根据该协议，钟先生同意出让而朱先生同意收购钟先生在公司注册资本中所持有的全部百分之三十</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">(</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">30%)</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">的权益。</font></span></Description>
+												<Answers>
+													<Answer ID="1" Correct="false">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">姓名</font></span></Description>
+													</Answer>
+													<Answer ID="2" Correct="true">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">钟新龙先</font></span></Description>
+													</Answer>
+												</Answers>
+											</Question>
+										</PageElement>
+									</PageElements>
+								</Page><Page ID="Q3" IsActive="true">
+									<Title>Question</Title>
+									<PageElements>
+										<PageElement>
+											<Question>
+												<Description><div xmlns="http://www.w3.org/1999/xhtml"><font face="undefined"><font face="SimSun"><span dir="ltr">受制于主管审批机关对上述</span>序言</font>(A)<font face="SimSun">和序言</font>(B)<font face="SimSun">项下股权转让的批准，公司将变更为中外合资经营企业，其中朱先生和</font>DRTL<font face="SimSun">分别持有公司注册资本的</font>49%<font face="SimSun">和</font>51%</font><font face="SimSun">，公司名称将变更为上虞帝瑞云涛化工有限公司。</font></div></Description>
+												<Answers>
+													<Answer ID="1" Correct="false">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">姓名</font></span></Description>
+													</Answer>
+													<Answer ID="2" Correct="true">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">钟新龙先</font></span></Description>
+													</Answer>
+												</Answers>
+											</Question>
+										</PageElement>
+									</PageElements>
+								</Page><Page ID="Q4" IsActive="true">
+									<Title>Question</Title>
+									<PageElements>
+										<PageElement>
+											<Question>
+												<Description><span style="FONT-SIZE: 12pt" xmlns="http://www.w3.org/1999/xhtml"><font face="SimSun">公司近日同海宁市云涛化工有限责任公司（“</font></span><span style="FONT-SIZE: 12pt" xmlns="http://www.w3.org/1999/xhtml"><strong><font face="SimHei">海宁云涛</font></strong></span><span style="FONT-SIZE: 12pt" xmlns="http://www.w3.org/1999/xhtml"><font face="SimSun">”）签订了一份委托生产协议（</font></span><span style="FONT-SIZE: 12pt" xmlns="http://www.w3.org/1999/xhtml">"</span><span style="FONT-SIZE: 12pt" xmlns="http://www.w3.org/1999/xhtml"><strong><font face="SimHei">委托生产协议</font></strong></span><span style="FONT-SIZE: 12pt" xmlns="http://www.w3.org/1999/xhtml">"</span><span style="FONT-SIZE: 12pt" xmlns="http://www.w3.org/1999/xhtml"><font face="SimSun">），根据该协议，海宁云涛同意在公司如上述序言</font></span><span style="FONT-SIZE: 12pt" xmlns="http://www.w3.org/1999/xhtml">(</span><span style="FONT-SIZE: 12pt" xmlns="http://www.w3.org/1999/xhtml">C)</span></Description>
+												<Answers>
+													<Answer ID="1" Correct="false">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">姓名</font></span></Description>
+													</Answer>
+													<Answer ID="2" Correct="true">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">钟新龙先</font></span></Description>
+													</Answer>
+												</Answers>
+											</Question>
+										</PageElement>
+									</PageElements>
+								</Page><Page ID="Q5" IsActive="true">
+									<Title>Question</Title>
+									<PageElements>
+										<PageElement>
+											<Question>
+												<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">此外，公司近日同</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">DSM Deretil S.A.</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">（</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">"<strong>DSM</strong>", DRTL</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">的关联公司）签订了供应协议（“</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><strong><font face="SimHei">供应协议</font></strong></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">”），约定在</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">DRTL</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">如上述序言</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">(</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">A)</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">中所述完成其对朱女士在公司中全部百分之五一</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">(</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">51%)</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">的权益的收购后公司将长期向</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">DSM</span><font xmlns="http://www.w3.org/1999/xhtml" face="SimSun"><span style="FONT-SIZE: 12pt">供应</span><span style="FONT-SIZE: 12pt">左旋苯甘氨酸</span></font></Description>
+												<Answers>
+													<Answer ID="1" Correct="false">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">姓名</font></span></Description>
+													</Answer>
+													<Answer ID="2" Correct="true">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">钟新龙先</font></span></Description>
+													</Answer>
+												</Answers>
+											</Question>
+										</PageElement>
+									</PageElements>
+								</Page><Page ID="Q6" IsActive="true">
+									<Title>Question</Title>
+									<PageElements>
+										<PageElement>
+											<Question>
+												<Description><div xmlns="http://www.w3.org/1999/xhtml"><font face="undefined"><span dir="ltr"><font face="SimSun">批准</font></span>(i) <font face="SimSun">拟议的朱女士向</font>DRTL<font face="SimSun">转让其在公司注册资本中的全部权益，即公司注册资本的百分之五十一</font>(51%)<font face="SimSun">；</font>(ii) <font face="SimSun">拟议的钟先生向朱先生转让其在公司注册资本中的全部权益，即公司注册资本的百分之三十</font>(30%)<font face="SimSun">；</font>(iii) <font face="SimSun">其后公司由一个内资民营公司转变为中外合资经营企业；及</font>(iv) </font><font face="SimSun">公司名称由“上虞市云涛化工有限责任公司”相应变更为“上虞帝瑞云涛化工有限公司”。</font></div></Description>
+												<Answers>
+													<Answer ID="1" Correct="false">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">姓名</font></span></Description>
+													</Answer>
+													<Answer ID="2" Correct="true">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">钟新龙先</font></span></Description>
+													</Answer>
+												</Answers>
+											</Question>
+										</PageElement>
+									</PageElements>
+								</Page><Page ID="Q7" IsActive="true">
+									<Title>Question</Title>
+									<PageElements>
+										<PageElement>
+											<Question>
+												<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">批准</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">(</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">i) </span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">朱运涛先生与</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">DRTL EXPORT OVERSEAS, S. L.</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">为组建与运营上虞帝瑞云涛化工有限公司于</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">2005</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">年</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">5</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">月</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">25</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">日签署的合资经营合同（“</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><strong><font face="SimHei">合资合同</font></strong></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">”）；和</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">(</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">ii) </span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">将朱女士、钟先生和朱先生于</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">2001</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">年</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">1</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">月</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">8</span><font xmlns="http://www.w3.org/1999/xhtml" face="SimSun"><span style="FONT-SIZE: 12pt">日签署（</span><span style="FONT-SIZE: 12pt">且</span><span style="FONT-SIZE: 12pt">不时变更）的公司章程替换为朱先生和</span></font><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">DRTL</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">于</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">2005</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">年</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">5</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">月</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">25</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">日签署的公司章程（“</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><strong><font face="SimHei">合资企业章程</font></strong></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">”）</font></span></Description>
+												<Answers>
+													<Answer ID="1" Correct="false">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">姓名</font></span></Description>
+													</Answer>
+													<Answer ID="2" Correct="true">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">钟新龙先</font></span></Description>
+													</Answer>
+												</Answers>
+											</Question>
+										</PageElement>
+									</PageElements>
+								</Page><Page ID="Q8" IsActive="true">
+									<Title>Question</Title>
+									<PageElements>
+										<PageElement>
+											<Question>
+												<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">批准</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">(</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">i) </span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">公司与海宁云涛于</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">2005</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">年</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">5</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">月</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">25</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">日签署的委托生产协议和</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">(</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">ii) </span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">公司与</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">DSM</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">于</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">2005</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">年</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">5</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">月</font></span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt">25</span><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">日签署的供应协议。</font></span></Description>
+												<Answers>
+													<Answer ID="1" Correct="false">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">姓名</font></span></Description>
+													</Answer>
+													<Answer ID="2" Correct="true">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">钟新龙先</font></span></Description>
+													</Answer>
+												</Answers>
+											</Question>
+										</PageElement>
+									</PageElements>
+								</Page><Page ID="Q9" IsActive="true">
+									<Title>Question</Title>
+									<PageElements>
+										<PageElement>
+											<Question>
+												<Description><div xmlns="http://www.w3.org/1999/xhtml"><font face="undefined"><span dir="ltr"><font face="SimSun">向浙江省经济贸易委员会（</font></span><strong><font face="SimHei">审批机构</font></strong><font face="SimSun">）报批上述</font>(i) <font face="SimSun">朱女士向</font>DRTL<font face="SimSun">转让其在公司注册资本中的全部权益，公司名称由“上虞市云涛化工有限责任公司”变更为拟议的“上虞帝瑞云涛化工有限公司”及其后公司转变为一家中外合资经营企业；以及</font>(ii) </font><font face="SimSun">合资合同和合资企业章程。</font></div></Description>
+												<Answers>
+													<Answer ID="1" Correct="false">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">姓名</font></span></Description>
+													</Answer>
+													<Answer ID="2" Correct="true">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">钟新龙先</font></span></Description>
+													</Answer>
+												</Answers>
+											</Question>
+										</PageElement>
+									</PageElements>
+								</Page><Page ID="Q10" IsActive="true">
+									<Title>Question</Title>
+									<PageElements>
+										<PageElement>
+											<Question>
+												<Description><div xmlns="http://www.w3.org/1999/xhtml"><font face="undefined"><span dir="ltr"><font face="SimSun">授权董事会主席或者董事会主席所授权的人，代表公司签署所有为达成上述目的所需的有关文件，包括但不限于，向审批机构报批上述朱女士向</font></span>DRTL</font><font face="SimSun">转让注册资本的申请书。</font></div></Description>
+												<Answers>
+													<Answer ID="1" Correct="false">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">姓名</font></span></Description>
+													</Answer>
+													<Answer ID="2" Correct="true">
+														<Description><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="SimSun">钟新龙先</font></span></Description>
+													</Answer>
+												</Answers>
+											</Question>
+										</PageElement>
+									</PageElements>
+								</Page></Questions>
+	<Complete>
+		<Page ID="Comp1" IsActive="true">
+			<Title>朱春秀女士</Title>
+			<PageElements>
+				<PageElement>
+					<TextBox>
+									<Description><div xmlns="http://www.w3.org/1999/xhtml" style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt" align="justify"><font face="undefined"><span dir="ltr"><font face="SimSun">授权董事会主席或者董事会主席所授权的人，代表公司签署所有为达成上述目的所需的有关文件，包括但不限于，向审批机构报批上述朱女士向</font></span>DRTL</font><font face="SimSun">转让注册资本的申请书。</font></div></Description>
+								</TextBox>
+				</PageElement>
+			<PageElement>
+									<SubmitAnswers></SubmitAnswers>
+								</PageElement></PageElements>
+		</Page>
+	</Complete>
+</BDWInfoPathQuiz>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution name="urn:schemas-microsoft-com:office:infopath:Lesson:-myXSD-2005-02-15T06-33-01" href="manifest.xsf" solutionVersion="1.0.0.443" productVersion="11.0.6357" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<Summary ID="">
+		<ContentType>lesson</ContentType>
+		<UploadType>update</UploadType>
+		<Title></Title>
+		<CreatedBy></CreatedBy>
+		<CreatedDate></CreatedDate>
+		<LastModifiedBy></LastModifiedBy>
+		<LastModifiedDate xsi:nil="true"></LastModifiedDate>
+	</Summary>
+	<Players></Players>
+	<Pages PageFilter="0">
+		<Page ID="" IsActive="true">
+			<IncludedInTOC>true</IncludedInTOC>
+			<Title></Title>
+			<PageElements>
+				<PageElement>
+					<TextGraphic>
+						<Picture>
+							<Image></Image>
+							<AltText></AltText>
+							<Align>Left</Align>
+						</Picture>
+						<Description></Description>
+					</TextGraphic>
+				</PageElement>
+			</PageElements>
+		</Page>
+	</Pages>
+</BDWInfoPathLesson>

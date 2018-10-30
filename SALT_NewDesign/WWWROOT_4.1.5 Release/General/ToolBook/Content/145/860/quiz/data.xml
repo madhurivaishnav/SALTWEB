@@ -1,0 +1,617 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" productVersion="15.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="f814b469-5bd0-40cd-a87d-02f91595fdae">
+  <Summary ID="grcwhs03q" GUID="28074139-d484-43aa-aa8e-3a51da0e346f">
+    <ContentType GUID="38221dc5-8829-49e5-b835-1373750108e7">quiz</ContentType>
+    <UploadType GUID="7ac39108-baaa-4d42-9f6d-18d17d0436e6">correction</UploadType>
+    <Title GUID="9ff22b12-16f1-44cc-874a-77411685f8d5">The duties of PCBUs</Title>
+    <CreatedBy GUID="6cb057b8-1660-4b5e-b5da-359e05b0f2fd">LTG Casual</CreatedBy>
+    <CreatedDate GUID="22f2a41c-4605-4c26-a4ab-d10f55e9e377">2005-03-30T16:09:22</CreatedDate>
+    <LastModifiedBy GUID="6e8db808-1476-4005-9ecb-b81fe0e77831">Laura.Tomich</LastModifiedBy>
+    <LastModifiedDate GUID="5f11b4bf-dfb2-42fd-b229-f7680915ea94">2014-10-16T11:50:59</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="f60c91d6-5ced-4d5d-8de1-286a7001edf9">
+    <Page ID="Intro1" IsActive="true" GUID="2ae35654-3ea9-43fa-b3a8-409e9d88903d">
+      <Title GUID="3b26d2ed-1f67-4060-a56d-8cdd98316d80">The duties of PCBUs</Title>
+      <PageElements GUID="dcfbb93f-73f3-40b1-aed6-3a1e02d516d6">
+        <PageElement GUID="e46354dd-181a-4021-85ad-191d1d9ae586">
+          <Graphic GUID="0c4a3f3d-4610-40e1-a71f-06695672618e"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/1a013a7d-57bc-4ce7-8b2e-c2f8438c5dc9.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="87eb2039-d411-46be-be01-3f9349ec9730">
+          <TextBox GUID="a55772a5-1907-4a32-9e35-0b340b1e3427"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="15515728-2ae3-4771-b2bd-b096ac6b9cc2">
+    <div GUID="ebe7f793-4ce2-4c60-b244-884d682dfa0f" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="38df1b7d-3921-40cf-8899-464990b9612d">%System_NumberOfQuestions%</strong>  questions about the <strong GUID="59b6c3eb-24a0-447e-b4db-564b7743c5e6">work health and safety duties imposed on PCBUs.</strong></div>
+    <div GUID="10771f06-3cfd-40c7-9d2c-d32ccd4981bc" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="85e253c5-d3a7-4951-a566-34a8f732c2ec" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="722291f8-0d4d-4dd2-8ca6-c88af0d0c98f">
+        <font size="2" GUID="316f7fa5-b4de-4b6c-b418-2d0c9e7c0213">You will be asked multiple choice questions. Answer each question by clicking the button to the left of the most appropriate response.</font>
+      </div>
+      <div GUID="4b60d778-b738-4d80-983a-69b628b9608b">
+        <font size="2" GUID="0be13a3f-a92b-41c8-9c55-67284556a9a6">
+        </font> </div>
+      <div GUID="f93153d2-f1e5-4c64-a3dd-12c32f473aa5">
+        <font size="2" GUID="6e4203b3-912d-49c7-b476-27e25a3e5287">After you answer the last question, you will be given the chance to review and then submit your answers.</font>
+      </div>
+      <div GUID="7e1ecee2-c1e2-4383-9edf-e33f5c4a9b61">
+        <font size="2" GUID="17be0b09-7808-4867-88c8-9fe179de9dc1">
+        </font> </div>
+    </div>
+    <div GUID="ee5dabc1-0e3e-4e3f-86f2-47f5bea48545" xmlns="http://www.w3.org/1999/xhtml">Please note that if you exit the quiz before clicking the Submit Answers button then your answers will not be saved. </div>
+    <div GUID="7dbf4f0a-956b-494e-9ae2-34172307bedd" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="f0497230-afb4-40ff-90d2-ae1adee0adff" xmlns="http://www.w3.org/1999/xhtml">To move between questions, use the <strong GUID="5ddbbe1e-4b1a-4715-ade7-6f6c03d01375"><font size="4" GUID="ef85772f-db12-4b7a-9d7d-d2347724c1d2"><font face="Arial" GUID="e33633b5-50d1-435d-b3d0-94ecbedf2f82">◄</font></font></strong>and <font size="4" face="Arial" GUID="0288a80d-59ae-4c2e-b489-32a352baa9e0">► </font>navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="99ea5ca5-a4a3-458b-9070-e6bb236b165e">
+    <Page ID="Q1" IsActive="true" GUID="333f447e-12b7-426d-a427-32251176a684">
+      <Title GUID="313d122d-f625-4781-bbba-632c713f1a30">Question</Title>
+      <PageElements GUID="08a4a269-fdc7-449e-8125-5986abd6e89d">
+        <PageElement GUID="0eeac355-5ca0-4f1a-98d2-bee5f0ea40ac">
+          <Question GUID="ea36b51a-ebcd-4e0b-ba73-2116a5a16dc5"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="c45d9140-9a68-477b-9fe4-863e77fc8ee1">
+      <strong GUID="cee007b7-95ea-4a87-83ab-6ac873603a6e" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="1a13aabd-fc2a-4315-bb69-ff97b3ef834a">Who is NOT included in a PCBU's primary duty of care for the </strong>
+        <strong GUID="2704b19b-b308-4c93-9402-6e035112e7f4">health and safety of workers?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d6d8bf85-503e-4917-8b75-bd66d69c321d">Employees</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cfffedc1-ee3f-48c1-80c5-64a26b4a5fe7">Workers the PCBU engages</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0a2a51ac-8903-48c2-8406-ea1f996ca310">Workers whose work activities are influenced or directed by the PCBU</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c20c6ccc-189b-4f38-8812-1edb7f512925">Visitors</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="fd9b871b-404d-4e87-a426-f984328b4205">
+      <Title GUID="9668a51e-3a35-404c-a34a-04cee68ca9be">Question</Title>
+      <PageElements GUID="43dce733-4028-457e-833f-b36d0cc9b8f1">
+        <PageElement GUID="4710e976-42f8-4963-a4d6-1cea8b3dcea5">
+          <Question GUID="170f4d3c-7a7f-405e-ba31-0846fca75ad9"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="a54d736d-9a99-4875-897d-dacc45445be0">
+      <strong GUID="102bc172-4964-4bb2-81ea-b895ea7e5fa6" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="d91abf26-707d-4236-a804-cb4701c3f640">What would a PCBU NOT be required to do to fulfil his or her primary duty of care to workers?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="46a993f1-4964-4de7-9a35-1be0a0673c0e">Provide any information, training or supervision necessary to protect workers from health and safety risks</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1448fb4f-3fdb-4056-b666-20ca0ea2b763">Monitor the health of workers to prevent illness of injury to workers</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f037ec3f-9077-478d-ba03-c509e28aea89">Provide and maintain safe systems of work</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d331ddc6-061b-4856-8725-ed13bed158a3">Personally supervise workers while they work to ensure they are not exposed to health and safety risks</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="0d4da8b3-8522-4bae-a59f-377421c11658">
+      <Title GUID="e55fe0f9-eb6b-4538-8b86-a156861a0493">Question</Title>
+      <PageElements GUID="069e96e6-7fff-44da-bd48-a2d05097dfd4">
+        <PageElement GUID="4c66a806-4d45-4b5d-aa16-c4b71162ba2a">
+          <Question GUID="faf6b6ed-4ea6-4bf2-8aef-a0e0b79b4f11"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="9a5b3d1a-d218-4976-8fbd-64535bee4fd4">
+      <strong GUID="87b75c10-331f-41d5-9493-103f24b8ea1b" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="de2a3bb0-f42d-470f-bd29-9a9ff427feb1">
+          <strong GUID="03a3d9ef-dcf2-4976-8879-cd99c7a11888">A PCBU has the duty to ensure the safety of customers who enter the workplace. True or false?</strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="61997110-67b0-4717-b1da-24ca9f8da282">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9d43aae5-3ba6-4465-8b42-9b1dd762833a">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="7ff0d684-3842-44e8-8dfc-324e233419a0">
+      <Title GUID="21e6a6c6-5aea-4eb8-bd61-f4851c6771a3">Question</Title>
+      <PageElements GUID="d6b83727-a9bd-47fa-bde1-2ee4f23e0ce4">
+        <PageElement GUID="d7a346be-31d3-48cc-84cb-604c16a82ddb">
+          <Question GUID="990bfb4c-640f-4a3b-b711-eba4b2a75a18"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="f037c6ff-a331-45ac-8cfd-6033935a84ec">
+      <strong GUID="02dfbbe3-9bd5-43db-b628-5c25fd8036b5" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="5b190307-e7b2-4b5a-9593-ff2de3721f4a">What steps should a PCBU perform to manage health and safety risks?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="db2542b1-874b-4775-ad2a-2e02c6ce0435">Identify hazards, assess risk, coordinate with HS representatives, review control measures</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c0e36c91-6410-48aa-88ea-485614b04d4b">Identify hazards, assess risk, control risk, review control measures</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ef560c7b-a9c7-4382-a662-e31ffe5de048">Identify hazards, assess workers, control risk, review control measures</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b4847daa-a74d-4b75-a72a-a7f1b915063c">Ignore hazards, assess workers, control risk, review control measures</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="afeace6e-4369-438e-8b68-62f6a30b6d62">
+      <Title GUID="72bb947c-7be0-45aa-abaf-6ee5c8d81b34">Question</Title>
+      <PageElements GUID="1cc21c4b-a752-40ba-bd95-7da9616c3d41">
+        <PageElement GUID="764f2988-fbad-4abf-b61c-26a9df49627a">
+          <Question GUID="c3b779d7-4e15-4340-80a0-db198641c17d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="96c95ca0-f3bc-447a-b2bf-6229083ff1e6">
+      <strong GUID="8399355b-2ed6-430e-8d38-091e0694f073" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="a1bf0587-4948-44c5-9361-2a896c1b9d58">If it is not reasonably practicable to eliminate a WHS risk, what should a PCBU do?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6f80af9b-1346-4d9d-8c49-ef8f0671311f">Use a hierarchy of control measures to minimise the risk</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6bff114f-947d-4c6f-bdf3-36255869259b">Hold workers liable for the duty to ensure health and safety</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e22fc00d-84ff-41af-97fa-6e4e23096a82">Transfer the duty to ensure health and safety to another party </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b7b1e806-93b6-4f97-83c0-30c238c4e63a">Nothing, the PCBU must eliminate the WHS risk</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="db7b8890-ecd6-471b-bb6e-e6daf21eae92">
+      <Title GUID="1957caca-dc01-43b6-bc6b-30f429f12b85">Question</Title>
+      <PageElements GUID="365ad7df-ea05-4726-9e49-b0325cdff1df">
+        <PageElement GUID="853ae9ec-e5d5-42f1-97a7-89ea6bcdc2cf">
+          <Question GUID="be032e36-942f-4fab-be58-da064c2f3499"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="5856c4f7-c44e-4649-a77e-5e0a1dff173b">
+      <strong GUID="0aa0534d-e738-427e-94eb-cc95d7ff9503" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="d2eb8f24-d3a6-47c3-81e4-7d94f5c40be5">What is the last measure in the process of minimising risk?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fa1ff9a9-fa1f-48bf-8a35-6a59bff7cac8">Provide personal protective equipment for use</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="43e1855d-96d6-46e6-81e4-7118da0bc517">Isolating the hazard from people</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c253b56c-6152-4c89-bec4-985b5a0ea4c3">Putting in place engineering controls</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2fbfc263-7ba8-47d8-bc5e-3bb9a87d44d6">Implementing administrative actions (for example, work procedures)</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="ec744ce4-1972-4c09-8f84-df222cde0ddc">
+      <Title GUID="3c328f9f-7134-4679-b804-51535aee40ed">Question</Title>
+      <PageElements GUID="5be8f086-0349-4ee2-aa9f-d8a35c398506">
+        <PageElement GUID="db2f7edb-73fd-479d-80dd-ff8d768573ee">
+          <Question GUID="9366dbc7-b032-410c-a06a-e5a4b831f7fb"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="05124dbd-a93d-4440-908e-b5774a8204cd">
+      <strong GUID="b9368362-8317-43e2-b150-9886e92cf9a7" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="0f285e7c-41f5-4fea-b7a0-80716e00e023">Which is true in relation to the assessment of risks? </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4296f021-d011-4563-a066-6fbfad0c6451">You should consider what types of harm could arise from each hazard</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8b80aae1-aa53-49a2-83c8-588baba77007">Past incidents should not be taken into account</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="36853634-6360-410a-b684-4f648a3b95a3">You should not consider how many people are involved in a task</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a863a34e-81e0-4cda-90ae-274cf478ea5e">You should calculate the probability of harm by considering whether it is necessary to perform a task</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="9401fb33-f721-43fb-a5d1-21d02f230595">
+      <Title GUID="f39bec50-b96a-4e70-9fc6-47078b5ce3dd">Question</Title>
+      <PageElements GUID="9ca140dc-3247-4b3b-8dbe-0dc7661497ba">
+        <PageElement GUID="5eaa4754-2b3c-49f3-8cde-7ff069a93850">
+          <Question GUID="dda9f8dc-f350-4bdb-9370-f6eac39dcac4"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="e73815ec-d5a8-4ccf-b8c8-6af249017d4a">
+      <strong GUID="e23459a5-d9d2-47e7-8755-92e2d935734d" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="244924ff-a0d6-479d-b61b-f926b5c2107c">Complete the sentence. Control measures…</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1fa771e5-a602-41f3-87f9-b91504a8d1eb">… should be used only if a risk has been eliminated</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="56d39e6b-52b3-4445-8898-319df7687d28">… should be supported with workplace training, instruction and information</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0a110c63-fd77-4070-9202-ec5eafc22d51">… do not involve any isolation of hazards</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c62c4a46-0519-44d1-9282-723c16264ed3">… should only be considered at one level</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="cc3730f1-7eea-436e-99cd-20a7a2421c4c">
+      <Title GUID="50e51dca-ac68-4336-877f-73db26bf5f2a">Question</Title>
+      <PageElements GUID="d4d32da8-6a1f-4566-b4d9-8d906c5211b0">
+        <PageElement GUID="56d942b4-d554-4c05-b190-819a78a246bb">
+          <Question GUID="c98a8021-dd1f-4745-9e3c-71833c4c865c"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="90357fbf-6eed-4606-b531-b5ec875fe9f0">
+      <strong GUID="ab38c767-7a78-44ad-bb83-2a3ca8618186" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="1d7627df-e93c-42e8-9edc-76943353d458">When reviewing a control measure, you should consider whether…</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d5c9e030-fde3-4e53-86cf-c605a34bac7f">… the measure is operating effectively and as intended</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="84a5b3a3-65be-4ede-a675-82d9b30292d1">… safety or supervision procedures are being followed</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d1ea4f85-42f5-4338-8fd6-25d296d7826e">… the severity and frequency of incidents have decreased</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8a42126c-1b33-41dc-b28e-feaa1d2eb070">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="f7a345a6-1eca-4067-bdfa-ec6ad79af5bd">
+      <Title GUID="3ef38504-50ee-41fa-a1cc-8d70560cfc07">Question</Title>
+      <PageElements GUID="9cb40987-865b-40c3-8f12-64465cd1ff06">
+        <PageElement GUID="06f89079-9d7e-4d78-99c8-1bf8742aa03f">
+          <Question GUID="c38b9044-d251-495c-980d-3f07c50d5e8c"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="c09e7e87-f6bf-4b6e-a35e-1ab002a70e53">
+      <strong GUID="e2ee31b2-216f-49a0-aca9-4a3d0c9fcb2a" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="dc08ad1a-c7c6-4cad-8e54-4551de39f6d7">What is NOT a notifiable incident?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6fed53c4-270b-405a-baae-d0e5b1b1367a">An employee suffers burns to their arms, requiring immediate hospital treatment</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3bf6317d-4dd6-4385-8298-275247077241">New machinery is adopted that may increase health and safety risks to workers</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="571cda59-71ee-4ad9-a5d3-96ab111fb944">A sub-contractor is killed by a falling object at the workplace</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="069b4f6f-512a-4c90-a5bc-b5006ace298d">A chemical spillage occurs at the workplace, immediately putting workers' health and safety at risk</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q11" IsActive="true" GUID="32cddb7b-c9e7-43e9-90f3-e2efd4382291">
+      <Title GUID="56f91c14-1b6f-412b-b5bd-9457c7fe102b">Question</Title>
+      <PageElements GUID="7de9b412-4f84-4ea6-a98a-c62e2c6dc36c">
+        <PageElement GUID="6ea9d464-3314-445f-92b4-84e15b0ee926">
+          <Question GUID="93a88693-d901-44f8-b4e8-1a9af4466586"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="87b1fb5b-a75b-4da7-8b20-de5aab3f468b">
+      <strong GUID="24cce3b0-4c53-4c54-8c3d-fb06a96752b8" xmlns="http://www.w3.org/1999/xhtml">Complete the sentence. If a notifiable incident occurs at a workplace…</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="27d140c1-b9f8-49d2-90c9-c04590db3dac">… the PCBU must adopt new control measures for addressing health and safety risks</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a83982b6-6b60-48f1-b8c5-ba1993ba697e">… there are no obligations on the PCBU unless someone was killed or seriously injured<strong GUID="ba3ad9e4-19d2-44e4-941e-d43f65d6817b" xmlns="http://www.w3.org/1999/xhtml"></strong></Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="77a641e7-0ca5-48e0-b49f-d36b9881c0c3">… the PCBU must contact the regulator immediately after becoming aware of it</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b9478a8f-fa55-4698-8992-86424af27c21">… the PCBU must ensure that activities at the workplace proceed as normal until an inspector has arrived</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q12" IsActive="true" GUID="913038b9-4df1-49dd-bc30-d62de9034329">
+      <Title GUID="ececd128-6d77-4b03-8d8a-df99fe55d115">Question</Title>
+      <PageElements GUID="bb5d4827-b7a9-4473-9321-e0c0e911f658">
+        <PageElement GUID="13274c66-5409-49ad-8fa6-f7c8c50c68dd">
+          <Question GUID="9e92d76d-284f-4460-853d-18edb365257f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1e6e7bd6-acd5-4b49-b127-c28d920f54fa">
+      <strong GUID="8b1af29a-4277-4c9c-b08f-4eb948617252" xmlns="http://www.w3.org/1999/xhtml">Which statement is false?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b62cf555-fbc7-4503-893d-13f6e32055d3">A PCBU must ensure that first aid equipment is provided to the workplace</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5c17a431-7d9f-4cf4-86ba-5a34d5360fde">Workers are responsible for learning how to treat themselves with first aid equipment</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a898eba7-b80e-4c43-b8f6-43f70d42f9ef">A PCBU must prepare and regularly test procedures to be followed in an emergency</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1abf21cc-64c3-4859-ba51-983da3ff9e40">Relevant workers must receive information, training and instruction about the planned emergency procedures</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q13" IsActive="true" GUID="24d3c34f-791e-4588-b055-8e6947a84390">
+      <Title GUID="5d75b3e5-817b-4b11-8358-abc7a84a3929">Question</Title>
+      <PageElements GUID="e41a895a-74a4-460d-8e85-7b5675549431">
+        <PageElement GUID="bb02e031-3dcb-49ec-8e24-954da8139218">
+          <Question GUID="135f4f62-c3d9-4b7d-ba76-ed53d070943c"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="81b69db3-7bf1-42fd-9cbe-ddc746a346f5">
+      <strong GUID="a89e7c9d-eeb2-479b-966c-a8bb56cc767a" xmlns="http://www.w3.org/1999/xhtml">What must a PCBU ensure so that the physical environment of the workplace is safe?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a036033a-effa-4ce2-8cc8-cec30faeba95">That the condition of the workplace enables people to move around with moderate risk to their health and safety</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ed70ba7b-fb65-49ce-95af-a496c8f1aaab">That the workplace is visually stimulating to create a more pleasant workplace and, as a result, avoid harm to health and safety</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fc8b17b9-ef55-427d-a0dd-9054d58aa515">That there is adequate space for work to be performed without risk to health and safety</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2cbffb9c-22f3-4bbb-b8f4-7d9a3b4e5d2f">That the PCBU conducts hourly safety checks</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q14" IsActive="true" GUID="d6b3be1c-37e9-402a-b7d2-6f2221c96321">
+      <Title GUID="4db3cbd8-9e86-43ff-88d8-459a08a20695">Question</Title>
+      <PageElements GUID="5ce31157-83df-46e7-bf45-166ec1d5fba3">
+        <PageElement GUID="33c138f4-a777-4daa-bbcd-29545ad5aa8c">
+          <Question GUID="d206f9af-57cb-4742-a8f9-a6536c828f37"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="7689d213-94e1-4333-a3e5-ce4c6c0a9e4d">
+      <strong GUID="660dc622-570a-4aac-9ad0-2cbf235cf4d4" xmlns="http://www.w3.org/1999/xhtml">Which statement is false? Any training provided to workers by the PCBU must…</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="90584dac-a4de-43ca-a11c-e4c16a5caaa2">… consider the nature of the risks associated with the work </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b0265cdf-40fb-40fc-8ee0-37c95792b2aa">… consider the nature of work performed by the worker being trained </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="45e5baae-ecdd-4490-a327-a2596c9a51b2">… be shorter than two hours in duration</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="677cb2a1-6f40-4126-9f8c-5506934457a7">… consider any control measures that have been implemented to manage risks</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q15" IsActive="true" GUID="49910553-6f70-467a-b371-65b8b07606d4">
+      <Title GUID="eaff2860-185d-4980-94ef-4deba00eb2d5">Question</Title>
+      <PageElements GUID="47ecfe63-f9b7-4800-bc05-1a790f487349">
+        <PageElement GUID="7b078169-6e43-46b6-b578-579f626f82ac">
+          <Question GUID="5489c26d-528e-4dcf-8364-9763b7d36d25"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="255b1341-53dc-4657-a6cc-5806163ba765">
+      <strong GUID="74d05bc3-70b6-4953-9057-103c586e89f8" xmlns="http://www.w3.org/1999/xhtml">What additional duties do PCBUs have if they are involved in activities that include plant, substances or structures?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1b934933-d1d5-4ee5-846c-9aa44763098b">Designing and manufacturing items to operate without risks to health and safety</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a9adbb21-245e-45f8-b7ef-d33fcdf3fee6">Carrying out testing or examination to make sure that items are without risk to health or safety</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6946ce7e-0585-4196-a06a-aac03aeb01e0">Taking steps to ensure items imported or supplied are without risk to health and safety</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e7d02630-6ae2-4a74-9014-6aa5c1d0ec66">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="6a968e65-e96f-4ec6-bf2f-4b3a8062ce39">
+    <Page ID="Comp1" IsActive="true" GUID="71ebcf14-35de-4cae-86e0-b98ac0907da4">
+      <Title GUID="cb349084-476f-4d64-bf9a-ec2e7df3fc9f">End of quiz</Title>
+      <PageElements GUID="863038ba-4256-49f2-8c1c-7447dc7bf784">
+        <PageElement GUID="45a0fa6e-6c8f-4a12-8a33-e828d9ae8be0">
+          <Graphic GUID="b65a2519-4f4b-4327-9f47-c35ba8725956"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/ea6e11b9-c906-4d42-a898-88424a2dc68f.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="285f9832-c64d-4201-aed8-cf3849c4e885">
+          <TextBox GUID="9c516463-fec6-4d9e-89a4-4491113c49de"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="a80fdd06-9429-4e7b-a81b-895e08dfde14">
+    <div GUID="992a07bf-7a63-44a8-9716-3689cb82c07a" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="18cd7367-f8e5-483f-96a7-95b05f757653"><br GUID="de7a1f63-60f9-48cf-a9a0-fc40049acf6a">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="8b3831a7-3ba2-4f66-891e-192e69cd2138"><br GUID="bfae0dce-9fad-4cbb-9b61-ec5c0ef46e47">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="a7d73c11-2659-44f7-b383-0969456f2df5">
+          <SubmitAnswers GUID="8cda5f69-7164-4782-bb82-438eb9a68c9f"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

@@ -1,0 +1,1 @@
+<%@ Page Inherits="Bdw.SqlServer.Reporting.ReportExport" %>

@@ -1,0 +1,23 @@
+SET ANSI_NULLS OFF
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udf_GetUnitHierarchiesForORG]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'CREATE  FUNCTION [udf_GetUnitHierarchiesForORG](@Org INT)
+RETURNS @Result TABLE(UnitID INT, Hierarchy nVARCHAR(500), HierarchyName nVARCHAR(2000))
+AS
+BEGIN
+INSERT INTO @Result
+SELECT
+A.UnitID, A.Hierarchy, A.HierarchyName
+FROM
+tblUnitHierarchy A, tblUnit B
+WHERE
+A.UnitID = B.UnitID AND B.OrganisationID = @ORG
+
+RETURN
+END
+' 
+END
+GO

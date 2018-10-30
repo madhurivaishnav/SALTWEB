@@ -1,0 +1,31 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblOrganisationCourseAccess]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblOrganisationCourseAccess](
+	[OrganisationID] [int] NOT NULL,
+	[GrantedCourseID] [int] NOT NULL,
+ CONSTRAINT [PK_tblOrganisationCourseAccess] PRIMARY KEY CLUSTERED 
+(
+	[OrganisationID] ASC,
+	[GrantedCourseID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON, FILLFACTOR = 90) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblOrganisationCourseAccess_tblCourse]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisationCourseAccess]'))
+ALTER TABLE [dbo].[tblOrganisationCourseAccess]  WITH CHECK ADD  CONSTRAINT [FK_tblOrganisationCourseAccess_tblCourse] FOREIGN KEY([GrantedCourseID])
+REFERENCES [dbo].[tblCourse] ([CourseID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblOrganisationCourseAccess_tblCourse]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisationCourseAccess]'))
+ALTER TABLE [dbo].[tblOrganisationCourseAccess] CHECK CONSTRAINT [FK_tblOrganisationCourseAccess_tblCourse]
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblOrganisationCourseAccess_tblOrganisation]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisationCourseAccess]'))
+ALTER TABLE [dbo].[tblOrganisationCourseAccess]  WITH CHECK ADD  CONSTRAINT [FK_tblOrganisationCourseAccess_tblOrganisation] FOREIGN KEY([OrganisationID])
+REFERENCES [dbo].[tblOrganisation] ([OrganisationID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblOrganisationCourseAccess_tblOrganisation]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblOrganisationCourseAccess]'))
+ALTER TABLE [dbo].[tblOrganisationCourseAccess] CHECK CONSTRAINT [FK_tblOrganisationCourseAccess_tblOrganisation]
+GO

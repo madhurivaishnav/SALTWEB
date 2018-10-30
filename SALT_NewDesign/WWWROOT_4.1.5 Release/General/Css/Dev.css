@@ -1,0 +1,1068 @@
+/**************************************
+' Name:			SALT CASCADING STYLE SHEET
+' Author:		Stephen Clark
+' Created:		19 April 2004
+' Description:	Cascading style sheet for DEV version of salt
+' Called By:    All html and aspx pages
+' Calls:        null
+'''''''''''''''''''''''''''''''''''''''''''''
+' Modification History
+'	Modified By: Peter Kneale
+'	Date: 13/8/2004
+'	Reason: Different style sheets are used according to the rules specified in teh web-control
+'	Reference: See style.ascx
+'	Changes Made:
+'	Effect: 
+' Modification History
+'	Modified By:
+'	Date:
+'	Reason:
+'	Reference:
+'	Changes Made:
+'	Efect:
+'****************************************/
+
+/* #3399cc <- the light blue, colour 1 */
+/* #99cc33 <- the light green, colour 2 */
+/* #CCCC00 <- the kaky green, colour 2 */
+/**/
+
+
+/************************************
+* General Element level styles used
+* thropught the site
+*************************************/
+body, td
+{
+	font-size: 10pt; /* Default font size used throught the application unless overridden by other styles */
+	font-family: Arial, Helvetica, sans-serif; /* default font used throught the application unless overridden by other styles */
+}
+
+
+select
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	font-size: 11px; /* Font size used throught the application in all */
+	padding:1 0 1 0; /* top right bottom left */
+	margin: 0 0 0 0; /*top right bottom left */
+}
+
+/* feedback to users */
+.SuccessMessage
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */ /* */
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */ /* aligns this object in the middle of the verticle box that it is in */ /* aligns this object in the middle of the verticle box that it is in */
+	color:#00cc00; /* the colour for a success message - Green */
+}
+.WarningMessage
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */ /* */
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */
+	color:#ff3300; /* the colour for a warning message - Red */
+}
+.ValidatorMessage /* Validator Messages */
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */ /* */
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */
+	color:#ff3300; /* the colour for a validator message - Red */
+	white-space:nowrap; /* prevents the line of text from wraping -- don't use for long text */	
+}
+.FeedbackMessage
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */ /* */
+	vertical-align:top; /* aligns text in teh top of the vertical space that it has available (minus anu padding in that box)*/
+	color:#ff8C00;/* the colour for a feedback message - Orange */
+}
+
+.addButton /* Used for all the add buttons throught the site*/
+, .assignButton /* Used for all the add buttons throught the site*/
+, .backButton /* Used for all the cancel buttons throught the site*/
+, .cancelButton /* Used for all the cancel buttons throught the site*/
+, .findButton /* Used for all the find buttons throught the site*/
+, .generateButton /* Used for all the find buttons throught the site*/
+, .moveButton /* Used for all the move buttons throught the site*/
+, .populateButton /* Used for all the save populate throught the site*/
+, .saveButton /* Used for all the save buttons throught the site*/
+, .sendButton /* Used for all the send buttons throught the site*/
+, .searchButton /* Used for all the search buttons throught the site*/
+, .resetButton /* Used for all the reset buttons throught the site*/
+, .uploadButton /* Used for all the reset buttons throught the site*/
+, .runButton /* Used for all the run buttons throught the site*/
+{
+	width:100;  
+	cursor: hand;
+	color:#555555;
+	font-size: 11px;
+	font-weight:bold;
+	border-style:solid ;
+	border-width:1px;
+	border-color:#000000;
+	background-color: #E0E0E0;
+
+}
+.populateButton
+{
+    width:300px;
+}
+.browseButton
+{
+	width:300px;
+	cursor: hand;
+	color:#000000;
+	font-size: 11px;
+	font-weight:normal;
+	border: solid 1px #000000;
+	background-color: #E0E0E0;
+	filter:progid:DXImageTransform.Microsoft.Gradient
+      (GradientType=1,StartColorStr='#FFFFFF',EndColorStr='#FFFFFF'); /* this is a hack that takes advantage of a bug ni the way I.E. applies the gradient to make the browses text fields white*/
+}
+
+
+a{
+	color: #3399cc;
+	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+.bg {
+	background-color:#FFFFF0;
+}
+
+Table.unitControl /* style applied to all of the instances of the unit controll in the site*/
+{
+	border: solid 1px #999999;
+	margin-right: 10px;
+	width:300px;
+}
+
+/* every lable (on the left hand side of reporting and administration)
+ for an input controll */
+.formLabel 
+{
+	font-weight:bold;
+	margin:5 0 0 0;
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */
+	white-space: nowrap;
+}
+
+input
+{
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+textarea
+{
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+	width:350;
+}
+
+.pageTitle /* Title above the page body of every page */
+{
+	margin: 6 0 15 4; /* top right bottom left */
+	padding: 6 0 15 4;/* top right bottom left */
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	color:#909090;
+	font-family:Verdana, Arial, Sans-Serif;
+	font-size:18px;	
+}
+.pageSubTitle /* Sub-Title used on reporting pages */
+{
+	margin: 0 0 5 4; /* top right bottom left */
+	padding: 0 0 5 4;/* top right bottom left */
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	color:#909090;
+	font-family:Verdana, Arial, Sans-Serif;
+	font-size:12px;	
+}
+.ApplicationNameInline
+{
+	color:#3399cc;
+}
+.TradeMarkInline
+{
+	position:relative;
+	top:-.4em;
+	font-size:xx-small;
+	color:#3399cc;
+	text-decoration:none;
+}
+
+/************************************
+* Classes Specific to the Home Pages
+*************************************/
+
+.HomePageWelcome /* welcom text at the top of the home page. i.e. Hi Username, Welcom to ... */
+{
+	font-weight:bold;
+	font-size:16px;
+	color:#000000;
+}
+
+Div.HomePageWelcome /* placment of the home page welcome text */
+{
+    vertical-align:top;
+    margin-top:10px;
+	margin-left:10px;
+	text-align:left;
+	vertical-align:top;
+	display:block;
+}
+
+.HomePageCourseCertificate /* congradulations text . i.e. Congradulations you have passed ....  */
+{
+	font-weight:bold;
+	color:#0099cc;	/*color:#99cc33;*/	
+}
+
+Div.HomePageCourseCertificate /* placment of the home page congradulations text */
+{
+    display:block;
+    margin-top:5px;
+	padding-top:5px;
+	margin-left:10px;
+	margin-bottom:2px;
+}
+
+
+Div.HomePageOrgImage /* placment of the home page image */
+{
+	float:right;
+	margin-left:10px;
+	margin-right:5;
+	margin-top:5;
+	display:block;
+}
+Div.HelpLink    /* Help link on every page */
+{
+    float:right;
+	margin-left:10px;
+	margin-right:5;
+	margin-top:5;
+	display:block;
+}
+IMG.HomePageOrgImage /* details of the home page image */
+{
+    /* placeholder */
+}
+
+.HomePageNotes /* the org and course notes text*/
+{
+    /* overide default text behaviour for notes */
+    
+}
+Div.HomePageNotes /* the org and course notes text*/
+{
+	display: block;
+	margin-left:10px;
+	padding:5px;
+}
+
+Div.orgNotes
+{
+    display:block;
+    margin-top:5px;
+	padding-top:5px;
+	margin-left:10px;
+}
+
+.HomePageStep /* divs holding the steps */
+{
+   font-weight:bold;
+   font-size:16px;
+   margin-right:5px;
+   color:999999;
+   vertical-align:top;
+}
+.HomePageStepText /* divs holding the steps */
+{
+    font-size: 10pt; 
+	font-family: Arial, Helvetica, sans-serif; 
+    font-weight:normal;
+    display:inline-block;
+    vertical-align:top;  
+    color:#000000;	
+}
+
+div.HomePageStep
+{
+    display:block;
+    margin-right:10;
+    margin-left:10;
+	margin-top:5;    
+}
+
+.HomePageCourseTitle
+{
+	margin-top:5px;
+	padding-top:5px;
+	margin-left:3px;
+	margin-bottom:2px;
+	font-weight:bold;
+	font-size:12px;
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */
+}
+
+.HomePageCourseDropDown
+{
+    display: inline-block;
+	padding-top:5px;
+	margin-left:10px;
+	margin-bottom:2px;
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */	
+}
+
+Div.HomePageCourseDropDown
+{
+}
+
+div.moduleTable
+{
+    display:block;
+    position:static;
+    margin-top:10px;
+    margin-left:10px;    
+}
+
+td.Module
+{
+	font-size:12px;
+	font-weight:bold; /* font weight of module name in module list */
+	padding: 0 6 0 6; /* Spaceing between cells in the module table (top right bottom left)*/	
+	margin: 0 6 0 6; /* Spaceing between cells in the module table (top right bottom left)*/	
+}
+
+Div.KeyTable
+{
+    width:410px;
+	font-size:10px;
+	font-weight:bold;
+    color:999999;
+	display:block;
+    position:static;
+    margin-top:10px;
+    margin-left:10px;
+    padding:5px;
+}
+
+.KeyTableHeader
+{
+    font-size:11px;
+    
+}
+.KeyTableColumn
+{
+	width:100px;	
+}
+.KeyTableColumn  img 
+{
+    width:12px;
+}
+/************************************
+* Welcom message on the reporting and 
+* Administration Home Pages
+*************************************/
+.h2
+{
+	font-weight:bold;
+	font-size:16px;
+	color:#000000;
+	display:block;
+	margin-top:10px;
+	margin-left:10px;	
+}
+
+/************************************
+* Classes specific to the Top Navigation
+* Menu
+*************************************/
+a.topmenu{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.topmenu:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.topmenubg { /* this is the row of navigation buttons*/
+	background-color: #000000;
+	
+}
+
+TD.topmenu
+{
+	color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+
+}
+
+TD.topmenuNav /* this is the navigation bar button elements*/
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	border-collapse:collapse;
+	color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	padding: 0px 60px 0px 6px;
+	cursor:hand;
+}
+
+TD.topmenuNavOver
+{
+    display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	color:#FFFFFF;
+	background-color:#99cc33;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	padding: 0px 60px 0px 6px;
+	cursor:hand;
+}
+
+Tr.topmenu /* this is the row with the images imediatly above the menu navigation bar */
+{
+	background-color: #3399CC;
+	text-align:right;
+}
+
+Table.topmenu
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	margin:0 0 0 0;	
+	padding:0 0 0 0;	
+}
+.NavTitle {
+	background-color:#3399CC;		
+}
+
+td.topMenuImageCellCenter /* in the top menu this is the center cell*/
+{
+	text-align:right;
+	background-color: #3399CC;
+	height:63;
+}
+
+td.topMenuImageCellRight /* in the top menu this is the righ-most cell*/
+{
+	background-image:url(/General/Images/plainRightBanner.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:100%;
+	text-align:right;
+	right:0;
+	width:100%;
+	height:63;
+	
+}
+
+td.topMenuImageCellLeft /* in the top menu this is the left-most cell*/
+{
+	background-image:url(/General/Images/Header/logo_nodropshadow.gif);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:0 0; /* positions the background image as far up and left as it can go  */
+	width:250;
+    height:60;
+}
+
+img.topMenuImageCellLeft /* tansparent image to space out the cell*/
+{
+    position:absolute;
+    display:inline-block;
+    width:250;
+    height:60;
+}
+
+.SectionTitle /* in the top menu this is the class of the text in the righmost cell*/
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	color: #FFFFFF;
+	font-size: 40px;
+	font-family:  Verdana, Arial, Helvetica, sans-serif;	
+	vertical-align:text-bottom;
+	text-align:right;
+	margin-top:10px;
+	padding-right:10px;	
+}
+
+.SectionTitleNoSpace /* in the top menu this is the class of the text in the righmost cell*/
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	color: #FFFFFF;
+	font-size: 40px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;	
+	vertical-align:text-bottom;
+	text-align:right;
+	margin-top:1px;
+	padding-right:1px;	
+}
+
+.TradeMarkLargeInline
+{
+	position:relative;
+	top:-2.2em;
+	color:#FFFFFF;
+	margin-top:10px;
+	padding-right:10px;	
+}
+
+
+
+
+/************************************
+* Classes specific to the left hand menus
+*************************************/
+td.AdminMenuContainer
+, td.ReportMenuContainer
+{
+	vertical-align:top; /* aligns text in teh top of the vertical space that it has available (minus anu padding in that box)*/
+	text-align:left;
+	width:10%;
+	
+}
+
+TR.AdminMenuContainer
+, TR.ReportMenuContainer
+{
+	vertical-align:top; /* aligns text in teh top of the vertical space that it has available (minus anu padding in that box)*/
+	text-align:left;
+	height:100%;
+}
+
+table.AdminMenu    /* the menu in the administration area */
+, table.ReportMenu /* the menu in the reporting area */
+{
+	margin-left:5px;	/* this spaces the menu from the left side of the page */
+	margin-right:15px;	/* this content on the right away from the menu */
+	margin-top:10px;	/* this spaces the menu away from the nav bar */
+	padding-right:5px;	/* this spaces the links in the menu away from the vetical line   */
+	border-right: solid 1px black; /* this is the vetical line seperating the menu from content  */
+}
+a.AdminMenu		/* the menu in the administration area */
+, a.ReportMenu  /* the menu in the reporting area */
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */	
+	margin: 4 0 3 0;	/* spaces the links in the menu away from each other (top|right|bottom|left)  */
+	
+}
+a.ExternalLinkCategory
+{
+    color:#000000;
+}
+
+
+/************************************
+* Classes specific to the footer
+*************************************/
+p.Footer
+{
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:10px;
+}
+a.tablelink
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.tablelink:hover 
+{
+	text-decoration: underline;
+}
+
+.tablerow1 
+{
+	background-color: #F3F9FC;
+	padding: 10px;
+	padding-left:10px;
+}
+.tablerow1Selected
+{
+    background-color: #F3F9FC;
+	padding: 10px;
+	padding-left:10px;
+    font-weight:bold;
+}
+.tablerow2 
+{
+	background-color: #DFEFF7;
+	padding: 10px;
+	padding-left:10px;
+}
+.tablerow2Selected
+{
+    background-color: #DFEFF7;
+	padding: 10px;
+    font-weight:bold;
+    padding-left:10px;
+}
+.tablerow3 
+{
+	background-color: #F2F2F2;
+	padding: 10px;
+	padding-left:10px;
+}
+.tablerow3Selected
+{
+    background-color: #F2F2F2;
+	padding: 10px;
+    font-weight:bold;
+    padding-left:10px;
+}
+.tablerowtop 
+{
+	background-color: #1A506A;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-left:10px;
+}
+
+.tablerowbot 
+{
+	background-color: #FFFFFF;
+}
+.tableborder 
+{
+	background-color: #000000;
+}
+
+
+/* padd the datatables so that the data is not hard against the left */
+TR.tablerowtop td
+{
+    padding-left:10px;
+}
+TR.tablerow1 td
+{
+    padding-left:10px;
+}
+TR.tablerow2 td
+{
+    padding-left:10px;
+}
+TR.tablerow3 td
+{
+    padding-left:10px;
+}
+
+/************************************
+* Classes specific to the Login Page 
+*************************************/
+body.Login
+{
+	
+	background-image: url(/General/Images/GRC_dev_banner.jpg);
+	background-repeat:no-repeat;
+	background-position: left top;
+	background-attachment:scroll;	
+	background-color:333333; /* 8acd3f 3399cc 99cc33*/
+}
+
+
+
+input.Login /* the login text boxes */
+{
+	border-width:thin;	
+	background-color:#FFFFFF;
+	color:#000000;
+	font-size:X-small;
+	width:150;
+}
+.LoginButton /* the submit button on the login page */
+{
+	border-style:outset;
+	border-width:thin;	
+	background-color:#FFFFFF;
+	padding:1 3 1 3;
+	font-weight:bold;
+	font-size:12px;
+}
+.LoginFieldName /* the text next to the username and password text fields*/
+{
+	font-weight:bold;
+	font-size:13px;
+	color: #FFFFFF; /* White */
+	width:100;
+	text-align:center;
+}
+
+
+.Login
+{
+	font-size:small;
+	color: #FFFFFF; /* White */
+	
+}
+a.Login /* links in the footer */
+{
+	color: #FFFFFF; /* White */
+	font-size:12px;
+	text-decoration: underline; /* uererline beneith links in teh footer on this page ?*/
+}
+a.Login:hover
+{
+	/*color:CCCC00;  kakey */
+	color: #ffee44; /* light - green */
+}
+
+.LoginTerms /* the terms and conditions at the base of the login screen*/
+{
+	position:absolute;
+	top:500;
+	font-size:12px;
+	left:30;
+	color: #FFFFFF; /* White */
+	text-decoration:none;
+}
+
+
+.LoginControl /* the table containing the login text boxes and button*/
+{
+	position:absolute;
+	top:153;
+	left:30;
+}
+
+.MarketingText
+{
+	position:absolute;
+	top:144;
+	left:440;	
+	width:300;
+	font-family: Arial , Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:normal;
+	color:#FFFFFF;
+	padding-left:0px;
+	
+}
+
+.TradeMarkInlineInheritColour
+{
+	position:relative;
+	top:-1.1em;
+	font-size:6px;
+	text-decoration:none;
+}
+
+.BDWBrand
+{
+	position:absolute; 
+	top:40;
+	left:30;
+	font-weight:bold;
+}
+
+.ApplicationName
+{
+	position:absolute; 
+	top:150;
+	left:90;
+	font-family: Arial Narrow, Helvetica Narrow, Arial, Helvetica, sans-serif;
+	font-size:150px;
+	font-weight:100;
+	color:#FFFFFF;
+}
+
+.WarningMessageLoginPage
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	font-weight:bold;
+	white-space: nowrap;
+	border:solid 1px #ff3333;
+	background-color:#ffffff;
+	height:10px;
+	padding: 3 3 3 3;
+	color:#ff3333;
+}
+
+/************************************
+* Classes specific to the certificate
+*************************************/
+table.CertificateBody
+{
+	width:595;
+	height:842;
+	text-align:center;
+	padding:0px;
+	border-collapse: collapse;
+	border: solid 1px #000000;
+
+}
+
+td.Certificate_LeftImage
+{
+	width:198;
+	height:842;
+	padding:0px;
+	margin:0px;
+	border-collapse: collapse;
+	background-image:url(/General/Images/GRC_dev_banner_for_certificate.jpg);	
+}
+
+td.Certificate_RightText
+{
+	padding:0px;
+	margin:0px;	
+	text-align:center;
+	vertical-align:text-top;
+	border-collapse: collapse;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:20px;
+}
+
+.Certificate_CompanyImage
+{	
+	
+	display:block;
+	position:absolute;	
+	top:120px;
+	left:220px;
+	width:360;
+	height:100;
+	background-image:url(/General/Images/GRC_dev_logo.jpg);
+	background-repeat:no-repeat
+}
+
+.Certificate_Text_Line1 /* this is to certify that */
+{
+	display:block;
+	position:relative;
+	top:300px;
+	padding:  0 0 10 0;
+	
+}
+.Certificate_Text_Line2 /* name */
+{
+	display:block;
+	position:relative;
+	top:300px;
+	font-weight:bold;
+	padding:  0 0 10 0;
+	
+}
+.Certificate_Text_Line3 /* from  */
+{
+	display:block;
+	position:relative;
+	top:300px;
+	padding:  0 0 10 0;
+	
+}
+.Certificate_Text_Line4 /* org name  */
+{
+	display:block;
+	position:relative;
+	top:300px;
+	font-weight:bold;
+	padding:  0 0 10 0;
+	
+}
+.Certificate_Text_Line5 /* has completed the  */
+{
+	display:block;
+	position:relative;
+	top:300px;
+	padding:  0 0 10 0;
+	
+	
+}
+.Certificate_Text_Line6 /* course name  */
+{
+	display:block;
+	position:relative;
+	top:300px;
+	font-weight:bold;
+	padding:  0 0 10 0;
+	
+}
+.Certificate_Text_Line7 /* training on  */
+{
+	display:block;
+	position:relative;
+	top:300px;
+	padding:  0 0 10 0;
+	
+}
+.Certificate_Text_Line8 /* date  */
+{
+	display:block;
+	position:relative;
+	top:300px;
+	padding:  0 0 10 0;
+}
+
+
+/************************************
+* Classes specific to the About popup
+*************************************/
+td.about
+{
+	padding: 5 15 0 15;
+	margin: 10;
+}
+
+td.Banner
+{
+	background-image:url(/general/images/popup_banner.jpg);
+	background-repeat:no-repeat;
+	height:125;
+}
+/************************************
+* Classes specific to the help page
+*************************************/
+ul.help
+{
+	list-style-type:none;
+}
+ul.help
+{
+	color:#000000;
+}
+H2.help
+{
+	font-size:12pt;
+	text-transform:capitalize;
+}
+H3.help
+{
+	font-size:12pt;
+	margin:20px;
+	text-transform:capitalize;
+}
+H4.help
+{
+	font-size:12pt;
+	font-style:italic;
+	margin:20px;
+	text-transform:capitalize;
+}
+p.help
+{
+    margin:20px;
+    font-size:10pt;
+}
+A.backtotop
+{
+     margin:20px;
+}
+A.helpTitle
+{ 
+    font-size:10pt;
+    margin:20px;
+    text-transform:capitalize;
+}
+
+.HelpTradeMarkInlineInheritColour
+{
+	position:relative;
+	top:-1.1em;
+	font-size:6px;
+	text-decoration:none;
+}
+
+/************************************
+* Classes specific to the Horozontal
+* Bar Charts
+*************************************/
+.BarChartPass /* Green colour that text can be read through */
+{
+    background-color:#99cc33;    
+    border:solid 1px black;
+    text-align:right;
+}
+.BarChartFail  /* Red colour that text can be read through */
+{
+    background-color:#ff0000;    
+    color:white;
+    border:solid 1px black;
+    text-align:right;
+}
+.BarChartRemainder
+{
+    background-color:eeeeee;
+    border:solid 1px black;
+    text-align:left;
+    margin-right:5;
+    padding-right:5;
+}
+.BarChartRemainder
+{ 
+    text-align:left;
+}
+
+/************************************
+* Classes specific to the Tree
+* View Control
+*************************************/
+.TreeView_Control 
+{ 
+    display:inline-block;
+    border:solid 1px E0E0E0;
+    padding: 0px 5px 0px 5px;
+    width:50%;
+    background-color:#FEFEFE;
+}
+
+.TreeView_Node 
+{ 
+    font-size: 8pt; 
+    font-family: verdana; 
+}
+/************************************
+* Classes specific to the Error Log
+*************************************/
+.ErrorRow_High
+{
+    padding-left:10px;
+	background-color: #ff5555;
+    word-wrap:break-word;
+}
+.ErrorRow_Medium
+{
+    background-color: #FFaaAC;
+	padding-left:10px;
+	word-wrap:break-word;
+}
+.ErrorRow_Low
+{
+    font-size:8px;
+    padding-left:10px;
+	background-color: #ffff66;
+    word-wrap:break-word;
+}
+.ErrorRow_Warning
+{
+	padding-left:10px;
+	background-color: #D3FFDC;
+	word-wrap:break-word;
+}
+.ErrorRow_InformationOnly
+{
+    padding-left:10px;
+	background-color: #FFFFFF;
+    word-wrap:break-word;
+}
+/************************************
+* Classes specific to Quiz Result page
+*************************************/
+.Quiz_Result_Pass
+{
+    background-image:url(/General/Images/Report_Tick.gif);
+    background-repeat:no-repeat;
+}
+.Quiz_Result_Fail
+{
+    background-image:url(/General/Images/Report_Cross.gif);
+    background-repeat:no-repeat;
+}
+
+

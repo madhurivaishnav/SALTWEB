@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>20</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Quiz - Module 4</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>10</numrandom>
+<passinggrade>80</passinggrade>
+<cancelfail>a004_results_failed.html</cancelfail>
+<passdone>a004_results_passed.html</passdone>
+<prevpage>a004_quiz_quiz_first_page.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>a004_quiz_module_4_q4_01.html</name>
+<question>
+<id>128341</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0046</var>
+<text>What is NOT a function of the regulator?</text>
+<correctans>To temporarily close down a business or enterprise that is found to have breached WHS laws</correctans>
+<choices>To temporarily close down a business or enterprise that is found to have breached WHS laws|To monitor and enforce compliance with WHS laws|To foster a cooperative, consultative relationship between duty holders and the persons to whom they owe duties and their representatives in relation to work health and safety matters|To advise the Minister on the effectiveness of WHS laws</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>a004_quiz_module_4_q4_02.html</name>
+<question>
+<id>128329</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0047</var>
+<text>What can the regulator require a person to do?</text>
+<correctans>All of the above</correctans>
+<choices>To give the regulator information in writing, that the person knows about|To appear before the regulator and give evidence|To produce documents to the regulator|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>a004_quiz_module_4_q4_03.html</name>
+<question>
+<id>128321</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0048</var>
+<text>One regulator enforces work health and safety laws in every state and territory. True or false?</text>
+<correctans>False</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>a004_quiz_module_4_q4_04.html</name>
+<question>
+<id>128309</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0049</var>
+<text>What is NOT a function of a health and safety inspector?</text>
+<correctans>To conduct hourly inspections of workplaces</correctans>
+<choices>To help resolve work health and safety issues|To review disputed provisional improvement notices|To conduct hourly inspections of workplaces|To attend coronial inquests concerning work-related deaths</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>a004_quiz_module_4_q4_05.html</name>
+<question>
+<id>128297</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0050</var>
+<text>What is a health and safety inspector empowered to do?</text>
+<correctans>Seize any object or document at a workplace that they reasonably believe is evidence of an offence under the WHS Act</correctans>
+<choices>Order all activities to stop for up to 21 days at any workplace|Arrest a PCBU|Fine any person who has substantially contributed to the commission of a Category 1 offence against the WHS Act|Seize any object or document at a workplace that they reasonably believe is evidence of an offence under the WHS Act</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>a004_quiz_module_4_q4_06.html</name>
+<question>
+<id>128285</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQuestion_0051</var>
+<text>What is NOT a power of a health and safety inspector?</text>
+<correctans>Seizing, for no reason, any object present at a workplace that the inspector has entered</correctans>
+<choices>Entering any workplace at any time without prior notice to any person|Requiring any person at a workplace which the inspector has entered to answer any question asked of them by the inspector|Seizing, for no reason, any object present at a workplace that the inspector has entered|Requiring any person at the workplace to give reasonable help to the inspector in carrying out their authorised activities</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>a004_quiz_module_4_q4_07.html</name>
+<question>
+<id>128273</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQuestion_0052</var>
+<text>What types of notices can be issued if an inspector believes there is a breach of WHS duties? </text>
+<correctans>Improvement, prohibition and non-disturbance notices</correctans>
+<choices>Restitution, prohibition and non-disturbance notices|Non-disturbance, improvement and safety notices|Improvement, prohibition and non-disturbance notices|Restoration, improvement and prohibition notices</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>a004_quiz_module_4_q4_08.html</name>
+<question>
+<id>128261</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQuestion_0053</var>
+<text>What directions may a prohibition notice issue?</text>
+<correctans>It may direct a PCBU not to carry out an activity until the inspector is satisfied that the WHS risks have been remedied</correctans>
+<choices>It may direct a person to stop a breach or prevent a likely breach to WHS duties|It may direct a PCBU not to carry out an activity until the inspector is satisfied that the WHS risks have been remedied|It may direct a member of the public to eliminate or minimise health and safety risks arising from exposure to a particular hazard |It may direct a worker to ensure that a site be preserved for as long as the inspector thinks is reasonable</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>a004_quiz_module_4_q4_09.html</name>
+<question>
+<id>128253</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQuestion_0054</var>
+<text>A non-disturbance notice can only be issued in relation to the site of a notifiable incident. True or false?</text>
+<correctans>False</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>a004_quiz_module_4_q4_10.html</name>
+<question>
+<id>128241</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQuestion_0055</var>
+<text>What is an enforceable undertaking?</text>
+<correctans>A written promise by a person who has breached the WHS Act to take particular measures, as accepted by the regulator</correctans>
+<choices>The penalty incurred by a PCBU as a result of a WHS breach|A binding direction from the regulator about how a PCBU must adapt work practices to improve work health and safety standards|A written promise by a person who has breached the WHS Act to take particular measures, as accepted by the regulator|A written statement by a PCBU to acknowledge the existence of a WHS breach</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>10</index>
+<name>a004_quiz_module_4_q4_11.html</name>
+<question>
+<id>128229</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 11</name>
+<var>VarQuestion_0056</var>
+<text>When does an undertaking become enforceable?</text>
+<correctans>When it is accepted by the regulator</correctans>
+<choices>When the person making the undertaking first informs the regulator about it|When the regulator gives the undertaking to the person named in it|As soon as it is created, unless a later date is specified|When it is accepted by the regulator</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>11</index>
+<name>a004_quiz_module_4_q4_12.html</name>
+<question>
+<id>128217</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 12</name>
+<var>VarQuestion_0057</var>
+<text>What happens if a person breaches an enforceable undertaking?</text>
+<correctans>The regulator may apply for a court order directing the person to comply with the undertaking and any other order the court considers appropriate</correctans>
+<choices>The regulator may apply for a court order directing the person to comply with the undertaking and any other order the court considers appropriate|The regulator may issue the person any order it deems appropriate|The regulator may impose any penalty or consequence that is reasonable in the circumstances|There is no consequence for the person, as long as the breach has not created or exacerbated any risks to work health and safety</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>12</index>
+<name>a004_quiz_module_4_q4_13.html</name>
+<question>
+<id>128205</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 13</name>
+<var>VarQuestion_0058</var>
+<text>What is a restoration order?</text>
+<correctans>An order that an offender must take certain specific steps to rectify the consequences of the offence that the court considers the offender able to remedy</correctans>
+<choices>An order that a person who has been found to be breaching the WHS Act to stop breaching the Act|An order for offenders to publicise the offence they have committed|An order that an offender must take certain specific steps to rectify the consequences of the offence that the court considers the offender able to remedy|An order that an offender must undertake a particular project within a time period specified in the order</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>13</index>
+<name>a004_quiz_module_4_q4_14.html</name>
+<question>
+<id>128197</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 14</name>
+<var>VarQuestion_0059</var>
+<text>If a person is found guilty of breaching WHS laws, the court can impose a fine or imprisonment on the offender, but not both. True or false?</text>
+<correctans>False</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>14</index>
+<name>a004_quiz_module_4_q4_15.html</name>
+<question>
+<id>128185</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 15</name>
+<var>VarQuestion_0060</var>
+<text>Under a court-ordered WHS undertaking, what must an offender do?</text>
+<correctans>All of the above</correctans>
+<choices>Comply with any conditions imposed by the court|Avoid committing any offence against the WHS Act during the adjournment |Appear before the court if called to do so during the period of the adjournment |All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

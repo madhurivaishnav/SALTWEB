@@ -1,0 +1,61 @@
+SET ANSI_NULLS OFF
+GO
+SET QUOTED_IDENTIFIER OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetModuleIDByLessonID]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfGetModuleIDByLessonID    Script Date: 20/04/2004 8:25:57 AM ******/
+
+
+
+/*
+Summary:
+user Defined Function that returns a module id given a toolbook id
+only Works for a quiz
+Returns:
+scaler - module id - int
+
+Called By:
+
+Calls:
+
+Remarks:
+
+
+Author:
+Peter Kneale, Stephen Kennedy-Clark
+Date Created: 3 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+**/
+CREATE  Function [udfGetModuleIDByLessonID]
+(
+@LessonID Integer -- the id of the lesson in question
+)
+Returns Integer --< UserID >--
+Begin
+-- Declarations
+Declare @retVal Integer
+
+-- get Quiz id for this Toolbook
+set @retVal =
+(
+(
+Select Top 1
+ModuleID
+From
+tblLesson
+Where
+LessonID = @LessonID
+)
+)
+Return @retVal
+End
+' 
+END
+GO

@@ -1,0 +1,770 @@
+
+/*****************************************/
+/* Background colour for tables          */
+/*****************************************/
+.TDBGColour
+{
+	background-color: #e7e3e7;
+}
+/*****************************************/
+/* TextBox styles                        */
+/*****************************************/
+.TextBox_Main
+{
+	color: #4A6163;
+	padding: 2px;
+	margin-top: 1px;
+	margin-right: 1px;
+	font-family: Arial;
+	font-size: 9pt;
+}
+/*****************************************/
+/* Graphic styles                        */
+/*****************************************/
+.Graphic_Main
+{
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+}
+
+/*****************************************/
+/* Extra Info Extra styles                   */
+/*****************************************/
+.ExtraInfoExtraVisible
+{
+	visibility:visible;
+}
+.ExtraInfoExtraHidden
+{
+	position:absolute;
+	visibility:hidden;
+}
+
+/*****************************************/
+/* Text Graphic styles                   */
+/*****************************************/
+.TextGraphic_Main
+{
+	color: #000000;
+	padding: 0px;
+	margin-top: 1px;
+	margin-right: 1px;
+	margin-left: 10px;
+	font-family: Arial;
+	font-size: 9pt;
+}
+.TextGraphic_Image_Left
+{
+	width: 2%;
+	vertical-align: top;
+	text-align: left;
+}
+.TextGraphic_Image_Right
+{
+	width: 2%;
+	vertical-align: top;
+	text-align: right;
+}
+.TextGraphic_Description
+{
+	vertical-align: middle;
+	padding-left: 2px;
+	font-family: Arial;
+	font-size: 9pt;
+	color: #4A6163;
+}
+
+/************************/
+/*Meet The Player styles for Scenario Page*/
+/************************/
+.MeetThePlayer_Scenario_Main
+{
+	padding-left: 2px;
+	padding-top: 2px;
+	background-color: #e7e3e7;
+	padding-top:5px;
+
+}
+.MeetThePlayer_Scenario_Main_Row
+{
+	padding-left: 2px;
+	padding-top: 2px;
+	background-color: #e7e3e7;
+	padding-left: 10px;
+	padding-bottom: 2px;
+	vertical-align: top;
+	color: #4A6163;
+}
+.MeetThePlayer_Scenario_IMG
+{
+	cursor: hand;
+}
+.HiddenPlayers
+{
+	visibility: hidden;
+}
+.HiddenScenarioPlayers
+{
+	position: absolute;
+	height: 0px;
+	top: 0px;
+	visibility: hidden;
+	left: 0px;
+}
+/************************/
+/* Meet The Player styles */
+/************************/
+.MeetThePlayer_Main_TwoPage
+{
+	color: #000000;
+	margin-top: 1px;
+	margin-right: 1px;
+	height:50%
+}
+.MeetThePlayer_Main
+{
+	color: #000000;
+	margin-top: 1px;
+	margin-right: 1px;
+}
+.MeetThePlayer_Image
+{
+	padding: 2px;
+	vertical-align: text-top;
+	width: 20%;
+	height: 20px;
+}
+.MeetThePlayer_Name
+{
+	font-weight: bold;
+	font-size: 9pt;
+	vertical-align: top;
+	color: #4A6163;
+	padding-left:5px;
+}
+.ScenarioMeetThePlayerFont
+{
+	font-family: Arial;
+	font-size: 9pt;
+	padding-left: 15px;
+	vertical-align: top;
+	color: #4A6163;
+}
+.MeetThePlayer_Desc
+{
+	font-family: Arial;
+	font-size: 9pt;
+	vertical-align: top;
+	color: #4A6163;
+	padding-left: 5px;
+}
+.ShowMeetThePlayer
+{
+	border-right: slategray 2px inset;
+	border-top: 1px solid;
+	margin-top: 5px;
+	display: block;
+	padding-left: 5px;
+	left: 2px;
+	visibility: visible;
+	overflow: auto;
+	border-left: 1px solid;
+	width: 570px;
+	padding-top: 2px;
+	position: absolute;
+	top: -3px;
+	height: 400px;
+	background-color: #e7e3e7;
+	border-bottom: slategray 2px inset;
+}
+.FormatMeetThePlayerTable
+{
+}
+.MeetThePlayerHeader
+{
+	font-family: Arial;
+	font-size: 14pt;
+	color: #4A6163;
+	height: 2px;
+	position: relative;
+}
+.MeetThePlayerIMG
+{
+	position: relative;
+	top: 10px;
+	vertical-align: top;
+	width: 2%;
+}
+.MeetThePlayerDESC
+{
+	font-family: Arial;
+	font-size: 9pt;
+	color: #4A6163;
+	position: relative;
+	top: 10px;
+	padding-left: 10px;
+	vertical-align: top;
+}
+/************************/
+/* ShowAllPlayers styles */
+/************************/
+.ShowAllPlayers_Main
+{
+	color: #000000;
+	padding: 2px;
+	margin-top: 1px;
+	margin-right: 1px;
+}
+.ShowAllPlayers_Title
+{
+	font-weight: bold;
+}
+.ShowAllPlayers_Link
+{
+	font-style: italic;
+}
+.ShowAllPlayers_Player_Show
+{
+	border-right: slategray 2px inset;
+	border-top: 1px solid;
+	margin-top: 5px;
+	display: block;
+	padding-left: 5px;
+	left: 2px;
+	visibility: visible;
+	overflow: auto;
+	border-left: 1px solid;
+	width: 570px;
+	padding-top: 2px;
+	position: absolute;
+	top: -3px;
+	height: 400px;
+	background-color: #e7e3e7;
+	border-bottom: slategray 2px inset;
+}
+.ShowAllPlayers_Player_Hide
+{
+	display: none;
+}
+
+/************************/
+/* Table Of Contents styles */
+/************************/
+.TableOfContents_Main
+{
+	color: #000000;
+	padding: 2px;
+	margin-top: 1px;
+	margin-right: 1px;
+}
+.TableOfContents_Link
+{
+	font-size: 14px;
+	color: #000000;
+	text-decoration: none;
+}
+
+
+
+
+/***********************/
+/* EndLesson styles      */
+/***********************/
+.EndLesson_Main
+{
+	padding: 2px;
+	margin-top: 1px;
+	text-align: center;
+	margin-top: 1px;
+	margin-right: 1px;
+}
+/***********************/
+/* Submit Answer styles */
+/***********************/
+.SubmitAnswers_Main
+{
+	color: #000000;
+	padding: 2px;
+	margin-top: 1px;
+	margin-right: 1px;
+}
+
+
+
+
+/***********************/
+/* Free Text QA styles */
+/***********************/
+.FreeTextQA_Main
+{
+	color: #000000;
+	padding: 2px;
+	margin-top: 1px;
+	margin-right: 1px;
+}
+.FreeTextQA_Question
+{
+	font-family: Arial;
+	font-size: 9pt;
+	color: #4A6163;
+	/*height:200px;*/ /* commented out by CM (Clifford Chance) 20061003 */
+}
+/* rule commented out by CM (Clifford Chance) 20061003 
+FreeTextQA_Input
+{
+	font-family: Arial;
+	font-size: 9pt;
+	color: #4A6163;
+	width: 100%;
+	overflow:hidden;
+	margin-top:10px;
+}*/
+/* rule added by CM (Clifford Chance) 20061003 */
+div.FreeTextQA_Input
+{
+	font-family: Arial;
+	font-size: 9pt;
+	color: #4A6163;
+	width: 100%;
+	overflow:hidden;
+	margin-top:10px;/* added by CM (Clifford Chance) 20061003 */
+}
+/* rule added by CM (Clifford Chance) 20061003 */
+textarea.FreeTextQA_Input
+{
+	font-family: Arial;
+	font-size: 9pt;
+	color: #4A6163;
+	width: 100%;
+	overflow:auto;
+}
+.FreeTextQA_FeedbackButton
+{
+	cursor:hand;
+	font-size: 10px;
+	margin-top: 4px;
+	margin-bottom: 2px;	
+}
+.FreeTextQA_FeedbackButton_Hide
+{
+	visibility:hidden;
+}
+.FreeTextQA_Feedback
+{
+	display: none;
+}
+.FreeTextQA_Feedback_Show
+{
+	border-right: slategray 2px inset;
+	border-top: 1px solid;
+	margin-top: 5px;
+	display: block;
+	padding-left: 5px;
+	left: 2px;
+	visibility: visible;
+	overflow: auto;
+	border-left: 1px solid;
+	width: 570px;
+	padding-top: 2px;
+	position: absolute;
+	top: -3px;
+	height: 400px;
+	background-color: #e7e3e7;
+	border-bottom: slategray 2px inset;
+	z-index:35;
+	padding-right: 5px;
+}
+/************************/
+/* ExtraInfo styles */
+/************************/
+.ExtraInfo_Main
+{
+	padding: 2px;
+	font-size: 12px;
+	margin-top: 1px;
+	margin-right: 1px;
+}
+
+.ExtraInfo_Heading
+{
+	font-size: 14px;
+	font-weight: bold;
+	font-family:Arial;
+	color: #4A6163;
+}
+.ExtraInfo_Heading_Hidden
+{
+	visibility:hidden;
+	font-size: 14px;
+	font-weight: bold;
+	position:absolute;
+}
+.ExtraInfo_LinkHidden
+{
+	visibility:hidden;
+	position:absolute;
+}
+.ExtraInfo_Link
+{
+	color: #4A6163;
+	font-family:Arial;
+	font-style: italic;
+	text-decoration: 'underline';
+	position:relative;
+}
+.ExtraInfoLinkOther
+{
+	color: #4A6163;
+	font-style: italic;
+	font-family:Arial;
+	text-decoration: 'underline';
+	position:relative;
+	visibility:visible;
+}
+.ExtraInfoLinkOtherHidden
+{
+	visibility:hidden;
+	position:absolute;
+}
+.ExtraInfo_Hide
+{
+	height: 1px;
+	top:-10px;
+	z-index:0;
+	display: none;
+	visibility:hidden;
+	position:absolute;
+}
+.ExtraInfo_Hide_Option
+{
+	border-right: Green 5px solid;
+	border-top: Green 5px solid;
+	margin-top: 2px;
+	display: none;
+	padding-left: 2px;
+	left: 150px;
+	overflow: auto;
+	border-left: Green 5px solid;
+	width: 400px;
+	padding-top: 2px;
+	border-bottom: Green 5px solid;
+	position: absolute;
+	top: 150px;
+	height: 230px;
+	background-color: #E7E3E7;
+}
+.ExtraInfo_OptionImage
+{
+	cursor: hand;
+	padding-right: 2px;
+}
+.ExtraInfo_Show
+{
+	border-right: slategray 2px inset;
+	border-top: 1px solid;
+	margin-top: 5px;
+	display: block;
+	padding-left: 5px;
+	left: 2px;
+	visibility: visible;
+	overflow: auto;
+	border-left: 1px solid;
+	width: 570px;
+	padding-top: 2px;
+	position: absolute;
+	top: -3px;
+	height: 400px;
+	background-color: #e7e3e7;
+	border-bottom: slategray 2px inset;
+	z-index:30;
+}
+.ExtraInfo_Show_Option_Correct
+{
+	border-right: Green 5px solid;
+	border-top: Green 5px solid;
+	margin-top: 2px;
+	display: block;
+	padding-left: 2px;
+	left: 150px;
+	overflow: auto;
+	border-left: Green 5px solid;
+	width: 400px;
+	padding-top: 2px;
+	border-bottom: Green 5px solid;
+	position: absolute;
+	top: 150px;
+	height: 230px;
+	background-color: #E7E3E7;
+}
+.ExtraInfo_Show_Option_Wrong
+{
+	border-right: red 5px solid;
+	border-top: red 5px solid;
+	margin-top: 2px;
+	display: block;
+	padding-left: 2px;
+	left: 150px;
+	overflow: auto;
+	border-left: red 5px solid;
+	width: 400px;
+	padding-top: 2px;
+	border-bottom: red 5px solid;
+	position: absolute;
+	top: 150px;
+	height: 230px;
+	background-color: #E7E3E7;
+}
+/************************/
+/* Question styles */
+/************************/
+.Question_Main
+{
+	margin-top: 1px;
+	margin-right: 1px;
+}
+.Question_Text
+{
+	color: #000000;
+	padding: 2px;
+	height:60px;
+	font-family: Arial;
+	font-size: 9pt;
+	color: #4A6163;	
+}
+.Question_Answers
+{
+	color: #000000;
+	padding: 2px;
+	margin-top: 1px;
+	font-family: Arial;
+	font-size: 9pt;
+	color: #4A6163;
+	top:50%;	
+}
+.Question_Answer_Divider
+{
+	border-right: dotted;
+	border-top: dotted;
+	border-left: dotted;
+	width: 100%;
+	color: black;
+	border-bottom: dotted;
+	height: 1px;
+	text-align: center;
+}
+			
+.Question_Answer_Radio
+{
+	visibility: hidden;
+	width: 0px;
+	height: 0px;
+	padding: 0px;
+	margin: 0px;
+}	
+.Question_Label_Off
+{
+	background: url("/General/Images/Infopath/CC_RadioOff.gif") 0 0 no-repeat;
+	padding-left: 20px;
+	height: 26px;
+	font-family:Arial;
+	font-size:9pt;
+	color:#4A6163;
+	vertical-align:middle;
+	padding-right:10px;
+}
+.Question_Label_On
+{
+	background: url("/General/Images/Infopath/CC_RadioOn.gif") 0 0 no-repeat;
+	padding-left: 20px;
+	height: 26px;
+	font-family:Arial;
+	font-size:9pt;
+	color:#4A6163;
+	vertical-align:middle;
+	padding-right:10px;
+}
+
+/**************************/
+/* Multi Choice QA styles */
+/**************************/
+.MultiChoiceQA_Main
+{
+	position: absolute;
+	top: 0px;
+	height: 400px;
+	vertical-align: bottom;
+}
+.MultiChoiceQA_Question
+{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+	color: #4A6163;
+}
+.MultiChoiceQA_Answer
+{
+	color: #4A6163;
+	font-family: Arial;
+	font-size: 9pt;
+}
+.MultiChoiceQA_AnswerText
+{
+	font-family: Arial;
+	font-size: 9pt;
+}
+.MultiChoiceQA_AnswerTextRadio
+{
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	border-bottom-style: none;
+}
+.MultiChoiceQA_AnswerTextRadioTD
+{
+	width: 10px;
+	padding-right:5px;
+	vertical-align:top;
+}
+.MultiChoiceQA_AnswerTextRadioTD2
+{
+	vertical-align:top;
+}
+
+.MultiChoiceQA_AnswerTextRadioTABLE
+{
+	width: 98%;
+	position: relative;
+	font-family: Arial;
+	color: #4A6163;
+}
+.MultiChoiceQA_AnswerFeedback_Correct
+{
+	border-right: Green 5px solid;
+	border-top: Green 5px solid;
+	margin-top: 2px;
+	display: block;
+	padding-left: 2px;
+	left: 150px;
+	overflow: auto;
+	border-left: Green 5px solid;
+	width: 400px;
+	padding-top: 2px;
+	border-bottom: Green 5px solid;
+	position: absolute;
+	top: 150px;
+	height: 230px;
+	background-color: #E7E3E7;
+	color: #4A6163;
+	z-index: 20;
+}
+.MultiChoiceQA_AnswerFeedback_Incorrect
+{
+	border-right: red 5px solid;
+	border-top: red 5px solid;
+	margin-top: 2px;
+	display: block;
+	padding-left: 2px;
+	left: 150px;
+	overflow: auto;
+	border-left: red 5px solid;
+	width: 400px;
+	padding-top: 2px;
+	border-bottom: red 5px solid;
+	position: absolute;
+	top: 150px;
+	height: 230px;
+	background-color: #E7E3E7;
+	color: #4A6163;
+	z-index: 20;
+}
+.MultiChoiceQA_AnswerFeedback_Hide
+{
+	border-right: red 5px solid;
+	border-top: red 5px solid;
+	margin-top: 2px;
+	display: none;
+	padding-left: 2px;
+	z-index: 20;
+	left: 150px;
+	overflow: auto;
+	border-left: red 5px solid;
+	width: 400px;
+	color: #4a6163;
+	padding-top: 2px;
+	border-bottom: red 5px solid;
+	position: absolute;
+	top: 150px;
+	height: 230px;
+	background-color: #e7e3e7;
+}
+BODY
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	background-color: black;
+}
+
+.TABLEBODY
+{
+	color: BLACK;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	background-color: black;
+}
+FONT
+{
+	color: #4A6163;
+}
+A
+{
+	color: #4A6163;
+}
+/**************************/
+/* Main table styles */
+/**************************/
+.LegalContentBackground
+{
+	background-color:#e7e3e7;
+	border-bottom: thin groove;
+	height:370px;
+}
+.DivLegalContentRight
+{
+	vertical-align: top;
+	overflow: auto;
+	width: 221px;
+	padding-top: 0px;
+	border-bottom: thin groove;
+	height: 237px;
+	background-color: #0000cc;
+	text-align: center;
+}
+.ScenarioDivLegalContentRight
+{
+	vertical-align: top;
+	overflow: auto;
+	width: 221px;
+	padding-top: 0px;
+	border-bottom: thin groove;
+	height: 237px;
+	background-color: #e7e3e7;
+	text-align: center;
+}
+.DivLegalContentLeft
+{
+	vertical-align: top;
+	overflow: auto;
+	width: 162px;
+	padding-top: 0px;
+	border-bottom: thin groove;
+	height: 370px;
+	background-color: #0000cc;
+	text-align: center;
+}

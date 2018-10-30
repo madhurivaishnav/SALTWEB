@@ -1,0 +1,51 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblLink]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblLink](
+	[LinkID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[OrganisationID] [int] NOT NULL,
+	[Caption] [nvarchar](100) NOT NULL,
+	[Url] [nvarchar](200) NULL,
+	[ShowDisclaimer] [bit] NOT NULL,
+	[CreatedBy] [int] NOT NULL,
+	[DateCreated] [datetime] NOT NULL,
+	[UpdatedBy] [int] NULL,
+	[DateUpdated] [datetime] NULL,
+	[LinkOrder] [int] NULL,
+ CONSTRAINT [PK_tblLink] PRIMARY KEY NONCLUSTERED 
+(
+	[LinkID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblLink_tblOrganisation]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblLink]'))
+ALTER TABLE [dbo].[tblLink]  WITH CHECK ADD  CONSTRAINT [FK_tblLink_tblOrganisation] FOREIGN KEY([OrganisationID])
+REFERENCES [dbo].[tblOrganisation] ([OrganisationID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblLink_tblOrganisation]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblLink]'))
+ALTER TABLE [dbo].[tblLink] CHECK CONSTRAINT [FK_tblLink_tblOrganisation]
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblLink_DateCreated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblLink]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblLink_DateCreated]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblLink] ADD  CONSTRAINT [DF_tblLink_DateCreated]  DEFAULT (getutcdate()) FOR [DateCreated]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblLink_LinkOrder]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblLink]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblLink_LinkOrder]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblLink] ADD  CONSTRAINT [DF_tblLink_LinkOrder]  DEFAULT ((0)) FOR [LinkOrder]
+END
+
+
+End
+GO

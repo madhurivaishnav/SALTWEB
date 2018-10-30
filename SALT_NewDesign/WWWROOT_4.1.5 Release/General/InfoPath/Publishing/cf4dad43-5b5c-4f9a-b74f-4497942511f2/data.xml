@@ -1,0 +1,867 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" productVersion="11.0.6357" name="urn:Lesson:Salt:Bdw" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="b1535183-2e96-48a6-9cb3-83064fa4933d">
+  <Summary ID="bdwfs01" GUID="9e4bf407-ec58-42b5-9e58-a44feb1a13d9">
+    <ContentType GUID="cc824645-bde2-4c74-a391-4e7355c855dc">lesson</ContentType>
+    <UploadType GUID="4872502a-6d02-46c5-bb28-164efdf9032c">update</UploadType>
+    <Title GUID="ec40ee83-0dc5-4d08-867d-18244c79fe70">Overview of FSR </Title>
+    <CreatedBy GUID="f3e0e50f-0cc1-429e-9ec8-53d1e715199e">LTG Casual</CreatedBy>
+    <CreatedDate GUID="47423f33-aceb-4743-9fdd-f5858fbee363">2005-04-04T10:44:57</CreatedDate>
+    <LastModifiedBy GUID="31db87d7-3062-4728-8974-a39801f0c9ee">LTG Casual</LastModifiedBy>
+    <LastModifiedDate GUID="b1225445-464d-41e7-828d-5cf14bf9e6b8">2006-06-08T09:21:18</LastModifiedDate>
+  </Summary>
+  <Players GUID="a687f7c5-b63b-48c7-9af0-4d3b755b9d9d">
+  </Players>
+  <Pages PageFilter="0" GUID="6d1bae4b-71ad-4146-a34a-8aeeafa526d9">
+    <Page ID="Page1" IsActive="true" GUID="fa9783c9-d770-42da-b386-126d42e7be98">
+      <IncludedInTOC GUID="272b333f-a1c0-4710-842c-6d7f9f218898">false</IncludedInTOC>
+      <Title GUID="8b20e49a-d26d-4707-bf25-d6d7615a8c4e">Overview of FSR</Title>
+      <PageElements GUID="f6ac72ee-9e95-4470-9e66-b0537c79592b">
+        <PageElement GUID="9b505f6e-1005-4058-b37e-340dd6a2ff62">
+          <TextBox GUID="5cc0b44b-2ff3-4363-875e-5fbf73a57a31"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7c26adad-e51d-4a7b-8725-251bf283904e">
+    <div GUID="98d32150-3b62-4efd-b490-9d88f1b880dd" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="7bc5eb10-71e7-4a89-a177-37f0dd448fa6">
+        <span style="FONT-SIZE: 10pt" GUID="8d24085e-a998-404c-86f2-22aa66a17c8c">In this lesson you will work through a number of information pages which will teach you about <font face="Verdana" GUID="236889cb-7665-4040-b48c-310cecbe0ef3"><font face="Arial" GUID="249158e1-bf5e-4008-b66b-ee92093bc496">Overview of FSR</font>.</font></span>
+      </font>
+    </div>
+    <font face="Arial" color="black" GUID="1bd231d0-729e-4423-bb71-e92201dd1d82" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="5a001abc-ea9c-4ab9-8c54-510eb1b6bfb1">
+        <div GUID="99dc6b26-0eae-4729-adbf-5996e64ccaa1">
+          <br GUID="a5430e45-506f-4fae-8666-c7d43c61124c">This course refers to sections from the Corporations Act and the Financial Services Reform Act (FSRA). The FSRA amended the Corporations Act to reform the regulation of the financial services industry. To read the full text of these sections, return to this page by clicking Home on the menu above and click on the links below: </div>
+        <div GUID="14efdc75-9c5b-4c67-9b88-566e2c783a9d"> </div>
+        <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="aad19d7d-c170-43a0-b1fb-2745641ab8b5">
+          <li GUID="71a35a78-70ed-4bdd-b946-49d2f634d175">
+            <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Management.nsf/current/bytitle/3B11B1FDA7FE3EF3CA256F7100071C8F?OpenDocument&amp;VIEW=compilations" GUID="38d8bcfd-925d-4c75-bd40-a98597f63d3b">Corporations Act 2001</a>
+          </li>
+        </ul>
+        <div GUID="42986515-cfe9-4888-8c41-9911cf563f31"> </div>
+        <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d02de700-3fde-450b-a2ac-48fc03c66bfb">
+          <li GUID="6dc4ac7a-d261-4c52-b0e0-148eeee78520">
+            <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200402681?OpenDocument" GUID="692dcaaa-3c0d-4cc2-aa33-92475a874f14">Financial Services Reform Act 2001</a> </li>
+        </ul>
+        <div GUID="736c3102-0c23-4e9e-bc8f-fbe348353e8f">
+          <br GUID="84fd2dd2-406e-4b7a-afd9-beb1ee387d51">These links will open a separate Internet browser window displaying the Comlaw website. To continue with the course, close the separate window or change to the course Internet browser window.</div>
+        <div GUID="d5b164fb-cfcd-4876-8869-656a93d566c3">
+          <br GUID="1c5974a3-fb35-4401-ab7c-1f9b12225fac">Click the <strong GUID="b8d36f07-cc58-4e5a-ad10-3607b0ef3f21">Next </strong>button below to continue, or select a topic from the Table of Contents list.</div>
+      </span>
+    </font>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="71ab6d2d-adfe-45ca-a315-fb6fff1252f5">
+          <TOC GUID="6652b679-84a0-43ac-86c3-8c56ab6feaef"> <![CDATA[<div class="TableOfContents_Main">
+  <div class="TableOfContentsTitle">Table of Contents</div>
+  <ul class="TableOfContentsList">
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page2')">Learning objectives</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page3')">What is FSR?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page4')">How does FSRA work?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page5')">What happens if we do not comply with FSR?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page6')">Why do I need training in FSR?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page7')">What is a Financial Services business?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page8')">The true meaning of Financial Services?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page9')">What are financial products?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page10')">Further explanations of what a financial product includes</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page11')">What is financial advice?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page12')">Distinguishing between personal and general advice?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page13')">What is 'Dealing' in financial products?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page14')">What is meant by 'Making a Market'?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page15')">What is meant by a custodial or depository service? </A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page16')">What is the difference between retail and wholesale clients?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page17')">Who are retail clients?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page18')">What is meant by prohibited conduct in FSR?</A>
+  </ul>
+</div>]]></TOC>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="449e1cd2-cc47-48ba-8d02-55e2f0bf1895">
+      <IncludedInTOC GUID="2af129f8-f16f-4977-a6c4-234651816afb">true</IncludedInTOC>
+      <Title GUID="e35a5c90-97fe-4200-a4ea-92de136da196">Learning objectives</Title>
+      <PageElements GUID="adb062e9-3f4f-442e-899d-c0f86f8daa10">
+        <PageElement GUID="b3b8feee-d47f-4cac-a5dc-78d8aefbe4cd">
+          <Graphic GUID="f39792bf-7e96-4644-89b5-2b308f3622fc"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/d03639f1-9b9e-46f6-959c-4dbe0b9fb968.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="0129d735-ae0f-4d68-b989-809b7410fe64">
+          <TextBox GUID="a2461609-2747-4d50-9fe9-396c47eaa627"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="aaf953d6-a52e-4279-9226-1701b117d666">
+    <div GUID="691e811c-7d7e-43bc-94d4-499894f0885a" xmlns="http://www.w3.org/1999/xhtml">This lesson should take about <strong GUID="1d911b3a-ff0d-4b97-99f4-6c601293496f">20 minutes </strong>to complete.  In this time, we will tell you about what is meant by Financial Services Reform (FSR) and the reasons why it is essential to have full compliance with the law.  Since March 2002, the whole of the financial services industry, from banking to stockbroking, from insurance to managed investments and superannuation, from securities markets to clearing houses, all have undergone radical reform.</div>
+    <div GUID="d1620969-c066-4a8a-b76f-f8ee8f15a0d8" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="cbb65da7-fd62-4898-8f21-00e17c92326b" xmlns="http://www.w3.org/1999/xhtml">At the end of the lesson you should have a clear understanding of:</div>
+    <div GUID="dd0931b2-7cee-48bf-95a4-c7d87d90154b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d8561d6f-3722-4be1-9505-4af911b276ce" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="dbd39389-7bf9-48e8-85dc-fb1e6824ec9a">what FSR really means</li>
+      <li GUID="bbf5b3c8-5078-4676-958d-dc1bcfdc38e3">the potential legal risks for non-compliance with the FSR regime</li>
+      <li GUID="622d9dcc-2147-4a2a-9000-8845a1060f88">what is covered by the financial services laws</li>
+      <li GUID="ed83c22f-a5ec-4f59-9dab-7a5696693d14">the meaning of AFS</li>
+      <li GUID="e41b9e93-7e8b-4525-9bed-67c0908fab48">distinctions between definitions, such as dealing and advising in financial products</li>
+      <li GUID="6ad2b28d-d86c-40f0-9013-344366ef10df">what is prohibited conduct.</li>
+    </ul>
+    <div GUID="9059e495-755e-4881-89c1-148e0ce93b91" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="7759d4a1-2b0f-4a3f-b2fd-e4fc5444caab" xmlns="http://www.w3.org/1999/xhtml">To get started, please click on the <strong GUID="fece9791-b9ce-4883-ab21-3211003b3efd">Next </strong>button below. </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="4a9a5116-33ab-412a-b76b-07d07d72973c">
+      <IncludedInTOC GUID="e4c73f37-0e71-4adb-a14e-758b847552ca">true</IncludedInTOC>
+      <Title GUID="6fc4df68-d7df-4a0a-bccb-6c5fd161f3ba">What is FSR?</Title>
+      <PageElements GUID="4e5ef1a1-21f6-4e86-a8d7-8e921722afd0">
+        <PageElement GUID="8d4c8a76-fbac-40d5-8afc-e61fbe4dabf5">
+          <Graphic GUID="c6967771-0aa3-4c9f-b6d0-11e6db63ad74"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/9fddd3d1-f9e7-4004-8a22-9f84de537a5b.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="f67b13f3-a696-45f2-960d-a9222b219f47">
+          <TextBox GUID="0c3344e0-62c5-4425-aa0d-bb9a7f86ddd6"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="c4878738-68b0-4a1b-9544-62f7d5646730">
+    <div GUID="67f582c4-1b0b-4c1f-80c0-5a87d7610f27" xmlns="http://www.w3.org/1999/xhtml">FSR has become the accepted acronym for the reform of the financial services industry in Australia.  This commenced with the Federal Governments <em GUID="fb337a65-0951-4043-92ce-1c76f74eb71f">Wallis Inquiry into the Australian Financial System </em>through a CLERP No 6 to result in the passing of the <em GUID="e65e8d4f-abf9-49af-b683-20924979959b">Financial Services Reform Act 2001 [FSRA]</em>.  </div>
+    <div GUID="12d62dee-3e2a-4d0a-8dd0-07f402d7861c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="518355a4-db7a-4e4d-bef9-2523d7944d34" xmlns="http://www.w3.org/1999/xhtml">The FSRA commenced on 11 March 2002 and replaced the previous Chapters 7 and 8 of the <em GUID="6106a019-20a2-4b5b-bcca-6f09bedd8930">Corporations Act 2001 [CA2001</em>] with a brand new <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Management.nsf/current/bytitle/3B11B1FDA7FE3EF3CA256F7100071C8F?OpenDocument&amp;VIEW=compilations" GUID="179ff484-4cfb-4e8f-afc9-a3bbecb43cf1">Chapter 7</a> entitled 'Financial Services and Markets'.  </div>
+    <div GUID="ddec8c8b-732d-49ff-9cab-50d4de4b9b26" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="22da3174-142f-4e4a-9952-ad20f12735b3" xmlns="http://www.w3.org/1999/xhtml">In short, the FSRA introduced a uniform licensing regime for the financial services industry, bringing a range of industries under the CA2001 for the very first time.</div>
+    <div GUID="2801e4fe-ffae-4582-a4f2-b3f506d1e3dc" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ec6de2ea-a469-4da3-96bd-4557a2d07c2c" xmlns="http://www.w3.org/1999/xhtml">Despite the FSRA commencement date of 11 March 2002, most of the licensing provisions had a two-year transitional period.  Many players in the financial services industry delayed complete compliance with the new FSR regime until the deadline of 10 March 2004.  However, all financial services businesses must now be appropriately licensed with an Australian Financial Services [AFS] licence.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="a5ce1986-8ac4-40c5-95f1-dfb0ec8ef228">
+          <ExtraInfo GUID="e7245a77-ff3b-4f66-9d52-80770f76c987"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Click here for an explanation of CLERP No 6 </div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('47343f02-b6ce-4cbb-94d9-e4438d456c81');">CLERP No 6</A>
+      <div ID="Content_47343f02-b6ce-4cbb-94d9-e4438d456c81" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="86f5b391-4ada-4d8e-a7cd-3dac298033c5">
+                <div GUID="df0cc518-e3c8-45d4-948d-8ab7485e6013" xmlns="http://www.w3.org/1999/xhtml">CLERP stands for Corporate Law Economic Reform Program and Discussion Paper number 6 was entitled "Financial Markets and investment products" released in 1997 and revised in 1999. All CLERP papers which are available at the Commonwealth Treasury website: </div>
+                <div GUID="14baf92b-8a03-4d6d-b9be-6bf25e256511" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="2892c109-bd74-491f-9620-0c911a2c9469" xmlns="http://www.w3.org/1999/xhtml">
+                  <a target="_blank" href="http://www.treasury.gov.au" GUID="b5d0695a-fe6a-4261-931d-8672f9402fbb">Click here to view the Commonwealth Treasury website</a>
+                </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('47343f02-b6ce-4cbb-94d9-e4438d456c81');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="b51d00d5-e341-4f6f-b32a-8d79c669cacc">
+      <IncludedInTOC GUID="39d487c5-4600-42f1-a347-f36ee76c45ad">true</IncludedInTOC>
+      <Title GUID="7e9e5eba-152e-4a42-971c-03060bde7391">How does FSRA work?</Title>
+      <PageElements GUID="febb72f0-23a8-4c19-8902-89ef4d21ff79">
+        <PageElement GUID="511c123a-8421-4d51-8be0-0f885e9608f5">
+          <Graphic GUID="303791dd-8bd6-4f95-94d9-4c40c06699d1"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/897b6e2d-adcc-4d9f-b76e-d444cd8a5b3a.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="c5b1ee42-c3fa-4ac3-a065-d74c602abc4f">
+          <TextBox GUID="382ff49a-db09-4202-b9db-ad3ae72170e1"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="b8a7b36c-c889-4a34-9945-4117b876a120">
+    <div GUID="5a7dc0f0-69a9-49b6-b28e-0bfd8b3051c7" xmlns="http://www.w3.org/1999/xhtml">There is no short answer to this question, as this has become a complex area of law that has many provisions contained in the CA2001, as well as the many regulations, policy statements and guidelines produced by the regulator, the Australian Securities and Investments Commission [ASIC].</div>
+    <div GUID="7bef54d2-cc1a-4788-926c-1a3ba7f21aa4" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="56951fc0-02dd-4eb7-9df0-1746965acf9e" xmlns="http://www.w3.org/1999/xhtml">However, to put it quite simply, if a person carries on a financial services business, then the legal entity must have an AFS licence.  This is expressly stated in <strong GUID="3375bff8-b3ee-40e3-b3d9-a744c1c2629a">s 911A</strong>.</div>
+    <div GUID="60d6bb29-92a3-452c-9fc6-152a83b23f51" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="cbfc591b-537b-469e-9623-b2a5a4826087" xmlns="http://www.w3.org/1999/xhtml">The logic then flows that if you have an AFS licence, then you must comply with all the relevant provisions contained in Chapter 7 of the CA2001, as well as any conditions attached to the specific AFS licence that has been issued by ASIC.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="d15aea93-cd81-414c-9b26-1c85fcbaca10">
+      <IncludedInTOC GUID="33d46e95-7aaf-442a-b91b-c52b3c7858b8">true</IncludedInTOC>
+      <Title GUID="dd03807d-b0fb-4c3c-98e1-64de00940103">What happens if we do not comply with FSR?</Title>
+      <PageElements GUID="0926e739-c5eb-4c65-bdcc-5e6fbd6c544e">
+        <PageElement GUID="de021d63-e35e-4141-a0a3-c5f0aefa2679">
+          <Graphic GUID="0a939a2f-1fa1-45ef-8216-7436a16730cb"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/38ab13c3-96fb-4f46-90a1-92d9be9c5c78.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="80069531-b325-4144-b35f-97b9ddd7043b">
+          <TextBox GUID="1c1bcece-0998-44ad-8e6d-2082205930f7"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7467d1f4-1cf6-41fa-8ebc-58404667a532">
+    <div GUID="9f7fe8b2-b946-4692-869c-87f944e9d77d" xmlns="http://www.w3.org/1999/xhtml">The consequences of not complying with the CA2001, your AFS licence and the specific requirements of Chapter 7 could be disastrous.  There is a legal requirement for all holders of an AFS licence to comply with <strong GUID="87db7be5-b296-4b89-bb72-7d05f81f9717">s 912A</strong> (which is explained later) and failing to do so at the most basic level, the ASIC has the power and authority to immediately suspend or cancel the AFS licence. </div>
+    <div GUID="d9fb72cd-46fd-4d11-aa58-fa4456eb4cc2" xmlns="http://www.w3.org/1999/xhtml"> </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="47966570-924a-4a2b-be1e-29b45134cfc0">
+          <ExtraInfo GUID="fe757b1e-6df3-4ad9-92b6-90ba7d210f45"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Click here for more information on AFS licences! </div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('999a20f1-f35a-41ef-91af-2c145088b387');">AFS Licences</A>
+      <div ID="Content_999a20f1-f35a-41ef-91af-2c145088b387" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="0108cfbe-a5ad-4be0-b910-36a28acab1ee">
+                <div GUID="692b561e-972d-421e-bac4-bdfcc5432fb1" xmlns="http://www.w3.org/1999/xhtml">Sections <strong GUID="3a0823fb-0a25-43f5-958a-bb0636442ad7">915B</strong> and <strong GUID="2a696d6a-4a9c-47fb-9556-c4013a7495bb">915C</strong> gives ASIC the power to suspend or cancel an AFS licence if they have formed a reasonable opinion that either the licensor <strong GUID="81e32ae9-8dfa-4a3d-899e-0ffb2c7038c5">s 912A </strong>has not been complied with.  </div>
+                <div GUID="31cf1540-3d47-43ac-b258-e886f41765e3" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="87cafd9e-9915-489f-b173-aa3884853ca5" xmlns="http://www.w3.org/1999/xhtml">
+                  <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Management.nsf/current/bytitle/3B11B1FDA7FE3EF3CA256F7100071C8F?OpenDocument&amp;VIEW=compilations" GUID="51571043-0b5d-4e0a-9717-591a41b69781">Click here to read these sections of the legislation</a>.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('999a20f1-f35a-41ef-91af-2c145088b387');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="2d27acff-5092-40e8-9f4c-400f87382595">
+          <TextBox GUID="2b5faa1f-95ea-447a-96b6-0f45c7aad0bd"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7d38985b-305b-40b6-b0db-9ec2a7ee90ce">
+    <div GUID="d54060a8-37e8-4062-a598-8f47d82645cb" xmlns="http://www.w3.org/1999/xhtml">Once an AFSL has been suspended or cancelled, ASIC may make a banning order against a person or a company prohibiting that person from providing financial services and preventing that person from holding another AFS licence.</div>
+    <div GUID="c8606d74-0cad-48cb-a6dc-91f0cc79a19e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="825e9c45-152c-4577-afbc-7ed16353b1c8" xmlns="http://www.w3.org/1999/xhtml">On a more general basis, both the holder of the AFS licence (the corporate entity) or a person involved in the contravention of the law.  This means the officers and senior managers of the company may also be held liable for breaching the law.  The consequences for contravention are covered in detail in lesson 9, but may be summarised as:</div>
+    <div GUID="1318771d-9200-4978-8d66-c8934f6f4ad0" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="646fd828-ccbf-45b5-a11a-86b984a93aaf" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="5b821d28-a4d8-4a54-8de9-749c85c13232">civil actions under contract and the tort of negligence, as well as provisions in <em GUID="6bde1474-3397-4287-8c95-545f9f3b4353">CA 2001</em></li>
+      <li GUID="bcf0f129-b827-4dc9-be79-d0e35fa1bcdc">criminal prosecutions by ASIC for contravening <em GUID="195b3704-dcc1-4fa3-969e-a1dc6d0986f6">CA 2001</em></li>
+      <li GUID="7650316e-14e0-4d89-8007-b017a5902c2f">civil penalty actions by ASIC to pay compensation, disqualify the officers and pay a penalty, up to $1 million for the corporation and $200,000 for the individual, to the government</li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="deae251c-79bd-49db-9000-e4fca8c3ab8b">
+          <ExtraInfo GUID="81115a3d-3f61-4354-b89a-d0a67ed2ccd7"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Click here to view more information on Section 79</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('bab53d84-70a4-4404-81cb-90c4a8049776');">Person involved</A>
+      <div ID="Content_bab53d84-70a4-4404-81cb-90c4a8049776" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="d15f493d-1b3c-4f7a-bde0-d699575b588e">
+                <div GUID="39786e52-8610-49c3-8013-11a79fc70059" xmlns="http://www.w3.org/1999/xhtml">
+                  <strong GUID="3dc5178d-99f0-4ec8-8127-6fdae0322b23">Section 79</strong> states that a person involved in the contravention of <em GUID="754a00df-b8d7-40fc-abdf-635d4a6ccb5f">CA 2001 </em>can also be held liable. This covers directors, company secretary, responsible officers, other officers and senior managers of the AFS licence holder that were directly involved in breaching the law.</div>
+                <div GUID="1092a90c-e631-4fb8-8c28-3e44e156294b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="5e2f16d9-0de3-4238-b79f-dcc2333d6c7e" xmlns="http://www.w3.org/1999/xhtml">
+                  <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Management.nsf/current/bytitle/3B11B1FDA7FE3EF3CA256F7100071C8F?OpenDocument&amp;VIEW=compilations" GUID="81ee9b84-9af0-4b32-8ff2-2005e1b90333">Click here to read these sections of the legislation</a>.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('bab53d84-70a4-4404-81cb-90c4a8049776');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="edfdbd01-3f9a-4427-9d3b-c3b3e847505e">
+      <IncludedInTOC GUID="c2beccd0-fe1b-4a35-9258-08923801cb70">true</IncludedInTOC>
+      <Title GUID="961de292-d1ca-4f8b-a808-9b6e557d64de">Why do I need training in FSR?</Title>
+      <PageElements GUID="40dc2371-067a-44b8-95b0-2c712609dba2">
+        <PageElement GUID="32601bda-9520-4d56-baff-b81d1038abf7">
+          <Graphic GUID="58b2ad1b-d93e-4cc4-a027-9906dec53d75"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/1d93839a-40e9-4d74-b284-62f57d15db8c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="911934a0-d81c-4151-b340-534059abe520">
+          <TextBox GUID="3da97ab8-8264-43ca-9670-ada0a5854b0c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="72ece320-d22c-4718-98d7-9604cdf3b5b5">
+    <div GUID="0e3bfc01-b4af-4ec0-ae34-3e0b0de9d6fc" xmlns="http://www.w3.org/1999/xhtml">The obvious reason was stated in the previous page: if there is a contravention of the AFS licence or the provisions in CA2001, such as <strong GUID="18eb3f65-61d4-45fe-9315-dfb76a9857f8">s 912A</strong>, the financial services business cannot continue to trade or function.  This would have a serious market reputation consequence, as well as financially hurting both the individuals involved and the corporate body.</div>
+    <div GUID="25e60d88-a7da-45b9-b21f-5de18038bc2c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="dbccd734-ed62-4d49-8f1c-74ec30f76786" xmlns="http://www.w3.org/1999/xhtml">More specifically, <strong GUID="633ec25f-441c-4d94-87ce-32d980f68d4e">s 912A(1)(d)</strong> and <strong GUID="d2962eb9-e401-469a-a987-22bd88843724">912A(1)(f)</strong> require holders of an AFS licence to maintain adequate human resources and competence to provide the financial services covered by the licence.</div>
+    <div GUID="6b60de3f-1642-4ca7-a2a3-b7d9e52f5fe7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="dc4fd185-6a15-4d6a-9286-73869fc2575b" xmlns="http://www.w3.org/1999/xhtml">The ASIC refers to these two obligations as the 'organisational competency obligations'.  It is required that an AFS licensee is able to demonstrate its compliance with the organisational competency obligations. A licensee will need to identify:</div>
+    <div GUID="94793abf-e072-4e79-83a7-a5ae3edcfedf" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="e52db047-3dfd-4476-9a8b-065c3e2b436f" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="433a470d-1bf9-4eda-8274-244af2159000">the people whose expertise the licensee relies upon to meet its obligations; and</li>
+      <li GUID="1317c651-e289-4b11-be6c-fc5d76d73abc">what kind of training and experience these people possess that demonstrates the licensees compliance.</li>
+    </ul>
+    <div GUID="b9a75415-8f89-4b42-b042-30ad0791d757" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="9765c864-18aa-443d-bb92-d9d51222b809" xmlns="http://www.w3.org/1999/xhtml">ASIC expects that these people will be the licensee's responsible officers – people who are directly responsible for significant day-to-day business decisions about the ongoing provisions of financial services by the licensee.  The role and the duties of responsible officers is covered in lesson 10.  There are further training requirements for all employees and authorised representatives of the AFS licence holder.</div>
+    <div GUID="0d61434e-0b7e-4ada-b771-5874e336134d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="a947b7d6-dbe0-4b02-9c33-ccdbc4db8465">
+      <IncludedInTOC GUID="44967c06-91a5-4ad1-9b6d-9c1165a8705d">true</IncludedInTOC>
+      <Title GUID="5690d32c-02eb-4d6f-ab4c-899a4cedddd1">What is a Financial Services business?</Title>
+      <PageElements GUID="81f9fc82-6839-4e0c-b0b9-147929d1d53f">
+        <PageElement GUID="d5b980a4-62e2-4feb-82f7-96aa3086d4a4">
+          <Graphic GUID="ae1145d0-5dc4-42b8-be1c-fd372690109c"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/0264ef4d-968d-4057-bf27-0b4f4ef999d6.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="a8804e03-7a84-4c35-b15a-1dee7db0a22f">
+          <TextBox GUID="51638a0c-e995-4316-b9dd-a03d2ce08a20"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7d7e0d59-5a09-432e-8e3b-6a2263849fec">
+    <div GUID="7771447e-edd0-42af-b4e1-7fdc8eacd3a8" xmlns="http://www.w3.org/1999/xhtml">The <em GUID="ce318eae-f495-40d2-8126-ea38a0e1f5a0">CA 2001 </em>rather obtusely defines a financial services business as 'a business of providing financial services'.  This is found in the Chapter 7 definitions section, <strong GUID="281e1ced-5490-49f8-b529-121740822cc7">s 761A</strong>. </div>
+    <div GUID="f45ee270-091c-4ac3-aa24-b7940a71e7e3" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="513a96ae-3491-42e8-9fec-130677b06074" xmlns="http://www.w3.org/1999/xhtml">As a result of this definition, determining whether a person comes within the scope of the financial services regime becomes a semantic adventure.</div>
+    <div GUID="fbe8525a-f3dc-4e10-beb1-bc08b2be3f80" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="b436317e-10cd-45c4-bc24-d191ed041886" xmlns="http://www.w3.org/1999/xhtml">Thus the better question is <strong GUID="938ce830-0f27-416c-b2c1-3733f63b6093">what are financial services</strong>?</div>
+    <div GUID="269a9b2c-f31e-4d3c-bbc7-eefbe97aa1df" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="7704949f-9176-4b55-afc9-d5d7d3a4f141" xmlns="http://www.w3.org/1999/xhtml">This is answered by <strong GUID="1bad9ee7-2515-4332-9f30-d8e16daf2e25">s 766A</strong>, which states that a person provides a financial service if they:</div>
+    <div GUID="4236a3d9-8152-4042-ae07-3232ff9e87d5" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" NDListNewStart="true" GUID="735fa424-1e25-4014-84e1-c4394988ec55" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="5193301a-99bc-4393-98f4-0534912273ba">provide financial product advice;</li>
+      <li GUID="ae6103e7-a468-4756-a6e3-b7cd583e183f">deal in a financial product;</li>
+      <li GUID="f48c41b4-4b1a-48f9-9d3d-e9ee071866c6">make a market for a financial product; </li>
+      <li GUID="a30ada53-1ed9-49b8-afb8-234dc6f09b77">operate a registered scheme;</li>
+      <li GUID="3850100d-af48-43c5-a053-e0b810c466cf">provide a custodial or depository service; or </li>
+      <li GUID="4ad6c17b-d7ec-418a-9f0a-bddc22f97b8c">engage in conduct of a kind prescribed by regulations made for the purpose of this paragraph. </li>
+    </ol>
+    <div GUID="9d34547d-e13e-4349-8bd1-7dab8593c2f7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="aaa5da4f-ba7c-4103-8e01-3c966a238eb8" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Management.nsf/current/bytitle/3B11B1FDA7FE3EF3CA256F7100071C8F?OpenDocument&amp;VIEW=compilations" GUID="4430cf06-90d5-443c-a5cf-f18921f4bf23">Click here to read these sections of the legislation</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="d54d698e-49d1-4a45-b170-5e9c734d4992">
+      <IncludedInTOC GUID="bf39e823-1103-41a9-a5f9-9df771c3e586">true</IncludedInTOC>
+      <Title GUID="ced80e2a-4d9b-4246-950b-d34d22508910">The true meaning of Financial Services?</Title>
+      <PageElements GUID="5ebe3697-a4a6-4947-87d1-6c3c117bf3b7">
+        <PageElement GUID="d823e571-5acc-4b3c-b8ec-a5f2427db4dd">
+          <Graphic GUID="7ea7167d-333b-4198-a744-7cd75044c141"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/50b66ee9-3763-4e36-941a-a65387499fc0.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="58308f30-57b6-4f04-b30a-53e3f42bab60">
+          <TextBox GUID="cbd68385-c29b-479a-8e69-81c0d183b90c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="425d6afd-5ce6-48e0-b577-9232803398c9">
+    <div GUID="7cef5261-0a01-43b1-9f61-15f79beb698c" xmlns="http://www.w3.org/1999/xhtml">The formal definition in <strong GUID="523aa1cf-eaca-43bf-a0f4-eb9cf583d6e6">s 766A</strong> requires further explanation for clarity.  Financial services may include:</div>
+    <div GUID="c182793b-4cc2-42ab-a1af-72c7cbd728e5" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="816c1ace-4500-4684-b0eb-6c85053a5dba" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="467c67b5-dbb3-4827-8ea4-9aa278441949">giving advice on financial products</li>
+      <li GUID="749c2530-5e22-4043-9713-93b938f68d33">actually dealing in a financial product</li>
+      <li GUID="10441f60-3ccd-47cd-995f-00ed22745d46">becoming a market maker for a financial product</li>
+      <li GUID="4dba2e28-adbc-4089-b1ac-d3aa35e3cbcf">operating a registered scheme, dealing in managed investments</li>
+      <li GUID="00d5b0f1-ef04-4cb5-9d57-c0a7f114b6b9">providing a custodial or depository service</li>
+    </ul>
+    <div GUID="a2125e1c-675f-411f-ad67-76864f866586" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="af5e93b7-a9d6-4e23-a4e5-2439322ba817" xmlns="http://www.w3.org/1999/xhtml">Each of these main concepts is discussed in the following pages.  However, it is worth noting that there is an important exception to the above financial services.  A person that performs one of the above duties, but performs work which is of a kind ordinarily done by clerks or cashiers, will be deemed to not be legally providing a financial service for the purposes of CA2001. </div>
+    <div GUID="d0e79da0-ea24-45b2-bf17-4a6b7f241e16" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ea7a8667-827a-4707-9825-497cc53cf1f8" xmlns="http://www.w3.org/1999/xhtml">For example, an employee who answers routine questions by giving factual information (such as prices, rates of return, etc), or merely collects payments and issues receipts, or performs routine administrative functions (such as gives some basic help with completing the necessary forms, etc) is not providing financial services for the purposes of <em GUID="055715b0-84d5-45ef-b614-fa957fce7439">CA 2001</em>.</div>
+    <div GUID="94ae0739-14a7-4f8b-b911-c18d94d4d21d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ccdbb8f7-0593-4152-864b-5765f74824b3" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Management.nsf/current/bytitle/3B11B1FDA7FE3EF3CA256F7100071C8F?OpenDocument&amp;VIEW=compilations" GUID="16fc4150-776d-4124-9a80-0be0ed38f8a6">Click here to read this section of the legislation</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page9" IsActive="true" GUID="eb9c5ed7-f75f-4257-a3b3-7f287fffde0d">
+      <IncludedInTOC GUID="d69d56dd-6491-4f12-8ed1-51ef0cc1baa8">true</IncludedInTOC>
+      <Title GUID="3ce4761e-83a9-4253-97f5-96eab3c84a2c">What are financial products?</Title>
+      <PageElements GUID="e8c899ff-5d81-4fab-855d-58c8296fa031">
+        <PageElement GUID="74f90b34-b651-41c1-ab19-663283d80f04">
+          <Graphic GUID="57c6e2b2-dab7-42fd-9e2b-c46c3cde77da"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/7cd18169-7f6c-434d-bc1c-39ffb7c7d1cf.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="4929c898-1cdb-4c7c-9e59-604830b0025d">
+          <TextBox GUID="7277aa2e-966a-4e13-a99c-7cc2f24d0ff7"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="ef5556f9-c890-49c3-b434-1896d2a91890">
+    <div GUID="9ef329e1-60f7-4334-929e-ff5c5c17f588" xmlns="http://www.w3.org/1999/xhtml">The meaning of a financial services business and providing a financial service is dependent upon the concept of a <strong GUID="35f23e19-49ae-490d-a135-31e8949958b6">financial product</strong>.  <strong GUID="4350654d-4401-4696-8eeb-01e6e4586a79">Section 763A</strong> provides a general definition of a financial product as being something that allows a person to:</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="eb14d41d-910f-4e75-9723-c799233fdee8">
+          <ExtraInfo GUID="d1e1a50b-d06e-41c1-bb7c-95d6d9246747"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Make a financial investment</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('bbaddd72-749a-48ee-886a-47a1c296077c');">Making a financial investment</A>
+      <div ID="Content_bbaddd72-749a-48ee-886a-47a1c296077c" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="c7d0cc4c-e6f4-4f67-83a0-ffa55a8bf3a6">
+                <div GUID="1fb8d058-4970-48f6-b17f-f16694bc0136" xmlns="http://www.w3.org/1999/xhtml">Making a financial investment is explained in <strong GUID="a40998ea-fb41-4c26-8180-91d612cdf371">s 763B </strong>to include a person buying shares in a company or an interest in a registered managed investment scheme, but not buying a real property or bullion.</div>
+                <div GUID="ad0b1b0b-5e0b-43f4-b6d8-6bb5e21bae4a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="e761ad17-564b-4a4c-9a2b-0c91b10f3694" xmlns="http://www.w3.org/1999/xhtml">
+                  <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Management.nsf/current/bytitle/3B11B1FDA7FE3EF3CA256F7100071C8F?OpenDocument&amp;VIEW=compilations" GUID="8ee66924-5db3-452c-9330-a4bb7d291d11">Click here to read this section of the legislation</a>.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('bbaddd72-749a-48ee-886a-47a1c296077c');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="2def909a-8fc5-4cca-bd0e-9c0c4c27e06f">
+          <ExtraInfo GUID="a5c955f6-6e99-4f92-bc0d-ee7dfbecd1d3"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Managing a financial risk</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('a92d6f41-0d55-43a5-8db4-861271bc4726');">Managing a financial risk</A>
+      <div ID="Content_a92d6f41-0d55-43a5-8db4-861271bc4726" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="f45b32c7-35b7-44ce-b9c1-d2139b28e2d3">
+                <div GUID="31ca25f3-650d-46c9-8a73-7f709ece27c0" xmlns="http://www.w3.org/1999/xhtml">Managing a financial risk is explained in <strong GUID="a09e3ee1-010c-4262-b418-1000a066ef0f">s 763C </strong>to include taking out insurance or hedging a liability by acquiring a futures contract or a currency swap, but does not include employing a security firm to protect your business.</div>
+                <div GUID="797728a5-31d8-4b49-9171-dcf298eedbcf" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="815e75aa-f5fe-4627-b483-572635baab5a" xmlns="http://www.w3.org/1999/xhtml">
+                  <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Management.nsf/current/bytitle/3B11B1FDA7FE3EF3CA256F7100071C8F?OpenDocument&amp;VIEW=compilations" GUID="58de92e2-9347-4999-8ba1-ab93bfd7d00b">Click here to read this section of the legislation</a>.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('a92d6f41-0d55-43a5-8db4-861271bc4726');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="3b58308f-6146-4d5f-a796-2cdfad94f810">
+          <ExtraInfo GUID="82619c83-d96a-48fb-9bef-6ffa96b55791"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Making a non-cash payment</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('18701382-355e-4f33-86ec-ac1350e94e29');">Making a non-cash payment</A>
+      <div ID="Content_18701382-355e-4f33-86ec-ac1350e94e29" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="6f15c2ce-9ee8-48f9-8417-23bdb6881419">
+                <div GUID="e92d0e1b-3ee8-4fd5-bc6e-e46feff0f888" xmlns="http://www.w3.org/1999/xhtml">Making a non-cash payment is explained in <strong GUID="a81ae573-d247-446f-9d8b-fec7834b04ae">s 763D</strong> to include making payments by direct-debit from a deposit account or the use of a cheque or a smart card.</div>
+                <div GUID="058664a1-b5b2-4d2c-8a57-83a08fd85e38" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="c2add126-515e-4cd4-a30b-281df2c3d1f5" xmlns="http://www.w3.org/1999/xhtml">
+                  <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Management.nsf/current/bytitle/3B11B1FDA7FE3EF3CA256F7100071C8F?OpenDocument&amp;VIEW=compilations" GUID="bd305842-bfc5-41ec-8887-9f25e90ed530">Click here to read this section of the legislation</a>.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('18701382-355e-4f33-86ec-ac1350e94e29');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="9cc1ea9b-5668-4758-b0e9-6cb3d2118f39">
+          <TextBox GUID="5a9a6bc3-4ad5-433f-81c4-b61c2d890fff"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="52addee4-8f72-415f-af73-4a92f1a4a1cb">
+    <div GUID="2e300e4f-7e86-48a0-9467-eb727433a98e" xmlns="http://www.w3.org/1999/xhtml">In addition, <strong GUID="8e124716-53fb-40c6-8855-eab3e5da75f4">s 764A</strong> contains an extensive list of specific things that are financial products. This includes the following:</div>
+    <div GUID="9feba702-ddc9-4243-9bd7-04a70cea9580" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" NDListNewStart="true" GUID="f547a3b7-45e8-4a92-951d-4c6ca0000759" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="6e6d307e-6715-4c34-8f90-614cd5a0645b">securities;</li>
+      <li GUID="6115d7d5-357f-4abf-b82b-d2c1a2e188fd">interests in a registered managed investment scheme;</li>
+      <li GUID="bc3b25ec-c0c7-401e-9e8c-f67da62f6f62">certain interests in an unregistered managed investment scheme;</li>
+      <li GUID="e5568642-0aa8-49e2-866c-21f6b173afaf">derivatives;</li>
+      <li GUID="27f996c3-1a4a-4a29-aba4-b25f6c70e59d">certain insurance policies</li>
+      <li GUID="d1ab6deb-68f4-42ba-a555-0d97dad33fd3">superannuation interests</li>
+      <li GUID="f0956fc5-1db6-4e8b-b07c-5558af822c59">retirement savings accounts</li>
+      <li GUID="a5ed35d2-761c-4895-a8ea-de81c55dfafb">deposit-taking facilities made available by ADIs</li>
+      <li GUID="bdf34cde-21d2-4b57-ac03-e8763eaf4e01">government debentures, stocks or bonds; and</li>
+      <li GUID="3fb95535-0ef8-4639-9414-70873ebfa470">certain foreign exchange contracts.</li>
+    </ol>
+    <div GUID="0b969ece-6792-417f-994b-7b7ac76847cb" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="9761b91d-0ec3-4217-b324-bc085937a88a" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.comlaw.gov.au/ComLaw/Management.nsf/current/bytitle/3B11B1FDA7FE3EF3CA256F7100071C8F?OpenDocument&amp;VIEW=compilations" GUID="cbf34002-96c1-4136-8c6b-dcc1eefdb00e">Click here to read these sections of the legislation</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page10" IsActive="true" GUID="720cc75a-99df-498a-b746-74ed79a6bfa5">
+      <IncludedInTOC GUID="cdaf2903-2315-4d44-9eba-24ebc301dc89">true</IncludedInTOC>
+      <Title GUID="307ea637-da3b-4dfb-ba17-89b553b611f8">Further explanations of what a financial product includes</Title>
+      <PageElements GUID="258fb15d-4718-43c0-bfbd-3c078b4578f4">
+        <PageElement GUID="95b89d55-a4a7-4e7a-bbbc-ff82e0f6a5a4">
+          <Graphic GUID="6f440962-9112-4109-8507-235e11915aa3"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/e572e58f-9f07-4562-b96e-e0b8fdcb0e6c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="4c96b299-aace-4cca-a976-431499cf73db">
+          <TextBox GUID="6d89cd36-d725-41e5-8253-5e6e9f469288"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="6cc136be-2749-4b05-b719-16da4f4761b2">
+    <div GUID="6dd9b713-5234-41bd-bf75-03f444a64a31" xmlns="http://www.w3.org/1999/xhtml">The general list of financial products provided in <strong GUID="ff179cd4-5a14-459c-bbdb-01b8abd41df3">s 764A</strong> and discussed in the previous page is not intended to limit the operation of the three main types of financial product listed in <strong GUID="cc1172d4-ed4a-431f-8972-f9a48cb1ce02">s 763A</strong>.  </div>
+    <div GUID="0d2bb74e-b0c0-4615-bb7c-f8aab7736fbc" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="e1180230-dda0-4347-ab75-30a0d1111f7e" xmlns="http://www.w3.org/1999/xhtml">For example, a financial product that allows a person to manage a financial risk but does not fall within the certain types of insurance policies listed in <strong GUID="204d22f2-be7c-4aba-b20d-fd6b20fce964">s 764A</strong> may still be a financial product for the purposes of the FSRA within <em GUID="c8a4c83b-9fc1-4df9-b4c2-64b66dd0f626">CA 2001</em>.</div>
+    <div GUID="4a5244e7-5df2-4e16-914c-5fd4b7d86aaf" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="e7ae86d1-fc3a-46d0-8e35-9cd8d6008509" xmlns="http://www.w3.org/1999/xhtml">At its simplest, if it looks like a financial product and smells like a financial product, it most probably is a financial product (even if you internally call it something else for marketing purposes).  There have been some practical examples in the areas of derivatives and other securitisation products and interests in managed investments, which the ASIC have determined to be "financial products" and thus require an AFS licence.</div>
+    <div GUID="fd26e4cc-b0fb-476f-9a54-43fd6e32eb36" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="f9ac8b21-3b08-4cb8-b542-f484eb2de45d" xmlns="http://www.w3.org/1999/xhtml">Thus, the scope of the FSRA in Chapter 7 <em GUID="69d9c6bb-4095-494b-b6dc-75d14547f187">CA 2001 </em>is very wide and is only made wider by a further regulation making power by the ASIC in <strong GUID="104fa4a8-6e9f-49ec-991d-60395bba8d8e">s 764A</strong>. </div>
+    <div GUID="ea57006c-80e7-4954-9d24-5fa2e4bcdaf9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="b1f6fa81-4e71-40e3-8469-397e94f6cd6e" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200402681?OpenDocument" GUID="3c836fbf-9ae3-41a9-8731-b2844361c5ea">Click here to read these sections of the legislation</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page11" IsActive="true" GUID="45e46e4f-6444-4131-ad94-ca69c2b96985">
+      <IncludedInTOC GUID="4994c3a9-c81c-450e-bfdc-5bd407d7f241">true</IncludedInTOC>
+      <Title GUID="3ef2f363-7e5e-4c3f-8b1c-928f61a9fe13">What is financial advice?</Title>
+      <PageElements GUID="b3bfc699-a1f1-4936-8833-4c704b38191d">
+        <PageElement GUID="57953595-46b9-4ab4-85b2-dd5bf18789ea">
+          <Graphic GUID="4aa0df10-3a99-467c-a7e8-d387a28b606a"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/e15d5b12-5261-4711-b165-12926d633089.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="58d4d738-21b8-4807-bdae-9738326ac642">
+          <TextBox GUID="712b699b-700b-4e85-b4f3-8fafaafb4389"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="47b4663d-d7a8-4ce1-b62a-58a998f29422">
+    <div GUID="0cb9749b-7edc-4553-84ec-60cb789dce95" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="6ff3c0f7-e8b8-4a06-9045-897a680f6e32">Section 766B</strong> defines financial product advice as a "recommendation or statement of opinion that is designed to influence a person in making a decision in relation to a financial product".</div>
+    <div GUID="e094f697-59e6-4bc8-b74c-0d0a7221349c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="f2016702-c0b8-4e34-ad41-ba78adf7437f" xmlns="http://www.w3.org/1999/xhtml">The need for advice to convey a recommendation or opinion means that the provision of purely objective factual information is generally determined not to be financial product advice.</div>
+    <div GUID="0aed265c-dba5-4bf2-aadd-f672ae69bf39" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="52008fdc-13df-4b7b-8d33-c6110c0561ce" xmlns="http://www.w3.org/1999/xhtml">There are two varieties of financial product advice: </div>
+    <div GUID="f1bcafd0-d99b-41cb-969d-582ee3327864" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="80d85b66-edb2-4c4c-8acc-25c417b88f9b" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="998ccef2-4a53-4f40-aafc-afddb6321e1c">personal advice and </li>
+      <li GUID="47cbcc3b-e0a2-4cb9-9182-bd58386635f5">general advice. </li>
+    </ul>
+    <div GUID="b3bc0f56-039a-42e3-b4ad-ba5b374aa549" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="4f1f03f4-9f21-4d77-8862-82151bf99dfd" xmlns="http://www.w3.org/1999/xhtml">The provision of either personal or general advice will give rise to the need for an AFS licence.  The provision of only general advice carries far fewer legal obligations under that AFS licence than does the provision of personal advice.</div>
+    <div GUID="1a182051-9897-4b5e-b44a-3b6ab23ee429" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="2b9e258f-f327-4c0b-95fc-538d716658e9" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200402681?OpenDocument" GUID="223a563c-88ea-4d6a-bdeb-ae34bedee3b5">Click here to read this section of the legislation</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page12" IsActive="true" GUID="a2aaf70e-f051-453c-ad70-0c010406d342">
+      <IncludedInTOC GUID="f8656997-3544-4565-955c-266a3ad2fcd2">true</IncludedInTOC>
+      <Title GUID="28cb585b-8de2-4d77-9db3-e4e956355178">Distinguishing between personal and general advice?</Title>
+      <PageElements GUID="d6cc4137-0ac7-46f6-850b-a7e57a766eaf">
+        <PageElement GUID="127db69c-a766-4012-b2b4-bfb67da74fcb">
+          <Graphic GUID="42cd18cf-e841-47c6-a9d5-4e0c2a7a56d4"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/a9856732-0e7f-4e9f-b038-6c2d44526fdd.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="cc4fc273-4f85-453f-aa31-b2df8ef977fb">
+          <TextBox GUID="491ea189-14ce-4533-856a-74438155dae3"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="c175dc6b-e0c9-42b6-a2d3-de69d40e0484">
+    <div GUID="5f936891-8f37-4159-bed7-bebeaa05f5ea" xmlns="http://www.w3.org/1999/xhtml">Personal advice is the advice that takes into consideration the recipient's personal objectives, financial situation and needs. <strong GUID="8ecd97de-47ab-4ca0-ab4b-018b422a118f">Section 766B</strong> provides authority for this statement. This is personal advice that would be required to satisfy the old and very familiar 'know your client' rule under the previous laws.</div>
+    <div GUID="983d5997-d3c3-4bd9-b7b4-8317a06c0b00" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="cc4fcb05-f522-4950-99ed-2e7562f1aa39" xmlns="http://www.w3.org/1999/xhtml">Additionally, where such advice is provided to retail clients, the advice must have a reasonable basis given the circumstances of the client (<strong GUID="6aa74f6b-7648-4e05-ae47-bf85b69f5e8e">s 945A</strong>) and the provider must warn the client if advice is based on incomplete information. For more detail see <strong GUID="561c2196-8dd3-43b6-81d7-0566086a29dd">s 945B</strong>. (Disclosure obligations in relation to providing advice are discussed in the third lesson.)</div>
+    <div GUID="d33dff14-e862-4c08-82cc-6e788f79a5f7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="3fd890ea-c15a-47a7-bec4-01059a0899f1" xmlns="http://www.w3.org/1999/xhtml">Any advice that does not satisfy the requirements for personal advice is deemed to be general advice. Further, providing information, such as responding to queries in relation to the price or rate of return of a financial product, is not considered to be financial product advice of either variety, as it contains no recommendation or statement of opinion and is thus mere information.</div>
+    <div GUID="412bf2fe-78ea-4ba5-af37-5b1cae550f57" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="98578366-03ad-4762-9450-ee6cad616a64" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200402681?OpenDocument" GUID="b3d2f15b-f6a4-4b9d-9212-719c5c384418">Click here to read these sections of the legislation</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page13" IsActive="true" GUID="8c2cfe2d-72f5-4a3b-b88e-d7cf874d6914">
+      <IncludedInTOC GUID="f44c76c9-8faa-4968-afcd-4a0e8f27ba53">true</IncludedInTOC>
+      <Title GUID="3d0b6513-84b4-4f00-a984-cd9ae01f74ca">What is 'Dealing' in financial products?</Title>
+      <PageElements GUID="2fd5dfea-fcdd-4bf3-940c-dc1df98a24f8">
+        <PageElement GUID="1490d929-d781-46da-8c54-7259d9a7e875">
+          <Graphic GUID="7edfdd38-2574-4ec3-89b9-669ce5f9589f"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/6ec70684-541c-4fa3-bb1e-1902643bc61f.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="fe654ea4-52bb-4c89-b5d0-1316baca372a">
+          <TextBox GUID="8bc7d0b3-b8fb-4562-abfd-0c3b70c21848"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="12b9930e-34d1-4cc4-9b6c-0f43c01965b0">
+    <div GUID="4eed6783-37e6-4c3a-a0e7-ab2ea62a1289" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="6df305f8-fccc-4438-9fb8-b66cfbc18622">Section 766C</strong> states that dealing in a financial product includes following:</div>
+    <div GUID="84a16709-cdc9-4947-866b-05d3021c06d6" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" NDListNewStart="true" GUID="152b4e48-b876-48b4-8903-a36e9b528fa5" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="93a7eb14-bc21-4705-b9e6-2c96a2a4aa3d">Applying for or acquiring a financial product;</li>
+      <li GUID="6f9f8ea3-203c-4e93-a14f-f9324f881579">Issuing a financial product;</li>
+      <li GUID="5d893aa8-7e4a-4c6f-b5db-04fc72003c58">Underwriting securities or interests in a managed investment scheme;</li>
+      <li GUID="0be5e438-6bb4-4cb1-ba64-566a1d236e4f">Varying a financial product; and</li>
+      <li GUID="e4ee714d-86e8-4111-87de-6205534f2f50">Disposing of a financial product.</li>
+    </ol>
+    <div GUID="a6b253dc-a57f-4618-a9da-3fab505e10e0" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="2050e576-2a45-4617-aeae-b4a5be96f1f9" xmlns="http://www.w3.org/1999/xhtml">It is extremely important to note that a person who arranges for any of the above dealing (under the definition in <strong GUID="6ac64215-b69b-4d9e-926f-cc9711cc103b">s 766C</strong>) to occur, is taken to be dealing in the financial product himself or herself.  The concept of arranging is very wide and there are some regulations produced by the ASIC which exempt some arrangements.</div>
+    <div GUID="f7b12d8c-b90b-4f44-b355-f7be1ec44095" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="be3ab140-00b1-4942-ae93-94e6cb48b9e0" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200402681?OpenDocument" GUID="5ebf1031-a93e-4691-818a-1bb2769e42ec">Click here to read this section of the legislation</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page14" IsActive="true" GUID="46b4d6b0-a991-412c-bb5d-5e4435a30227">
+      <IncludedInTOC GUID="5bf71fba-41cc-428a-b1c3-83f0a727b37d">true</IncludedInTOC>
+      <Title GUID="4d9a9a92-5ff6-4c39-bafc-b668cccb0cb6">What is meant by 'Making a Market'?</Title>
+      <PageElements GUID="e50d7e95-ea95-450d-a091-8db1268ee924">
+        <PageElement GUID="a9b43356-122d-4f12-be4a-0fe372618955">
+          <Graphic GUID="524ab87f-a246-4614-98f8-cdc54bc0cf7a"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/f822ae62-94e8-46a0-8c94-9c4925c24e4d.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="f3b28b7c-bbba-4d52-8fe4-54b754bda081">
+          <TextBox GUID="da16c1ae-8032-49fc-bc20-54c2f753487f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="fef9210d-df50-422b-b3df-e6eb35ccef3b">
+    <div GUID="139b1f79-df47-4394-9056-ac81f68f4ae9" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="e763a25f-8702-4d97-9bee-d3f9457341b1">Section 766D</strong> states that a person makes a market for a financial product where:</div>
+    <div GUID="12ee98de-19b4-41c8-adef-518f4f44cf2c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="258fe8b1-512f-49bb-91eb-e2c1531e17c6" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="c6b09d6d-e4a2-4a6a-9c9a-91f5b4e42539">They regularly state the prices at which they propose to acquire and dispose of the financial products <em GUID="877bf9c0-c27c-4ede-bb83-f7bd6a80e29d">on their own behalf</em>; and</li>
+      <li GUID="902ef203-946e-477f-8313-1d0d4d53e1bb">Other persons have a reasonable expectation that they will be able to regularly trade at the stated prices.</li>
+    </ul>
+    <div GUID="e2c44cf7-2e4d-4a53-a82e-6dc32ab0d1de" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="9fb33437-38ed-4418-8de1-0895675759cc" xmlns="http://www.w3.org/1999/xhtml">The concept of making a market does not apply to a person or entity that is merely stating prices at which they propose to acquire/dispose of superannuation products, managed investment products, or certain products relating to unregistered managed investment schemes.</div>
+    <div GUID="6ad2be0d-b84f-4660-9511-d2856a5554b2" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="8e4b9ad5-3632-42ce-8a12-fc8c085c23ad" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200402681?OpenDocument" GUID="44087f89-8b67-48d3-98ea-84576ae80525">Click here to read this section of the legislation</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page15" IsActive="true" GUID="e3573a74-fc83-4979-97fd-21ecd3ffefb2">
+      <IncludedInTOC GUID="25770420-79fe-4631-8e79-74d8903a3d72">true</IncludedInTOC>
+      <Title GUID="8b733e2c-eb25-4e19-a718-6e4b13d7313e">What is meant by a custodial or depository service? </Title>
+      <PageElements GUID="de218582-a532-4ae1-a0bb-53e980c99b77">
+        <PageElement GUID="0cab4987-a2d1-49cb-bf0b-8ffbc0e8f168">
+          <Graphic GUID="e9052055-4d90-47f0-8f65-e3e7d139c6e6"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/6aa86519-a517-4fa5-8dff-e5e579822e99.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="ddd5d59e-95ae-40db-a8eb-1e4e702fa1f5">
+          <TextBox GUID="300c957c-59c9-4968-b3aa-701a572c0b48"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="25b95fc4-b07e-43a6-9ebc-a739f47a9955">
+    <div GUID="41e13493-b61d-45bf-97ea-66c894798488" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="5fd157d0-fbde-4cb1-81d9-372e589f4cbf">Section 766E</strong> explains what it means to provide a custodial or depository service in the context of <em GUID="577e38e1-79f2-4bb0-beb8-001480b8399f">CA 2001</em>.  A person provides a custodial or depository service to another person if under an arrangement between the provider and the client, a financial product or a beneficial interest in a financial product is held by the provider in trust for the client or other nominated person by the client.</div>
+    <div GUID="266ebeaa-8113-4f43-ab7e-48a1c9df4fd7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ab1c7bc8-23c8-401f-b02f-facfead11d80" xmlns="http://www.w3.org/1999/xhtml">However, the FSRA provides some clear exceptions, which are not held to be custodial or depository services.  These include:</div>
+    <div GUID="50e3703a-fb84-4e2c-baab-22f3c75e87d0" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="5837cd23-bf9b-425c-9883-e902d5eec6ad" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="cc0e41de-63ce-4d6d-abf4-5631d3f681da">Operating a clearing and settlement facility</li>
+      <li GUID="780961c2-f871-4716-b17f-b2373457f3ee">Operating a registered scheme for managed investments</li>
+      <li GUID="2f3e4ca0-ad21-4947-b550-7b8df85084da">Operating a regulated superannuation fund, approved deposit fund or a pooled superannuation trust by the trustees of that fund or trust</li>
+      <li GUID="1e57f08a-513b-4e02-bc3b-36958044f407">Operating a statutory fund by a life insurance company</li>
+      <li GUID="53fe1596-aaf9-4e98-a5a7-c20894994d01">Provision of services to a related body corporate</li>
+    </ul>
+    <div GUID="ee7043f8-030e-4d1d-9ec5-077cdc8594de" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="979859bf-6965-4b24-b2e2-473026250909" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200402681?OpenDocument" GUID="2e80b3bd-f2d3-4ff5-9078-d25a955797d2">Click here to read this section of the legislation</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page16" IsActive="true" GUID="e5b0239c-ec7d-456b-b539-a50ab6149804">
+      <IncludedInTOC GUID="b18a4d56-ab44-4813-8505-fa9716b6f811">true</IncludedInTOC>
+      <Title GUID="06fabdea-afd0-471b-b69f-f2a6d6c8e56e">What is the difference between retail and wholesale clients?</Title>
+      <PageElements GUID="9419e08a-93d1-489e-b444-bd41ab33436f">
+        <PageElement GUID="43e60ae1-f856-4c87-be4f-d02322a2a8f8">
+          <Graphic GUID="3f8fa8fa-943c-459a-acec-d0bee154e766"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/b04a0074-c430-40ed-9028-7e9f18391866.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="40c4c6d0-6d57-4c7d-b91b-49087e77e646">
+          <TextBox GUID="e4f8e660-3f78-44fd-992e-6766b76e518c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="31988089-a2c3-4620-b6ce-4f1e7321fc65">
+    <div GUID="222a64f8-7445-478d-acc0-ef91309c41a1" xmlns="http://www.w3.org/1999/xhtml">The governments policy behind the implementation of the FSRA is strongly consumer protectionist.  In keeping with this theme, the FSRA distinguishes between retail clients and wholesale clients.  In short, the policy rationale is that retail clients require more assistance and greater protection. The distinction between retail and wholesale clients is an important one, as the holder of an AFS licence faces a greater level of obligation when dealing with retail clients.</div>
+    <div GUID="116b8651-3749-41e0-a8c0-b4f18b1d6646" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="456f94cd-92cf-4913-bc3a-f6a4b2c69811" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="a3acc67e-2878-44e9-b523-5b17e9553d41">Who are wholesale clients?</strong>
+    </div>
+    <div GUID="c68d213d-6147-489e-83f1-b3677dde35ce" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ace7291b-85f7-4b9f-be6f-d9c59d5ffc7d" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="c328ec6c-188c-4acd-bc33-b7f01d4d6a35">Section 761G(7)</strong> contains the definition of a wholesale client.  For the purposes of FSRA, a financial product or service is taken to be provided to a wholesale client if the:</div>
+    <div GUID="e5da0848-d5ab-49d1-94e3-b23c8fe6c30d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="9a4652e0-130a-4bb3-b17f-5299d959203c" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="af4fcfdc-aba0-4ec4-bac3-8f212e55c2a6">Price of providing the financial product exceeds A$500,000; or</li>
+      <li GUID="775c1cdb-8c73-4a7a-9365-47af9a86a4ff">Value of the financial product to which a financial service relates exceeds A$500,000; or</li>
+      <li GUID="4cd1c649-489a-4468-90b4-7a7a7c4bb458">Client has net assets exceeding A$2.5m;  or</li>
+      <li GUID="2dd16447-5120-4412-9776-26b2b1d0d026">Client has net income exceeding A$250,000 in the previous two financial years; or</li>
+      <li GUID="395cd519-d1fe-4b69-8704-00056f1a41f0">Client is a professional investor; or</li>
+      <li GUID="98e1637f-4732-4995-be65-d67b142c8042">Financial product or service is provided for use in connection with a business that employs more than 20 people (or, if it is a manufacturing business, more than 100 people). </li>
+    </ul>
+    <div GUID="ce32b15c-d50f-43c4-9f46-1904327072d3" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="c9c531ce-fef8-4f6b-b9db-5faddb165d27" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200402681?OpenDocument" GUID="a15c9456-f753-445e-8ea5-7860cf5a4a4b">Click here to read this section of the legislation</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="3eb90d92-1697-467a-8bb9-11c9670f17ad">
+          <ExtraInfo GUID="c9229ea4-0301-41ba-be7a-1a9b6fd6a1a2"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Click here to view the definition of a 'professional investor' </div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('409dd00e-7d65-4815-a53c-652ec8ef818b');">Professional investor</A>
+      <div ID="Content_409dd00e-7d65-4815-a53c-652ec8ef818b" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="da0f49ac-04af-4ff3-ba2d-47fa1b239852">
+                <div GUID="5ad5d1b8-8ce8-49e0-b8f9-c48563265d51" xmlns="http://www.w3.org/1999/xhtml">A professional investor is defined in section 9 as including AFS licence holders, superannuation fund trustees, and has the same assets/income limits as those prescribed for sophisticated investors under the fundraising disclosure provisions of the <em GUID="7f8f3683-8245-441a-b66f-86acb372db66">CA 2001</em>.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('409dd00e-7d65-4815-a53c-652ec8ef818b');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page17" IsActive="true" GUID="2684b8b1-fed1-4674-a42f-0b986b80a858">
+      <IncludedInTOC GUID="13a06d86-8093-476e-bf28-0c0bad91f529">true</IncludedInTOC>
+      <Title GUID="6db0db50-fc6f-440e-968e-c631319574a5">Who are retail clients?</Title>
+      <PageElements GUID="ee3a1317-65d7-4c77-90f7-24ed20339c72">
+        <PageElement GUID="d3442707-21fa-47b9-a56a-d184f2161d06">
+          <Graphic GUID="6ddc2d78-5cc8-4c07-a7c0-1f6179f2ad9f"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/8b33b8d0-8b9d-4263-99f2-2b1963590f84.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="06125da8-30b1-42c5-941f-662b333929f4">
+          <TextBox GUID="feb4e143-bafe-45eb-be39-570dba56ad05"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="f29b24b2-6500-43f1-b37a-3f7b0430448a">
+    <div GUID="9b02ed03-d1ab-4408-a655-76a9e6006da7" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="90525745-dbae-4dce-8570-5a8fc74b2604">Section 761G</strong> contains a general inclusionary rule that financial services and products will be taken to have been provided to retail clients, unless the client satisfies the test for a wholesale client.  Therefore, a retail client is a client that is not legally a wholesale client!</div>
+    <div GUID="15c04791-9888-402a-9246-141d33123f3d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="89782f1c-91cf-433b-8172-b0364ca8eae5" xmlns="http://www.w3.org/1999/xhtml">In addition, certain financial services and products (general insurance and superannuation) will always be supplied to retail clients, regardless of the above wholesale client test.</div>
+    <div GUID="2101ff12-4777-4516-abab-e427df0189e6" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="366ac0f9-81ca-4fc0-879b-1d88d972e801">
+      <strong GUID="a5c2cbee-b497-48cc-b775-3136307fa12e">Who cares if a client is wholesale or retail?</strong>
+    </div>
+    <div GUID="e9e89f0f-2e17-401a-839a-366dba170c32" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="da2603ff-fc9b-4911-bc3f-04612c162155" xmlns="http://www.w3.org/1999/xhtml">There are a number of reasons to care about the distinction between wholesale and retail clients.  Where financial services or products are provided to a retail client, the provider's disclosure obligations tend to be greater.  For example, where financial product advice is given to a retail client, a Statement of Advice [SoA] (<strong GUID="f77611d9-1388-4701-9f6a-9dcb68b433fd">s 946A</strong>) and a Financial Services Guide [FSG] (<strong GUID="54f1a98b-2307-4266-a26f-b1036870725f">s 941A</strong>) must accompany the advice.</div>
+    <div GUID="f70509cb-fe3d-4b66-90f6-1a07d6874a00" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="45c5b88e-55a3-4216-823a-a3ad5f0665b9" xmlns="http://www.w3.org/1999/xhtml">If the advice provided is general advice, the client must also be warned that the advice has been prepared without taking into consideration the client's financial needs and objectives (<strong GUID="752ba2c6-b55f-4dcb-9a86-2b2eaf71de61">s 949A</strong>).  Whereas, if the advice provided is personal advice recommending the purchase of a financial product, the client must also be provided with a Product Disclosure Statement [PDS] (<strong GUID="b9e630d6-7ee5-4d83-b65e-aee0eca942b8">s 1012A</strong>).</div>
+    <div GUID="77f4b658-e3ea-4f28-aec1-fd98fc011cbe" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="bdc82ce5-1c48-4de4-8f3d-a9c509c99e48" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200402681?OpenDocument" GUID="f837e036-34a4-4f47-bdf9-eb3b79796cb7">Click here to read these sections of the legislation</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page18" IsActive="true" GUID="94d6c29a-d555-4d05-9ae9-1ef11d593329">
+      <IncludedInTOC GUID="136f751e-221c-4ba1-b16f-b7e7d2b2649b">true</IncludedInTOC>
+      <Title GUID="3216fd08-8461-468e-8f00-6d725b909eec">What is meant by prohibited conduct in FSR?</Title>
+      <PageElements GUID="ba036220-bcbf-4593-a482-cbae91e6dfa6">
+        <PageElement GUID="9a3d18c1-69d5-4264-b89f-d712e77ddd2a">
+          <Graphic GUID="8117bdba-4516-447e-b7b3-c8d22c2a028e"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/5aa16ba5-f573-4fcd-85a1-7061f634b1c2.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="c2b01958-a5ec-4993-8316-b29bd1b464a9">
+          <TextBox GUID="0dde9bc7-a8b1-4994-bc3d-3fa9ebb6bc92"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="d01905ce-1f06-4587-bb8b-7c5a20a55034">
+    <div GUID="b6c05db6-8045-4488-8982-3f1f71511c04" xmlns="http://www.w3.org/1999/xhtml">One of the hottest areas of financial services reform law that the ASIC is likely to very closely monitor is what is known as <strong GUID="2c6b4998-70b4-45a5-8013-b34113bd8d43">prohibited conduct</strong>.  Any contravention of these provisions listed below are most likely to endanger your AFS licence, as well as potential personal consequences for individuals involved in the contravention. The key prohibited conduct topics include:</div>
+    <div GUID="322e29e6-7e0a-40f5-b363-a1198e5eeb38" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="de62e08f-6ddf-49f9-b1ad-73ee8224df34" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="32246565-5191-49f5-ab08-936cf266f4de">Unconscionable Conduct (<strong GUID="20ee1f85-dab7-424d-a081-a592483bcc63">s 991A</strong>) </li>
+      <li GUID="9d7b6a5d-db1b-46c2-96f6-14fc636759e4">Priority must be given to the client's instructions (<strong GUID="86e15eaa-cd41-4e65-859b-3e166e6022a6">s 991B</strong>)</li>
+      <li GUID="22a95f25-13b3-4c32-9ff5-61e06c552ee8">Market Manipulation (<strong GUID="8dd0e9ad-fdf0-420f-a23f-de1c40459359">s 1041A</strong>) </li>
+      <li GUID="12633b67-7f31-4b31-a238-65972f4567c8">False or Misleading Conduct (<strong GUID="e78983ab-3d55-4870-a106-54d744e1bc83">s 1041H</strong>) </li>
+      <li GUID="fc50a765-46cd-48d5-a591-71fe72e1b9f2">Insider Trading (<strong GUID="4bb4f640-f09d-4694-ac67-0af245a889b1">s 1043A</strong>) </li>
+    </ul>
+    <div GUID="5999052f-42bc-4bb3-a868-6f10be1f625e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="8d63b4b1-c8cb-40f0-b56d-8c53079a2559" xmlns="http://www.w3.org/1999/xhtml">These topics of prohibited conduct are dealt with in more detail in the two lessons on Market Misconduct.  If they are contravened it may result in a mixture of civil actions, criminal prosecutions or financial services civil penalties (more information can be found in the "Market misconduct - civil only" lesson).</div>
+    <div GUID="9bc14e34-3462-4c63-a13e-5d46aa58860e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="6b7fc65f-9866-431c-b684-48d4c89bae6b" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200402681?OpenDocument" GUID="eadb4de1-5678-46ce-9601-bd56a0becfb3">Click here to read these sections of the legislation</a>.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page19" IsActive="true" GUID="f6a256f4-df8c-4813-a9db-d36c85e7d0d7">
+      <IncludedInTOC GUID="a9bbec4b-8ffa-4a8b-b132-7489e317d805">false</IncludedInTOC>
+      <Title GUID="58eb3b01-a583-4abe-a7a9-24fba9ba73f3">End of lesson</Title>
+      <PageElements GUID="2597308d-a8ef-4eb2-948c-afa53ee9d351">
+        <PageElement GUID="4a76cbd3-6a94-456f-8d5b-98184a97fdc4">
+          <Graphic GUID="6e775abf-fad6-4961-b667-8765b487be7c"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/fef7988e-59e8-4b76-90f3-cdc04a78c65c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="d02c9ec1-9f29-421a-9f46-d4e6b9622f4f">
+          <TextBox GUID="8c5dd0ff-4451-4c93-8036-651a6e7ec6f1"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="869fe076-b277-4783-92c7-08a7e52c0428">
+    <div GUID="911b60a3-737d-49c6-801d-5a01ccb4f273" xmlns="http://www.w3.org/1999/xhtml">Congratulations! You have completed your lesson.</div>
+    <div GUID="a430064a-5cf5-4203-a21c-7ceae51cacad" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="a551a40f-06a3-4434-acd4-c93a4885cbec" xmlns="http://www.w3.org/1999/xhtml">Click the <strong GUID="0c7abe5a-937e-4c1a-a23e-a5819251865c">End Lesson</strong> button to exit the lesson.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="e57e8950-0aad-445f-8aaa-4d3a85307e6e">
+          <EndLesson GUID="2a8b4935-ef1c-425d-bf6b-f030023925d1"> <![CDATA[<div class="EndLesson_Main">
+  <input type="button" class="Navigation_Button_Submit" value="End Lesson" onClick="__doPostBack('Lesson_End','')">
+</div>]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

@@ -1,0 +1,53 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetUserModuleAccess]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/*
+Summary:
+user Defined Function that returnsthe ModulesID''s as a comma seperated string
+Returns:
+
+
+Remarks:
+
+
+Author: Jack Liu
+Date Created: 6 09 2005
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+select  dbo.udfGetUserModuleAccess(2,333)
+
+
+
+**/
+CREATE  FUNCTION [udfGetUserModuleAccess]
+(
+@UserID int,
+@CourseID int
+)
+RETURNS varchar(4000)
+Begin
+
+declare @strModuleIDs varchar(8000)
+
+set @strModuleIDs = '''' -- string to hold moduelids
+select
+@strModuleIDs = cast(ModuleID as varchar) + '','' + @strModuleIDs
+from
+vwUserModuleAccess
+where
+CourseID = @CourseID
+and  UserID = @UserID
+
+RETURN @strModuleIDs
+End
+' 
+END
+GO

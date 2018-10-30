@@ -1,0 +1,1 @@
+document.write("<script type=\"text/javascript\" src=\"/General/InfoPath/Include/Javascript.aspx\"></script>\n");

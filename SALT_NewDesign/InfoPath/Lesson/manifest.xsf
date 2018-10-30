@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This file is automatically created and modified by Microsoft Office InfoPath.
+Changes made to the file outside of InfoPath might be lost if the form template is modified in InfoPath.
+-->
+<xsf:xDocumentClass trustSetting="automatic" solutionVersion="1.0.0.443" solutionFormatVersion="1.100.0.0" productVersion="11.0.6357" publishUrl="D:\Work\SALT v3.0 Managed\SALT\InfoPath\Lesson\manifest.xsf" name="urn:schemas-microsoft-com:office:infopath:Lesson:-myXSD-2005-02-15T06-33-01" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-15T06-33-01" xmlns:xsf="http://schemas.microsoft.com/office/infopath/2003/solutionDefinition" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:xdUtil="http://schemas.microsoft.com/office/infopath/2003/xslt/Util" xmlns:xdXDocument="http://schemas.microsoft.com/office/infopath/2003/xslt/xDocument" xmlns:xdMath="http://schemas.microsoft.com/office/infopath/2003/xslt/Math" xmlns:xdDate="http://schemas.microsoft.com/office/infopath/2003/xslt/Date" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56">
+	<xsf:package>
+		<xsf:files>
+			<xsf:file name="template.xml"></xsf:file>
+			<xsf:file name="sampledata.xml">
+				<xsf:fileProperties>
+					<xsf:property name="fileType" type="string" value="sampleData"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="view1.xsl">
+				<xsf:fileProperties>
+					<xsf:property name="lang" type="string" value="1033"></xsf:property>
+					<xsf:property name="mode" type="string" value="106"></xsf:property>
+					<xsf:property name="componentId" type="string" value="295"></xsf:property>
+					<xsf:property name="xmlToEditName" type="string" value="191"></xsf:property>
+					<xsf:property name="textSettings:expressionbox" type="string" value="font-family:Verdana;font-size:x-small;color:#000000;font-weight:normal;font-style:normal;text-decoration:none"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="phrases.xslt">
+				<xsf:fileProperties>
+					<xsf:property name="fileType" type="string" value="resource"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="lessonSchema.xsd">
+				<xsf:fileProperties>
+					<xsf:property name="editability" type="string" value="full"></xsf:property>
+					<xsf:property name="rootElement" type="string" value="BDWInfoPathLesson"></xsf:property>
+					<xsf:property name="useOnDemandAlgorithm" type="string" value="yes"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="Phrases.xml">
+				<xsf:fileProperties>
+					<xsf:property name="fileType" type="string" value="resource"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="Phrases.xsd">
+				<xsf:fileProperties>
+					<xsf:property name="dataObject" type="string" value="Phrases"></xsf:property>
+					<xsf:property name="rootElement" type="string" value="Phrases"></xsf:property>
+					<xsf:property name="useOnDemandAlgorithm" type="string" value="yes"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="upgrade.xsl"></xsf:file>
+			<xsf:file name="Lesson.dll">
+				<xsf:fileProperties>
+					<xsf:property name="fileType" type="string" value="rootAssembly"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+		</xsf:files>
+	</xsf:package>
+	<xsf:importParameters enabled="yes"></xsf:importParameters>
+	<xsf:views default="View 1">
+		<xsf:view name="View 1" caption="View 1">
+			<xsf:mainpane transform="view1.xsl"></xsf:mainpane>
+			<xsf:editing>
+				<xsf:xmlToEdit name="Page_2" item="/BDWInfoPathLesson/Pages/Page" container="/BDWInfoPathLesson" viewContext="CTRL1_5">
+					<xsf:editWith caption="Page" xd:autogeneration="template" component="xCollection" useFilter="yes" filterDependency="../@PageFilter">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment parent="Pages" innerFragment="Page">
+								<Page ID="" IsActive="true">
+									<IncludedInTOC>true</IncludedInTOC>
+									<Title></Title>
+									<PageElements>
+										<PageElement>
+											<TextGraphic>
+												<Picture>
+													<Image></Image>
+													<AltText></AltText>
+													<Align>Left</Align>
+												</Picture>
+												<Description></Description>
+											</TextGraphic>
+										</PageElement>
+									</PageElements>
+								</Page>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="player_62" item="/BDWInfoPathLesson/Players/Player" container="/BDWInfoPathLesson" viewContext="CTRL90_5">
+					<xsf:editWith caption="Player" xd:autogeneration="template" component="xCollection">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment parent="Players" innerFragment="Player">
+								<Player ID="">
+									<Name></Name>
+									<Picture>
+										<Image></Image>
+										<AltText></AltText>
+										<Align>Left</Align>
+									</Picture>
+									<Description></Description>
+								</Player>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Description_63" item="/BDWInfoPathLesson/Players/Player/Description">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="PageElement_73" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement" container="/BDWInfoPathLesson/Pages/Page/PageElements">
+					<xsf:editWith caption="PageElement" xd:autogeneration="template" component="xCollection">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="PageElement">
+								<PageElement>
+									<TextGraphic>
+										<Picture>
+											<Image></Image>
+											<AltText></AltText>
+											<Align>Left</Align>
+										</Picture>
+										<Description></Description>
+									</TextGraphic>
+								</PageElement>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="TextGraphic_78" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextBox|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TOC|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/EndLesson|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/Graphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MeetThePlayer|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ShowAllPlayers" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement">
+					<xsf:editWith caption="TextGraphic" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<TextGraphic>
+									<Picture>
+										<Image></Image>
+										<AltText></AltText>
+										<Align>Left</Align>
+									</Picture>
+									<Description></Description>
+								</TextGraphic>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="TextGraphic_79" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement[not(TextBox) and not(Graphic) and not(ExtraInfo) and not(MultiChoiceQA) and not(FreeTextQA) and not(MeetThePlayer) and not(ShowAllPlayers) and not(TOC) and not(EndLesson)]">
+					<xsf:editWith caption="TextGraphic" xd:autogeneration="template" component="xOptional">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="TextGraphic">
+								<TextGraphic>
+									<Picture>
+										<Image></Image>
+										<AltText></AltText>
+										<Align>Left</Align>
+									</Picture>
+									<Description></Description>
+								</TextGraphic>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="ShowAllPlayers_85" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ShowAllPlayers" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement[not(TextGraphic) and not(TextBox) and not(Graphic) and not(ExtraInfo) and not(MultiChoiceQA) and not(FreeTextQA) and not(MeetThePlayer) and not(TOC) and not(EndLesson)]">
+					<xsf:editWith caption="ShowAllPlayers" xd:autogeneration="template" component="xOptional">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="ShowAllPlayers">
+								<ShowAllPlayers></ShowAllPlayers>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="MeetThePlayer_82" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextBox|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TOC|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/EndLesson|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/Graphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ShowAllPlayers" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement">
+					<xsf:editWith caption="MeetThePlayer" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<MeetThePlayer ID=""></MeetThePlayer>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="TOC_77" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TOC" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement[not(TextGraphic) and not(TextBox) and not(Graphic) and not(ExtraInfo) and not(MultiChoiceQA) and not(FreeTextQA) and not(MeetThePlayer) and not(ShowAllPlayers) and not(EndLesson)]">
+					<xsf:editWith caption="TOC" xd:autogeneration="template" component="xOptional">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="TOC">
+								<TOC></TOC>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Image_97" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/Graphic/Picture/Image">
+					<xsf:editWith component="xImage"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Question_102" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA/Question">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="EndLesson_90" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextBox|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TOC|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/Graphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MeetThePlayer|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ShowAllPlayers" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement">
+					<xsf:editWith caption="EndLesson" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<EndLesson></EndLesson>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="TextBox_75" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextBox" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement[not(TextGraphic) and not(Graphic) and not(ExtraInfo) and not(MultiChoiceQA) and not(FreeTextQA) and not(MeetThePlayer) and not(ShowAllPlayers) and not(TOC) and not(EndLesson)]">
+					<xsf:editWith caption="TextBox" xd:autogeneration="template" component="xOptional">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="TextBox">
+								<TextBox>
+									<Description></Description>
+								</TextBox>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Feedback_103" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA/Feedback">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="MultiChoiceQA_86" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextBox|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TOC|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/EndLesson|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/Graphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MeetThePlayer|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ShowAllPlayers" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement">
+					<xsf:editWith caption="MultiChoiceQA" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<MultiChoiceQA>
+									<Question></Question>
+									<Answer Correct="false">
+										<AnswerText></AnswerText>
+										<Feedback></Feedback>
+									</Answer>
+									<Answer Correct="false">
+										<AnswerText></AnswerText>
+										<Feedback></Feedback>
+									</Answer>
+								</MultiChoiceQA>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="MultiChoiceQA_87" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement[not(TextGraphic) and not(TextBox) and not(Graphic) and not(ExtraInfo) and not(FreeTextQA) and not(MeetThePlayer) and not(ShowAllPlayers) and not(TOC) and not(EndLesson)]">
+					<xsf:editWith caption="MultiChoiceQA" xd:autogeneration="template" component="xOptional">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="MultiChoiceQA">
+								<MultiChoiceQA>
+									<Question></Question>
+									<Answer Correct="false">
+										<AnswerText></AnswerText>
+										<Feedback></Feedback>
+									</Answer>
+									<Answer Correct="false">
+										<AnswerText></AnswerText>
+										<Feedback></Feedback>
+									</Answer>
+								</MultiChoiceQA>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="FreeTextQA_89" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement[not(TextGraphic) and not(TextBox) and not(Graphic) and not(ExtraInfo) and not(MultiChoiceQA) and not(MeetThePlayer) and not(ShowAllPlayers) and not(TOC) and not(EndLesson)]">
+					<xsf:editWith caption="FreeTextQA" xd:autogeneration="template" component="xOptional">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="FreeTextQA">
+								<FreeTextQA>
+									<Question></Question>
+									<Feedback></Feedback>
+								</FreeTextQA>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="TextBox_74" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TOC|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/EndLesson|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/Graphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MeetThePlayer|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ShowAllPlayers" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement">
+					<xsf:editWith caption="TextBox" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<TextBox>
+									<Description></Description>
+								</TextBox>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="FreeTextQA_88" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextBox|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TOC|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/EndLesson|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/Graphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MeetThePlayer|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ShowAllPlayers" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement">
+					<xsf:editWith caption="FreeTextQA" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<FreeTextQA>
+									<Question></Question>
+									<Feedback></Feedback>
+								</FreeTextQA>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="EndLesson_91" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/EndLesson" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement[not(TextGraphic) and not(TextBox) and not(Graphic) and not(ExtraInfo) and not(MultiChoiceQA) and not(FreeTextQA) and not(MeetThePlayer) and not(ShowAllPlayers) and not(TOC)]">
+					<xsf:editWith caption="EndLesson" xd:autogeneration="template" component="xOptional">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="EndLesson">
+								<EndLesson></EndLesson>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Graphic_80" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextBox|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TOC|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/EndLesson|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MeetThePlayer|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ShowAllPlayers" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement">
+					<xsf:editWith caption="Graphic" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<Graphic>
+									<Picture>
+										<Image></Image>
+										<AltText></AltText>
+										<Align></Align>
+									</Picture>
+								</Graphic>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Graphic_81" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/Graphic" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement[not(TextGraphic) and not(TextBox) and not(ExtraInfo) and not(MultiChoiceQA) and not(FreeTextQA) and not(MeetThePlayer) and not(ShowAllPlayers) and not(TOC) and not(EndLesson)]">
+					<xsf:editWith caption="Graphic" xd:autogeneration="template" component="xOptional">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="Graphic">
+								<Graphic>
+									<Picture>
+										<Image></Image>
+										<AltText></AltText>
+										<Align></Align>
+									</Picture>
+								</Graphic>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="MeetThePlayer_83" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MeetThePlayer" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement[not(TextGraphic) and not(TextBox) and not(Graphic) and not(ExtraInfo) and not(MultiChoiceQA) and not(FreeTextQA) and not(ShowAllPlayers) and not(TOC) and not(EndLesson)]">
+					<xsf:editWith caption="MeetThePlayer" xd:autogeneration="template" component="xOptional">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="MeetThePlayer">
+								<MeetThePlayer ID=""></MeetThePlayer>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="TOC_76" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextBox|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/EndLesson|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/Graphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MeetThePlayer|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ShowAllPlayers" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement">
+					<xsf:editWith caption="TOC" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<TOC></TOC>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="ShowAllPlayers_84" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextBox|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TOC|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/EndLesson|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/Graphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MeetThePlayer" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement">
+					<xsf:editWith caption="ShowAllPlayers" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<ShowAllPlayers></ShowAllPlayers>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Description_111" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextBox/Description">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Description_115" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic/Description">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Question_120" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA/Question">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Image_141" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic/Picture/Image">
+					<xsf:editWith component="xImage"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Image_144" item="/BDWInfoPathLesson/Players/Player/Picture/Image">
+					<xsf:editWith component="xImage"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="ExtraInfo_159" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextBox|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TOC|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/EndLesson|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/Graphic|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MeetThePlayer|/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ShowAllPlayers" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement">
+					<xsf:editWith caption="ExtraInfo" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<ExtraInfo>
+									<Heading></Heading>
+									<Links>
+										<Link>
+											<Internal>
+												<Title></Title>
+												<Description></Description>
+											</Internal>
+										</Link>
+									</Links>
+								</ExtraInfo>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="ExtraInfo_160" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement[not(TextGraphic) and not(TextBox) and not(Graphic) and not(MultiChoiceQA) and not(FreeTextQA) and not(MeetThePlayer) and not(ShowAllPlayers) and not(TOC) and not(EndLesson)]">
+					<xsf:editWith caption="ExtraInfo" xd:autogeneration="template" component="xOptional">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="ExtraInfo">
+								<ExtraInfo>
+									<Heading></Heading>
+									<Links>
+										<Link>
+											<Internal>
+												<Title></Title>
+												<Description></Description>
+											</Internal>
+										</Link>
+									</Links>
+								</ExtraInfo>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Feedback_167" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA/Answer/Feedback">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Answer_165" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA/Answer" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA">
+					<xsf:editWith caption="Answer" xd:autogeneration="template" component="xCollection">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="Answer">
+								<Answer Correct="false">
+									<AnswerText></AnswerText>
+									<Feedback></Feedback>
+								</Answer>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="AnswerText_166" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA/Answer/AnswerText">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="External_172" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo/Links/Link/Internal" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo/Links/Link">
+					<xsf:editWith caption="External" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<External>
+									<DisplayName></DisplayName>
+									<Url></Url>
+								</External>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Internal_170" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo/Links/Link/External" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo/Links/Link">
+					<xsf:editWith caption="Internal" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<Internal>
+									<Title></Title>
+									<Description></Description>
+								</Internal>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Description_174" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo/Links/Link/Internal/Description">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Link_171" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo/Links/Link" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo">
+					<xsf:editWith caption="Link" xd:autogeneration="template" component="xCollection">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment parent="Links" innerFragment="Link">
+								<Link>
+									<Internal>
+										<Title></Title>
+										<Description></Description>
+									</Internal>
+								</Link>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Picture_188" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo/Links/Link/Internal/Picture" container="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo/Links/Link/Internal">
+					<xsf:editWith caption="Picture" xd:autogeneration="template" component="xOptional">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="Picture">
+								<Picture>
+									<Image></Image>
+									<AltText></AltText>
+									<Align></Align>
+								</Picture>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Image_189" item="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo/Links/Link/Internal/Picture/Image">
+					<xsf:editWith component="xImage"></xsf:editWith>
+				</xsf:xmlToEdit>
+			</xsf:editing>
+			<xsf:menuArea name="msoInsertMenu">
+				<xsf:menu caption="&amp;Section">
+					<xsf:button action="xCollection::insert" xmlToEdit="Page_2" caption="Page"></xsf:button>
+					<xsf:button action="xCollection::insert" xmlToEdit="player_62" caption="Player"></xsf:button>
+					<xsf:button action="xCollection::insert" xmlToEdit="PageElement_73" caption="PageElement"></xsf:button>
+					<xsf:button action="xCollection::insert" xmlToEdit="Answer_165" caption="Answer"></xsf:button>
+					<xsf:button action="xCollection::insert" xmlToEdit="Link_171" caption="Link"></xsf:button>
+					<xsf:button action="xOptional::insert" xmlToEdit="TextGraphic_79" caption="TextGraphic"></xsf:button>
+					<xsf:button action="xOptional::insert" xmlToEdit="TextBox_75" caption="TextBox"></xsf:button>
+					<xsf:button action="xOptional::insert" xmlToEdit="Graphic_81" caption="Graphic"></xsf:button>
+					<xsf:button action="xOptional::insert" xmlToEdit="ExtraInfo_160" caption="ExtraInfo"></xsf:button>
+					<xsf:button action="xOptional::insert" xmlToEdit="MultiChoiceQA_87" caption="MultiChoiceQA"></xsf:button>
+					<xsf:button action="xOptional::insert" xmlToEdit="FreeTextQA_89" caption="FreeTextQA"></xsf:button>
+					<xsf:button action="xOptional::insert" xmlToEdit="MeetThePlayer_83" caption="MeetThePlayer"></xsf:button>
+					<xsf:button action="xOptional::insert" xmlToEdit="ShowAllPlayers_85" caption="ShowAllPlayers"></xsf:button>
+					<xsf:button action="xOptional::insert" xmlToEdit="TOC_77" caption="TOC"></xsf:button>
+					<xsf:button action="xOptional::insert" xmlToEdit="EndLesson_91" caption="EndLesson"></xsf:button>
+					<xsf:button action="xOptional::insert" xmlToEdit="Picture_188" caption="Picture"></xsf:button>
+				</xsf:menu>
+				<xsf:menu caption="&amp;Replace With">
+					<xsf:button action="xReplace::replace" xmlToEdit="TextGraphic_78" caption="TextGraphic" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="TextBox_74" caption="TextBox" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="Graphic_80" caption="Graphic" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="ExtraInfo_159" caption="ExtraInfo Link" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="MultiChoiceQA_86" caption="MultiChoiceQA" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="FreeTextQA_88" caption="FreeTextQA" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="MeetThePlayer_82" caption="MeetThePlayer" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="ShowAllPlayers_84" caption="ShowAllPlayers" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="TOC_76" caption="TOC" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="EndLesson_90" caption="EndLesson" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="Internal_170" caption="Internal" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="External_172" caption="External" showIf="enabled"></xsf:button>
+				</xsf:menu>
+			</xsf:menuArea>
+			<xsf:menuArea name="msoStructuralEditingContextMenu">
+				<xsf:button action="xCollection::insertBefore" xmlToEdit="Page_2" caption="Insert Page above" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertBefore" xmlToEdit="player_62" caption="Insert Player above" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertBefore" xmlToEdit="PageElement_73" caption="Insert PageElement above" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertBefore" xmlToEdit="Answer_165" caption="Insert Answer above" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertBefore" xmlToEdit="Link_171" caption="Insert Link above" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertAfter" xmlToEdit="Page_2" caption="Insert Page below" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertAfter" xmlToEdit="player_62" caption="Insert Player below" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertAfter" xmlToEdit="PageElement_73" caption="Insert PageElement below" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertAfter" xmlToEdit="Answer_165" caption="Insert Answer below" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertAfter" xmlToEdit="Link_171" caption="Insert Link below" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::remove" xmlToEdit="Page_2" caption="Remove Page" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::remove" xmlToEdit="player_62" caption="Remove Player" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::remove" xmlToEdit="PageElement_73" caption="Remove PageElement" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::remove" xmlToEdit="Answer_165" caption="Remove Answer" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::remove" xmlToEdit="Link_171" caption="Remove Link" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::remove" xmlToEdit="TextGraphic_79" caption="Remove TextGraphic" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::remove" xmlToEdit="TextBox_75" caption="Remove TextBox" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::remove" xmlToEdit="Graphic_81" caption="Remove Graphic" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::remove" xmlToEdit="ExtraInfo_160" caption="Remove ExtraInfo link" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::remove" xmlToEdit="MultiChoiceQA_87" caption="Remove MultiChoiceQA" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::remove" xmlToEdit="FreeTextQA_89" caption="Remove FreeTextQA" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::remove" xmlToEdit="MeetThePlayer_83" caption="Remove MeetThePlayer" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::remove" xmlToEdit="ShowAllPlayers_85" caption="Remove ShowAllPlayers" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::remove" xmlToEdit="TOC_77" caption="Remove TOC" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::remove" xmlToEdit="EndLesson_91" caption="Remove EndLesson" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::remove" xmlToEdit="Picture_188" caption="Remove Picture" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::refreshFilter" xmlToEdit="Page_2" caption="Refresh Filter" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="TextGraphic_78" caption="Replace with TextGraphic" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="TextBox_74" caption="Replace with TextBox" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="Graphic_80" caption="Replace with Graphic" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="ExtraInfo_159" caption="Replace with ExtraInfo Link" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="MultiChoiceQA_86" caption="Replace with MultiChoiceQA" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="FreeTextQA_88" caption="Replace with FreeTextQA" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="MeetThePlayer_82" caption="Replace with MeetThePlayer" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="ShowAllPlayers_84" caption="Replace with ShowAllPlayers" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="TOC_76" caption="Replace with TOC" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="EndLesson_90" caption="Replace with EndLesson" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="Internal_170" caption="Replace with Internal" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="External_172" caption="Replace with External" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insert" xmlToEdit="Page_2" caption="Insert Page" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insert" xmlToEdit="player_62" caption="Insert Player" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insert" xmlToEdit="PageElement_73" caption="Insert PageElement" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insert" xmlToEdit="Answer_165" caption="Insert Answer" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insert" xmlToEdit="Link_171" caption="Insert Link" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::insert" xmlToEdit="TextBox_75" caption="Insert TextBox" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::insert" xmlToEdit="TOC_77" caption="Insert TOC" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::insert" xmlToEdit="TextGraphic_79" caption="Insert TextGraphic" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::insert" xmlToEdit="Graphic_81" caption="Insert Graphic" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::insert" xmlToEdit="MeetThePlayer_83" caption="Insert MeetThePlayer" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::insert" xmlToEdit="ShowAllPlayers_85" caption="Insert ShowAllPlayers" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::insert" xmlToEdit="ExtraInfo_160" caption="Insert ExtraInfo link" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::insert" xmlToEdit="MultiChoiceQA_87" caption="Insert MultiChoiceQA" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::insert" xmlToEdit="FreeTextQA_89" caption="Insert FreeTextQA" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::insert" xmlToEdit="EndLesson_91" caption="Insert EndLesson" showIf="immediate"></xsf:button>
+				<xsf:button action="xOptional::insert" xmlToEdit="Picture_188" caption="Insert Picture" showIf="immediate"></xsf:button>
+			</xsf:menuArea>
+			<xsf:unboundControls>
+				<xsf:button name="btnPage_MoveUp"></xsf:button>
+				<xsf:button name="btnPage_MoveDown"></xsf:button>
+				<xsf:button name="btnPageElement_MoveUp"></xsf:button>
+				<xsf:button name="btnPageElement_MoveDown"></xsf:button>
+				<xsf:button name="btnPageElement_Delete"></xsf:button>
+			</xsf:unboundControls>
+		</xsf:view>
+	</xsf:views>
+	<xsf:applicationParameters application="InfoPath Design Mode">
+		<xsf:solutionProperties fullyEditableNamespace="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" lastOpenView="view1.xsl" lastVersionNeedingTransform="1.0.0.410" allowCustomization="no" scriptLanguage="managedCode"></xsf:solutionProperties>
+	</xsf:applicationParameters>
+	<xsf:documentSchemas>
+		<xsf:documentSchema rootSchema="yes" location="lessonSchema.xsd"></xsf:documentSchema>
+	</xsf:documentSchemas>
+	<xsf:fileNew>
+		<xsf:initialXmlDocument caption="Lesson" href="template.xml"></xsf:initialXmlDocument>
+	</xsf:fileNew>
+	<xsf:save>
+		<xsf:useScriptHandler></xsf:useScriptHandler>
+	</xsf:save>
+	<xsf:calculations>
+		<xsf:calculatedField target="/BDWInfoPathLesson/Pages/Page/@ID" expression="concat(&quot;Page&quot;, count(../preceding-sibling::Page) + 1)" refresh="onChange"></xsf:calculatedField>
+		<xsf:calculatedField target="/BDWInfoPathLesson/Players/Player/@ID" expression="concat(&quot;Player&quot;, count(../preceding-sibling::Player) + 1)" refresh="onChange"></xsf:calculatedField>
+	</xsf:calculations>
+	<xsf:customValidation>
+		<xsf:errorCondition match="/BDWInfoPathLesson/Players/Player/Description" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="Cannot be blank">Cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextBox/Description" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="cannot be blank">cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/TextGraphic/Description" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="Cannot be blank">Cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/ExtraInfo/Links/Link/Internal/Description" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="cannot be blank">cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA/Feedback" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="cannot be blank">cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/FreeTextQA/Question" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="cannot be blank">cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA/Answer/AnswerText" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="cannot be blank">cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA/Answer/Feedback" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="cannot be blank">cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MultiChoiceQA/Question" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="cannot be blank">cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathLesson/Pages/Page/PageElements/PageElement/MeetThePlayer/@ID" expressionContext="." expression=". = &quot;&quot;">
+			<xsf:errorMessage type="modeless" shortMessage="Cannot be blank">Cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+	</xsf:customValidation>
+	<xsf:dataObjects>
+		<xsf:dataObject name="Phrases" schema="Phrases.xsd" initOnLoad="yes">
+			<xsf:query>
+				<xsf:xmlFileAdapter fileUrl="Phrases.xml" name="Phrases"></xsf:xmlFileAdapter>
+			</xsf:query>
+		</xsf:dataObject>
+	</xsf:dataObjects>
+	<xsf:taskpane caption="Standard Text" href="Phrases.xml"></xsf:taskpane>
+	<xsf:documentVersionUpgrade>
+		<xsf:useTransform transform="upgrade.xsl" minVersionToUpgrade="0.0.0.0" maxVersionToUpgrade="1.0.0.410"></xsf:useTransform>
+	</xsf:documentVersionUpgrade>
+</xsf:xDocumentClass>

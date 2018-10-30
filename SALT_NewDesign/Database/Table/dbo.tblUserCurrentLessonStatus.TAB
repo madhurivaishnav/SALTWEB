@@ -1,0 +1,63 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblUserCurrentLessonStatus]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblUserCurrentLessonStatus](
+	[UserLessonStatusID] [int] NOT NULL,
+	[UserID] [int] NOT NULL,
+	[ModuleID] [int] NOT NULL,
+	[LessonStatusID] [int] NOT NULL,
+	[LessonFrequency] [int] NULL,
+	[DateCreated] [datetime] NOT NULL,
+	[LessonCompletionDate] [datetime] NULL,
+	[Excluded] [bit] NULL,
+ CONSTRAINT [PK_tblUserCurrentLessonStatus] PRIMARY KEY NONCLUSTERED 
+(
+	[UserLessonStatusID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON, FILLFACTOR = 90) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserCurrentLessonStatus_tblLessonStatus]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCurrentLessonStatus]'))
+ALTER TABLE [dbo].[tblUserCurrentLessonStatus]  WITH CHECK ADD  CONSTRAINT [FK_tblUserCurrentLessonStatus_tblLessonStatus] FOREIGN KEY([LessonStatusID])
+REFERENCES [dbo].[tblLessonStatus] ([LessonStatusID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserCurrentLessonStatus_tblLessonStatus]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCurrentLessonStatus]'))
+ALTER TABLE [dbo].[tblUserCurrentLessonStatus] CHECK CONSTRAINT [FK_tblUserCurrentLessonStatus_tblLessonStatus]
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserCurrentLessonStatus_tblModule]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCurrentLessonStatus]'))
+ALTER TABLE [dbo].[tblUserCurrentLessonStatus]  WITH CHECK ADD  CONSTRAINT [FK_tblUserCurrentLessonStatus_tblModule] FOREIGN KEY([ModuleID])
+REFERENCES [dbo].[tblModule] ([ModuleID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserCurrentLessonStatus_tblModule]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCurrentLessonStatus]'))
+ALTER TABLE [dbo].[tblUserCurrentLessonStatus] CHECK CONSTRAINT [FK_tblUserCurrentLessonStatus_tblModule]
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserCurrentLessonStatus_tblUser]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCurrentLessonStatus]'))
+ALTER TABLE [dbo].[tblUserCurrentLessonStatus]  WITH CHECK ADD  CONSTRAINT [FK_tblUserCurrentLessonStatus_tblUser] FOREIGN KEY([UserID])
+REFERENCES [dbo].[tblUser] ([UserID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUserCurrentLessonStatus_tblUser]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCurrentLessonStatus]'))
+ALTER TABLE [dbo].[tblUserCurrentLessonStatus] CHECK CONSTRAINT [FK_tblUserCurrentLessonStatus_tblUser]
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblUserCurrentLessonStatus_EffectiveDate]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCurrentLessonStatus]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblUserCurrentLessonStatus_EffectiveDate]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblUserCurrentLessonStatus] ADD  CONSTRAINT [DF_tblUserCurrentLessonStatus_EffectiveDate]  DEFAULT (getutcdate()) FOR [DateCreated]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblUserCurrentLessonStatus_Excluded]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCurrentLessonStatus]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblUserCurrentLessonStatus_Excluded]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblUserCurrentLessonStatus] ADD  CONSTRAINT [DF_tblUserCurrentLessonStatus_Excluded]  DEFAULT ((0)) FOR [Excluded]
+END
+
+
+End
+GO

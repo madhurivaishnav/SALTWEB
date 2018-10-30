@@ -1,0 +1,66 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetLessonIDByToolbookID]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfGetLessonIDByToolbookID    Script Date: 20/04/2004 8:25:57 AM ******/
+
+
+
+/*
+Summary:
+user Defined Function that returns a lesson id given a toolbook id
+only Works for a lesson
+Returns:
+scaler - toolbook id - int
+
+Called By:
+dbo.prcLessonPageAudit_GetPagesVisited
+Calls:
+
+Remarks:
+
+
+Author:
+Stephen Kennedy-Clark
+Date Created: 3 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+print dbo.udfGetLessonIDByToolbookID(''toolBookID-1'')
+-- select * from tblLesson
+
+**/
+CREATE  FUNCTION [udfGetLessonIDByToolbookID]
+(
+@toolBookID varchar(50) -- Toolbook ID
+)
+RETURNS INT --< UserID >--
+Begin
+------------------------------------------
+-- get Lesson id for this Toolbook
+------------------------------------------
+
+DECLARE @retVal int
+set @retVal =
+(
+(
+SELECT TOP 1
+LessonID
+FROM
+tblLesson
+WHERE
+ToolbookID = ltrim(rtrim(@toolBookID))
+and Active=1
+)
+)
+RETURN @retVal
+End
+' 
+END
+GO

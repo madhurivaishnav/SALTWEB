@@ -1,0 +1,1725 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Lesson:Salt:Bdw" productVersion="11.0.6565" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="cs" GUID="ddb1d9c7-de82-4bf1-8e01-c2153377e5e1">
+  <Summary ID="Impergreless3" GUID="08f3afa5-7915-4881-aaaf-9370316024bf">
+    <ContentType GUID="54e3c558-f5f0-4077-bd67-2c855b0da728">lesson</ContentType>
+    <UploadType GUID="dbae085d-e337-413d-ae44-a1229c2f7b23">update</UploadType>
+    <Title GUID="5823c1d1-e57d-4fb9-ab34-08086560cfea">Εμπορικές Ενώσεις (Σύλλογοι)και Ανταλλαγή Πληροφοριών</Title>
+    <CreatedBy GUID="629573b8-6a54-43c1-9c1b-bd9625769109">904917</CreatedBy>
+    <CreatedDate GUID="2106491a-2954-4e66-89f7-a093338c505a">2006-12-18T15:17:53</CreatedDate>
+    <LastModifiedBy GUID="9fa18cbb-f48a-42e4-8ce7-940720ff46c3">907893</LastModifiedBy>
+    <LastModifiedDate GUID="23969496-95f4-470d-90b1-084a58612cd4">2007-01-11T17:04:17</LastModifiedDate>
+  </Summary>
+  <Players GUID="08f70cc3-c61d-46d3-a92f-1f98a6dbcabe">
+    <Player ID="Player1" GUID="f4e73381-fa7c-40c2-a65f-b556fb553677">
+      <Name GUID="d8ca9fe1-437b-497e-95ba-6123d115a339">Ευρωπαϊκή Ένωση Καπνού</Name>
+      <Picture GUID="d6203aeb-775a-406f-af37-826a1c8f602f">
+        <Image GUID="dc95e5c5-264b-4d99-9348-a4e22ac691a4">Images/a3a694b8-a43a-4cce-a1ed-24e8386bbb61.gif</Image>
+        <AltText GUID="c435f46f-5dc7-49c3-969b-2de80ac97503">
+        </AltText>
+        <Align GUID="eed7a126-4acd-444a-af2f-9764711e18d4">Left</Align>
+      </Picture>
+      <Description GUID="2c23a5f4-6118-4c40-bf42-f28a44832c47">
+        <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" xmlns="http://www.w3.org/1999/xhtml" GUID="76f4191a-2720-4fa4-8144-dedd9c32b0e9">
+          <font face="Arial" GUID="d4f64314-2838-4166-8f43-f9fdd70d16c6">Η<strong GUID="83343407-96c6-45e0-b3b1-d4fe45ba2101"> Ευρωπαϊκή Ένωση Καπνού </strong>είναι μια εμπορική ένωση που συγκεντρώνει τους ευρωπαίους καπνοβιομηχάνους.  Η Isabella εκπροσωπεί την εταιρεία της σε συνεδριάσεις της ένωσης .</font>
+        </div>
+      </Description>
+    </Player>
+    <Player ID="Player2" GUID="924ebee1-721a-4c14-b3bc-6476ad1495dd">
+      <Name GUID="cc9ab7ce-58cd-40e3-94a0-eb2c5becbdde">Isabella Sabatino</Name>
+      <Picture GUID="51333e28-3765-4284-bb89-ccb46c2dbba0">
+        <Image GUID="0c9d0236-89cd-4bb1-90f7-b1fd33bd5dd1">Images/00f265b4-dc69-4d32-911a-f87a4c1a5dde.gif</Image>
+        <AltText GUID="8830afa0-a478-478c-85fd-db395eddbd13">
+        </AltText>
+        <Align GUID="02de11d7-8b96-49f2-b9b1-fbdd2184d625">Left</Align>
+      </Picture>
+      <Description GUID="2b31b3c3-c813-41a9-910c-8090f050c92e">
+        <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" xmlns="http://www.w3.org/1999/xhtml" GUID="6aa82941-8bd8-4bb8-9075-cdf1b4d2efb2">
+          <font face="Arial" GUID="2c9b5ba9-eddc-43c9-b313-cf15c1a6dc6f">Η<strong GUID="2350af08-03c4-4856-82a6-fce39dbc7fca"></strong><strong GUID="9176021d-e5e5-4b30-83dd-12937aaa880c">Isabella Sabatino</strong> είναι διευθύντρια πωλήσεων για μεγάλη καπνοβιομηχανία. </font>
+        </div>
+      </Description>
+    </Player>
+    <Player ID="Player3" GUID="aa6be3d1-afda-4d12-a26e-2c89f126f351">
+      <Name GUID="fc711929-b1d4-47c5-a936-6e7dfb9b2f7a">John Cook</Name>
+      <Picture GUID="651a49dd-7bb5-4102-b71f-15b8888ecb09">
+        <Image GUID="2b57780c-d56b-4669-ae91-05ed3a3c5697">Images/3b5f1077-b202-4682-8105-cac4fe3cca97.gif</Image>
+        <AltText GUID="083c15ab-2912-44f3-81ab-0d0b630fe9be">
+        </AltText>
+        <Align GUID="53b62786-13e7-4739-85b4-8c4077b48f38">Left</Align>
+      </Picture>
+      <Description GUID="b8791d9a-054a-4980-94c5-b0e36375453b">
+        <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" xmlns="http://www.w3.org/1999/xhtml" GUID="e8a1af7e-e684-4002-bd09-d427fcfbf93e">
+          <font face="Arial" GUID="c5427dc5-3e27-423c-ab3b-198fec23304b">Ο<strong GUID="752af3ef-1c35-4afa-a791-2a4ed62e9f8f"></strong><strong GUID="e4250b02-382d-435a-a1f2-46d5bd360b43">John </strong><strong GUID="9345201e-72d8-4363-8e58-28e55d275e48">Cook</strong> δουλεύει για την Isabella.</font>
+        </div>
+      </Description>
+    </Player>
+  </Players>
+  <Pages PageFilter="0" GUID="aeecf978-26a0-40ce-a0d2-9b118317bc1a">
+    <Page ID="Page1" IsActive="true" GUID="e90c02f1-4b2a-4c06-9eb2-ec11dcfc46d0">
+      <IncludedInTOC GUID="493e02f5-4832-4273-b3b1-5e545e7460f1">true</IncludedInTOC>
+      <Title GUID="b9c24632-e27c-48d2-90e5-eb5dea9f5085">Στόχοι Εκμάθησης</Title>
+      <PageElements GUID="dccaa82a-7002-4ae0-8854-f37293444441">
+        <PageElement GUID="059ed2db-3b0d-4de5-8723-653978254769">
+          <Graphic GUID="9a5bb4d3-0def-4a2b-81db-3f3a08da6cbd"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/cc4b5d6c-faaa-45b9-bad6-b4155bb56e0c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="750aede6-ca9d-4fd2-9691-2b4e3e745f44">
+          <Graphic GUID="ec62109b-b919-456b-bbfd-066e32e980ba"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/b32a5972-faff-4c36-b0f4-b30c2bd5be02.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="77d60759-5f4e-42e4-aff7-4d44189f4650">
+          <TextBox GUID="7c355819-45b4-4e95-9261-0daeea54ca93"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="79b7bf6b-2ba4-44ec-adcf-5f6586043d14">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="bab8833d-3889-464a-bbd9-8577a09fbecf" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="2930d882-b3c9-4680-b0f8-cfc0965ce199">Αυτή η Ενότητα θα πρέπει να διαρκέσει περίπου <span GUID="120dd6fe-6594-4bd8-a52d-074d17a65357"><strong GUID="511a4022-47ba-4b9a-914e-e10ec837c955">10 λεπτά</strong></span>.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="d6fc4e75-53b4-41be-81c7-26097fb6131e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="b52e055f-11b0-41ca-a04f-42a040b6164c">Στο τέλος αυτού του μαθήματος θα πρέπει να έχετε σαφή εικόνα των παρακάτω:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="8ebe5555-0b2e-40b9-b691-3329f5ad2120" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="51aab95b-0879-452e-b167-dfd9448b2bb2">
+        <div align="left" GUID="089484c1-27ef-4e8a-9ad5-d06fa90442e5">
+          <font face="Arial" GUID="1539e99b-6459-4fa5-9ef0-797b15b910fa">νόμιμες και παράνομες δραστηριότητες εμπορικής ένωσης,</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="9494d9b5-c870-4fa5-b8a5-3017d4e9ec01" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="488bbb19-80e3-429f-8307-be42aa7c64e2">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="bf3a71f0-f171-4077-9939-f9ecdb280a1a" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="9796fd09-0572-4858-a7d4-384830a95270">
+        <div align="left" GUID="a6597d95-0384-42ff-8c8a-e86c2d9af74b">
+          <font face="Arial" GUID="06aec4ec-450f-450a-a256-b299aa259241">τι μπορείτε και τι δεν μπορείτε να κάνετε σε συνεδριάσεις εμπορικής ένωσης, και</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="336b198c-c10f-454a-bdbc-40aa708f4eca" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="d7b3da41-fe8d-4db9-ba82-2f56943c0611">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="f6600ca1-c6c3-4606-9191-da17a4500a24" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="1ddedf30-687c-4472-ba6c-c6ec66fd65e1">
+        <div align="left" GUID="a79d97fe-8881-4aa2-94ce-8c37d5eacbb1">
+          <font face="Arial" GUID="2ba7d38c-5e2e-4c8e-9f63-7345ca7492c7">νομιμότητα της ανταλλαγής πληροφοριών μεταξύ ανταγωνιστών.</font>
+        </div>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="e1ec7241-f4d1-4157-9ab8-228f46efd538">
+      <IncludedInTOC GUID="96d6d8e6-9252-46ce-a0ee-6a929311d396">true</IncludedInTOC>
+      <Title GUID="6364ece7-12f8-4d0f-9321-a9211e55ac70">Εισαγωγή στις εμπορικές ενώσεις (συλλόγους) </Title>
+      <PageElements GUID="2d2b2103-5e9f-4418-a6bc-7bb2254d376a">
+        <PageElement GUID="eff9d011-4401-4d51-9c45-95fa3ec47b25">
+          <Graphic GUID="8ad5c0b9-a059-453b-88ae-8864c65b2d89"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/7bd68813-47c3-48c0-acdd-97d5fdebb486.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="838394ae-00f2-4ea6-9009-fa3cb26d9737">
+          <TextBox GUID="d4c96ec2-f7ea-40ca-9544-c61c3b7cd8d2"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="969f25ce-76b4-4246-a43e-245cad55192e">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="66d4094d-ad37-4ee9-9c2b-ac6e68a7a275" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="ae05bd8a-9f3b-4aee-8ef1-6496141d9079">Θα πρέπει να γνωρίζετε ήδη ότι οι συμφωνίες μεταξύ ανταγωνιστών που περιορίζουν τον ανταγωνισμό απαγορεύονται σύμφωνα με το Δίκαιο Ανταγωνισμού.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="6cd84187-ff2f-4434-a6e5-57f98b5ad460" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="8b5b7e9b-5ffb-4d45-8484-1fb0719e85c7">Οι εμπορικές ενώσεις αποτελούν παραδοσιακά επικίνδυνο πλαίσιο για την ανάπτυξη συμπεριφοράς που περιορίζει τον ανταγωνισμό, καθώς επιτρέπουν τις τακτικές επαφές μεταξύ ανταγωνιστών.   Οι συνεδριάσεις ενώσεων, επιτροπών ή ομάδων εργασίας μεταξύ των φορέων του εκάστοτε κλάδου είναι απολύτως νόμιμες, αλλά μπορούν να γίνουν παράνομες εάν οδηγούν ή ενθαρρύνουν τους συμμετέχοντες να συντονίζουν τις επιχειρηματικές τους δραστηριότητες και αποφάσεις. </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="a4831f9a-5410-499e-a03d-c7be1468749a" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="eb8915b4-56f3-40f1-a8a0-da29ed0c1be1">Επισημαίνεται ότι οι συστάσεις, οι κώδικες δεοντολογίας ή κανόνες που εκδίδονται από εμπορικές ενώσεις θεωρούνται σύμφωνα με το Δίκαιο Ανταγωνισμού ισοδύναμες με συμφωνία μεταξύ ανταγωνιστών.  Έτσι, εάν μια εμπορική ένωση υποβάλλει στα μέλη της σύσταση που περιορίζει τον ανταγωνισμό, θα μπορούσε πιθανόν να επιβληθεί πρόστιμο για παράβαση του Δικαίου Ανταγωνισμού στην ένωση και σε όλα τα μέλη της. </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="48d7ac97-d235-4df6-b0be-0e61114d8f17">
+      <IncludedInTOC GUID="4dd866c6-5b2d-4aa6-b92e-1693431aa686">true</IncludedInTOC>
+      <Title GUID="8ab0affa-4ec6-4415-a703-1ee36bddc510">Οι νόμιμες δραστηριότητες εμπορικών ενώσεων (συλλόγων)</Title>
+      <PageElements GUID="8b23d073-56b4-4f19-97c4-181616c82339">
+        <PageElement GUID="4a6c5257-97cc-408b-a07d-c36c5d9f9f42">
+          <Graphic GUID="f52698bd-c42f-4599-9f5c-9c851ff885b7"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/8260b5bf-72bd-4dbd-9ec2-94cda87b6005.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="3a58c7e6-9f35-4c2a-a420-a8d6722ec310">
+          <TextBox GUID="c232d701-b508-4f8c-b0ef-bd33f64ffebf"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="4833cf31-0aba-406e-9dde-174b54c5b834">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="588fcfb1-201d-4695-a95c-e81bab66c359" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="e98d801a-033b-4ac7-b327-5a024360cb6f">Οι εμπορικές ενώσεις όπως η «Tobacco Manufacturers' Association» στο Ηνωμένο Βασίλειο, η «Verband der Cigarettenindustrie» στη Γερμανία και η «Stichting Sigaretten Industrie» στην Ολλανδία εξυπηρετούν διάφορους νόμιμους σκοπούς, όπως:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c7609c93-e805-44ef-9c62-6dfb6bae7491" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="62c36a79-b534-4bbe-af63-35764f569685">
+        <div align="left" GUID="bc674fe9-dec7-46b9-b252-4c0860f6b66d">
+          <font face="Arial" GUID="d4d82902-8a0c-4abd-96aa-8421f443fbfa">παροχή βήματος για τη συζήτηση γενικών θεμάτων του κλάδου, π.χ. θέματα υγείας, νομοθετικά και φορολογικά θέματα, </font>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="dc2e7fee-f5fa-48ed-a1dd-d1b73592b4a8">
+        <div align="left" GUID="f096544d-a10b-4ff9-9a80-5c92735b724d">
+          <font face="Arial" GUID="3ca28984-b37c-4f95-97d1-97ee145a6896">συλλογή και διάθεση ανώνυμων, συγκεντρωτικών στατιστικών δεδομένων για τον κλάδο συνολικά, υπό την προϋπόθεση ότι οι πληροφορίες είναι ιστορικές και ο κλάδος δεν παρουσιάζει υψηλή συγκέντρωση, </font>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="370c9847-6f19-4f01-88eb-62bd622fd1df">
+        <div align="left" GUID="6383c1f8-8de0-4f34-b367-e7d4a497d11d">
+          <font face="Arial" GUID="983af1d9-dfc1-4d06-9e13-99f06ee75cf1">διενέργεια έρευνας αγοράς για τον κλάδο, </font>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="345b2c77-054c-448e-bd57-0eec5882f038">
+        <div align="left" GUID="15d0c13f-a25d-4ad6-864f-c7c0a6335d09">
+          <font face="Arial" GUID="a21e289a-477b-49e5-99a6-60e764c4571a">εκπροσώπηση των θέσεων της καπνοβιομηχανίας στην/στις Κυβέρνηση(εις) και σε άλλους δημόσιους φορείς, για παράδειγμα με την άσκηση πιέσεων σε σχέση με νέα νομοθετικά μέτρα, </font>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="006b4253-dea1-48ab-9833-0ec8ab7928b5">
+        <div align="left" GUID="9caad09d-eff3-48c2-b1f2-e19610e8b173">
+          <font face="Arial" GUID="d012c704-c57c-4cbb-b085-f3c9b8d4ee28">εφαρμογή κωδίκων δεοντολογίας και προτύπων του κλάδου, και</font>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="21cdc7fe-4534-459c-8cbf-4d6e48d0af11">
+        <div align="left" GUID="881c7c39-8b90-4eac-984b-022bfd1da17d">
+          <font face="Arial" GUID="314a8a4d-c045-48d8-adb5-45ab9ecb397a">γενικές  απαντήσεις του κλάδου σε διάφορα θέματα (π.χ. λαθρεμπόριο).</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="1696670f-aec6-400b-a0b0-5731d3820d6d" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="09405cec-8861-4def-973c-1ae84e9e47d7">
+      </font> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="1de8147f-f79b-4513-b26f-58fcbd9376ed" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="50e16770-f384-4a41-8288-c1f80a5ba857">Επισημαίνεται ότι σε κλάδους όπου υπάρχει σχετικά μικρός αριθμός ανταγωνιστών χρειάζεται επιπλέον προσοχή προκειμένου οι εμπορικές ενώσεις να μην εμπλέκονται σε δραστηριότητες που περιορίζουν τον ανταγωνισμό.   Ειδικότερα, χρειάζεται μεγάλη προσοχή προκειμένου να μην υπάρχει ποτέ η δυνατότητα υπολογισμού της θέσης συγκεκριμένου ανταγωνιστή με βάση τα συγκεντρωτικά στατιστικά στοιχεία του κλάδου που εκδίδονται από την εμπορική ένωση.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="fd1281ad-a896-4199-b8b2-6de277508fc7">
+      <IncludedInTOC GUID="f4f1e2df-18e9-4479-abf1-1fac6353e247">true</IncludedInTOC>
+      <Title GUID="017cd941-900d-4e59-9784-71b799e72bb0">Παραδείγματα ενδεχόμενων δραστηριοτήτων εμπορικής ένωσης (συλλόγου) που περιορίζουν τον ανταγωνισμό</Title>
+      <PageElements GUID="01c8402d-6ec9-4dec-9e87-562d23f5c9a3">
+        <PageElement GUID="c1d3f4d0-2623-4c01-b6e0-a072a7ef15b3">
+          <Graphic GUID="1e5f9946-e371-4454-a0e6-6929508ddba8"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/04d3c4c3-d323-4801-ac97-3a9629ecdef3.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="64020713-f3f4-4c9b-8496-d346a50a06eb">
+          <TextBox GUID="f1db923c-f359-4d86-a814-ae5f7ed4ac7e"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="63d0c2fa-058a-4d5b-a474-f58f87218e98">
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="3b4091f8-e64d-4c4b-876d-ebac57d7dee1" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="b40be26e-8ac4-4723-854b-14b6c888d9c9">
+        <font face="Arial" GUID="6c13aaf9-e755-4625-889b-707a7336cd14">
+          <strong GUID="1bee09be-7e3f-436c-9377-9087c6f94c36">συλλογικός καθορισμός τιμών ή συντονισμός τιμών σε σχέση με οποιοδήποτε προϊόν ή υπηρεσία:</strong>
+        </font>
+        <font face="Arial" GUID="471c4c27-ceb6-4637-9ff9-bd67abcb3c87">αυτή είναι παράνομη δραστηριότητα που περιορίζει τον ανταγωνισμό ανεξαρτήτως της μορφής της,</font>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="8ddf0b50-ca3e-4eb9-b1b1-9eb15c5140a5" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="4b407a88-06ee-4860-8f0a-8fda6d245e59">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="502ce28c-2509-47c2-98ef-013cc3c637b1" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="9285316b-ca2a-40a5-ad6d-626584790caf">
+        <font face="Arial" GUID="e77ffa18-3578-4e05-8043-8d045aefda84">
+          <strong GUID="f0e1eafe-651f-4332-8ac0-f29eb6ebc35b">ανταλλαγή πληροφοριών σχετικά με τις τιμές:</strong>
+        </font>
+        <font face="Arial" GUID="92d5c276-b902-4223-9059-ff66bc016bf3">η ανταλλαγή πληροφοριών σχετικά με πολιτικές τιμολόγησης, έξοδα, εκπτώσεις, επιστροφές και τα συναφή εξαλείφει την αβεβαιότητα μεταξύ ανταγωνιστών και περιορίζει τον ανταγωνισμό, </font>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="651e520f-f3a2-4d5a-8b91-774b375e4346" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="4ce9100b-2884-4c77-95ea-6a1b4f4f73d8">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="25821285-dbdc-4900-a04a-10e0906f7c93" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="e4e37d05-9ef4-4c32-9bf1-7b22b9297019">
+        <font face="Arial" GUID="32886963-a2d3-422e-a76f-df0021f43ea3">
+          <strong GUID="650c8965-3c6c-4a34-96cd-b37ec1a46904">ανταλλαγή πληροφοριών που δεν αφορούν τιμές:</strong>
+        </font>
+        <font face="Arial" GUID="075b155b-7fee-4c3f-86d3-7bc54bb44938">απόρρητες ή εμπιστευτικές επιχειρηματικές πληροφορίες σχετικά με εμπορικές στρατηγικές, πωλήσεις, μερίδια αγοράς, πελάτες, παραγγελίες, ακόμα και ταχυδρομικούς κώδικες πελατών, κλπ. δεν θα πρέπει να ανταλλάσσονται,</font>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="765c1796-24ae-40a4-b52d-5540c12c30d5" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="0e21d939-443b-4bd3-9c63-75b320745c63">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="4bb78fe7-4054-4554-901b-f1b8f5f11f83" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="32a07fae-796d-4073-bd04-060ab40c1f42">
+        <font face="Arial" GUID="c248b282-0070-4da2-82bf-dbb777673481">
+          <strong GUID="155dbbfb-c07d-4bd4-b0c1-8006f9ed99b4">συλλογικοί εμπορικοί αποκλεισμοί:</strong>
+        </font>
+        <font face="Arial" GUID="73abb513-4ab9-4c27-819d-06cfa0a0c0a9">η συμφωνία μεταξύ μελών εμπορικής ένωσης για τον εμπορικό αποκλεισμό ορισμένων πελατών χωρίς αντικειμενική αιτιολογία είναι πιθανόν να θεωρηθεί ότι περιορίζει τον ανταγωνισμό.</font>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="eb5eb4f8-786a-4c4c-a68f-0260fd2c880c">
+          <ExtraInfo GUID="fbfa64b5-b1ff-4e89-8d39-53a55b85936f"> <![CDATA[<div class="ExtraInfo_Main">
+  <table cellpadding="0" cellspacing="0" border="0" class="ExtraInfoExtraVisible">
+    <tr>
+      <td width="2%" class="" style="padding-left:5px;cursor:hand;">
+        <img class="" src="/General/Images/InfoPath/CC_Example.gif" name="EX_&quot;bad943bd-1bc4-4be3-9e65-09752762b474" ID="EX_bad943bd-1bc4-4be3-9e65-09752762b474" onClick="TogglePopup('bad943bd-1bc4-4be3-9e65-09752762b474');" onmouseover="this.src=activeExample;" onmouseout="this.src=Example;">
+      </td>
+      <td class="" align="left" style="padding-left:5px;vertical-align:top;">
+        <div class="">ΠΑΡΑΔΕΙΓΜΑ ΑΝΤΑΛΛΑΓΗΣ ΠΛΗΡΟΦΟΡΙΩΝ</div>
+      </td>
+    </tr>
+  </table>
+  <div ID="Content_bad943bd-1bc4-4be3-9e65-09752762b474" class="ExtraInfo_Hide">
+    <table>
+      <tr>
+        <td class="TextGraphic_Description">
+          <Description GUID="12ef05df-ef02-4691-95ca-031f37794fa4">
+            <div GUID="ba45fa85-af13-4015-a03c-5f8113cc97ff" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="0cbc9ae9-01f3-487d-b840-eda17d8d9ff0">
+                <font face="Arial" GUID="e96e1257-9d42-433f-9b6a-e730a023a7e7">ΠΑΡΑΔΕΙΓΜΑ ΑΝΤΑΛΛΑΓΗΣ ΠΛΗΡΟΦΟΡΙΩΝ</font>
+              </span>
+            </div>
+            <div GUID="e45cfc80-2090-441f-ac41-48cb0bc60b8f" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="67f24b5e-84bb-47fb-9d13-1d854dbba7bc">
+                <span style="LAYOUT-GRID-MODE: line" GUID="2535e867-61a4-4462-bfa1-825aa1ce08ea">
+                  <em GUID="9bfcada8-9be6-4d00-becd-344d28f08756">Η υπόθεση των Τρακτέρ </em>
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="8e0a2a54-4556-42bc-b03b-3bf269c4678c">αφορούσε τη συλλογή αναλυτικών πληροφοριών από εμπορική ένωση σχετικά με τα είδη τρακτέρ που πωλούσαν τα μέλη της, οι οποίες στη συνέχεια τους διατείθονταν.</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="f0b64dce-a7c3-4e51-8ef9-b7114d9f40d5">  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="e5384c4f-d5a8-4081-844b-ace24e84ffaa">Παρόλο που οι πληροφορίες αυτές ήταν ιστορικές, η Ευρωπαϊκή Επιτροπή κατέληξε στο συμπέρασμα ότι η ανταλλαγή εξάλειψε κάθε «ίχνος ανταγωνισμού» μεταξύ των προμηθευτών. </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="e8ae320b-e6f5-4905-b046-c2edbc23d385">  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="ba80746e-b9c0-4d51-8a52-6a52b922a3bb">Οι σχετικοί παράγοντες ήταν οι εξής</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="d2709aac-593a-40d6-a5fe-4474d58f58bd">:</span>
+              </font>
+            </div>
+            <div GUID="b0c435e1-8929-4c59-a9fd-b3d6750e4980" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="1f4e3b98-7cd8-41d3-ae23-40d5f77141fc">
+                <font face="Arial" GUID="2087823b-64ac-4983-91b3-7dfb38f97104">
+                </font>
+              </span> </div>
+            <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="67979bd9-cfb5-4c42-ba31-36c8bfe10572" xmlns="http://www.w3.org/1999/xhtml">
+              <li GUID="04219a00-3ca4-4292-a5d7-6717f7f6c8a4">
+                <font face="Arial" GUID="e366b5ee-d37e-4f96-aa3b-eb7208233afb">
+                  <span style="LAYOUT-GRID-MODE: line" GUID="2c65ba48-8d46-45dd-a5e5-b5b1fbb747c8">μόνον οκτώ μέλη συμμετείχαν στην ανταλλαγή πληροφοριών και μεταξύ τους αντιπροσώπευαν περίπου το</span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="7fdc109a-2e48-48a7-b814-e4a6469f2a86"> 88% </span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="695bc04a-a5ef-402a-b868-2a1614e29758">της σχετικής αγοράς,</span>
+                </font>
+              </li>
+            </ul>
+            <div GUID="996bd416-b573-42aa-8b50-e7f19dfe1cf3" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="e31a3379-2808-4716-921e-e7c9b6699912">
+                <font face="Arial" GUID="577267d6-5600-4138-89c9-5250c0018787">
+                </font>
+              </span> </div>
+            <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="39a0dc82-6b8b-4e35-9d0e-136e132997c5" xmlns="http://www.w3.org/1999/xhtml">
+              <li GUID="34363b25-4b38-4c84-9b2a-ce30974d94ef">
+                <span style="LAYOUT-GRID-MODE: line" GUID="f369c352-542c-4aa2-933b-f1785c670fa0">
+                  <font face="Arial" GUID="e8b6f7cb-7f72-4e3e-81d0-a89425760206">οι ανταλλαγείσες πληροφορίες ήταν πολύ λεπτομερείς και ακριβείς, και</font>
+                </span>
+              </li>
+            </ul>
+            <div GUID="c6f6760c-fb14-4c04-8afe-cb8e9aa98d8f" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="fe66ba2c-3678-4451-a5b5-af3d191d544a">
+                <font face="Arial" GUID="c97ddc5d-c352-4026-8229-55fb0dc16680">
+                </font>
+              </span> </div>
+            <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="2e955d06-a6cc-4a7c-a29d-5d65f3e84a27" xmlns="http://www.w3.org/1999/xhtml">
+              <li GUID="8dead275-e20b-4b8e-afac-dbf5a1eb06d3">
+                <font face="Arial" GUID="8ca5d560-1ac0-429f-b759-0aeccbdd5d7d">
+                  <span style="LAYOUT-GRID-MODE: line" GUID="667f096e-7d57-46ef-9e37-2dd1db2a8b90">
+                  </span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="5fbcff05-cbbc-426f-bdb0-0b1b288b36d8">οποιοσδήποτε νεοεισερχόμενος στην αγορά θα ήταν σε μειονεκτική θέση μη έχοντας πρόσβαση στις πληροφορίες</span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="867540dc-35c9-469a-bd9e-5828e5d38c4c">.</span>
+                </font>
+              </li>
+            </ul>
+          </Description>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img class="" style="position:absolute;left:488px;top:368px;;cursor:hand;" src="/General/Images/InfoPath/CC_Close.gif" onClick="TogglePopup('bad943bd-1bc4-4be3-9e65-09752762b474');" onmouseover="this.src=activeCloseImg;" onmouseout="this.src=closeImg;">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="d03a18cd-ce60-4d19-996f-46206d68328b">
+      <IncludedInTOC GUID="259aeac9-16cb-4904-8aea-a86a5f661612">true</IncludedInTOC>
+      <Title GUID="5b5bc224-d601-410e-8853-7b82eb0137ad">Παραδείγματα ενδεχόμενων δραστηριοτήτων εμπορικής ένωσης (συλλόγου) που περιορίζουν τον ανταγωνισμό (συνέχεια)</Title>
+      <PageElements GUID="99373f08-a744-4038-8059-65000a46a837">
+        <PageElement GUID="d6a90363-3c44-478f-9ff5-db03548ccc7f">
+          <Graphic GUID="bf564f13-0ed9-4f16-8d4b-99c3bbfa4105"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/e0e8f9b2-b9af-4a5a-a34f-3add91aa92a7.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="3bef588b-dac8-4d25-83c9-b6963d231c8a">
+          <TextBox GUID="ea658a2d-a4a2-4ee8-bfc6-3d156c0586e6"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="1b940d31-6ddb-4130-973c-6f0879b31f16">
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="4d1b6c37-5085-4a1c-9b2c-58c9a10acba5" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="fe689f5f-a7b5-4a69-bd51-9f635fcf2e6a">
+        <font face="Arial" GUID="76eae349-a2cc-4a2d-971a-05b05c53311d">
+          <strong GUID="b6e9c0c3-5b1f-4f36-b14a-3bb05789847c">συμφωνίες κοινής προμήθειας/πώλησης: </strong>ο συντονισμός κοινών προμηθειών ή πωλήσεων μέσω συμφωνιών ή συμμαχιών εξαλείφει τον ανταγωνισμό μεταξύ των μελών της ένωσης και είναι πιθανόν να θεωρηθεί ότι περιορίζει τον ανταγωνισμό,</font>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="adae7267-c4a2-4ac9-9e11-b3fd6716b558">
+        <font face="Arial" GUID="019f7e6f-793d-4d3d-8210-132d90c8f9b1">
+          <strong GUID="cdf44cce-afbb-4254-adc3-b2ab0433ae94">κώδικες δεοντολογίας: </strong>οι κώδικες δεοντολογίας δεν θα πρέπει να περιορίζουν την ανταγωνιστική ικανότητα των μελών, π.χ. δεν θα πρέπει να ορίζουν κατευθυντήριες γραμμές σε θέματα τιμολόγησης ή κατανομής των αγορών, </font>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="b6756a5a-793e-452b-97e7-56885f272113">
+        <font face="Arial" GUID="684f6888-8044-40a2-b138-d903be08f90d">
+          <strong GUID="3f9bf779-eafe-4a55-b670-351aa21560a2">τυποποιημένοι γενικοί και ειδικοί όροι: </strong>τυχόν τυποποιημένοι γενικοί και ειδικοί όροι, τους οποίους μια ένωση αναγκάζει τα μέλη της να χρησιμοποιούν, είναι πιθανόν να θεωρηθούν ότι περιορίζουν τον ανταγωνισμό.   Η Imperial θα πρέπει πάντα να εφαρμόζει τους δικούς της τυποποιημένους γενικούς και ειδικούς όρους και εάν μια εμπορική ένωση προσπαθήσει να της επιβάλλει τους δικούς της όρους: παρακαλείστε να αναζητήσετε νομική βοήθεια, </font>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="e2f37d5e-7bbd-4270-bd01-bd8ca4ebe58e">
+        <font face="Arial" GUID="2d3b854a-290b-4999-8943-133fc9c44c18">
+          <strong GUID="1c26de00-6407-4940-b1b0-9f6bc75917de">όροι εγγραφής μέλους: </strong>χρειάζεται προσοχή ούτως ώστε οι όροι εγγραφής μέλους μιας εμπορικής ένωσης να είναι διαφανείς, αναλογικοί, αμερόληπτοι και να βασίζονται σε αντικειμενικά πρότυπα με δίκαιη διαδικασία προσβολής των αποφάσεων εγγραφής ή αποκλεισμού.   Αναζητείστε νομικές συμβουλές πριν εγγραφείτε σε εμπορική ένωση, στην οποία η Imperial δεν είναι ήδη μέλος, </font>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="93a6bbe3-3941-4593-a6d2-ab91400f6f1d">
+        <font face="Arial" GUID="b700daac-8871-4cb5-9c11-c5578632d281">
+          <strong GUID="5b7907d8-6746-411f-b770-dbde01a9f384">τεχνικά πρότυπα: </strong>τα τεχνικά πρότυπα για τα προϊόντα ενός κλάδου, όπως ορίζονται από μία ένωση, μπορούν να περιορίζουν τον ανταγωνισμό, εάν ο πραγματικός σκοπός τους είναι να προστατεύουν τα μέλη της ένωσης και να θέτουν σε μειονεκτική θέση τα μη μέλη.   Ορισμένα πρότυπα μπορούν να είναι δικαιολογημένα, για παράδειγμα επειδή προωθούν τη δημόσια υγεία και ασφάλεια ή είναι προς όφελος των καταναλωτών.</font>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="6b2f6d62-70b5-453d-8859-14910c3142d5">
+          <ExtraInfo GUID="c356767a-b36d-40b3-b1d5-e85c14cb0e3e"> <![CDATA[<div class="ExtraInfo_Main">
+  <table cellpadding="0" cellspacing="0" border="0" class="ExtraInfoExtraVisible">
+    <tr>
+      <td width="2%" class="" style="padding-left:5px;cursor:hand;">
+        <img class="" src="/General/Images/InfoPath/CC_Example.gif" name="EX_&quot;3bd89e6f-fce6-497b-89ba-d9a2baf63c7e" ID="EX_3bd89e6f-fce6-497b-89ba-d9a2baf63c7e" onClick="TogglePopup('3bd89e6f-fce6-497b-89ba-d9a2baf63c7e');" onmouseover="this.src=activeExample;" onmouseout="this.src=Example;">
+      </td>
+      <td class="" align="left" style="padding-left:5px;vertical-align:top;">
+        <div class="">ΠΑΡΑΔΕΙΓΜΑ ΣΥΜΦΩΝΙΑΣ ΚΟΙΝΗΣ ΠΡΟΜΗΘΕΙΑΣ </div>
+      </td>
+    </tr>
+  </table>
+  <div ID="Content_3bd89e6f-fce6-497b-89ba-d9a2baf63c7e" class="ExtraInfo_Hide">
+    <table>
+      <tr>
+        <td class="TextGraphic_Description">
+          <Description GUID="baa94b3b-ad97-40f6-a6cf-f68ee7b5786e">
+            <div GUID="6ec8e4a4-bc63-4edd-8cd9-2b5b08546db0" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="c1cd1bf9-5dda-4606-bd2c-18b6d30082a6">
+                <strong GUID="ce1c974d-c6ca-4d87-8059-ff623ff2b035">
+                  <font face="Arial" GUID="ef201e32-6c1a-4e5d-9652-496fbc01aa52">ΠΑΡΑΔΕΙΓΜΑ ΣΥΜΦΩΝΙΑΣ ΚΟΙΝΗΣ ΠΡΟΜΗΘΕΙΑΣ </font>
+                </strong>
+              </span>
+            </div>
+            <div GUID="0621cf34-c3d1-4375-b18d-ab17a8cabbcc" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="3f16ba20-69a6-4e18-a74d-c329db3cd49c">
+                <span style="LAYOUT-GRID-MODE: line" GUID="7e933398-d998-40bf-b57f-9ba6d8fbd12b">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="b4995cc0-5000-4756-8057-ba60b105fd70">Μια εμπορική ένωση υδραυλικών συμφώνησε να αγοράσει ένα ποσοστό των προμηθειών των μελών της από μια άλλη εμπορική ένωση.</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="ad76fba4-9d58-4c1f-b092-47809b3d507a">  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="af925498-5ae0-4acc-99a3-757a0c255bc8">Η Ευρωπαϊκή Επιτροπή έκρινε ότι η συμφωνία περιόριζε την ελευθερία επιλογής κάθε μέλους σχετικά με την προέλευση των προμηθειών και άρα περιόριζε τον ανταγωνισμό.</span>
+              </font>
+            </div>
+          </Description>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img class="" style="position:absolute;left:488px;top:368px;;cursor:hand;" src="/General/Images/InfoPath/CC_Close.gif" onClick="TogglePopup('3bd89e6f-fce6-497b-89ba-d9a2baf63c7e');" onmouseover="this.src=activeCloseImg;" onmouseout="this.src=closeImg;">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="0c86152b-69a5-4a3b-b982-5b305b97ce24">
+          <ExtraInfo GUID="d95a0135-4c29-44d4-ab86-6c6196ad1697"> <![CDATA[<div class="ExtraInfo_Main">
+  <table cellpadding="0" cellspacing="0" border="0" class="ExtraInfoExtraVisible">
+    <tr>
+      <td width="2%" class="" style="padding-left:5px;cursor:hand;">
+        <img class="" src="/General/Images/InfoPath/CC_Example.gif" name="EX_&quot;c63aa894-9b44-4151-8e82-aa34b76e44be" ID="EX_c63aa894-9b44-4151-8e82-aa34b76e44be" onClick="TogglePopup('c63aa894-9b44-4151-8e82-aa34b76e44be');" onmouseover="this.src=activeExample;" onmouseout="this.src=Example;">
+      </td>
+      <td class="" align="left" style="padding-left:5px;vertical-align:top;">
+        <div class="">ΠΑΡΑΔΕΙΓΜΑ ΤΕΧΝΙΚΩΝ ΠΡΟΤΥΠΩΝ</div>
+      </td>
+    </tr>
+  </table>
+  <div ID="Content_c63aa894-9b44-4151-8e82-aa34b76e44be" class="ExtraInfo_Hide">
+    <table>
+      <tr>
+        <td class="TextGraphic_Description">
+          <Description GUID="bbd09837-ed0b-4ab7-9f79-1919eab218b5">
+            <div GUID="b3a993f2-3920-4daf-b139-b03bbf853e58" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="c3215a5d-d54d-4065-a486-8d8b6c417d4f">
+                <strong GUID="881855d8-fa19-4034-9c45-602ed1ad158b">
+                  <font face="Arial" GUID="0a081a1e-fba6-40a9-8be5-0b4b579a537c">ΠΑΡΑΔΕΙΓΜΑ ΤΕΧΝΙΚΩΝ ΠΡΟΤΥΠΩΝ</font>
+                </strong>
+              </span>
+            </div>
+            <div GUID="1c87284b-f68f-4233-bb8c-3b9e801463c6" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="3f885a13-161a-4ea1-b18e-26b27d8996d1">
+                <span style="LAYOUT-GRID-MODE: line" GUID="4e768624-a607-4b9b-b23b-b5447919a359">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="866f2650-25b0-4456-a3fa-a410ee55229e">Μια εμπορική ένωση κατασκευαστών πλυντηρίων ρούχων και πλυντηρίων πιάτων συμφώνησε με μια ένωση εταιρειών ύδρευσης ότι τα πλυντήρια που κατασκευάζονταν από τα μέλη της και πληρούσαν τα βελγικά πρότυπα κατά της ρύπανσης θα μπορούσαν να φέρουν σχετική ετικέτα συμμόρφωσης.</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="65a655e9-0cf9-49fc-b654-5778e2e308ff">  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="6f5a5d28-b311-4091-8f05-8e17e387083a">Τα πλυντήρια που κατασκευάζονταν ή εισάγονταν από μη μέλη έπρεπε να υποβάλλονται σε ξεχωριστό έλεγχο. </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="dba4c946-70e4-4fef-b8d7-baca21c8d310"> </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="c0c8a679-d047-4a15-8b11-0ff937d2d6c4">Ο πραγματικός σκοπός αυτής της σήμανσης ήταν η προνομιακή μεταχείριση των μελών της ένωσης έναντι των μη μελών και ο περιορισμός των εισαγωγών πλυντηρίων από άλλες χώρες.</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="2b552e21-5a22-4d49-a662-edeca34bc244">  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="4b61e08e-d6b3-4638-b045-7160dbf4dc81">Τα μεμονωμένα μέλη που συμμετείχαν στη σύνταξη της συμφωνίας τιμωρήθηκαν με πρόστιμο.</span>
+              </font>
+            </div>
+          </Description>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img class="" style="position:absolute;left:488px;top:368px;;cursor:hand;" src="/General/Images/InfoPath/CC_Close.gif" onClick="TogglePopup('c63aa894-9b44-4151-8e82-aa34b76e44be');" onmouseover="this.src=activeCloseImg;" onmouseout="this.src=closeImg;">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="a1c3489b-758f-4cb8-960f-588b20b68fe1">
+      <IncludedInTOC GUID="7ddf1705-ef74-45cb-8d43-7efc2d393faa">true</IncludedInTOC>
+      <Title GUID="09f81250-2965-4b4d-94a9-42339f50d9fb">Βασικά πράγματα που θα πρέπει να θυμάστε εάν παραβρίσκεστε σε συνεδρίαση εμπορικής ένωσης (συλλόγου)</Title>
+      <PageElements GUID="5e486040-39eb-4547-ac17-65aa7e876d9b">
+        <PageElement GUID="9bee4971-d9d3-476a-becb-fd7d49eb2b4b">
+          <Graphic GUID="e56f0b6b-aca1-43d1-9a71-86fa27ef353d"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/63ce1338-3d82-45c4-9fc4-3c254f8fdf03.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="4cb82ded-f04e-4925-9b14-72be21fbcfa7">
+          <TextBox GUID="c04ed23c-c372-461b-a6c5-34f5ac793c02"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="be7b62e4-cfa0-491c-927a-714dce641214">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="fe479bda-22b6-4767-bbea-1f7ded018e8c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="fcdefb8d-c016-4e09-b728-e8ca96cf003a">Στην προηγούμενη ενότητα είδαμε τα είδη πληροφοριών που δεν θα πρέπει να συζητάτε με ανταγωνιστές.  Ακριβώς οι ίδιες παρατηρήσεις ισχύουν στο πλαίσιο των συνεδριάσεων εμπορικής ένωσης.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="5a7936f7-e8aa-42a3-9254-d7bd5b3fe64b" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="5f117cc2-d911-4e74-a5fe-82eda243792d">Εάν στη συνεδρίαση ανακύψουν εμπορικά ζητήματα που περιορίζουν τον ανταγωνισμό:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="4b28a8d6-61ae-4dca-acf2-7e7cefd890bf" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 17.85pt; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; TEXT-INDENT: -17.85pt; LINE-HEIGHT: 116%" align="justify" GUID="557618bd-8285-4cd5-9a0f-af8086951127">
+        <div align="left" GUID="be24b8fa-0ec6-43bf-9008-af38c2990c27">
+          <span dir="ltr" GUID="feb369a8-4358-4a3a-b558-990aa0944f07">
+            <font face="Arial" GUID="2b58ef46-6366-47c2-bdee-d8bac2ecee86">ζητείστε να μην συνεχιστεί η συζήτηση, </font>
+          </span>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 17.85pt; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; TEXT-INDENT: -17.85pt; LINE-HEIGHT: 116%" align="justify" GUID="9ab06ed3-dbec-4dbe-924d-5d6ede1ba67f">
+        <div align="left" GUID="b9b58ec2-7947-4d6a-b328-45e6114687ed">
+          <span dir="ltr" GUID="a93644c8-4916-4b3c-9a33-05752db105c4">
+            <font face="Arial" GUID="9fbf4ed3-408b-42de-bad8-4a6910de2dbf">εάν η συζήτηση συνεχιστεί, αποχωρήστε,</font>
+          </span>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 17.85pt; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; TEXT-INDENT: -17.85pt; LINE-HEIGHT: 116%" align="justify" GUID="9687a3c1-2c23-4448-acaf-05d872f6380f">
+        <div align="left" GUID="142b7093-8e57-45ee-ad14-42cf44a9312a">
+          <span dir="ltr" GUID="87974fc6-f6a5-484f-a57d-b63dd6ca0671">
+            <font face="Arial" GUID="595da227-dcd8-4a22-ace3-118d7ac7afbf">επιμείνετε να συμπεριληφθεί στα πρακτικά της συνεδρίασης η αντίθεση και αποχώρησή σας, και</font>
+          </span>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 17.85pt; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; TEXT-INDENT: -17.85pt; LINE-HEIGHT: 116%" align="justify" GUID="a0dcae84-e4cb-4b07-94a1-46bbcf72b701">
+        <div align="left" GUID="5d4c22b7-9984-4a4d-a0d1-f3b35782c3b5">
+          <span dir="ltr" GUID="19127cb2-82b9-496c-83f4-24dcce9b9708">
+            <font face="Arial" GUID="4ee1ce22-5f4d-4f4c-9667-30b6b1761826">κρατήστε τις δικές σας σημειώσεις σχετικά με τα όσα συνέβησαν. </font>
+          </span>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="2cfafba1-e059-448b-bae0-91550d0b685c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="f992e794-0868-460b-8e6b-966ca462bdf2">Εάν δεν μπορούσατε να παραβρίσκεστε στη συνεδρίαση, ελέγξτε τα πρακτικά για να βεβαιωθείτε ότι δεν έγινε κάποια συζήτηση ή συμφωνία που περιορίζει τον ανταγωνισμό. </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="7f91b090-11fc-4f8f-98e7-44e78ea162c7" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="e4609560-9db8-4934-b31b-8abef8b821a2">Συζητήσεις που γίνονται «ανεπίσημα», όπως μια κουβέντα σε ένα διάλειμμα για καφέ στο πλαίσιο συνεδρίασης εμπορικής ένωσης, ή εκτός συνηθισμένων συναλλαγών, παρουσιάζουν τους ίδιους κινδύνους σε επίπεδο ανταγωνισμού και θα πρέπει να αντιμετωπίζονται εξίσου προσεκτικά.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="ec424578-d820-4a26-8e79-26ef0ef6560e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="c9df6ee8-3d56-49fa-928f-d3a254dd6063">
+        <span GUID="63485398-28db-4d32-b4ee-554719f389ec">
+          <strong GUID="9bec03eb-dcd4-4cab-96c2-8ead86d8317d">Θυμηθείτε:</strong>
+        </span> Θα πρέπει να αποχωρείτε από τη συνεδρίαση εμπορικής ένωσης, εάν νιώθετε άβολα.  Βεβαιωθείτε ότι η αποχώρησή σας καταχωρήθηκε στα πρακτικά της συνεδρίασης.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="7478b1d7-6eed-4e75-81d2-c38c41c05698">
+      <IncludedInTOC GUID="2316c0a1-0cf2-4a6c-ae87-40cabd726460">true</IncludedInTOC>
+      <Title GUID="d2cd011b-c0b7-4662-886e-3be47794476b">Ανταλλαγή πληροφοριών</Title>
+      <PageElements GUID="cb9ada1e-171d-4235-a4d2-3ace4054a148">
+        <PageElement GUID="864b3d39-07d8-417d-b98f-1493ea26a2b0">
+          <Graphic GUID="befab47b-a5c5-4769-876e-27e326e9586f"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/816fcedc-df8e-4b65-b004-63356599b40b.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="159535ee-ab2b-47d1-943d-13c0ffb35915">
+          <TextBox GUID="3433a0d0-fb52-4b84-98a3-42d26288e2d8"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="b2c52eba-b374-4995-b18f-2a046cd21466">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="83d284ea-5e60-46be-a100-1f06336dbe3e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="af32d6e6-6f84-42a2-9a23-1dcaf9a098a0">Όπως θα ξέρετε από την προηγούμενη Ενότητα, η ανταλλαγή απόρρητων πληροφοριών με ανταγωνιστές για τιμές, περιθώρια κέρδους, γενικούς και ειδικούς όρους, και τα συναφή είναι παράνομη.  Ακόμα και η ανταλλαγή πληροφοριών που δεν αφορούν τιμές είναι πιθανόν παράνομη όταν:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="de85fc9a-4303-46d4-8e09-25946c10eafc" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 17.85pt; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; TEXT-INDENT: -17.85pt; LINE-HEIGHT: 116%" align="justify" GUID="0fdb7133-65e2-458d-9f2d-84d705428cde">
+        <div align="left" GUID="fe593c89-5299-4819-8017-2ef6d90dfafe">
+          <span dir="ltr" GUID="ab9aba20-3cc6-42f0-adbd-c2ad498e06c3">
+            <font face="Arial" GUID="6726f4b3-2868-4d02-8a0a-a0422746ec34">οι πληροφορίες</font>
+          </span>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 17.85pt; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; TEXT-INDENT: -17.85pt; LINE-HEIGHT: 116%" align="justify" GUID="57930ec1-97a4-4e46-8ba9-bc91bf10a2cc">
+        <div align="left" GUID="1adf77d5-3d94-4e48-b28e-676913d26ac6">
+          <span dir="ltr" GUID="53813ac4-b2d5-449a-bff2-0eecb1d6f3a4">
+            <font face="Arial" GUID="c22a0db0-fa0e-4d68-9b60-c6cf9c232fd5">είναι απόρρητες ή μπορούν να επηρεάζουν τις αγορές, και</font>
+          </span>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 17.85pt; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; TEXT-INDENT: -17.85pt; LINE-HEIGHT: 116%" align="justify" GUID="e8e69974-ff55-493a-ab33-bd799a1af4c9">
+        <div align="left" GUID="eaa8afba-66d3-4539-be70-9e61c5e33560">
+          <span dir="ltr" GUID="f9ead1f8-8ac1-4bb5-b2ef-c49f9aceaca2">
+            <font face="Arial" GUID="c609e4c8-9c58-40d6-9eb4-5554d00ff44d">οι πληροφορίες είναι σε θέση να επηρεάζουν τις ανταγωνιστικές στρατηγικές εταιρειών ή να μειώνουν την αβεβαιότητα σχετικά με τη συμπεριφορά ή τις στρατηγικές ανταγωνιστών.</font>
+          </span>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="fc350159-4149-4719-94e4-155d07a1b401" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="25791acb-afd7-4993-a44c-ad930b59169d">Για παράδειγμα, δεν θα πρέπει να ανταλλάσσετε πληροφορίες για θέματα όπως οι γενικοί και ειδικοί όροι συναλλαγών μιας εταιρείας, η παραγωγική της ικανότητα και ο ρυθμός χρησιμοποίησής της, στοιχεία πωλήσεων ή μερίδια αγοράς ή οποιαδήποτε άλλη εμπορικά ευαίσθητη πληροφορία.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="35c6536f-f330-4604-b663-47ab582ae263">
+      <IncludedInTOC GUID="7ff60034-10a8-4331-b335-c2a0ad664f4f">true</IncludedInTOC>
+      <Title GUID="651418ba-370f-46a3-bf36-230b516e5bd8">Ανταλλαγή πληροφοριών</Title>
+      <PageElements GUID="716186f1-fb7b-4e2c-8bd1-f2fd789b4da9">
+        <PageElement GUID="9217c2b7-b596-49fe-bb33-428aabd09487">
+          <Graphic GUID="895a592b-c936-4079-b716-d881fa9b2f82"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/2bb13304-3e80-4290-9331-48109a27c19c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="2eb8d3bf-b108-4217-b13c-34e4881080b2">
+          <TextBox GUID="9db6fb53-54ff-471c-939f-7c112c643174"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="fad1a3f4-80f2-4bc3-8615-3c945fd3b8d7">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="0e4f8eaf-14e4-406c-b987-65bc5244ea76" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="7ab14100-f634-4f8f-b2f7-81c8702e7575">Οι στατιστικές πληροφορίες δεν ανταλλάσσονται πάντα απευθείας μέσω εμπορικών ενώσεων.  Σε ορισμένους κλάδους διορίζεται ένας ανεξάρτητος φορέας για τη συλλογή και διάθεση δεδομένων.  Αυτό ισχύει ιδιαίτερα για κλάδους όπου δεν υπάρχουν δημοσιευμένα επίσημα στοιχεία ή στατιστικά στοιχεία του κλάδου και όπου υπάρχει αβεβαιότητα σχετικά με το μέγεθος και το ρυθμό ανάπτυξης της συγκεκριμένης αγοράς.  Η Ευρωπαϊκή Επιτροπή έχει δηλώσει ότι η ανταλλαγή δεδομένων που δεν αφορούν τιμές επιτρέπεται σε ορισμένες περιστάσεις. </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="45e20193-9ff8-4698-9ad9-0652809575f0" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="eee2eb5a-bfd5-40a8-b902-1cdb4ea792e4">Αυτές οι περιστάσεις υφίστανται όταν πρόκειται:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="3c6fb248-8275-4701-9c86-e4c2131fb651" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="04c5995d-c81a-495a-9301-a712a1092b44">
+        <div align="left" GUID="80a47aca-a780-43af-8f86-0c8b71ed344c">
+          <font face="Arial" GUID="4f3ca715-30a9-4137-b717-fbfaa7a8f5fd">απλώς για γνώμη και εμπειρία και δεν διευκολύνεται η ανταλλαγή απόρρητων ή εμπιστευτικών επιχειρηματικών πληροφοριών, </font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="f11819aa-ce50-49a8-8e0c-3b859c3c2309" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="5655fe20-b8d4-4fe5-a8f5-cca43ccf74bb">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="b75fe113-f1e4-4d5b-9e68-c58b6bcf8c43" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="0e938c0c-1e62-413b-8c21-1eb05d66b5c1">
+        <div align="left" GUID="649ed986-d334-41a1-a73d-bd4a4450609e">
+          <font face="Arial" GUID="c900d4bf-fb29-41cd-9b3e-b3143f974fec">για πληροφορίες σχετικά με πωλήσεις/παραγωγή που είναι επαρκώς ιστορικές (δηλαδή ίσχυαν τουλάχιστον πριν 12 μήνες) ούτως ώστε να μην επηρεάζουν τον ανταγωνισμό, και</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="f414ce51-982f-4af7-83ab-6f46c0516d70" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="33d20ae7-bc6c-46fa-8509-c6f32ea2cc15">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d7501e3b-db0c-4324-a2df-c5293d0cddd4" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="943f486b-0d48-4fab-9fb3-1b3801f55e36">
+        <div align="left" GUID="a3d0c6f0-9fed-485f-9588-5d3c9ee849fc">
+          <font face="Arial" GUID="766bba1a-24da-4da8-bfd7-238fe5c7d867">για δεδομένα που δεν αναγνωρίζουν ούτε επιτρέπουν την αναγνώριση μεμονωμένων ανταγωνιστών (όμως θυμηθείτε ότι η ανταλλαγή αυτών των δεδομένων θα μπορούσε να θεωρηθεί ότι περιορίζει τον ανταγωνισμό, εάν υπάρχει η δυνατότητα υπολογισμού, με βάση τα συγκεντρωτικά στοιχεία, της θέσης μιας μεμονωμένης επιχείρησης).</font>
+        </div>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="5afd2d51-59e8-4975-8ece-fbb7b1b954d1">
+          <ExtraInfo GUID="87a6913a-fb75-436d-94c2-5ff378fd5e16"> <![CDATA[<div class="ExtraInfo_Main">
+  <table cellpadding="0" cellspacing="0" border="0" class="ExtraInfoExtraVisible">
+    <tr>
+      <td width="2%" class="" style="padding-left:5px;cursor:hand;">
+        <img class="" src="/General/Images/InfoPath/CC_Example.gif" name="EX_&quot;45a041c3-58aa-4c28-921b-120c77b74765" ID="EX_45a041c3-58aa-4c28-921b-120c77b74765" onClick="TogglePopup('45a041c3-58aa-4c28-921b-120c77b74765');" onmouseover="this.src=activeExample;" onmouseout="this.src=Example;">
+      </td>
+      <td class="" align="left" style="padding-left:5px;vertical-align:top;">
+        <div class="">ΠΑΡΑΔΕΙΓΜΑ ΑΝΤΑΛΛΑΓΗΣ ΠΛΗΡΟΦΟΡΙΩΝ</div>
+      </td>
+    </tr>
+  </table>
+  <div ID="Content_45a041c3-58aa-4c28-921b-120c77b74765" class="ExtraInfo_Hide">
+    <table>
+      <tr>
+        <td class="TextGraphic_Description">
+          <Description GUID="005b4b97-03af-4f33-93cd-9f6190fb49a2">
+            <font face="Arial" GUID="3efc7ebd-9c2c-4dda-ad7f-7260a607a45a" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="e3197d4f-df55-4b12-b9f6-c8ea0deb9aa1">Μια επιτροπή παραγωγών χαλύβδινων δοκών, οι οποίοι αντιπροσώπευαν περίπου τα δύο τρίτα των παραδόσεων εντός της ΕΕ, ήταν το πρόσχημα για την ανταλλαγή απόρρητων πληροφοριών σχετικά με παραγγελίες και παραδόσεις χαλύβδινων δοκών που προέρχονταν από μεμονωμένες εταιρείες. Τα στοιχεία αυτά ενημερώνονταν σε εβδομαδιαία βάση και διανέμονταν άμεσα μεταξύ των συμμετεχόντων.</span>
+              <span style="LAYOUT-GRID-MODE: line" GUID="a8217d07-9d09-45bc-bc40-3deade947c5a">  </span>
+              <span style="LAYOUT-GRID-MODE: line" GUID="cb8d3fdd-ee6f-47ed-b8e7-9e47fedf1287">Αυτό το σύστημα ανταλλαγής αναλυτικών απόρρητων στοιχείων σχετικά με την απόδοση μεμονωμένων μελών κρίθηκε από την Ευρωπαϊκή Επιτροπή παράνομο και επιβλήθηκε πρόστιμο στους συμμετέχοντες.</span>
+            </font>
+          </Description>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img class="" style="position:absolute;left:488px;top:368px;;cursor:hand;" src="/General/Images/InfoPath/CC_Close.gif" onClick="TogglePopup('45a041c3-58aa-4c28-921b-120c77b74765');" onmouseover="this.src=activeCloseImg;" onmouseout="this.src=closeImg;">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page9" IsActive="true" GUID="11d59e38-5c2c-4c4a-ac86-88df5aba78cc">
+      <IncludedInTOC GUID="2b44aa42-ad74-4247-aad5-ef13f50ff97b">true</IncludedInTOC>
+      <Title GUID="b4256429-b037-4754-bd80-75fad4ebf980">Ποινές</Title>
+      <PageElements GUID="9d027a59-46ca-4cc8-90cc-2a8bc06da1fc">
+        <PageElement GUID="ee1a160c-fc6f-4d6c-a5a6-5cc9cc2a10d1">
+          <Graphic GUID="3546319e-ab21-437e-9e02-2b7f26bd6dae"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/6e9eebb6-c483-4936-9bb4-2a33ff529e95.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="09d94a9a-4d98-48ab-bcf3-23e4fe4f5e71">
+          <TextBox GUID="418a5322-6f09-413f-8709-4b54dc43418a"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="d898f3db-4a88-40ff-b9ae-a4525e0b282d">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="e3d66b2f-5d5e-4098-bf0b-f8f315490af0" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Times New Roman" GUID="03da1dc8-507a-427e-b236-0e54e8a66af5">
+        <font face="Arial" GUID="d31c6e59-1f72-48d5-9db2-be1c48adae70">Όταν αποκαλύπτεται ότι έχει υπάρξει απόφαση, κανόνας ή σύσταση από εμπορική ένωση ή ανταλλαγή πληροφοριών μεταξύ μελών που περιορίζει τον ανταγωνισμό, μπορεί πέραν της ίδιας της ένωσης να επιβληθεί πρόστιμο και στα μεμονωμένα μέλη της εμπορικής ένωσης.</font>
+        <font style="FONT-SIZE: 11pt" GUID="702ff90c-9bad-441c-a3c0-fd6cb1524bb5">
+        </font>
+      </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page10" IsActive="true" GUID="9dddd533-ba15-4efb-8ab7-0bc6f6e3e00a">
+      <IncludedInTOC GUID="245306d7-caef-4643-8475-e4db9ca1b7e8">true</IncludedInTOC>
+      <Title GUID="fb3fef92-e075-4152-9574-ae2faaba1b72">Γνωρίστε τους πρωταγωνιστές</Title>
+      <PageElements GUID="75cd01f1-8a70-469b-b386-e8cc5e8ef350">
+        <PageElement GUID="d9e8acd0-044f-4cfe-9d3d-9b250d903abc">
+          <Graphic GUID="60a48ace-5393-4562-905c-666ddb689eea"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/647b7696-ec37-4b02-8c99-2c136417e09c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="59b916f0-a860-4e0f-a77f-0efcfcbe3914">
+          <MeetThePlayer ID="Player1" GUID="cf196b42-1b9d-4dc3-8d99-4126bc524126"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/a3a694b8-a43a-4cce-a1ed-24e8386bbb61.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">Ευρωπαϊκή Ένωση Καπνού</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="2c23a5f4-6118-4c40-bf42-f28a44832c47">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="76f4191a-2720-4fa4-8144-dedd9c32b0e9" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="d4f64314-2838-4166-8f43-f9fdd70d16c6">Η<strong GUID="83343407-96c6-45e0-b3b1-d4fe45ba2101"> Ευρωπαϊκή Ένωση Καπνού </strong>είναι μια εμπορική ένωση που συγκεντρώνει τους ευρωπαίους καπνοβιομηχάνους.  Η Isabella εκπροσωπεί την εταιρεία της σε συνεδριάσεις της ένωσης .</font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+        <PageElement GUID="b3947f17-1cb9-4b81-8c3f-7b44c5c4856e">
+          <MeetThePlayer ID="Player2" GUID="edd20158-28f8-4845-9830-64bd5d1cdabd"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/00f265b4-dc69-4d32-911a-f87a4c1a5dde.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">Isabella Sabatino</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="2b31b3c3-c813-41a9-910c-8090f050c92e">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="6aa82941-8bd8-4bb8-9075-cdf1b4d2efb2" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="2c9b5ba9-eddc-43c9-b313-cf15c1a6dc6f">Η<strong GUID="2350af08-03c4-4856-82a6-fce39dbc7fca"></strong><strong GUID="9176021d-e5e5-4b30-83dd-12937aaa880c">Isabella Sabatino</strong> είναι διευθύντρια πωλήσεων για μεγάλη καπνοβιομηχανία. </font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+        <PageElement GUID="167c88d0-0c04-4c5d-908a-b7b7145d0df1">
+          <MeetThePlayer ID="Player3" GUID="e4c9965f-b463-4758-a3d8-6b12641615e1"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/3b5f1077-b202-4682-8105-cac4fe3cca97.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">John Cook</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="b8791d9a-054a-4980-94c5-b0e36375453b">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="e8a1af7e-e684-4002-bd09-d427fcfbf93e" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="c5427dc5-3e27-423c-ab3b-198fec23304b">Ο<strong GUID="752af3ef-1c35-4afa-a791-2a4ed62e9f8f"></strong><strong GUID="e4250b02-382d-435a-a1f2-46d5bd360b43">John </strong><strong GUID="9345201e-72d8-4363-8e58-28e55d275e48">Cook</strong> δουλεύει για την Isabella.</font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page11" IsActive="true" GUID="110d67bf-1fd8-47e8-a45e-31b5a6d1409f">
+      <IncludedInTOC GUID="898b9cc7-ed2d-4364-bc7e-45b9065de6c2">true</IncludedInTOC>
+      <Title GUID="5f60f7e8-3a0f-478a-9b6e-1be9e9913afb">Σενάριο 1</Title>
+      <PageElements GUID="91c63fbe-540d-41f4-b133-1c9ad2391659">
+        <PageElement GUID="a1d00610-71d9-4712-9e89-80681e1006f3">
+          <TextBox GUID="99a88f88-9de1-4dc8-94f1-176ec0cdde3e"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="a3fbc059-2bc1-4d91-85cd-af9c2401884d">
+    <div GUID="28d98402-7f28-46a2-bc95-aec536986a22" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="231dead1-7d0a-41d7-9f05-7825b3226b50">
+        <span style="LAYOUT-GRID-MODE: line" GUID="46ecd3a2-b316-45d1-8085-671dca9add12">Η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="8a2e68ee-3c60-45fb-a798-a4d479486c64">Isabella</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="ff8710a1-b3e6-41bc-be83-480feca560c1">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="8a5f5128-72da-461f-91cf-97462b7682e5">παρίσταται</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e7fb5f50-5156-423b-8bc7-e65e6a0d9156">, </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="91cb0857-35f9-4d5c-8a1c-e5edd34a8529">όπως κάνει τα τελευταία χρόνια, στη διετή συνεδρίαση της Ευρωπαϊκής Ένωσης Καπνού</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="b90de8fc-e0ff-45ad-9533-d49c26f4e807"> (</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="4ef16892-91bd-48b8-a0a6-a60642cec089">ETA</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e1b1467c-d4e2-4545-b553-a8ea3cc6286a">) </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="50c6b2c9-4ab6-4063-9dc2-c003c39985f0">σε ξενοδοχείο στο αεροδρόμιο </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="1486640c-4525-47d4-9339-f1f4d81e4c4f">Charles</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="ec45812c-1af3-41ff-97d2-0a52e8c7d455">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f61bdbc3-bd3a-4e09-9b24-76c4610b3e15">de</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="5285e2ca-dc3f-4c9f-87b3-6a789463eba1">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="20962307-c1a4-4ec5-ba87-36f3e65398fb">Gaulle</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="59998b2b-c225-41fc-b14b-1dddb5685683"> του Παρισιού</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="756a6f9d-83a4-4cf4-82c7-fd628e91d66f">.</span>
+      </font>
+      <font face="Arial" GUID="09c83fec-2324-4292-a545-177b3634f0bd">
+        <span style="LAYOUT-GRID-MODE: line" GUID="bbb6f977-bd20-46eb-9ac4-549fa773be13">Η ημερήσια διάταξη της συνεδρίασης κυκλοφόρησε πριν τη συνεδρίαση.</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="dd805d9d-c82f-442a-8aaf-688c25837691">  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="7b564052-b28e-4987-997c-9cac50a76c19">Η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="9ba194ab-6921-4355-a6a3-bb2a2e72419d">Isabella</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e3b8d282-c68b-4c10-8494-6f07ae172c41">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="afa11baa-4760-495e-a48e-5b8ee693bb71">παρατήρησε ότι η ημερήσια διάταξη έμοιαζε αρκετά αθώα, καθώς η συνεδρίαση θα εξέταζε διάφορα θέματα του κλάδου, ιδίως την άσκηση πιέσεων σε διάφορες Κυβερνήσεις σχετικά με την παραγωγή καπνού και μια νέα κοινοτική νομοθεσία για τη διαφήμιση</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="db76a2c4-2afb-477e-82f4-5661e0adcbf5">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="4754d1f0-2022-4975-a778-0fcd2a6fd808">Ωστόσο, η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="cdadaba5-231f-448d-b625-0ce0b3f89860">Isabella</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="149f6408-d760-4241-89ff-6e1959042741">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="8cc7fd9a-ffb1-4b23-a3a7-e241b193eb9b">είδε ότι στο τέλος της ημερήσιας διάταξης συμπεριλαμβανόταν ένα τμήμα με «Διάφορα Άλλα Θέματα»</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="dbf90929-8340-4e12-8c44-51cbb27dd258">.</span>
+      </font>
+      <font face="Arial" GUID="27cf6bf3-c886-48ec-85d8-ece50bec7b6b">
+        <span style="LAYOUT-GRID-MODE: line" GUID="c8237873-fceb-48ba-bcab-5bd13c2c74a4">Η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="9014d330-226f-4a03-926e-7131ccba9b49">Isabella</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="cbd16ea5-b5b4-46c2-a805-a96118afe85d">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="06ca54ae-d102-4fd5-a56c-7c26ee1105c6">πήγε στη συνεδρίαση</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="7ee61377-4758-419e-9a05-3fd0ff36c7a9">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="3bd692fd-e2a7-4cb8-bd59-5fda773ab115">Σε αυτό που (η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="ffe1d292-b294-4b59-a58a-c1bfbe7fdad1">Isabella</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="3af6ecf5-915f-46be-a1da-5515b9092e16">) θεώρησε ως κλείσιμο της συνεδρίασης, ο Πρόεδρος ανακοίνωσε ότι μια νέα πρωτοβουλία ήταν απαραίτητη, καθώς τα περιθώρια κέρδους στον κλάδο της καπνοβιομηχανίας μειώνονταν και η εισαγωγή του Ευρώ επηρέαζε τις τιμές. </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="cb2ee100-421c-411b-b627-a7abe2c1c69f">  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="05360243-ad88-427b-a32a-57681fcf1fa0">Ο Πρόεδρος πρότεινε να προβούν τα μέλη της εμπορικής ένωσης σε ανεπίσημη συνεννόηση με στόχο «τη διόρθωση της κατάστασης και τη βελτίωση της κερδοφορίας για όλους με διάφορες διορθώσεις των τιμών».</span>
+      </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="9b5e83a6-ed52-4131-a2cb-79a81e9e1fea">
+          <MultiChoiceQA GUID="6b79d3de-163c-4e84-a49f-df948b1f3be7"> <![CDATA[<table border="0" style="position:absolute;bottom:2px;height:400px;" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="bottom">
+      <div>
+        <div class="MultiChoiceQA_Question">
+          <Question GUID="9759bf63-4646-4553-a2b7-0d77d999d9c2">
+            <strong GUID="7f8014b1-8def-4863-b5c6-b43ceeb748eb" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="99ac8d4f-bc7f-4500-8a52-9e8632f5d45d">
+                <span style="LAYOUT-GRID-MODE: line" GUID="996efa6b-a9f4-41b7-8d81-26d694ae9d52">ΤΙ ΘΑ ΠΡΕΠΕΙ ΝΑ ΠΕΙ Η </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="120b5259-af81-42a4-8dd5-b3c54a2d6f96">ISABELLA</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="dda8b7ef-7035-4b01-985e-d067502f22c2">;</span>
+              </font>
+            </strong>
+          </Question>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" style="cursor:hand" name="Q9759bf63-4646-4553-a2b7-0d77d999d9c2" ID="A186b1d02-a822-444f-90c1-408be2e0fd0f" src="/General/Images/InfoPath/CC_OptA.gif" onClick="ShowAnswer('186b1d02-a822-444f-90c1-408be2e0fd0f','false');" onmouseover="this.src=activeOptA;" onmouseout="this.src=optA;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="35c9e8f4-01b3-431e-8fbd-693e31701766">
+                    <span style="LAYOUT-GRID-MODE: line" GUID="6afdd3af-2769-4999-bffa-f403f5b6bb48" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="8c296f01-14f6-41eb-b856-e7196026568b">«Ακούγεται καλή ιδέα - ας θέσουμε το σχέδιο σε εφαρμογή»,</font>
+                    </span>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="186b1d02-a822-444f-90c1-408be2e0fd0f">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="bf160111-2cc4-4e78-8db1-77327e7fd398">
+                    <font face="Arial" GUID="a500b814-bce3-4087-9abd-41257527c7e2" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="aef6bdf2-1400-4bb1-9210-e80da1af3fa4">
+                        <strong GUID="b175587b-dd68-43fb-8713-025118b0aa7f">Λάθος</strong>
+                      </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="77ea0a15-a893-455e-a6e2-5dea69fdb225">.</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="3ed1d429-2589-46c4-93ed-db19cf91dc67">  </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="a396037f-3e50-4104-8ff7-76b217ea1b01">Η συνεννόηση μεταξύ μελών εμπορικής ένωσης  για οτιδήποτε σχετικά με τιμές είναι παράνομη.</span>
+                    </font>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('186b1d02-a822-444f-90c1-408be2e0fd0f');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" style="cursor:hand" name="Q9759bf63-4646-4553-a2b7-0d77d999d9c2" ID="Aee81a8b4-abfb-4b05-a18e-285b86a5a7cf" src="/General/Images/InfoPath/CC_OptB.gif" onClick="ShowAnswer('ee81a8b4-abfb-4b05-a18e-285b86a5a7cf','false');" onmouseover="this.src=activeOptB;" onmouseout="this.src=optB;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="134f0706-43a5-4305-9300-2224fa20fc3f">
+                    <font face="Arial" GUID="7a17b86f-b4c6-433a-891b-2f9fc18ca464" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="ef36df6b-b49a-42af-b2e3-297a1d653813">«Εντάξει, αλλά δεν μπορούμε να καθορίσουμε μια κοινή τιμή.</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="ac01d413-c197-4c17-a2b8-f00157751fb8">  </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="8c4bf12e-8993-46ad-ae52-936e1d4102de">Αυτό είναι παράνομο</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="8ec4b36f-b97a-44e1-984a-1da67fce87e4">.  </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="86e9bd73-af23-457c-a533-cf8727104be6">Ας διαλέξουμε ο καθένας τη δική του τιμή πώλησης στους λιανοπωλητές, η οποία όμως δεν θα είναι κάτω από </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="cfafbd2f-1f0d-494e-9c72-db249a183ec9">50</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="d756c8bc-111b-4a07-97c3-ea0a759eaff0"> ευρώ το πακέτο των </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="16e6102b-8ef9-4e79-9a92-52257cb664e6">20</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="74c7ba58-bb2e-4872-bcf7-71a279227c70"> τσιγάρων»,</span>
+                    </font>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="ee81a8b4-abfb-4b05-a18e-285b86a5a7cf">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="bc52762e-3084-46bf-ba9b-2aed72442616">
+                    <font face="Arial" GUID="c14aedc6-1756-4336-bbf9-384468ba47d7" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="d0de1fa5-1d1b-473f-8f21-36966ed6afc7">
+                        <strong GUID="08b6e810-f217-4fe5-90d4-4587298d2015">Λάθος</strong>
+                      </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="45f4ac63-5629-47b8-b750-cd1930894874">.</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="3bcdab68-87d5-4407-ac11-9ad382083b37">  </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="73e56a18-c0a8-4734-a353-646f8c2074b1">Η συνεννόηση μεταξύ μελών εμπορικής ένωσης για οτιδήποτε σχετικά με τιμές, συμπεριλαμβανομένης μιας συμφωνημένης ελάχιστης τιμής, είναι παράνομη.</span>
+                    </font>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('ee81a8b4-abfb-4b05-a18e-285b86a5a7cf');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" style="cursor:hand" name="Q9759bf63-4646-4553-a2b7-0d77d999d9c2" ID="A883cee72-c725-4df5-931d-ddfe78b9b1e3" src="/General/Images/InfoPath/CC_OptC.gif" onClick="ShowAnswer('883cee72-c725-4df5-931d-ddfe78b9b1e3','true');" onmouseover="this.src=activeOptC;" onmouseout="this.src=optC;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="300b9397-05eb-4599-a460-0142e7a4855f">
+                    <span style="LAYOUT-GRID-MODE: line" GUID="e9895592-cbe0-4e23-8742-dc8736d1888c" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="9dcfda63-9112-40af-8d0c-7c52a6b5bedf">«Όχι, αυτό είναι καθορισμός κοινών τιμών - είναι παράνομο και εγώ αποχωρώ»,</font>
+                    </span>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="883cee72-c725-4df5-931d-ddfe78b9b1e3">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="6aa7f26c-dcb7-43e4-b0d4-2577aed7c7e7">
+                    <font face="Arial" GUID="52774ffe-d491-4be5-bffa-adfb1ab5bc46" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="ee111911-9768-41bf-b74c-2c4f130496d1">Είστε <strong GUID="add057c9-ddab-4072-b94e-9d2334911e5b">σωστοί</strong>, αν και η επιλογή </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="fd5b8a10-b379-46f1-8bdf-ae51e6d789d1">(</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="aaa526d3-7919-4771-9ac8-29bd87593a0d">δ</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="87f0cb6f-bc27-4327-bfb2-bd0a3d066961">) </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="458069d5-9b06-48f9-a355-47a7636c7d64">αποτελεί ακόμα καλύτερη προσέγγιση της κατάστασης.</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="ae54c8f0-5805-4b46-9484-d59744169492">  </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="997243a2-e317-41ea-bdde-cb50fa63a391">Θα πρέπει πάντα να εξασφαλίζετε την καταχώρηση της ένστασης και αποχώρησής σας στα πρακτικά της συνεδρίασης.</span>
+                    </font>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('883cee72-c725-4df5-931d-ddfe78b9b1e3');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" name="Q9759bf63-4646-4553-a2b7-0d77d999d9c2" style="cursor:hand" ID="A6b84c850-be75-4147-8e97-04fbdd24252a" src="/General/Images/InfoPath/CC_OptD.gif" onClick="ShowAnswer('6b84c850-be75-4147-8e97-04fbdd24252a','true');" onmouseover="this.src=activeOptD;" onmouseout="this.src=optD;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="0d737594-6289-4ad3-894a-a28ab2edde71">
+                    <font face="Arial" GUID="54e30c3d-c83c-49ae-8dae-56d40fd64362" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="14fabd80-a93c-4e20-8d9d-e6f3b54a97dd">«Ας μην κάνουμε αυτήν την κουβέντα, δεν θέλω να συζητήσω τιμές.</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="3e9438bf-35d1-44ed-9ad5-64f7ff8f683d">  </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="9004c327-61b8-41cf-905f-e2f139bf0973">Εάν επιμένετε να συνεχίσετε τη συζήτηση, εγώ θα αποχωρήσω από τη συνεδρίαση και θέλω να σημειωθεί η αποχώρησή μου και οι λόγοι για αυτήν», </span>
+                    </font>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="6b84c850-be75-4147-8e97-04fbdd24252a">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="ddb3ccee-8343-45c5-850f-a2c8c0d0a49b">
+                    <font face="Arial" GUID="8ebd34f4-39ab-423c-a126-9a7f885ebd31" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="52afb829-c7a7-42be-b10d-36719eebbe7a">Είστε <strong GUID="f8a4d4e1-24c1-4013-9f81-87f43b555a19">σωστοί</strong></span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="232c74f8-2082-429e-a2ba-c0a401203efa">. </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="aa60dbc7-ccde-46e3-a8cf-7d8dccf3342f">Η καλύτερη στάση είναι να σταματήσετε τη συζήτηση, να αποχωρήσετε εάν συνεχιστεί και να βεβαιωθείτε ότι η ένσταση και η επακόλουθη αποχώρησή σας καταχωρούνται στα πρακτικά.</span>
+                    </font>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('6b84c850-be75-4147-8e97-04fbdd24252a');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" name="Q9759bf63-4646-4553-a2b7-0d77d999d9c2" style="cursor:hand" ID="A83f35bba-1271-4b22-a67f-ce8bdefa5438" src="/General/Images/InfoPath/CC_OptE.gif" onClick="ShowAnswer('83f35bba-1271-4b22-a67f-ce8bdefa5438','false');" onmouseover="this.src=activeOptE;" onmouseout="this.src=optE;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="ea7a85ad-c1fe-4a7f-a346-a9319eb656d6">
+                    <font face="Arial" GUID="cf689b50-7caa-4c8b-955c-321fc23fff56" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="3c5f0784-24ae-41cf-9d48-dafe16dfe5d1">«Εντάξει, εφόσον ορίσουμε την τιμή στα </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="bffad981-6ada-4927-bd2b-ad6536b66e14">50</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="fee32870-1d83-4eaa-a3c3-a38f638233bb"> ευρώ και διαρκέσει έξι μήνες». </span>
+                    </font>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="83f35bba-1271-4b22-a67f-ce8bdefa5438">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="a7ab8307-0e9a-441a-8e57-c7364f9efb8a">
+                    <font face="Arial" GUID="4c05f6e4-6740-48d9-8f75-622bafae8abe" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="acfcc298-e1ed-4e53-8098-612bb0ac5101">
+                        <strong GUID="2472463f-c20a-4785-86d3-f90a47ad69a6">Λάθος</strong>
+                      </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="1195504d-8928-46a0-85d6-aab1f1515b88">.</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="1262cd16-0c77-4e62-921a-210700304321">  </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="05b0d6b9-a5c4-4447-8a99-da2e01c0a17b">Αυτό είναι καθορισμός τιμών αν και προσωρινός.</span>
+                    </font>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('83f35bba-1271-4b22-a67f-ce8bdefa5438');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>]]></MultiChoiceQA>
+        </PageElement>
+        <PageElement GUID="c6c6bb22-2ee1-42fe-8ab0-5ddab895c1d7">
+          <ExtraInfo GUID="d7f4336e-bc8e-4f0a-a777-16267b0b39c1"> <![CDATA[<div class="ExtraInfo_Main">
+  <table cellpadding="0" cellspacing="0" border="0" class="ExtraInfoExtraVisible">
+    <tr>
+      <td width="2%" class="" style="padding-left:5px;cursor:hand;">
+        <img class="" src="/General/Images/InfoPath/CC_Example.gif" name="EX_&quot;ecc5147a-e3a9-459c-b029-79ae9affc98d" ID="EX_ecc5147a-e3a9-459c-b029-79ae9affc98d" onClick="TogglePopup('ecc5147a-e3a9-459c-b029-79ae9affc98d');" onmouseover="this.src=activeExample;" onmouseout="this.src=Example;">
+      </td>
+      <td class="" align="left" style="padding-left:5px;vertical-align:top;">
+        <div class="">Υποδείξεις και Συμβουλές</div>
+      </td>
+    </tr>
+  </table>
+  <div ID="Content_ecc5147a-e3a9-459c-b029-79ae9affc98d" class="ExtraInfo_Hide">
+    <table>
+      <tr>
+        <td class="TextGraphic_Description">
+          <Description GUID="220c5226-acae-4c2b-9b9b-7e722c414d6c">
+            <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 5pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="justify" GUID="e4e42eb3-68f7-42c8-8944-084c6fddd757" xmlns="http://www.w3.org/1999/xhtml">
+              <strong GUID="390d650c-195a-4ad4-a201-62a582fa3f70">
+                <font face="Arial" GUID="6388318e-1d6f-4e85-ba8f-f5a32003e957">Υποδείξεις και Συμβουλές</font>
+              </strong>
+            </div>
+            <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 5pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="justify" GUID="8746cd99-b4a4-41bd-a4cf-9a455bcb6ff0" xmlns="http://www.w3.org/1999/xhtml">
+              <font style="FONT-SIZE: 11pt" face="Arial" GUID="f4945f0b-cd54-4391-962f-1c03c443e561">
+                <font size="2" GUID="9efc7fde-0090-4f4d-addd-e61b26388908">
+                  <span style="LAYOUT-GRID-MODE: line" GUID="358337d0-5f50-4aa9-827c-3a29d28a474e">Βεβαιωθείτε ότι στις συνεδριάσεις εμπορικών ενώσεων στις οποίες παραβρίσκεστε συζητούνται μόνο νόμιμα θέματα</span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="b6a15b48-a56b-4229-9b5b-097b82d950f0"> .... </span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="89adb3b0-8c04-4971-9179-1f8d7e0a5cac">και εάν όχι, αντιδράστε</span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="27e8be2e-687e-4667-8975-18513d6b231e">!  </span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="31642d13-64b2-4cab-952d-68e67e10a217">Εάν η ένστασή σας αγνοηθεί, αποχωρήστε</span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="1afec9f0-2a6b-4eb2-a5ce-f369da78ecd6">!  </span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="bc480482-c540-403d-b3ed-62177a1719a2">Σε κάθε περίπτωση, βεβαιωθείτε ότι οι ενέργειές σας καταχωρούνται στα πρακτικά.</span>
+                </font>
+              </font>
+            </div>
+          </Description>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img class="" style="position:absolute;left:488px;top:368px;;cursor:hand;" src="/General/Images/InfoPath/CC_Close.gif" onClick="TogglePopup('ecc5147a-e3a9-459c-b029-79ae9affc98d');" onmouseover="this.src=activeCloseImg;" onmouseout="this.src=closeImg;">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="b75156a4-f728-4611-9e53-f368bd18e157">
+          <MeetThePlayer ID="Player1" GUID="5addf051-9d75-43fa-a52f-e8bcc38cd4f1"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/a3a694b8-a43a-4cce-a1ed-24e8386bbb61.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">Ευρωπαϊκή Ένωση Καπνού</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="2c23a5f4-6118-4c40-bf42-f28a44832c47">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="76f4191a-2720-4fa4-8144-dedd9c32b0e9" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="d4f64314-2838-4166-8f43-f9fdd70d16c6">Η<strong GUID="83343407-96c6-45e0-b3b1-d4fe45ba2101"> Ευρωπαϊκή Ένωση Καπνού </strong>είναι μια εμπορική ένωση που συγκεντρώνει τους ευρωπαίους καπνοβιομηχάνους.  Η Isabella εκπροσωπεί την εταιρεία της σε συνεδριάσεις της ένωσης .</font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+        <PageElement GUID="4aeb3011-d54f-451a-9ea5-622255024f34">
+          <MeetThePlayer ID="Player2" GUID="6f30444e-6b5d-43bf-86f2-2e069de9a37a"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/00f265b4-dc69-4d32-911a-f87a4c1a5dde.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">Isabella Sabatino</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="2b31b3c3-c813-41a9-910c-8090f050c92e">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="6aa82941-8bd8-4bb8-9075-cdf1b4d2efb2" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="2c9b5ba9-eddc-43c9-b313-cf15c1a6dc6f">Η<strong GUID="2350af08-03c4-4856-82a6-fce39dbc7fca"></strong><strong GUID="9176021d-e5e5-4b30-83dd-12937aaa880c">Isabella Sabatino</strong> είναι διευθύντρια πωλήσεων για μεγάλη καπνοβιομηχανία. </font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+        <PageElement GUID="e1eaed92-a6aa-4305-ba07-88b06de6c073">
+          <MeetThePlayer ID="Player3" GUID="d972a573-ebae-4eb5-9ec5-7e7e53b1abd8"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/3b5f1077-b202-4682-8105-cac4fe3cca97.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">John Cook</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="b8791d9a-054a-4980-94c5-b0e36375453b">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="e8a1af7e-e684-4002-bd09-d427fcfbf93e" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="c5427dc5-3e27-423c-ab3b-198fec23304b">Ο<strong GUID="752af3ef-1c35-4afa-a791-2a4ed62e9f8f"></strong><strong GUID="e4250b02-382d-435a-a1f2-46d5bd360b43">John </strong><strong GUID="9345201e-72d8-4363-8e58-28e55d275e48">Cook</strong> δουλεύει για την Isabella.</font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page12" IsActive="true" GUID="bb72ca3b-f54c-42ea-bc1e-810141bb241c">
+      <IncludedInTOC GUID="3e1912a8-ecf0-4124-b793-5d28f1b7e039">true</IncludedInTOC>
+      <Title GUID="2a46d857-3332-414b-bba6-4c4524f98077">Σενάριο 2</Title>
+      <PageElements GUID="6591843a-271d-4195-84cc-7424efb1194e">
+        <PageElement GUID="3aaa8360-984b-497f-9940-500cf58f0891">
+          <TextBox GUID="062f41d7-7ee6-48da-b153-60bf26fead40"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="6db6d074-6856-405b-8ce2-ea5979aea73a">
+    <div GUID="4052b144-8a80-466f-966f-9c26acc4900b" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="604eb3ef-5409-4d34-9977-229686b607a3">
+        <span style="LAYOUT-GRID-MODE: line" GUID="87393a9b-2933-4583-a231-86bfb053c489">Μετά την παραίτησή της από την Ευρωπαϊκή Ένωση Καπνού, η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="a8d63441-0c62-41db-a99f-756d13c64c97">Isabella</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="6b1f0b0f-e6e5-4bd0-a00b-bed803c46f1e">, </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="def123d6-0423-40e3-93ad-c577dd7113d9">με την έγκριση του Διευθύνοντος Συμβούλου της, αποφασίζει να προσεγγίσει νέα εμπορική ένωση με σκοπό την εγγραφή της εταιρείας της σε αυτήν.</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="bad96730-090b-446f-bd65-0586f361974d">  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f236b8a5-d1da-4487-aa1b-f689df085f44">Τα μέλη της ένωσης αντιπροσωπεύουν συνολικά το μεγαλύτερο μέρος της σχετικής αγοράς, αλλά τα μεμονωμένα μερίδια αγοράς τους είναι χαμηλά.</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="03216e99-178b-4419-9eaa-83e30d64a091">  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="d7484eae-910a-4f6a-aadc-04b962638833">Η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="90eb2dfe-5e55-439a-a300-3f3bd89e4644">Isabella</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="c93eddda-65b2-44c5-9ef2-15f5b6ebc3d3"> ζητά από τον </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="2bf769fd-0658-4a53-8921-a08813213d7e">John</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="a5d4df6e-51f2-4238-9d04-2219a51fe2d5">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="755c22ff-bbb7-4d00-bfbd-f92f3ae3bf06">να μελετήσει τις δραστηριότητες της νέας ένωσης και να της αναφέρει τυχόν στοιχεία που περιορίζουν τον ανταγωνισμό.</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="636e9d93-99ae-4b26-8eb7-5d158b605806">  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="0b087dc9-c573-4f5c-b663-581eff8b02bf">Η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="7a14f73f-eaa0-46e9-9edd-94aa6d7546af">Isabella </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="902310a2-d3d4-405e-95ad-3fb39f0c50ff">μαθαίνει ότι</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="207c3e0f-0e27-4c4a-8ef4-4d4cbed49f2c">:</span>
+      </font>
+    </div>
+    <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" GUID="243ea4a4-a75b-45fb-a42f-cd366e2ea8f9" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="42b49b62-0a70-48b4-a6b4-7630ea48794d">
+        <font face="Arial" GUID="9fbedefe-acd6-4190-8a0d-9913d28d1a53">
+          <span style="LAYOUT-GRID-MODE: line" GUID="c0164455-6d40-4219-9357-8e1732bad91f">
+          </span>
+          <span style="LAYOUT-GRID-MODE: line" GUID="2d67f822-cecf-4a19-b090-1d6575d838db">η ένωση πραγματοποιεί ανταλλαγή στατιστικών πληροφοριών με συγκεντρωτικά δεδομένα, για τα οποία η </span>
+          <span style="LAYOUT-GRID-MODE: line" GUID="fc57367f-7c53-41e8-8014-62598e82a0ca">Isabella</span>
+          <span style="LAYOUT-GRID-MODE: line" GUID="20444a14-d7f8-47dc-af90-61a6d6a8bddb">
+          </span>
+          <span style="LAYOUT-GRID-MODE: line" GUID="75c18aef-d3d0-479b-969b-8e836fc7d22a">λαμβάνει διαβεβαιώσεις ότι δεν επιτρέπουν την αναγνώριση μεμονωμένων επιχειρήσεων,</span>
+        </font>
+      </li>
+      <li GUID="6ba0092a-2783-4f0b-86f5-fdbb752340ec">
+        <span style="LAYOUT-GRID-MODE: line" GUID="ea33622e-1019-42c1-8eb2-aed695551be2">
+          <font face="Arial" GUID="9ca6481b-319a-4b04-99a1-14f81f0f7d31">τα μέλη της ένωσης υποχρεούνται να αγοράζουν όλες τις προμήθειές τους σε φύλλο καπνού μέσω προϋπάρχουσας συμφωνίας με καθορισμένο καπνέμπορο, και </font>
+        </span>
+      </li>
+      <li GUID="f47942f4-8293-4c6d-85c1-8be0e148feae">
+        <font face="Arial" GUID="fae57fd0-a287-49a4-a52a-7c2025fb6c2d">
+          <span style="LAYOUT-GRID-MODE: line" GUID="09382b85-283d-484f-8097-6f977d45e6aa">τα μέλη συζητούν και συμφωνούν κοινές θέσεις για θέματα υγείας και ασφάλειας και για την άσκηση πιέσεων στην κυβέρνηση</span>
+          <span style="LAYOUT-GRID-MODE: line" GUID="307d9a70-1a48-4b34-998d-363f145833e0">.</span>
+        </font>
+      </li>
+    </ol>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="4300252f-2e3f-4a04-8816-c99dcd531815">
+          <MultiChoiceQA GUID="f3319126-e141-4364-9c14-6f0ad02d244f"> <![CDATA[<table border="0" style="position:absolute;bottom:2px;height:400px;" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="bottom">
+      <div>
+        <div class="MultiChoiceQA_Question">
+          <Question GUID="523401c1-a448-41f9-bc8f-632f536609ca">
+            <strong GUID="750eee26-67bd-4932-b834-8e1ad185ecd6" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="020227ac-7701-44eb-85d0-03ddd2880861">
+                <span style="LAYOUT-GRID-MODE: line" GUID="301ebe60-b5cd-4e23-8c5a-b0ab49842ba9">ΠΟΙΑ ΑΠΟ ΑΥΤΕΣ ΤΙΣ ΔΡΑΣΤΗΡΙΟΤΗΤΕΣ ΛΕΕΙ Η </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="2fc83104-cb04-4192-9658-41cbae3e6e20">ISABELLA</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="07339836-eb81-46ee-8762-42c9f6992554">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="75e033fc-e085-4d32-a43d-808cf14a37bf">ΣΤΟΝ ΠΡΟΪΣΤΑΜΕΝΟ ΤΗΣ ΟΤΙ ΠΕΡΙΟΡΙΖΕΙ ΤΟΝ ΑΝΤΑΓΩΝΙΣΜΟ;</span>
+              </font>
+            </strong>
+          </Question>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" style="cursor:hand" name="Q523401c1-a448-41f9-bc8f-632f536609ca" ID="A8ef03384-063c-4b8f-82ad-9ef6c00d7b2f" src="/General/Images/InfoPath/CC_OptA.gif" onClick="ShowAnswer('8ef03384-063c-4b8f-82ad-9ef6c00d7b2f','false');" onmouseover="this.src=activeOptA;" onmouseout="this.src=optA;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="a57cd5f8-b1d8-45dc-9783-948c953a6da3">
+                    <font face="Arial" GUID="97da8d51-96fb-41c1-a563-ee8f210a3332" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="646606f3-8434-45ee-9c72-5e06cbdd7c7d">Όλες οι δραστηριότητες της ένωσης περιορίζουν τον ανταγωνισμό και η </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="63a51c67-a4aa-491a-9f7e-3cf29b4654af">Isabella </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="93f54bda-d918-486b-9d7b-7d22469acfaa">συνιστά να μην εγγραφεί η εταιρεία τους.</span>
+                    </font>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="8ef03384-063c-4b8f-82ad-9ef6c00d7b2f">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="22e2069e-8608-470a-8b99-ccb633394a97">
+                    <font face="Arial" GUID="12ed7a64-63ec-4253-92e7-65438e07b8b0" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="ffc0879e-8533-4a33-85e2-008cc2010f86">
+                        <strong GUID="8382743b-9251-4663-ad16-565a85c88b40">Λάθος</strong>
+                      </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="d1c70220-ef4a-4391-b4ef-9ad6d7eb25ba">.</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="0d6a04c6-7616-4861-adb6-3329f6de3640">  </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="dabefdac-6c55-430c-ac53-d6aa6a811cf9">Ορισμένες από τις δραστηριότητες της ένωσης είναι απολύτως νόμιμες, δηλαδή η </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="5b3598a0-a396-4c8d-bd73-c7c784082d10">(1) </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="6645c389-6f06-4670-93ed-5797b40bc271">και η</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="838ce14f-6195-4c1e-99b6-6a77fa0a524a"> (3).</span>
+                    </font>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('8ef03384-063c-4b8f-82ad-9ef6c00d7b2f');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" style="cursor:hand" name="Q523401c1-a448-41f9-bc8f-632f536609ca" ID="Ab921f3b6-dec7-4b9a-9021-72b37c7579ab" src="/General/Images/InfoPath/CC_OptB.gif" onClick="ShowAnswer('b921f3b6-dec7-4b9a-9021-72b37c7579ab','false');" onmouseover="this.src=activeOptB;" onmouseout="this.src=optB;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="049edd0a-d063-4487-849a-40330afe4c8c">
+                    <font face="Arial" GUID="2115c466-cb64-4181-b492-3b728e4d6a1d" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="f5b8a0b5-12e4-4fb5-8336-30f5e08d9174">Καμία από αυτές</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="5b2ceaab-313b-4363-ab26-554c74c74473">.</span>
+                    </font>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="b921f3b6-dec7-4b9a-9021-72b37c7579ab">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="4975a243-dd63-44e7-a812-4b4ad2e10d38">
+                    <font face="Arial" GUID="dbb7fe67-6235-4d66-a344-2330e1fd2aae" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="1c3daef4-5290-48e6-b78f-85990cc3689c">
+                        <strong GUID="5f24409f-748d-426d-b6d9-d0fdc4e316b1">Λάθος</strong>
+                      </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="5e84f288-c84f-4a40-8420-9ac7fcb69925">.</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="ed462d62-d3ee-48f1-bbb9-ae6d3c6ea6c7">  </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="5fa10bb5-8858-4670-b7c5-0debf0bb05a3">Βλέπε σχόλιο στην απάντηση </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="e192d952-5bc2-433e-bd78-56e7ba404030">(</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="ca88d382-a7d3-42c8-83c7-35b43a79945b">δ</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="0f095e19-5788-4085-b470-44b00603ea19">): </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="e56ee3a8-b24d-4208-9c31-48df0e430798">η δραστηριότητα</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="2e709a3e-0ece-4052-8ac0-ab4a2e7c7338"> (2) </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="a8cb0252-1cf4-4c93-a6bc-9be1f4d9f011">μπορεί να συνιστά συμφωνία προμήθειας από κοινού που περιορίζει τον ανταγωνισμό.</span>
+                    </font>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('b921f3b6-dec7-4b9a-9021-72b37c7579ab');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" style="cursor:hand" name="Q523401c1-a448-41f9-bc8f-632f536609ca" ID="A6397cf62-6cd7-478a-863d-d411e76dd4f7" src="/General/Images/InfoPath/CC_OptC.gif" onClick="ShowAnswer('6397cf62-6cd7-478a-863d-d411e76dd4f7','false');" onmouseover="this.src=activeOptC;" onmouseout="this.src=optC;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="cd040fe3-8818-42ab-b29e-a0d81ebe566d">
+                    <span style="FONT-SIZE: 11pt; LAYOUT-GRID-MODE: line" GUID="73b75c68-8f4b-4ee4-9744-16113bbd2647" xmlns="http://www.w3.org/1999/xhtml">(1)</span>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="6397cf62-6cd7-478a-863d-d411e76dd4f7">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="3f92bbfa-9cfd-4111-9449-de23cd74d1c6">
+                    <font face="Arial" GUID="3d54c631-d6cb-42cf-99ca-c8e515ef17a7" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="82304956-aebb-4be0-bd56-2cc05182e048">
+                        <strong GUID="2304cd9a-6a0e-4e87-aad8-62fe4deae707">Λάθος</strong>
+                      </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="5ff84c6b-3af6-4125-a2e6-6b3ba2d8bc9d">.</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="36765f78-e31a-45a0-8ddd-4d1942f4fefc">  </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="45ee604d-9743-489d-959e-1bc0c0a3b758">Βλέπε σχόλιο στην απάντηση </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="445cb5bd-ffab-445b-aab4-cc6355a4dc22">(</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="d6d23c31-aaba-4a55-b2bf-671ab9924612">δ</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="d8973515-7a89-41ef-95bf-6e9afc1a8fc6">): </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="91597894-286d-4650-b4bc-fae76d9d79de">η συλλογή και η διάδοση συγκεντρωτικών ανώνυμων στατιστικών στοιχείων που δεν επιτρέπουν την αναγνώριση της θέσης μεμονωμένων μελών επιτρέπεται σύμφωνα με το Δίκαιο Ανταγωνισμού</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="1d98b03d-0473-4710-830f-770e42ecb385">.</span>
+                    </font>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('6397cf62-6cd7-478a-863d-d411e76dd4f7');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" name="Q523401c1-a448-41f9-bc8f-632f536609ca" style="cursor:hand" ID="A195acdeb-d8e6-4896-b823-440ee093bb5d" src="/General/Images/InfoPath/CC_OptD.gif" onClick="ShowAnswer('195acdeb-d8e6-4896-b823-440ee093bb5d','true');" onmouseover="this.src=activeOptD;" onmouseout="this.src=optD;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="09a26ff7-2f24-4b93-872b-5fe2cbf82739">
+                    <span style="FONT-SIZE: 11pt; LAYOUT-GRID-MODE: line" GUID="8e709973-5478-4026-8d76-dcf41c0136ef" xmlns="http://www.w3.org/1999/xhtml">(2)</span>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="195acdeb-d8e6-4896-b823-440ee093bb5d">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="6deb9f47-7f6c-418e-83f1-2f5287e4cde5">
+                    <font face="Arial" GUID="772a0d9a-b47a-4500-bfbb-b49edbe9847a" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="d4bb52bf-bdcd-4d2a-8b87-e8c7ff4f27f2">
+                        <strong GUID="5a95fe06-00cb-40ca-9370-332a4151ef30">Σωστό</strong>
+                      </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="10dc54d2-6b5d-4131-bd44-02f4c5b1960c">.  </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="f74d536c-428e-40ba-b589-0b109577afa0">Αυτό είναι ένα παράδειγμα συλλογικής συμφωνίας αποκλειστικής προμήθειας, η οποία περιορίζει την ικανότητα κάθε μέλους να εξασφαλίζει ξεχωριστά φθηνότερες προμήθειες καπνού. </span>
+                    </font>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('195acdeb-d8e6-4896-b823-440ee093bb5d');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" name="Q523401c1-a448-41f9-bc8f-632f536609ca" style="cursor:hand" ID="A5d55bfe9-f04d-4180-9d43-2fa070f9305d" src="/General/Images/InfoPath/CC_OptE.gif" onClick="ShowAnswer('5d55bfe9-f04d-4180-9d43-2fa070f9305d','false');" onmouseover="this.src=activeOptE;" onmouseout="this.src=optE;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="2c61c26c-e747-4bfc-9637-f9aa2700b434">
+                    <span style="FONT-SIZE: 11pt; LAYOUT-GRID-MODE: line" GUID="6aab411b-3fb9-43fe-bd8f-82e0cf310d3f" xmlns="http://www.w3.org/1999/xhtml">(3)</span>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="5d55bfe9-f04d-4180-9d43-2fa070f9305d">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="33b1d3cd-b21f-44e6-adbc-2a5a05d8f65d">
+                    <font face="Arial" GUID="a4f56304-2eb0-40ae-9a5f-1aa3283b38ec" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="09c0d46e-fa5a-40cc-9e45-94bb36fdb7b9">
+                        <strong GUID="08ec1db6-99f5-44a6-87e8-fd98bd4060d5">Λάθος</strong>
+                      </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="9250341e-9525-4f51-b264-2a20b7c4e84e">.</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="3674c6d4-3b8c-4525-a46b-f2a8a631d4b3">  </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="ce93bb80-d816-4385-9670-c431b3fc0391">Βλέπε σχόλιο στην απάντηση </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="72b48d45-aa5d-4b84-8f70-ab2434833485">(</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="b3953bdd-64fc-41cf-8589-e63ba8765272">δ</span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="8862cb11-5117-44d0-8782-07ce5675f018">). </span>
+                      <span style="LAYOUT-GRID-MODE: line" GUID="4bf7ed67-ca22-4e51-9c0b-c5ca3e7e6808">Η συζήτηση και η διαμόρφωση ενιαίας θέσης του κλάδου σχετικά με τις επιπτώσεις της νομοθεσίας για την υγεία και την ασφάλεια στον κλάδο αποτελεί νόμιμη δραστηριότητα εμπορικής ένωσης.</span>
+                    </font>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('5d55bfe9-f04d-4180-9d43-2fa070f9305d');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>]]></MultiChoiceQA>
+        </PageElement>
+        <PageElement GUID="c40df04e-c3a9-4075-814f-d7eb03e5d6f1">
+          <MeetThePlayer ID="Player2" GUID="77030e9b-38f8-40eb-8f87-3680fc0c8966"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/00f265b4-dc69-4d32-911a-f87a4c1a5dde.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">Isabella Sabatino</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="2b31b3c3-c813-41a9-910c-8090f050c92e">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="6aa82941-8bd8-4bb8-9075-cdf1b4d2efb2" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="2c9b5ba9-eddc-43c9-b313-cf15c1a6dc6f">Η<strong GUID="2350af08-03c4-4856-82a6-fce39dbc7fca"></strong><strong GUID="9176021d-e5e5-4b30-83dd-12937aaa880c">Isabella Sabatino</strong> είναι διευθύντρια πωλήσεων για μεγάλη καπνοβιομηχανία. </font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+        <PageElement GUID="b492089d-bc25-4ca6-90e2-5a0fb7fa6c3b">
+          <MeetThePlayer ID="Player3" GUID="39200f4d-259e-4e13-82b8-11ab3a63fab5"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/3b5f1077-b202-4682-8105-cac4fe3cca97.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">John Cook</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="b8791d9a-054a-4980-94c5-b0e36375453b">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="e8a1af7e-e684-4002-bd09-d427fcfbf93e" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="c5427dc5-3e27-423c-ab3b-198fec23304b">Ο<strong GUID="752af3ef-1c35-4afa-a791-2a4ed62e9f8f"></strong><strong GUID="e4250b02-382d-435a-a1f2-46d5bd360b43">John </strong><strong GUID="9345201e-72d8-4363-8e58-28e55d275e48">Cook</strong> δουλεύει για την Isabella.</font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page13" IsActive="true" GUID="d5430178-75dc-49ca-82dc-d4d0a9849911">
+      <IncludedInTOC GUID="0c8101d9-3079-4ba7-bb3d-c7359d58477a">true</IncludedInTOC>
+      <Title GUID="35950103-9f77-473b-9736-8567c30d5ac5">Συμβουλές για να διατηρείτε την εμπορική σας ένωση (σύλλογο) και άλλες επαφές με ανταγωνιστές νόμιμες</Title>
+      <PageElements GUID="683b2149-448d-4764-bd35-e118cfd3647e">
+        <PageElement GUID="bd0daf38-b530-4002-9044-8984f170f8bf">
+          <Graphic GUID="080f52aa-d4c9-47ab-890e-e19c95aa27fc"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/c5338887-b8a7-4e59-bebd-b646d3fd0c93.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="84f61ec5-c630-428e-98a4-621ea991af67">
+          <TextBox GUID="b265a941-7a84-46c4-99e7-fb48531d86b5"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="9c6a26d9-edd8-4724-bf71-4d28d4c864e5">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 11pt; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="6d00da03-28d0-44b9-8eb8-b47b76ae6513" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="d93ce63a-ae30-487d-b6da-93827a620adc">
+        <strong GUID="5cbc36db-0474-49bd-8808-faee5dd9bdcb">
+          <font face="Times New Roman" GUID="e9eec0bf-50f7-4e9b-8004-37398d7e00cf">Τι πρέπει να κάνετε</font>
+        </strong>
+      </i>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="4f903186-9468-41bd-a2b0-e352d13638bb" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="3e10feae-9d35-4e15-8086-3b47dfaf1f01">
+        <div align="left" GUID="491d73c7-e53e-47bf-88e1-121d54380d0f">
+          <font face="Arial" GUID="f09fc1f4-ec5d-4a0a-b374-4b78f8aabcbd">Εγγραφείτε σε εμπορική ένωση (εάν αισθάνεστε ότι υπάρχει νόμιμο όφελος για την Imperial και αφού έχετε ελέγξει τους κανόνες εγγραφής μέλους και αναζητήσει νομικές συμβουλές σε περίπτωση αμφιβολίας), αλλά αποχωρήστε εάν παύετε να είστε ενεργό μέλος, διαφορετικά μπορεί να εμπλακείτε ακούσια σε παράνομες δραστηριότητες, </font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="7a311da7-5e1c-4174-b28c-cd245b62de2f" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="499814f7-dfdc-4107-b8a1-de4c680741a6">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c336ba87-f1a1-46fb-aa8c-dc102a7216b6" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="1a3b2552-9e6c-46cb-8eb6-5811efcb8853">
+        <div align="left" GUID="aaf05c53-17f5-4913-b706-96323f6e1a89">
+          <font face="Arial" GUID="02e32463-26f8-414b-9f47-e851a3f37d46">Διατηρείτε την επικοινωνία με ανταγωνιστές σας στο ελάχιστο,</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="284da7ac-87ac-493c-ba4f-048ee417622a" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="d8a112ec-7ded-486a-9f7a-af9b31272234">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="3d9f5b2a-bf70-4f69-88bf-40fb010246d6" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="03db0260-d66b-4215-b6c7-557f320314c9">
+        <div align="left" GUID="61cea96f-ed8a-4535-bed5-257dff7737f6">
+          <font face="Arial" GUID="66f0bfd2-5f88-4952-b1c9-52da792f00aa">Βεβαιωθείτε ότι καμία απόδειξη επαφής με ανταγωνιστές σας δεν μπορεί να παρερμηνευθεί,,</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="b9b3adc8-8ff6-48a5-9e2d-b43f488df98a" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="aa6f0be5-b372-4268-8b4a-15c815ad0d69">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="3866afcd-13ac-4d29-a4f4-d0b59d9d2252" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="e0c60f0d-3987-4e7f-b1bf-b50d0d3ce4c4">
+        <div align="left" GUID="ffea184c-7d99-4052-a15a-d2e5c6d423c2">
+          <font face="Arial" GUID="6fae3bee-9918-411d-9d67-98a42c52e541">Επιμένετε να υπάρχει ημερήσια διάταξη για κάθε συνεδρίαση εμπορικής ένωσης με ανταγωνιστές, η οποία θα κυκλοφορεί και θα αξιολογείται εκ των προτέρων, και να μην συμπεριλαμβάνεται κανένα ακατάλληλο θέμα στην ημερήσια διάταξη.   Αντιδράστε εάν δείτε στην ημερήσια διάταξη κάποιο θέμα που πιθανόν περιορίζει τον ανταγωνισμό, αποχωρήστε από τη συνεδρίαση και βεβαιωθείτε ότι η αποχώρησή σας καταχωρήθηκε στα πρακτικά της συνεδρίασης, και</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="dbfe5dcb-836b-4b7d-8144-278e9ca936d9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="171191a6-130b-41d3-83f0-7af136667699" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="87c193ff-c08b-490a-b83e-a735e8214976">
+        <div align="left" GUID="7bf9803d-27ed-41df-b666-dd29e0321f4e">
+          <font face="Arial" GUID="5c584946-a577-4796-ad35-4ddd69304f84">Αποφεύγετε να χρησιμοποιείτε ύποπτο λεξιλόγιο (π.χ. «παρακαλώ καταστρέψτε/διαγράψτε μετά την ανάγνωση»).</font>
+        </div>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page14" IsActive="true" GUID="6a102fb1-cd2e-4b1f-95f4-bd10001d1268">
+      <IncludedInTOC GUID="dcd1aea2-4e5e-4a9d-9664-30bc634c0446">true</IncludedInTOC>
+      <Title GUID="40251238-4a9a-4bd1-9e08-22843a93c75e">Συμβουλές για να διατηρείτε την εμπορική σας ένωση (σύλλογο) και άλλες επαφές με ανταγωνιστές νόμιμες (συνέχεια)</Title>
+      <PageElements GUID="a2f29063-5bef-49df-87a2-f8da77c50a1f">
+        <PageElement GUID="40c448c2-39ad-430b-849c-afebd058fbb3">
+          <Graphic GUID="7c421feb-2c25-4614-ba1d-b72e5200362d"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/330d4445-db36-474a-98c2-2e6f6c2bd652.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="c801d083-757a-40b8-aee2-7686a7105fce">
+          <TextBox GUID="9071edb4-65c6-401d-b9b3-591337d256f8"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="11f91a2d-58db-4873-bd17-c63b3f4e0769">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="0463ea3d-af87-4092-a76b-c52d7cfe4622" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="e96ae90c-0cb5-430e-96ea-73f1df106eab">
+        <strong GUID="8cf3bf7a-0711-46ef-83cb-15012d7f0b96">
+          <font face="Arial" GUID="c058dbbf-d386-4eb7-8138-1705485d9e80">Μην συζητάτε, συνιστάτε ή συμφωνείτε με ανταγωνιστές σας τα ακόλουθα θέματα:</font>
+        </strong>
+      </i>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="6f8c956a-a76d-44fa-9921-e777664ae3e3" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="e59c4706-bcfc-4387-ac8c-6fc5f29bce84">
+        <div align="left" GUID="a568e2fd-c93e-4dc0-a23d-2bf7baa9a8b4">
+          <font face="Arial" GUID="2761f341-c6a6-42f1-9b78-a84a42180da7">Κόστος,</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="9cc372bf-459d-4680-aee6-7c1f790901ec" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="961360a9-23bd-4655-8eac-398696471958">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="8c548b10-66b9-4884-ac8c-30007d152101" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="dee4af46-904c-4d22-ac5a-0709adb9cf09">
+        <div align="left" GUID="d6a3c4b3-62d7-48cb-91a9-5f082c07bc97">
+          <font face="Arial" GUID="76be18e2-a27d-4bdf-9a0a-b934175050e1">Τιμές αγοράς ή πώλησης, τάσεις τιμών, αλλαγές τιμών και υλοποίησή τους, μεθόδους υπολογισμού τιμών, εκπτώσεις, επιστροφές, περιθώρια κέρδους, </font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="7db6631a-4994-4849-93fa-c4649e39a06e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="0050f730-a164-40c4-8e5c-22b239e97d79">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c59dea1b-44ce-4000-a5af-b809bf848119" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="11e70d80-f41e-4f58-9b7b-9c8a6fb01327">
+        <div align="left" GUID="fbb7525e-a22c-4be6-88d4-6175385aad27">
+          <font face="Arial" GUID="3d68badb-1859-4c81-a58c-a292ecfaf8e1">Γενικούς και ειδικούς όρους αγοράς ή πώλησης (συμπεριλαμβανομένων όρων παράδοσης) είτε τυποποιημένους είτε όχι,</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="4cd3996e-a14f-490c-841d-0d7117dbe159" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="f63da5f7-1a1e-478d-b124-d7b36f7bf391">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c8576108-a404-4f18-bdfe-ff507ed43e32" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="edd425be-6f5b-4e62-bc6f-05278b660b2c">
+        <div align="left" GUID="c659c449-7c4a-4e7d-aa3b-2941e6b08f6a">
+          <font face="Arial" GUID="5228361a-3e9e-4f64-8791-f6e6543234ef">Σχέδια μάρκετινγκ (όπως διαφημίσεις, επενδύσεις σε επιχειρήσεις λιανικού εμπορίου και γενική εμπορική στρατηγική), επίπεδα παραγωγής και συγκεκριμένες τεχνολογικές εξελίξεις ή αλλαγές,</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="25e5dfbc-47a8-4f39-8cea-1990e8e3f448" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="6d54293d-398c-4afa-bbac-2531db8e35d5">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="3eb9d486-f7aa-4830-927d-ba8d782fba23" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="36d8d639-5ed4-4588-b663-20e73f26cd9c">
+        <div align="left" GUID="05cf1d50-c132-4a37-bdf5-a55a4da98a23">
+          <font face="Arial" GUID="05e6b4c4-7d98-4503-a58e-2e33390fe4fb">Διαίρεση ή κατανομή γεωγραφικών αγορών και όγκου πωλήσεων ανά πελάτη ή μερίδια αγοράς, και</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="d88fda36-7ed3-4941-8e66-eaf67fb8470b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="9412045a-03e9-4ddf-ab25-4794b12eaa3e" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="48a1a512-b627-4cb9-b8d4-29cb7d979f25">
+        <div align="left" GUID="c6347fa3-4f6f-49f7-988c-67dbc164be62">
+          <font face="Arial" GUID="c01ff1fe-313f-4c99-9533-5ae95d5376c5">Οποιοδήποτε σχέδιο άρνησης συναλλαγής με πελάτες ή προμηθευτές.</font>
+        </div>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page15" IsActive="true" GUID="3e89670b-db4d-4a90-a0b1-24d25f4a57b9">
+      <IncludedInTOC GUID="8a060445-df35-4a70-9adc-4e7dcdfdd364">true</IncludedInTOC>
+      <Title GUID="e8e617da-f577-4d57-9c06-d7a88b5cd70c">Συγχαρητήρια</Title>
+      <PageElements GUID="75502e4c-2a04-44fe-bd54-a90023bb7a5f">
+        <PageElement GUID="208e123e-6a22-43a9-af72-bc166ae4ae97">
+          <Graphic GUID="63d96355-3abd-4836-9b84-5d49e3222b3a"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/183c7684-db72-407d-8c40-63a7f880342d.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="4c15ee81-91e0-4fbd-b6ba-509c834aeb73">
+          <Graphic GUID="93955cd0-2c83-447e-9bd4-48b84e1b816c"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/d612830a-d661-4a9a-9354-fe72b75ab3c8.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="284a1a78-45b2-4c05-b280-86efbb772b71">
+          <TextBox GUID="44ebe48f-6f96-472f-ab80-7be29ba8d8a6"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="f54e98f3-4684-47cd-bacc-8d6cccd617c1">
+    <div style="PADDING-RIGHT: 0cm; PADDING-LEFT: 0cm" GUID="fa9c9c95-7968-4f16-b149-4bc642855a74" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="432077bc-7967-490a-a685-dd8fc11fa073">Μόλις ολοκληρώσατε το μάθημα «Εισαγωγή στη Συμμόρφωση με το Δίκαιο του Ανταγωνισμού». <br GUID="8bcb2e17-3f20-45f4-946c-01afd56024a1"><br GUID="efc9bc27-9054-4298-9a00-34e7fead6597">Η «Σύντομη Ανακεφαλαίωση της Εισαγωγής στη Συμμόρφωση με το Δίκαιο του Ανταγωνισμού» περιέχει μια περίληψη όσων έχετε μάθει. <br GUID="5275584b-0be9-4bca-ac95-ca393a4c0bde"><br GUID="4847ed8d-bf40-435c-8f32-328a9d603671">Όταν διαβάσετε τη Σύντομη Ανακεφαλαίωση, κάντε κλικ στο κουμπί «Έξοδος» παραπάνω για να τερματίσετε αυτό το μάθημα.  <br GUID="63a00bfc-42f0-4c45-8d61-22ca5d19c9e0"><br GUID="553e08e5-b66f-4fa4-a003-23137bd96c95">Τώρα θα πρέπει να είστε έτοιμοι να συμπληρώσετε το τεστ σχετικά με την Εισαγωγή στη Συμμόρφωση με το Δίκαιο του Ανταγωνισμού. </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="eaa57110-8a84-4495-bb05-958e1a2c57b2">
+          <EndLesson GUID="97b48e5a-24c3-4ec8-bac6-6ee08265e87d"> <![CDATA[]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

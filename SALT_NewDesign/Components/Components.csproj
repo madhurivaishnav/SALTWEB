@@ -1,0 +1,329 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B2CF0ED1-CDD3-42AA-9ACB-5A49196A2606}</ProjectGuid>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Bdw.Application.Salt.Components</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Bdw.Application.Salt</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>..\WWWROOT_4.1.5 Release\bin\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Documentation|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>Components.xml</DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ApplicationBlocks.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=44a35803840fbdb7">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\WWWROOT_4.1.5 Release\bin\Microsoft.ApplicationBlocks.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <ProjectReference Include="..\Localization\Localization.csproj">
+      <Name>Localization</Name>
+      <Project>{80069761-EFE4-4F25-8924-B1C82C0D50BD}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+      <Private>True</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Salt.snk" />
+    <Compile Include="App_Code\API\LangAPI.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\API\LangInterfaceAPI.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\API\LangValueAPI.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\Business\LangValueBUS.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\Data\LangDB.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\Data\LangInterfaceDB.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\Data\LangResourceDB.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\Data\LangValueDB.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\Data\_BaseDB.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\Entity\Lang.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\Entity\LangInterface.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\Entity\LangResource.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\Entity\LangValue.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="App_Code\Entity\_BaseEntity.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\AppConfig.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Application.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Classification.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Course.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\CourseLicensing.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Email.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Error.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Event.cs" />
+    <Compile Include="BusinessServices\HTMLSanitizer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\IContentObjectCommunication.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Link.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Module.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Organisation.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\OrganisationConfig.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Policy.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Profile.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Report.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\TimeZone.cs" />
+    <Compile Include="BusinessServices\Toolbook.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\Unit.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessServices\User.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataAccess\DatabaseService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataAccess\DatabaseTool.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataAccess\DeadLockManagement.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataAccess\Enum.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataAccess\Exception.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataAccess\SecurityHandler.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataAccess\StoredProcedure.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataGridTemplate\DataGridTemplate.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ErrorHandler\ErrorLog.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InfoPath\ControlFile.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InfoPath\DefaultLesson.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InfoPath\DefaultQuiz.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InfoPath\Importer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InfoPath\LessonPageContext.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InfoPath\PageBase.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InfoPath\PageContext.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InfoPath\Publisher.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InfoPath\QuizPageContext.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InfoPath\XHelper.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\CSVGenerator.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\CSVtoXMLConverter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\General.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\htmltopdf.cs" />
+    <Compile Include="Utilities\ImportToolbook.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\ImportUsersPreview.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\XMLLoader.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\XMLValidator.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Content Include="InfoPath\App.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

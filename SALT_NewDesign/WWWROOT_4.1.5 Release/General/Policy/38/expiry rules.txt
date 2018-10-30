@@ -1,0 +1,12 @@
+User expiry warning
+
+User should be sent an alert whenever one or more modules assigned to them is about to become expired.
+The time period of the alert received by the user should be determined by the client administrator.  If the function is enabled but the client administrator has not set the time period of the alert, one month or 30 days should be used as the default time period.
+
+The list of expiry dates for modules will be stored in tblQuizExpiryAtRisk
+
+where expiry is less than the expiry warning period notify the user
+
+
+
+

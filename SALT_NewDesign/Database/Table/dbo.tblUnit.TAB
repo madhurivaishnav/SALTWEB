@@ -1,0 +1,59 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblUnit]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblUnit](
+	[UnitID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[OrganisationID] [int] NOT NULL,
+	[Name] [nvarchar](100) NOT NULL,
+	[ParentUnitID] [int] NULL,
+	[Hierarchy] [nvarchar](500) NULL,
+	[Level] [int] NULL,
+	[Active] [bit] NOT NULL,
+	[CreatedBy] [int] NOT NULL,
+	[DateCreated] [datetime] NOT NULL,
+	[UpdatedBy] [int] NULL,
+	[DateUpdated] [datetime] NULL,
+ CONSTRAINT [PK_tblUnit] PRIMARY KEY CLUSTERED 
+(
+	[UnitID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUnit_tblOrganisation]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUnit]'))
+ALTER TABLE [dbo].[tblUnit]  WITH CHECK ADD  CONSTRAINT [FK_tblUnit_tblOrganisation] FOREIGN KEY([OrganisationID])
+REFERENCES [dbo].[tblOrganisation] ([OrganisationID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUnit_tblOrganisation]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUnit]'))
+ALTER TABLE [dbo].[tblUnit] CHECK CONSTRAINT [FK_tblUnit_tblOrganisation]
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUnit_tblUnit]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUnit]'))
+ALTER TABLE [dbo].[tblUnit]  WITH CHECK ADD  CONSTRAINT [FK_tblUnit_tblUnit] FOREIGN KEY([ParentUnitID])
+REFERENCES [dbo].[tblUnit] ([UnitID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUnit_tblUnit]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUnit]'))
+ALTER TABLE [dbo].[tblUnit] CHECK CONSTRAINT [FK_tblUnit_tblUnit]
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblUnit_DateCreated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUnit]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblUnit_DateCreated]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblUnit] ADD  CONSTRAINT [DF_tblUnit_DateCreated]  DEFAULT (getutcdate()) FOR [DateCreated]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblUnit_DateUpdated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUnit]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblUnit_DateUpdated]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblUnit] ADD  CONSTRAINT [DF_tblUnit_DateUpdated]  DEFAULT (getutcdate()) FOR [DateUpdated]
+END
+
+
+End
+GO

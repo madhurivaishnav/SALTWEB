@@ -1,0 +1,6 @@
+/* Single column layout specific styles. These classes are used by  SingleColumnPage.xslt*/
+
+.SingleColumn
+{
+    padding:20 30 20 30px;
+}

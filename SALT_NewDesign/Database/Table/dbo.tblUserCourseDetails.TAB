@@ -1,0 +1,63 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblUserCourseDetails]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblUserCourseDetails](
+	[UserID] [int] NOT NULL,
+	[CourseID] [int] NOT NULL,
+	[NumberOfDelinquencyNotifications] [int] NOT NULL,
+	[NewStarterFlag] [bit] NULL,
+	[AtRiskQuizList] [nvarchar](max) NOT NULL,
+	[NotifiedModuleList] [nvarchar](max) NOT NULL,
+	[LastDelinquencyNotification] [datetime] NULL,
+	[UserCourseStatusID] [int] NOT NULL,
+	[LastDelNoteToMgr] [bit] NOT NULL,
+ CONSTRAINT [PK_tblUserCourseDetails] PRIMARY KEY CLUSTERED 
+(
+	[UserCourseStatusID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblUserCourseDetails_NumberOfDelinquencyNotifications]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCourseDetails]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblUserCourseDetails_NumberOfDelinquencyNotifications]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblUserCourseDetails] ADD  CONSTRAINT [DF_tblUserCourseDetails_NumberOfDelinquencyNotifications]  DEFAULT ((0)) FOR [NumberOfDelinquencyNotifications]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblUserCourseDetails_AtRiskQuizList]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCourseDetails]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblUserCourseDetails_AtRiskQuizList]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblUserCourseDetails] ADD  CONSTRAINT [DF_tblUserCourseDetails_AtRiskQuizList]  DEFAULT ('') FOR [AtRiskQuizList]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblUserCourseDetails_NotifiedAtRiskQuizList]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCourseDetails]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblUserCourseDetails_NotifiedAtRiskQuizList]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblUserCourseDetails] ADD  CONSTRAINT [DF_tblUserCourseDetails_NotifiedAtRiskQuizList]  DEFAULT ('') FOR [NotifiedModuleList]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblUserCourseDetails_LastDelNoteToMgr]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUserCourseDetails]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblUserCourseDetails_LastDelNoteToMgr]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblUserCourseDetails] ADD  CONSTRAINT [DF_tblUserCourseDetails_LastDelNoteToMgr]  DEFAULT ((0)) FOR [LastDelNoteToMgr]
+END
+
+
+End
+GO

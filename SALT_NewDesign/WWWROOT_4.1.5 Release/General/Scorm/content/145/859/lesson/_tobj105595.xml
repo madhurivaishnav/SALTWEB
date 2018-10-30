@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>20</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Quiz - Module 2</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>10</numrandom>
+<passinggrade>80</passinggrade>
+<cancelfail>a002_results_failed.html</cancelfail>
+<passdone>a002_results_passed.html</passdone>
+<prevpage>a002_quiz_quiz_first_page.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>a002_quiz_module_2_q2_01.html</name>
+<question>
+<id>126813</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0008</var>
+<text>Select the best answer. Who is NOT considered a worker?</text>
+<correctans>A visitor to the workplace</correctans>
+<choices>An employee|A contractor|A visitor to the workplace|A trainee</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>a002_quiz_module_2_q2_02.html</name>
+<question>
+<id>126801</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0013</var>
+<text>As an employee or other worker, you have the duty to\u2026</text>
+<correctans>\u2026 take reasonable care of your own health and safety as well as all others at the workplace</correctans>
+<choices>\u2026 take reasonable care of your own health and safety as well as all others at the workplace|\u2026 always comply with any instruction that is given to you by a PCBU |\u2026 take reasonable care of your own health and safety first and only|\u2026 cooperate with union policies and procedures that relate to workplace health and safety</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>a002_quiz_module_2_q2_03.html</name>
+<question>
+<id>126793</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0017</var>
+<text>As an employee, or other type of worker, you can personally be prosecuted if you are involved in a breach of WHS laws. True or false?</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>a002_quiz_module_2_q2_04.html</name>
+<question>
+<id>126781</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0018</var>
+<text>How can you help minimise WHS risks at work?</text>
+<correctans>All of the above</correctans>
+<choices>Attend all training available and apply the training in your work practices|Report any risks you see in the workplace and offer suggestions about how to minimise or eliminate risks|Actively participate in WHS meetings and consultation |All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>a002_quiz_module_2_q2_05.html</name>
+<question>
+<id>126769</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0019</var>
+<text>Jim works as a glass fitter. While at work, he notices some broken glass on the floor. What should he do?</text>
+<correctans>Immediately clean up the broken glass (or tell someone else about it)</correctans>
+<choices>Ignore it and leave it to the cleaner to sweep it up|Immediately clean up the broken glass (or tell someone else about it)|Make a mental note to clean it up later if nobody has done so already|None of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>a002_quiz_module_2_q2_06.html</name>
+<question>
+<id>126757</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQuestion_0021</var>
+<text>You notice a potential danger at your workplace. Should you try to reduce, isolate or remove the hazard yourself first? </text>
+<correctans>Yes, although sometimes it may be better to tell someone about it</correctans>
+<choices>Yes, you should always try to eliminate the danger yourself first no matter what it takes|Not always, if by doing so you endanger your own health and safety you should walk away and wait for someone else to notice it|Yes, although sometimes it may be better to tell someone about it|Never, the WHS Act clearly states that you should look after your own health and safety first and only</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>a002_quiz_module_2_q2_07.html</name>
+<question>
+<id>126745</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQuestion_0022</var>
+<text>When may you cease or refuse to carry out work?</text>
+<correctans>Only if you have a reasonable concern that the work would expose you to a serious risk to your health or safety</correctans>
+<choices>Only if you believe that there is at least a very slight chance that you could be minimally hurt|Only if you find the work very boring and would rather do something else|Only if you have a reasonable concern that the work would expose you to a serious risk to your health or safety|A worker is never allowed to refuse or cease to carry out work</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>a002_quiz_module_2_q2_08.html</name>
+<question>
+<id>126733</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQuestion_0023</var>
+<text>Complete the sentence. If a worker refuses to carry out work, they must\u2026</text>
+<correctans>\u2026 notify the PCBU as soon as practicable and carry out any alternative work that is safe and appropriate</correctans>
+<choices>\u2026 notify the PCBU as soon as practicable and carry out any alternative work that is safe and appropriate|\u2026 notify the PCBU as soon as practicable and go home for the day|\u2026 notify the PCBU within 30 days and carry out any alternative work that is safe and appropriate|\u2026 notify the PCBU within 30 days and carry out any alternative work that is requested by the PCBU</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>a002_quiz_module_2_q2_09.html</name>
+<question>
+<id>126721</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQuestion_0024</var>
+<text>What are the major types of prohibited conduct under the WHS Act?</text>
+<correctans>Coercion, misrepresentation, discrimination</correctans>
+<choices>Negligence, coercion and representation|Representation, negligence and discrimination|Coercion, misrepresentation, discrimination|Misrepresentation, negligence and intimidation</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>a002_quiz_module_2_q2_10.html</name>
+<question>
+<id>126709</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQuestion_0025</var>
+<text>Complete the sentence. A supervisor acts in a discriminatory way if they\u2026</text>
+<correctans>\u2026 offer a job to a prospective worker on worse terms than the terms offered to others</correctans>
+<choices>\u2026 decide to implement new working hours|\u2026 offer a job to a prospective worker on worse terms than the terms offered to others|\u2026 employ someone from outside the company|\u2026 decide to install energy saving lights in their office only</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>10</index>
+<name>a002_quiz_module_2_q2_11.html</name>
+<question>
+<id>126697</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 11</name>
+<var>VarQuestion_0026</var>
+<text>Complete the sentence. It is prohibited to discriminate against a person who\u2026</text>
+<correctans>All of the above</correctans>
+<choices>\u2026 has raised a concern or complaint about work health and safety|\u2026 is a health and safety representative|\u2026 has performed a function under the WHS Act|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>11</index>
+<name>a002_quiz_module_2_q2_12.html</name>
+<question>
+<id>126685</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 12</name>
+<var>VarQuestion_0027</var>
+<text>A PCBU threatens to dismiss an employee if they exercise a power under the WHS Act. Is this a type of prohibited conduct?</text>
+<correctans>Yes, it is coercion</correctans>
+<choices>Yes, it is considered to be misrepresentation|No, it only is considered prohibited conduct if they actually dismiss the employee|No, it is morally wrong, but not illegal|Yes, it is coercion</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>12</index>
+<name>a002_quiz_module_2_q2_13.html</name>
+<question>
+<id>126673</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 13</name>
+<var>VarQuestion_0028</var>
+<text>A PCBU knowingly misleads one of his employees by giving him false information about his rights under the WHS Act. What type of prohibited conduct is this?</text>
+<correctans>Misrepresentation</correctans>
+<choices>Discrimination|Coercion|Deviousness|Misrepresentation</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>13</index>
+<name>a002_quiz_module_2_q2_14.html</name>
+<question>
+<id>126661</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 14</name>
+<var>VarQuestion_0029</var>
+<text>A manager notices an electrical outlet is faulty. He knows this will expose workers to a risk of serious injury or death but does nothing to resolve the situation. What type of offence is this?</text>
+<correctans>Category 1 offence</correctans>
+<choices>Category 1 offence|Category 2 offence|Category 3 offence|Combined category 1 and 3 offence</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>14</index>
+<name>a002_quiz_module_2_q2_15.html</name>
+<question>
+<id>126649</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 15</name>
+<var>VarQuestion_0030</var>
+<text>A supervisor fails to fulfil her health and safety duty but this failure does not expose the individual to whom the duty is owed to a risk of death or serious injury. What type of offence is this?</text>
+<correctans>Category 3 offence</correctans>
+<choices>Category 1 offence|Category 2 offence|Category 3 offence|None of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

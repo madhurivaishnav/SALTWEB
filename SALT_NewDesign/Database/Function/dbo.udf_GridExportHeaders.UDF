@@ -1,0 +1,17 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udf_GridExportHeaders]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'create  FUNCTION [udf_GridExportHeaders](@LangCode varchar(10) = ''en-AU'',
+@LangInterfaceName varchar(200) = ''/Reporting/PeriodicReport.aspx'')
+--RETURNS @Result TABLE( C1 nVARCHAR(500),C2 nVARCHAR(500), C3 nVARCHAR(500), C4 nVARCHAR(500),C5 nVARCHAR(500),C6 nVARCHAR(500),C7 nVARCHAR(500),C8 nVARCHAR(500),C9 nVARCHAR(500),C10 nVARCHAR(500),C11 nVARCHAR(500))
+RETURNS TABLE
+AS
+RETURN
+
+SELECT 1 AS C1
+' 
+END
+GO

@@ -1,0 +1,59 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReport_HistoricUserLessonStatus]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfReport_HistoricUserLessonStatus    Script Date: 20/04/2004 8:25:58 AM ******/
+
+/*Summary:
+gets the historic lesson results for each user(up to effective date)
+
+Returns:
+Table
+
+Called By:
+Calls:
+
+Remarks:
+
+
+Author:
+Jack Liu
+Date Created: 1 March 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+--------------------
+-- SELECT * FROM dbo.udfReport_HistoricUserLessonStatus(''20040229'')
+
+**/
+
+CREATE  function [udfReport_HistoricUserLessonStatus]
+(
+@effectiveDate datetime
+)
+Returns table
+as
+return select 	LessonStatus.UserLessonStatusID,
+LessonStatus.UserID,
+LessonStatus.ModuleID,
+m.CourseID,
+LessonStatus.LessonStatusID,
+LessonStatus.LessonFrequency,
+LessonStatus.DateCreated
+from tblUserLessonStatus LessonStatus
+inner join tblModule m
+on m.ModuleID = LessonStatus.ModuleID
+inner join (select max(UserLessonStatusID) UserLessonStatusID
+from tblUserLessonStatus
+where DateDiff(day, DateCreated, @effectiveDate)>=0
+group by 	UserID,moduleID) HistoricStatus
+on LessonStatus.UserLessonStatusID = HistoricStatus.UserLessonStatusID
+' 
+END
+GO

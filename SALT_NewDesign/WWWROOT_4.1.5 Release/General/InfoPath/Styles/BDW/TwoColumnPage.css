@@ -1,0 +1,36 @@
+/* Two column layout specific styles. These classes are used by  TwoColumnPage.xslt*/
+.TwoColumnTable
+{
+    width:100%;
+    height:100%;
+}
+
+.TwoColumnRight, .TwoColumnLeft
+{
+    padding-top:20px;
+    padding-left:20px;
+    vertical-align: top;
+    width: 50%;
+    height:100%;
+}
+.TwoColumnLeft
+{
+    padding-left:50px;
+    padding-right:25px;
+    border-bottom: solid 2px #999999;
+    background-color:#ffffff;
+    
+}
+.TwoColumnRight
+{
+    border-left: solid 2px #999999;
+    border-bottom: solid 2px #999999;
+    padding-left:25px;
+    padding-right:30px;
+    background-color:#EFEFEF;
+    
+    
+    background-image:url(/General/Images/Infopath/salt_watermark.gif);
+    background-repeat:no-repeat;
+    background-position:100% 100%;
+}

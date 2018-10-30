@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Phrases.xslt"?>
+<Phrases xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<ContentType>quiz</ContentType>
+	<Instruction><div xmlns="http://www.w3.org/1999/xhtml"><strong><font size="4">Standard Text</font></strong></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="3"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">Click the link below to insert the standard text.</div></Instruction>
+	
+<Phrase ID="Phrase1">
+									<Title>Quiz Start</Title>
+									<Text><div xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong>%System_NumberOfQuestions%</strong>  questions about<strong> [QuizTitle]</strong>.<br/><br/>You may be asked 3 different types of questions: multiple choice, true/false or yes/no. Answer each question by clicking the radio button to the left of the most appropriate response.<br/><br/>After you answer the last question, you will be given the chance to review and then submit your answers.<br/><br/>Please note that if you Exit the quiz before clicking the Submit Answers button then your answers will not be saved. <br/><br/>To move between questions, use the <strong>Previous</strong> and <strong>Next</strong> navigation buttons on the bottom right of the page. <strong>Do not use your browser back/forward buttons as this will cause you to Exit the quiz.</strong></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></Text>
+								</Phrase><Phrase ID="Phrase2">
+									<Title>Quiz End</Title>
+									<Text><div xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br/><br/>You can now review or change your answers. Use the navigation buttons to move between questions.<br/><br/>When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div></Text>
+								</Phrase><Phrase ID="Phrase3">
+									<Title>NumberOfQuestions</Title>
+									<Text><strong xmlns="http://www.w3.org/1999/xhtml">%System_NumberOfQuestions%</strong></Text>
+								</Phrase></Phrases>

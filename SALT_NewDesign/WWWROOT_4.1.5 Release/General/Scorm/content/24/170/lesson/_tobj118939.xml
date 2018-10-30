@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>20</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Quiz - The risk of money laundering</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>10</numrandom>
+<passinggrade>80</passinggrade>
+<cancelfail>page119185.html</cancelfail>
+<passdone>page119166.html</passdone>
+<prevpage>page118934.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page118976.html</name>
+<question>
+<id>118978</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0064</var>
+<text>Which of the following is NOT an anti-money laundering obligation shared by reporting entities?</text>
+<correctans>Destroy business records periodically</correctans>
+<choices>Destroy business records periodically|Conduct customer identification and verification of identity|Report in relation to suspicious matters|Establish and maintain an AML/CTF program</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page118988.html</name>
+<question>
+<id>118990</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0107</var>
+<text>Which of the following is NOT a requirement for AML/CTF programs?</text>
+<correctans>It must encourage employees to avoid customer due diligence where possible</correctans>
+<choices>It must contain a ML/TF risk awareness training program|It must be approved and supervised by the Board and senior management|It must encourage employees to avoid customer due diligence where possible|It must be subject to an independent quality review from AUSTRAC</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>page119000.html</name>
+<question>
+<id>119002</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0012</var>
+<text>Which of the following is true in relation to the tailored format of AML/CTF programs?</text>
+<correctans>Reporting entities are best placed to assess the risks posed by their customers, products and services</correctans>
+<choices>Customers are best placed to assess the risks posed by reporting entities' products and services|Reporting entities are best placed to assess the risks posed by their customers, products and services|It helps a reporting entity assess how to sell its products and services to customers|It helps criminal organisations avoid heavy penalties and liability</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>page119012.html</name>
+<question>
+<id>119014</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0066</var>
+<text>Organisations should assess their ML/TF risk based on which of the following factors?</text>
+<correctans>All of the above</correctans>
+<choices>Type of customer|Customers' source of funds and wealth|Control structure of corporate customers|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>page119024.html</name>
+<question>
+<id>119026</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0110</var>
+<text>Which of the following statements about beneficial owners is false?</text>
+<correctans>They are thought to pose a low risk of money laundering </correctans>
+<choices>They are thought to pose a low risk of money laundering |They are thought to pose a high risk of money laundering |They include people who control the corporate customer|They include people who own 25% or more of the corporate customer</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>page119036.html</name>
+<question>
+<id>119038</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQuestion_0111</var>
+<text>Which of the following statements about non-bank financial institutions is true?</text>
+<correctans>They are potentially extreme-risk customers</correctans>
+<choices>They handle cash transactions only|They do not include casinos|They are potentially extreme-risk customers|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>page119048.html</name>
+<question>
+<id>119050</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQuestion_0112</var>
+<text>Before accepting a customer, what should reporting entities do?</text>
+<correctans>Check both the DFAT blacklist and the Criminal Code Regulations</correctans>
+<choices>Nothing. The customer is entitled to be dealt with impartially|Check both the DFAT blacklist and the Criminal Code Regulations|Check to see whether their competitors accepted the customer|Check the High Court lists </choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>page119060.html</name>
+<question>
+<id>119062</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQuestion_0014</var>
+<text>Which the following is NOT a politically exposed person?</text>
+<correctans>A schoolteacher</correctans>
+<choices>A high-ranking member of the armed forces|A Federal court judge|A Head of State|A schoolteacher</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>page119072.html</name>
+<question>
+<id>119074</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQuestion_0067</var>
+<text>Which of the following statements about employees is true?</text>
+<correctans>They could pose a significant risk of money laundering and terrorism financing to the organisation </correctans>
+<choices>They pose no risk of money laundering and terrorism financing to the organisation |They could pose a significant risk of money laundering and terrorism financing to the organisation |They have no role to play in ensuring the organisation meets its anti-money laundering obligations|They must be exempted from scrutiny if assigned to high-risk areas or customers</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>page119084.html</name>
+<question>
+<id>119086</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQuestion_0047</var>
+<text>Which of the following does NOT suggest a high risk of money laundering?</text>
+<correctans>The source of funds is a regular and known source</correctans>
+<choices>The source of funds is a regular and known source|The source of funds is difficult to verify|The customer has income which is not employment-based or from a regular known source |Funds from several sources are deposited in the customer's account</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>10</index>
+<name>page119096.html</name>
+<question>
+<id>119098</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 11</name>
+<var>VarQuestion_0116</var>
+<text>Fill in the blank. Collecting information is vital to ___ ML/TF risks.</text>
+<correctans>\u2026 determining the nature of your business relationships and mitigating\u2026</correctans>
+<choices>\u2026 endangering your business relationships and increasing your\u2026|\u2026 weakening the reputation of reporting entities and promoting the existence of\u2026|\u2026 determining the nature of your business relationships and mitigating\u2026|\u2026 strengthening the likelihood of\u2026</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>11</index>
+<name>page119108.html</name>
+<question>
+<id>119110</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 12</name>
+<var>VarQuestion_0117</var>
+<text>What factor will NOT help you determine the control structure of a corporate customer?</text>
+<correctans>The annual revenue of the parent company</correctans>
+<choices>The number of people involved in the entity|The annual revenue of the parent company|Any contractual or family relationship between people involved in the entity|The nature and extent of any business </choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>12</index>
+<name>page119120.html</name>
+<question>
+<id>119122</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 13</name>
+<var>VarQuestion_0069</var>
+<text>Which of the following are designated service types?</text>
+<correctans>All the above</correctans>
+<choices>Trust accounts|Third party deposit/payment accounts|Transfer of cash into monetary instruments|All the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>13</index>
+<name>page119132.html</name>
+<question>
+<id>119134</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 14</name>
+<var>VarQuestion_0070</var>
+<text>Complete the sentence. Countries with a low level of anti-money laundering regulation\u2026</text>
+<correctans>\u2026 pose higher risks than countries with a high level of regulation</correctans>
+<choices>\u2026 pose no risk to the international community|\u2026 pose a lower risk than countries with a high level of regulation|\u2026 pose higher risks than countries with a high level of regulation|\u2026 pose no risk of anti-money laundering </choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>14</index>
+<name>page119144.html</name>
+<question>
+<id>119146</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 15</name>
+<var>VarQuestion_0048</var>
+<text>Non-face to face delivery of a designated service will generally pose a greater level of ML/TF risk than face-to-face delivery. True or false? </text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

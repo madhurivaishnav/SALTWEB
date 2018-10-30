@@ -1,0 +1,1297 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Lesson:Salt:Bdw" PIVersion="1.0.0.0" productVersion="11.0.8165" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="ef9913cc-a868-4d43-86a2-4c49fb911f07">
+  <Summary ID="bdgpg01" GUID="66554eb0-40fb-4707-a86e-07e1ae31b079">
+    <ContentType GUID="c7d7d629-406e-4628-b316-85b9ef80bb3c">lesson</ContentType>
+    <UploadType GUID="e53ecdaf-511f-4592-9950-e351c08e1963">correction</UploadType>
+    <Title GUID="9701bf3b-87f8-4db2-b3fb-68cc2149e5ed">Introduction to Commonwealth Procurement Guidelines</Title>
+    <CreatedBy GUID="fd6f892c-89b5-4ca1-a309-241079d07ea0">LTG Casual</CreatedBy>
+    <CreatedDate GUID="5e240333-5da0-4471-a918-227db2c4b8f7">2005-03-30T14:23:40</CreatedDate>
+    <LastModifiedBy GUID="6392251b-00dd-41a1-8baa-870bfb74a65d">ltgltomi</LastModifiedBy>
+    <LastModifiedDate GUID="4389040b-4183-47f8-9474-b80b4b485056">2011-02-01T16:32:27</LastModifiedDate>
+  </Summary>
+  <Players GUID="add66e4f-a3c9-46dd-96af-be22f8f071a9">
+  </Players>
+  <Pages PageFilter="0" GUID="c18288ef-2f62-40cc-9a45-7be7a19d0939">
+    <Page ID="Page1" IsActive="true" GUID="9bf837b8-85f0-4b54-ab80-3e9b764bb45e">
+      <IncludedInTOC GUID="c49ecb86-093c-4563-ae9e-2306b74059ad">false</IncludedInTOC>
+      <Title GUID="d3826e47-0e90-4680-85bd-d8fa75f01555">Introduction to Commonwealth Procurement Guidelines</Title>
+      <PageElements GUID="1056e431-e51a-44be-9b61-2c4bea9efb12">
+        <PageElement GUID="80dbb839-e6ba-4e3d-a09b-7f53cbed7a63">
+          <TextBox GUID="675b622f-6000-4065-bfb5-0766cd67e17b"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="4d93dc4e-58e9-4a23-a0a1-a1dcba4f85db">
+    <div GUID="e85a5d60-ac29-41a1-8b2b-35abfdd3848e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="e4b7ea5e-80ba-4fab-b945-805b2c6a20ac">
+        <span style="FONT-SIZE: 10pt" GUID="e12490f9-3996-44fe-885d-5b2a2120d3e9">
+          <span style="FONT-SIZE: 10pt" GUID="c55d0167-c277-4bed-91cb-97bcc5607f07">In this lesson you will learn about the <strong GUID="38b33cbd-1128-4000-9585-a3355db0292e">Commonwealth Procurement Guidelines</strong>.</span>
+        </span>
+      </font>
+    </div>
+    <font face="Arial" color="black" GUID="ab03886b-e7f1-4259-8a47-8ac0255dfe84" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="81347a0f-67d6-4ea0-a8b8-055b9f1ccdc8">
+        <span style="FONT-SIZE: 10pt" GUID="d46d64e7-39d4-47f1-b5a1-0bc7ee03bb63">
+          <div GUID="e2402923-5768-4842-8f50-80ff5f818ebf">
+            <br GUID="c16b7290-3a0a-45f7-a926-97d6a471de0b">We will help you to apply your knowledge by asking you questions about a scenario. Please read the scenario carefully and keep it in mind as you work through the lesson. </div>
+          <div GUID="e74a3912-97cf-4a02-84ae-cbb36bcfb0b4">
+            <br GUID="352046e7-28bd-4095-b8cd-92f6218737bb">Scenario questions are not scored and your response is not recorded. Use the feedback provided to consolidate what you have learned during this lesson. </div>
+        </span>
+      </span>
+    </font>
+    <div GUID="8a1686cd-3fb3-4b3c-af2c-609cda2bc275" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="3f82a736-0c41-48d8-884e-97b9bdecf7f6" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="5112c653-b169-4700-b3fa-812b7fe9d702">
+        <span style="FONT-SIZE: 10pt" GUID="8bbc33ec-f90d-44a2-873c-0dc1bf38f2cb">
+          <span style="FONT-SIZE: 10pt" GUID="d96999ff-ff1b-4817-9b94-4a9b0eabb6ca">Click on the <strong GUID="7e0ddd38-0479-4fb5-a39c-3c74c8d5b5bd">Quick Facts</strong> menu button above to view a summary of the lesson. </span>
+        </span>
+      </font>
+    </div>
+    <div GUID="ad38f009-b520-4bc9-bab6-89ae577ce600" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="6cadab89-e276-4e96-85d3-a0f7ab6e7c6a" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="1349a9c7-1741-4200-a162-62d49d4aa6cc">
+        <font style="FONT-SIZE: 10pt" GUID="4180b991-bb45-4e63-bcd3-527a4c9f3c93">Click the </font>
+        <font style="FONT-SIZE: 10pt" GUID="310103b9-abc6-411a-8c4c-c7d35d9d50dd">
+          <strong GUID="d572f7c7-c68a-4461-bf9f-4adbddc3ac98">
+          </strong>
+        </font>
+        <font size="4" GUID="aa0ae0a5-132e-4410-8469-aa09612ce961">► </font>
+        <font style="FONT-SIZE: 10pt" GUID="70d67bd3-380e-4207-b362-9c8a98c1cc17">button below to continue, or select a topic from the <strong GUID="d10be292-20ad-468c-8c1b-f76fa27a8d07">Table of Contents</strong> list.</font>
+      </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="3c3cbc68-3a4f-4ff6-9b16-21ca7c031890">
+          <TOC GUID="2e01e84b-34c0-4562-83fe-a1631931ad7c"> <![CDATA[<div class="TableOfContents_Main">
+  <div class="TableOfContentsTitle">Table of Contents</div>
+  <ul class="TableOfContentsList">
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page2')">Learning objectives</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page3')">Scenario</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page4')">What are the Commonwealth Procurement Guidelines?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page5')">Who must comply with the CPGs?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page6')">What do the CPGs contain?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page7')">Procurement Principles</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page8')">Procurement Principles</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page9')">Procurement Principles</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page10')">Procurement Principles</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page11')">Mandatory Procurement Procedures</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page12')">Covered Procurements</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page13')">Time Limits</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page14')">Tips for applying the CPGs</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page15')">Scenario 1</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page16')">Scenario 2</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page17')">Scenario 3</A>
+  </ul>
+</div>]]></TOC>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="a40448df-b7de-454f-80b6-689b7bc24f34">
+      <IncludedInTOC GUID="9d18b7cc-a978-4a01-b8e4-e66aec83c94b">true</IncludedInTOC>
+      <Title GUID="f5a6b96f-d3dd-496d-b732-19edfb31bbd4">Learning objectives</Title>
+      <PageElements GUID="405b8e23-21d5-40aa-ab42-ea2b4b4cd350">
+        <PageElement GUID="f80142e6-7643-416f-b4d9-70c6707d8a14">
+          <Graphic GUID="839edc93-4510-4edb-acd8-441fc1187135"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/1f894b80-c052-444a-b077-535e9b042180.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="54278493-4844-493f-a053-90ce3d519af9">
+          <TextBox GUID="41ccc173-06ba-45f1-b29c-5f7f10d19ede"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="08a1961a-3cfd-4a4a-b174-deb816a59fe7">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="07046557-c7a4-4473-9810-6f79d07b61f4" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="60a76091-52fa-4672-aa1a-b64b2a22807a">
+        <font face="Arial" GUID="68c97609-3213-41c4-908e-9274cb0bb2ca">In this lesson you will learn about the Commonwealth Procurements Guidelines.</font>
+      </span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="5ecbec84-8455-4af6-a655-01141130a4cf" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="8da10e56-ad32-464f-886a-fb6117e33344">
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="a3c5fbff-7ae3-47da-9638-3652743592c6" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="f1420690-dfb0-4baa-9458-0ba00f001be8">
+      </span>
+      <span style="FONT-SIZE: 10pt" GUID="28cd723e-0b03-47a6-8634-bcc5960c84bf">
+        <font face="Arial" GUID="318b3733-36ea-4b26-bb32-a224251052df">You should complete the lesson in about 20 minutes. </font>
+      </span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="735dc278-ff99-4948-abb1-4028cdedb7f4" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="c11cc9ed-6935-473e-bba0-563777f84b34">
+        <font face="Arial" GUID="d67b27ed-f135-4555-899b-81316779ecff">
+        </font>
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="20947d7e-f4d6-468e-b51e-7187be6d1c5f" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="6fcdaf80-33dc-47d4-86b2-57d206fe2e1d">
+        <font face="Arial" GUID="3de48b67-361c-47e7-92e1-ef6857538677">Y</font>
+      </span>
+      <span style="FONT-SIZE: 10pt" GUID="c6e70147-d0b2-4fc9-8ce1-6925aa649ff3">
+        <font face="Arial" GUID="74d5b1e9-0f04-4da8-8cac-3a728cf153c9">ou will learn: </font>
+      </span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="81637a94-142e-4d73-beee-d4391891d7c9" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="cdc0aa43-1431-4ffb-ae5f-8140ae17998a">
+        <font face="Arial" GUID="75507064-c4ed-4071-ae6b-4fc919e55aa9">
+        </font>
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="b4e73632-a0ff-4cd2-8258-08d8c28eef9d" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="623cffb7-9be3-45b5-a1a0-a8f403dba0e8">
+        <span style="FONT-SIZE: 10pt" GUID="0dc165d1-a1e4-432f-80e3-2d41d16df51b">
+          <font face="Arial" GUID="ac6793b1-33a6-48d7-a26b-953b373566fe">What the Commonwealth Procurement Guidelines are;</font>
+        </span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="4b1ee4b7-3987-4af5-9806-48e1a2aa711c">
+        <span style="FONT-SIZE: 10pt" GUID="64bfcb98-dd86-4850-8c09-b581ff4fd015">
+          <font face="Arial" GUID="5a76b1d4-8572-4b41-93f9-8d79a3ac5310">Which organisations the Commonwealth Procurement Guidelines apply to;</font>
+        </span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="5e6a14ad-9334-4355-9977-adca40a8ad3f">
+        <span style="FONT-SIZE: 10pt" GUID="443ca98a-c661-4759-a904-b93a24ca549d">
+          <font face="Arial" GUID="72c07273-6ae7-4aee-8ed4-e0a003e86a41">The content of the Commonwealth Procurement Guidelines;</font>
+        </span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="97e69c7b-923d-4892-9492-7ca5ed092dde">
+        <span style="FONT-SIZE: 10pt" GUID="4aa265fb-6e63-42bc-989d-366c114c020a">
+          <font face="Arial" GUID="8b921fde-b5da-4285-a429-d1fd70166ca5">The types of procurement the Commonwealth Procurement Guidelines apply to; and</font>
+        </span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="bbd41cef-aeee-4406-81a9-5ce5837ae653">
+        <span style="FONT-SIZE: 10pt" GUID="ef42e7f3-725d-4978-b389-556fd1e1f15e">
+          <font face="Arial" GUID="608ffce7-71ad-4812-ae23-4d9ccdf3d241">Time limits under the Commonwealth Procurement Guidelines.</font>
+        </span>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="8f341853-8156-4c92-a75b-c1ce441ac75f" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="ada4911f-b93f-4c24-9380-1c779a4998f0">
+        <font face="Arial" GUID="0359113e-ae51-4d91-9689-a23ab7f12096">
+        </font>
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="10b9b3f2-1af3-4f6c-a1eb-9a8f3866ef0c" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="21e3c6e9-a640-43f0-86fe-fa3d496d6cb5">
+        <font face="Helvetica" GUID="b8909aa9-2325-4e16-b2c9-6c39c32a2d3d">
+          <font face="Arial" GUID="61dfaa29-a2a7-420f-b984-c0b3774e39b1">To get started, please click on the </font>
+          <font style="FONT-SIZE: 12pt" GUID="b8c5a383-bf41-4a38-bfc3-fdb2df9d02d9">
+          </font>
+          <font face="Arial" size="4" GUID="becce0ae-ad7c-4605-8565-7cc5ce4297df">►<font size="2" GUID="50fa6408-c67b-4a3f-a007-9ddef44e69d8"><font face="Helvetica" GUID="ef575cda-4caf-4ab1-b685-a6db318e7155"><font face="Arial" GUID="56d5beab-65cf-4b64-a67f-eff1da5204a2">button below</font>.</font></font></font>
+        </font>
+      </span>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="e23dee2d-e0aa-44f5-bfa7-d7abe46eb83c">
+      <IncludedInTOC GUID="ee6f4837-b565-4f15-8e1a-07eaaf09e04b">true</IncludedInTOC>
+      <Title GUID="631301f6-2fff-4cc1-9f8d-5a517d76da6b">Scenario</Title>
+      <PageElements GUID="083273ec-3a8a-4dab-96b3-205a1aababf1">
+        <PageElement GUID="b1a89b5b-86fd-4606-8b50-6deb5591653b">
+          <Graphic GUID="6cb7c491-9e2d-4f93-be3a-24a8cf501109"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/2a2269e1-4bae-476f-b612-0115cb981424.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="b36ee687-4fc3-4f0a-84ed-dd4d2ee12f65">
+          <TextBox GUID="94d2981d-45b3-48e8-a01b-41b2dc8cbee0"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="75e82cb6-a838-45ac-afc5-01d64e90655c">
+    <div GUID="c67b8008-7fd8-4343-ab8d-4a08ad3984e0" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="712936e6-ba0a-4291-9c3d-9f058450f57e">Imagine that you work at the Department of Education, Employment and Workplace Relations. </font>
+    </div>
+    <div GUID="5aab62ad-f8bf-4273-9aaf-f9ef3a834811" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="5300d5b7-cfd9-4f0d-9024-1b8167915727" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="26a52fb7-e8d1-4cb5-b7e5-054c8ea4ebeb">The Department wants to acquire new office premises in Canberra to accommodate about 400 employees.</font>
+    </div>
+    <div GUID="16379255-9b8d-43c3-9502-d1d5c2adac47" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="199d6419-f928-45db-b1da-408fa58c511e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="03faac17-503f-4914-830d-2dea8272e831">The Department decides it would be best to engage a contractor to purpose built premises on land the Commonwealth already owns. The estimated value of contract is $35 million.</font>
+    </div>
+    <div GUID="f055f96a-1670-4bf5-bc64-ccd3eeff785c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="7f2d1d6d-ce5e-491b-82c4-b26bbe0b1043" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="fb9e5d17-1621-4614-a861-a2b2f5756be5">You have been appointed as the project manager.</font>
+    </div>
+    <div GUID="986783c6-3bf1-4e70-a464-ed0748b13fa6" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="7260bbe1-cdf4-4af0-bb44-608317394cf7" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="92e3b7c5-b1c7-4d8c-ac70-b29be5b40f34">
+        <strong GUID="6338a596-f6f6-4fb3-adb1-f78a2fbf065a">Consider this scenario while reading the next pages...</strong>
+      </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="0f941d36-2394-4097-98d3-361573e8e658">
+      <IncludedInTOC GUID="8276b9c3-1588-4258-8282-e5154b95c913">true</IncludedInTOC>
+      <Title GUID="21519c45-f784-495f-8594-b848006e6511">What are the Commonwealth Procurement Guidelines?</Title>
+      <PageElements GUID="1fda8ae6-f52e-493c-8d69-a4115c6e3ffc">
+        <PageElement GUID="90430a6b-093f-483b-8cd6-b91b3ec277c2">
+          <Graphic GUID="f40b29b4-c58d-424c-a8ab-11589061ae94"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/e386df95-53c0-4930-9ec4-e41308fa8759.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="0af20f90-18c2-47f7-8942-09544fe4bb90">
+          <TextBox GUID="f7c5be0d-c33d-448e-ba19-02f48b5a86be"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="2399de31-5722-4176-b9ca-61bc1f21ee85">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="7f1910a6-39ae-41da-8742-a52c87188121" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="64541f93-69da-48cc-962e-97f591ea104a">
+        <font face="Arial" GUID="58233e89-3d86-41ca-9e5f-7dd6f6ce79ec">There is a range of legislation and policies that Australian government agencies must comply with when procuring goods and services. </font>
+      </span>
+    </div>
+    <div GUID="4adde5e7-168d-46c6-85fc-2142c706949d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="d260259c-3bb6-4b7d-ab52-7fb442c7dabd" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="119b6697-babf-4dba-a724-a2d738b703ae">
+        <font face="Arial" GUID="e37d3d2b-c9f2-44f5-b8d5-a000288ef90c">The most important of these is the <a target="_blank" href="http://www.finance.gov.au/publications/fmg-series/docs/CPGs-2008.pdf" GUID="4d01b0ee-6edc-43c1-a98f-5ca0643aaf60">Commonwealth Procurement Guidelines </a>(CPGs) which are issued by the Finance Minister under Regulation 7 of the Financial Management and Accountability Regulations 1997 (Cth) (FMA Regulations. </font>
+      </span>
+    </div>
+    <div GUID="752a6c7d-f0d8-45e0-b0dc-cf9a4f0bdee6" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="235f0eba-150d-41c3-a16d-fe7d42b0af94" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="837cc85b-42b9-4b50-af84-5e804775a8a2">
+        <font face="Arial" GUID="955193af-775f-4872-8900-bab7b86b1a49">Australian government organisations to which the CPGs apply must ensure they follow the CPGs when:</font>
+      </span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="0bfabcc3-1abb-4f6c-a118-4f2c96dfc447" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="b8b98b69-d4cf-4df8-87eb-4f9f69ccc680">
+        <font face="Arial" GUID="8866edb1-4867-4598-8da5-d2fcd5ee4764">
+        </font>
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="946147dd-ab8a-466d-85a3-395371f3c514" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="a210e70c-cb1f-43d7-810a-f70364eb23ec">
+        <span style="FONT-SIZE: 10pt" GUID="f0b3f417-381b-4916-819b-a703720a1a47">
+          <font face="Arial" GUID="2d952172-fb0b-4c94-ab08-1f8840235a7b">planning procurement of goods and services</font>
+        </span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="442aeadd-e57b-4266-ab45-4b0e332fc05c">
+        <span style="FONT-SIZE: 10pt" GUID="bd811e6e-7726-4e93-9e5d-3a176f57731f">
+          <font face="Arial" GUID="d0842a94-d7ef-44e0-8351-9655fe7b9cea">drafting request for tender documentation</font>
+        </span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="84be2aa2-faa9-48a5-85b2-ac5ec4b5134d">
+        <span style="FONT-SIZE: 10pt" GUID="9027c644-4239-4187-bddb-e34432b16395">
+          <font face="Arial" GUID="241b0473-5ad9-4255-bc1e-aa939d53ea6c">approaching the market with a tender</font>
+        </span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="07f7d320-22b7-44ab-905f-1cb0f274fbf2">
+        <span style="FONT-SIZE: 10pt" GUID="eba100e1-4fc4-4fa2-be5d-ab82cf090e9b">
+          <font face="Arial" GUID="2addb3dd-b07b-40dd-932b-71e55ab39a95">receiving and assessing tenders</font>
+        </span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="1ea6e8e6-d2c0-4baa-90be-06f008ebf6a5">
+        <span style="FONT-SIZE: 10pt" GUID="847ae5d0-48db-45cb-ace9-d3801b342829">
+          <font face="Arial" GUID="a286af50-dbcd-42bf-9fb8-4999c593d0b1">selecting a preferred supplier</font>
+        </span>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="41b686e1-4943-4aa5-8bab-62107069db86">
+        <span style="FONT-SIZE: 10pt" GUID="51ee97d3-a2f7-47f3-a015-157a680d17f2">
+          <font face="Arial" GUID="1444a367-66be-4b04-bb2d-eed01748cd17">negotiating and signing a contract</font>
+        </span>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="a0d4e0b6-20cf-4ae0-813c-efe4ca4142bf">
+          <ExtraInfo GUID="ecc3f004-3f97-45a6-b2a2-769108ceaac3"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('0d4e74f1-4adc-40ad-a323-4abb4aad9b45');">Click here for what does 'procurement' refer to?</A>
+      <div ID="Content_0d4e74f1-4adc-40ad-a323-4abb4aad9b45" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="9eef1b74-d665-4f30-b24e-dc5595f66acc">
+                <div GUID="b5bc8d80-5601-4334-91d1-7f586e4eb726" xmlns="http://www.w3.org/1999/xhtml">
+                  <font face="Arial" GUID="0272fafc-cbb3-4698-ae39-fa26e802c6d1">'Procurement' refers to the process of Australian government agencies entering contracts to buy goods and services.</font>
+                </div>
+                <div GUID="ddaf0d15-032d-4408-a1d8-3b9dcec8f0e5" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="da8e2e0f-a367-4bf8-92b5-57d6e6376e02">
+                  <font face="Arial" GUID="60012104-2859-4f52-91cf-cc738e322a8a">The common stages in a procurement process are:</font>
+                </div>
+                <div GUID="664a728f-50e0-40cd-942a-5ecdb68d0210" xmlns="http://www.w3.org/1999/xhtml">
+                  <font face="Arial" GUID="f0b368b0-aecf-4fe9-a585-a186ce9ec56a">
+                  </font> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="63c29608-ade7-4a9f-977b-9e3f9bee6227" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="f97d7470-8a29-4cac-a0be-cce1d976feba">
+                    <font face="Arial" GUID="2b0eb47b-901f-4501-8ab9-d7cfba8ec862">an agency identifies a need for something, for example a contractor to clean the agencies' offices or a new server for the agencies' computer systems</font>
+                  </li>
+                </ul>
+                <div GUID="69125aa8-7c71-4eca-b2ff-88bc2bd8ae91" xmlns="http://www.w3.org/1999/xhtml">
+                  <font face="Arial" GUID="d3a449f6-0855-4c80-9df0-c73727845038">
+                  </font> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="320532ec-9c59-4286-aea3-ee793ffd1c07" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="0a61f4b6-961e-4ac1-9a73-f89bac01c64f">
+                    <font face="Arial" GUID="55b29f4a-1e37-4053-9fc9-756da06d6bb2">the agency issues tender documentation describing what they need and inviting potential suppliers to submit a tender </font>
+                  </li>
+                </ul>
+                <div GUID="35c54625-201b-404f-9120-d28122c0e496" xmlns="http://www.w3.org/1999/xhtml">
+                  <font face="Arial" GUID="7881644e-a992-4d7f-9536-9d80e91caf87">
+                  </font> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c2eba185-64ef-4309-8142-af15847d75a0" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="69ea0d04-a295-4e8f-84fa-7db4b2d0ba41">
+                    <font face="Arial" GUID="debf015d-da0c-4b32-8aa1-c2b12d3e8ab6">suppliers submit tenders explaining how that supplier will deliver what is needed, how much it will cost and what terms and conditions should be in the contract</font>
+                  </li>
+                </ul>
+                <div GUID="e8c968c5-bc8b-4bdb-9b6f-b1c302ca7396" xmlns="http://www.w3.org/1999/xhtml">
+                  <font face="Arial" GUID="7a405af1-652b-46ba-a0d5-f66291ffa859">
+                  </font> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="eca4db8c-e67c-4f19-b5a4-e266bb877061" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="75049e6e-9e96-4371-8336-59e11f9a31ba">
+                    <font face="Arial" GUID="e5dd0c35-de8c-42e2-8e22-5a23bc2df9d2">the agency evaluates the tender submissions received and decides which tender offers the best value for money</font>
+                  </li>
+                </ul>
+                <div GUID="4ad5ac86-cfdb-46e9-a5fa-a65d1b13a756" xmlns="http://www.w3.org/1999/xhtml">
+                  <font face="Arial" GUID="e5ce7253-5bb1-49b6-bf09-1ed8b307dd74">
+                  </font> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="8221f36e-f1fb-4b6a-bdd7-fa9e6e61dacd" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="58173c82-da98-406b-8858-721c58ae9835">
+                    <font face="Arial" GUID="4a9dbbce-0395-416f-b5bd-1495b97f48f0">the agency negotiates with preferred supplier and signs a contract</font>
+                  </li>
+                </ul>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('0d4e74f1-4adc-40ad-a323-4abb4aad9b45');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="a188d3a9-62f4-430b-8a37-b263b520f60e">
+      <IncludedInTOC GUID="40532ab9-d501-4098-8ee1-a2d58cf2d58a">true</IncludedInTOC>
+      <Title GUID="1fc933a0-0d8d-44af-b785-78028f15b7ee">Who must comply with the CPGs?</Title>
+      <PageElements GUID="52448150-7191-4f5a-b99a-8fe8ba373c0e">
+        <PageElement GUID="e635e051-370f-4cd4-9390-7eecc02cf26a">
+          <Graphic GUID="0d6eced2-2a42-4687-a82c-7c1e54d73741"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/a81c563d-46f6-4c5f-92d9-c080603ece4e.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="856dc791-d9e4-4d8e-9815-83ae911e1f72">
+          <TextBox GUID="9bfa1f9f-7a00-42f0-9de7-01f6cad8105a"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="060d52ec-088d-418a-9fb2-1e88d72c2599">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="794f1923-5c8a-4744-a01d-00f7cd603c35" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="15a5535b-d28c-4755-b79a-3a55e4c4aba5">All bodies that are subject to the <em GUID="e9d09216-9c10-4168-aa71-145e2cfdd9e9"><a target="_blank" href="http://www.comlaw.gov.au/comlaw/Legislation/ActCompilation1.nsf/0/941B392689EDD64FCA25757D00817555?OpenDocument" GUID="94ef24c7-1260-461d-a628-6b08edb9a01d">Financial Management and Accountability Act 1997</a></em><a target="_blank" href="http://www.comlaw.gov.au/comlaw/Legislation/ActCompilation1.nsf/0/941B392689EDD64FCA25757D00817555?OpenDocument" GUID="d9f97bb6-b80f-4fe6-967f-b620317b1f94"> (FMA Act agencies)</a> must comply with the CPGs. Click the box below for further details.</font>
+    </div>
+    <div GUID="50d6b897-b87e-432a-bf49-60c32bee0076" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="49396c12-a571-41c0-bca6-e3fb6f11641f">There are also some bodies that are subject to the Commonwealth Authorities and Companies Act 1997 (CAC Act bodies) that have been directed by the Finance Minister to comply with the CPGs.  However, they are only required to comply with the CPGs when undertaking 'covered procurements'.  <font size="2" GUID="e80b4f1e-437a-4ea5-b929-78c983456267"><div GUID="d9eee2bf-db2d-450a-b841-7fe4b834b160"> </div><div GUID="712c9d9c-8055-405b-ad4e-22cccad7136e">Click the second box below to find out what agencies are FMA Act agencies and what bodies are CAC Act bodies.</div><div GUID="159440ea-bbfc-4759-b357-0190d82a341b"> </div></font></div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="3f4c8abc-3932-47be-9abf-d0f6b5d251eb">
+          <ExtraInfo GUID="a7326f07-a298-49a6-9cfd-35af7ddcd5f2"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('aaa02452-d5af-4da0-a61a-35e711968510');">Click here for FMA Regulation 7</A>
+      <div ID="Content_aaa02452-d5af-4da0-a61a-35e711968510" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="02efb7d2-257e-43fb-bbc3-d1f854fc8415">
+                <div GUID="de543bdc-4490-45c0-9050-628dac2689dd" xmlns="http://www.w3.org/1999/xhtml">Regulation 7 of the Financial Management and Accountability Regulations states that:</div>
+                <div GUID="7e0a0390-656e-4d94-aa03-52af28493aea" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="f65fcf88-5178-4f50-a5f5-68c59275339b">Commonwealth Procurement Guidelines (Act s 64)</div>
+                <div GUID="c31b587f-1e82-42b9-8542-6d2150d98bad" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" GUID="30981af7-5e08-4b72-9703-0fffd257592f" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="a12af610-d4df-4b65-9f37-e6fc243c3eae">The Finance Minister may issue guidelines (to be called Commonwealth Procurement Guidelines) in relation to procurement, including:</li>
+                </ol>
+                <div GUID="95f0ce6b-0a06-4193-9dd6-0e4430f8f292" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" GUID="a44a5f5e-86f1-406e-bb84-a20dd48bf0ad" xmlns="http://www.w3.org/1999/xhtml">
+                  <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" GUID="4a7d8dcb-1579-43b3-9aeb-67018012a3de">
+                    <li GUID="62f70bc6-843f-4b1b-b52b-848d0055bee2">procurement policies and processes; and</li>
+                  </ol>
+                </ol>
+                <div style="PADDING-LEFT: 50px" GUID="2feaa26f-0cab-45da-a5ae-5fe05a9182e5" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" GUID="997867d8-c738-4523-9327-2f21889727c6" xmlns="http://www.w3.org/1999/xhtml">
+                  <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" start="2" NDListNewStart="true" GUID="2a0363c3-c591-44f8-a458-7e4d013dc1dc">
+                    <li GUID="de0f2919-848f-4be0-bf20-6aa8838ca18b">requirements regarding the publication of procurement details; and</li>
+                  </ol>
+                </ol>
+                <div style="PADDING-LEFT: 50px" GUID="4f8bd89b-3fed-492c-9f3b-bbc75825c6b1" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" GUID="f89e4e71-fb2a-4b18-be65-021a56626ef3" xmlns="http://www.w3.org/1999/xhtml">
+                  <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" start="3" NDListNewStart="true" GUID="c278903b-277a-48c9-8087-374ee60b3521">
+                    <li GUID="9f49cbe9-aaa2-4912-b353-31099573c90b">requirements regarding entering into procurement arrangements; and</li>
+                  </ol>
+                </ol>
+                <div style="PADDING-LEFT: 50px" GUID="9651b5e6-1cf5-46ec-bb79-417f44285e88" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" GUID="faa9b30f-c8d9-4de0-a4cf-4005ebaf4150" xmlns="http://www.w3.org/1999/xhtml">
+                  <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" start="4" NDListNewStart="true" GUID="50cd50b4-7a2f-495b-970a-f5593d3a1df1">
+                    <li GUID="66180fd0-f7bd-4333-b49f-bfa68a456d1e">the disposal of public property.</li>
+                  </ol>
+                </ol>
+                <div GUID="90cfc5b1-391f-4eba-8cdd-37eb80c88cca" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="2" NDListNewStart="true" GUID="f1bf7b8a-56d9-4908-be97-b248b810dd94" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="12b6c97f-c313-4c74-8d4d-24bc9a7e0ca3">An official performing duties in relation to procurement must act in accordance with the Commonwealth Procurement Guidelines.</li>
+                </ol>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('aaa02452-d5af-4da0-a61a-35e711968510');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="5243b786-0d85-43e6-a496-13b4ac5748c1">
+          <ExtraInfo GUID="3e7a4721-0b82-49d1-a1cd-62c9d350fb40"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('96a333ac-b3dd-41db-8ff1-ca0d68e15f89');">Click here for FMA Act agencies and CAC Act bodies</A>
+      <div ID="Content_96a333ac-b3dd-41db-8ff1-ca0d68e15f89" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="8966351a-e9a8-4f00-a53d-93d73cb7691e">
+                <div GUID="9dbd8016-0c8d-41b9-b160-c7e41238c5d9" xmlns="http://www.w3.org/1999/xhtml">
+                  <span style="FONT-SIZE: 10pt" GUID="14db99db-b266-4ceb-9b28-f9dacffc63a8">
+                    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0pt; PADDING-LEFT: 0cm; FONT-SIZE: 10pt; MARGIN-BOTTOM: 0pt" GUID="e94e1551-1119-4ae2-92e3-5fa0735632b9">FMA Act agencies are Australian government bodies subject to the <em GUID="376eecd1-f696-42fb-9dea-49a70f529b15">Financial Management and Accountability Act 1997</em> (Cth) (FMA Act). Examples of FMA Act agencies are Departments of State, such as the Department of Finance and Deregulation and the Attorney-General's Department, and prescribed agencies, such as IP Australia and the Australian Taxation Office.</div>
+                    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 12pt; PADDING-LEFT: 0cm; FONT-SIZE: 10pt; MARGIN-BOTTOM: 0pt" GUID="702d0b96-8aaf-4015-8e24-da39f9e65e9d">A CAC Act body is an organisation subject to the <em GUID="0b221475-f38d-47d1-bf91-799f35c9dcc2">Commonwealth Authorities and Companies Act 1997</em> (Cth) (CAC Act). CAC Act bodies are legally and financially independent from the Commonwealth. Examples of CAC Act bodies include the CSIRO and the National Gallery of Australia. </div>
+                    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 12pt; PADDING-LEFT: 0cm; FONT-SIZE: 10pt; MARGIN-BOTTOM: 0pt" GUID="89b2a773-dc94-40cb-8f16-92f4c8ada8c8">The CAC Act allows the Finance Minister to direct some CAC Act bodies to comply with the CPGs when undertaking covered procurements. These bodies are listed in the Commonwealth Authorities and Companies Regulations (section 47A of the CAC Act).</div>
+                    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 12pt; PADDING-LEFT: 0cm; FONT-SIZE: 10pt; MARGIN-BOTTOM: 0pt" GUID="16ee9a30-58d9-4f7b-b84d-1b45eaca78ff">There are currently 18 Commonwealth Authorities and 1 company which are listed. There is a list of FMA Act agencies and CAC Act bodies that must comply with the CPGs on the <a target="_blank" href="http://www.finance.gov.au/publications/flipchart/docs/FMACACFlipchart.pdf" GUID="7a947e60-a494-4458-a940-06bce878310e">Department of Finance and Deregulation's website</a>.</div>
+                  </span>
+                </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('96a333ac-b3dd-41db-8ff1-ca0d68e15f89');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="54d1a70e-a890-4de0-a51a-d6b4eaa0d8fd">
+      <IncludedInTOC GUID="485ad891-a6e3-4bf0-862d-604d577379c1">true</IncludedInTOC>
+      <Title GUID="864bcf38-0227-4a16-ba4d-b5450941b1f8">What do the CPGs contain?</Title>
+      <PageElements GUID="9f7d7e8b-2a3e-4ea2-845a-f4d764769973">
+        <PageElement GUID="813b401c-7176-435c-b62c-1dc1c6995967">
+          <Graphic GUID="23116d93-5d12-4284-9366-2d98a6cc3cd6"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/d0483cc6-76f9-482a-ab2f-6849cabfaf5e.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="c8e0bc3a-6d43-48c2-bd11-1aca170365a7">
+          <TextBox GUID="b46c1115-5876-4df2-9178-bd798b82618b"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="b67ba5cc-5eba-495f-ad09-a98ebc286e4c">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="b88ec2cf-ad54-43de-984b-becfe80febb3" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="2e9a1223-933b-4bda-98c5-3a72c613e2a8">The CPGs are divided into two divisions:</font>
+    </div>
+    <div GUID="c7cba16a-3e86-40a1-af2b-65afaf1be74c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="b93a9ce4-6f0e-4bc7-a14d-71456c022d4c">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="8a3aff41-0362-40ae-8083-cbfa51aae1a1" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="3516bcb4-710f-4141-a793-28b7abf5f58c">
+        <font face="Arial" GUID="cb081863-fffa-4cb8-bfdc-79a0d6be5c28">Division 1 – Procurement Principles</font>
+      </li>
+    </ul>
+    <div GUID="60fd86f4-5ef2-447f-8de9-fd073c5f1f7f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="f53e6109-8923-41a4-a9df-5af01f175f9b" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="7b3d3626-91b3-43eb-ac93-0bd286fce55c">
+        <font face="Arial" GUID="360fe171-3de6-48d2-b9da-99b46d69c863">Division 2 – Mandatory Procurement Procedures</font>
+      </li>
+    </ul>
+    <div GUID="ca2a250f-6035-41c6-8012-75411ee3d981" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="dbf50fe9-c83c-418f-bf0a-ea722263f7df">Division 1 contains general principles that apply to all procurements.</div>
+    <div GUID="1f399a68-7573-469f-ba1d-a218809fac07" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="d0aae81b-3a00-4160-bb4e-6608c27a6697">Division 2 contains specific procedures that agencies must apply in particular categories of procurement, which are called 'non-exempt covered procurements'.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="1f58b5ff-dbf8-4a4a-a207-495d85a4fab6">
+      <IncludedInTOC GUID="b13708d8-2129-46a9-a726-004daf7a1c90">true</IncludedInTOC>
+      <Title GUID="515bb779-e8df-46ce-8035-65bc99536563">Procurement Principles</Title>
+      <PageElements GUID="9d6c749a-73c6-4c6f-9e7b-b59ea1316bc6">
+        <PageElement GUID="fe174e4a-be12-4016-a3d2-fd941504dc7a">
+          <Graphic GUID="c097fa6e-7aba-4848-bb26-398b08a2822e"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/710b9582-f7e8-4acc-a692-1bab0864adcb.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="81e397cb-9362-48ba-846d-b2d8dca04da8">
+          <TextBox GUID="3de41060-f1b8-4b5b-af09-233b1b70d42d"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7142d9fb-1ec1-4424-b052-ea5f5853160b">
+    <div GUID="bd06efd1-82ee-449a-ac72-cb3e4cd4980d" xmlns="http://www.w3.org/1999/xhtml">Division 1 CPGs contains four Procurement Principles. The first one is value for money.</div>
+    <div GUID="3b3cbbbf-ed01-4e9e-843a-6a9e959fe4e6" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="376fc089-bc59-4a05-ab97-6981d6bd6563" xmlns="http://www.w3.org/1999/xhtml">Value for money is the core principle underpinning the CPGs. Value for money requires a comparative analysis of all relevant costs and benefits of a proposal, including transition in and transition out costs.</div>
+    <div GUID="d5e5acda-93fc-429f-8795-3a5e7fb72d86" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="2c703024-d7bc-49e8-8dca-d48f9463868f">Assessing value for money includes more than simply assessing the cost. The CPGs list six other criteria that should be included in a whole of life value for money assessment:</div>
+    <div GUID="a33bd585-9f3c-4fed-b8a1-0ba9a425d763" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="f3f6b94a-15b0-4f4a-a391-574f8853d73a" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="17d57b6a-f01b-4c5f-87f6-0bdb5947e9d1">Fitness for purpose</li>
+    </ul>
+    <div GUID="c510a0ca-5a50-46f5-8da4-3c36ebcd550d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="981ac9d9-7074-4ff2-aea4-db87ade050a4" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="c007944f-594e-43f1-ace1-deb0a7ca227f">Performance history of prospective suppliers</li>
+    </ul>
+    <div GUID="4c75541c-94f7-4b56-a108-260c69420a1e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d458ba11-ebed-445e-8c67-1e0f93884245" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="4232a0aa-0e18-457d-856c-b4758b3a6af1">Relative risk of each tender</li>
+    </ul>
+    <div GUID="b9258a01-8e3c-40a4-b9ed-ae7c7fa54f24" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="f37be0b0-ee00-4b9e-9432-e992d7490bf0" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="ff687d1c-60e8-4b98-917f-c9b9a7f4763e">Flexibility to adapt to change over the lifecycle of the contract</li>
+    </ul>
+    <div GUID="4fe94250-0b19-47e4-a8f0-c718639a459d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="8d73d1b5-2149-4466-8f06-342d3b35571f" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="c9dc2d0c-78c2-4ad7-b50b-13adfe1dfd04">Financial considerations including all direct and indirect costs and benefits over the lifecycle of the contract</li>
+    </ul>
+    <div GUID="f3d33854-b270-4a3b-8e01-957e75fc8d82" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="a146d777-c58d-4efb-88a3-0a2f9a76b27d" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="806f43a0-34ac-44bc-97ab-c704ae07307a">Evaluation of contract options (eg options to extend)</li>
+    </ul>
+    <div GUID="dec4968e-97bb-4a65-a3c0-c6d16ac72707" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="6ad38b54-d5de-4345-a095-895e8c9647bc">The CPGs state that value for money is enhanced by following the other three Procurement Principles, <strong GUID="943be736-e615-4b93-8cb4-568cfe5aa2f6">encouraging competition, efficient, effective and ethical use of resources,</strong> and <strong GUID="12f32cb4-c5b8-4cde-9e83-bf5a6dff644e">accountability and transparency. </strong></div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="767559a8-87f1-4cfc-adea-8bf71d86ecb5">
+      <IncludedInTOC GUID="ab756e37-cb4a-4df1-b0bc-91d331260ea5">true</IncludedInTOC>
+      <Title GUID="c6d3d526-0228-4f29-b09e-c753a69bacc3">Procurement Principles</Title>
+      <PageElements GUID="540c30bd-d484-4bad-9b8f-a55c4677c174">
+        <PageElement GUID="8ba01c6d-2612-442c-9c63-888e5134a872">
+          <Graphic GUID="cfdd615c-97ae-4904-917f-e848f8b27a75"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/78364971-55d0-4f94-aadb-766ab0a494ba.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="bd0bb268-6191-4b00-9ac6-1bb48c3db8b9">
+          <TextBox GUID="da95d488-2b7e-43a4-a752-0af222cc3478"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="04831f27-9ba4-45aa-afab-5517f01a245d">
+    <div GUID="f0e34687-ec56-4b12-ae92-f3219b59ea54" xmlns="http://www.w3.org/1999/xhtml">The second procurement principle under Division 1 of the CPGs is encouraging competition.</div>
+    <div GUID="8835ba67-b5cd-4c6d-b673-a8f414f983eb" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="714932ba-26fb-4bfb-87af-52458b54fb58">Encouraging competition requires <strong GUID="1ad9dc3b-3803-4229-bc85-c8f537ea060d">non–discrimination</strong> in procurement and the use of <strong GUID="daccb033-fd20-4b0f-ad31-f3a0c7fd3c26">competitive procurement processes.</strong></div>
+    <div GUID="77261387-49fd-4a2a-b858-79b4f4023f3b" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="15786d3f-dfa3-4d39-8ae4-fc1b6921203f">
+      <strong GUID="7d73fd9c-74e1-4516-8e0f-ba6fa49bcf56">Non-discrimination</strong> is the principle that <strong GUID="5b9e60f3-7f0b-4047-a825-93b4c5ff4959">all</strong> suppliers should have the same opportunity to compete for Australian Government business based on their legal, technical and financial abilities and not on the basis of their origin. </div>
+    <div GUID="3dbee8d4-8ced-44d5-959f-4906b82419d4" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="88c54cf6-4e63-4641-a48a-a99749743aa3">The CPGs state that procurement methods should not discriminate against potential suppliers based on their degree of foreign affiliation, ownership, location or size. </div>
+    <div GUID="bef6816c-7236-4638-a881-d5c320016c50" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="2a2db8a3-5f59-4ec6-b5f7-095576cc1a22">Ensuring procurement methods do not prevent small to medium enterprises (SMEs) from participating is an important part of encouraging competition. For instance, agencies should not require a level of professional indemnity insurance too high for SMEs to obtain if that level of insurance is not necessary to cover the level of risk.</div>
+    <div GUID="758d7199-a4ff-43f3-82e8-1107c2cdd3cc" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="8e4ac8fb-af4e-4c20-ac58-727eac2ef3a7">Following the procedures in Division 2 of the CPGs will assist agencies in selecting <strong GUID="3f6cc249-d488-447d-be01-58783afe9e27">competitive procurement processes.</strong> Agencies can encourage competition by avoiding unnecessary requirements in specifications, avoiding inappropriate conditions for participation by vendors, advertising opportunities on AusTender, and specifying minimum periods for tender response.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page9" IsActive="true" GUID="36033b59-fbc1-4e00-ab2e-c95b00ec52cb">
+      <IncludedInTOC GUID="66d24fd7-7631-4397-9a4c-7778d850217b">true</IncludedInTOC>
+      <Title GUID="09c82314-4bd7-436e-9024-b1bcd8d472af">Procurement Principles</Title>
+      <PageElements GUID="2bb6705d-b836-4be8-9d1e-d03dbb8f4a50">
+        <PageElement GUID="bd5d5920-7d0f-4eee-b7b3-885d358afcaf">
+          <Graphic GUID="fd01a112-70dd-4141-ab27-4eeeef06c776"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/5f84462c-9363-4544-9097-2b3e4d5c96c4.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="1ac8b2f1-2b6c-47c4-aaf5-37edaa559be2">
+          <TextBox GUID="81b189c1-d509-4fee-8657-317e1c2a220f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="177fc275-bb13-4af0-8a85-905d75402fba">
+    <div GUID="bfe57aef-eb91-46a6-b820-e29b3ead6cfe" xmlns="http://www.w3.org/1999/xhtml">The third procurement principle under Division 1 of the CPGs is efficient, effective and ethical use of resources.</div>
+    <div GUID="67c6d805-978d-4797-884b-a89851a9affb" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="4518eb3b-e1ff-4862-af47-2b1cf5d751db">This mirrors the requirement under section 44(3) of the FMA Act. </div>
+    <div GUID="eced3812-6b0f-4d52-a946-84332adae9c5" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="0544e190-9db5-4915-940f-a9fdb26caff6">
+      <strong GUID="ab032f47-a198-4863-b744-faf6e2360e5e">Efficient</strong> use of resources relates to the productivity of the resources used to conduct a procurement in order to achieve the maximum value for the resources used. This includes selecting a procurement process that is consistent with government policy and is the most appropriate to the procurement objective in the circumstances.</div>
+    <div GUID="92fbdc65-94d1-4df7-9962-db00d6de1ed6" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="b42c334e-9c14-46d1-a475-792f24a177c9">
+      <strong GUID="89230ff7-4452-4452-8dbe-4e23e725a525">Effective</strong> use of resources relates to how well outcomes meet objectives. Agencies can ensure effective use of resources in procurement by accuracy in identifying the need and drafting the contract specifications, and assessing responses, managing and negotiating the contract with rigour.</div>
+    <div GUID="d00d2fb0-e20e-4a77-828b-2f84b3ce0382" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="1909a279-4849-4bac-ab28-6b770c0139a3">Risk management, particularly management of limitations on the supplier's liability, is very important to ensuring efficient and effective use of resources.</div>
+    <div GUID="fdf855a1-9fc4-42fb-b21f-09d94b33136b" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="d991ce34-1429-40dc-94d5-4dc23078cfca">
+      <strong GUID="2be3b482-2843-4b4b-a744-0f439382daba">Ethical </strong>use of resources includes acting with honesty, integrity, fairness, and consistency. Ethical issues that may arise in procurement include conflicts of interest and offers of gifts and hospitality from potential suppliers.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page10" IsActive="true" GUID="7657f339-bee8-40a3-8beb-7d33ce93f9db">
+      <IncludedInTOC GUID="5f3618c6-cb05-4245-ba83-9acfe08fc6b5">true</IncludedInTOC>
+      <Title GUID="0a454d20-e03a-4817-b3f9-8df37affa45a">Procurement Principles</Title>
+      <PageElements GUID="e73b0b96-16c8-42cc-bc47-74e102c32395">
+        <PageElement GUID="af199402-8636-4311-95c5-1fc2a4b90baf">
+          <Graphic GUID="fa69f4b2-d720-4f8d-aa32-3855e7a41ec7"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/04825182-5343-48d0-8278-2edc6e27c3d1.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="8625b85e-2a21-453d-8834-fb9f71881db9">
+          <TextBox GUID="cfde9458-f84b-4330-b4eb-fb29bb644524"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="8bf0e466-8838-493c-b348-544101f92ca7">
+    <div GUID="b8b4ed2b-55d1-4b9b-94f3-53aa9f4c875a" xmlns="http://www.w3.org/1999/xhtml">The final procurement principle under Division 1 of the CPGs is accountability and transparency.</div>
+    <div GUID="b6e696d3-d7f6-4967-a3b7-66c75738d056" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="b85cc1d5-fd25-4319-a6f1-033d9f1c41de" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="5de419b0-f609-4489-b891-08cf48063d8a">Accountability </strong>means that government officials are responsible for their actions and decisions and the resulting outcomes in procurement, including being accountable for complying with government legislation and policy. </div>
+    <div GUID="f579cc50-7bb9-45a6-b15f-acfc738fef50" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ab44baf3-fb59-4b5a-aca8-d0d172626c9e" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="30952990-fac5-46f5-b1aa-3a42be231530">Transparency</strong> provides assurance that agencies are complying with government legislation and policy in procurement.</div>
+    <div GUID="a34b9e1f-bc0d-4c22-acbc-3df1ad38c1c7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="d1f46b3d-16d8-4ef0-a291-8172fbaf222c" xmlns="http://www.w3.org/1999/xhtml">Maintaining documentation recording how a procurement was conducted is vital to accountability and transparency. Agencies need to ensure there is sufficient documentation to explain the reasons for the procurement, the process followed and the reasons and basis for all decisions.</div>
+    <div GUID="95457056-bb67-40d5-8165-59f84525bfec" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="11d39da3-8e78-47de-9060-b4cca98a6736">There are some reporting requirements under the principles of accountability and transparency.  One of these is the requirement to report Commonwealth contracts or deeds of standing offer and amendments to these arrangements on AusTender within 6 weeks of entering into the arrangement. </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="3193b981-7808-496e-8541-282dea6520a3">
+          <ExtraInfo GUID="c1caff44-58df-4eb6-9985-54902da34235"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('0c6e4f8b-96e4-477f-a9ce-be0cf8229a99');">Click here for AusTender</A>
+      <div ID="Content_0c6e4f8b-96e4-477f-a9ce-be0cf8229a99" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="fd3e56b1-ffb0-4c12-9ff3-ed5894fa8312">
+                <div GUID="b506bab4-aa6b-424c-9593-28e9105742a3" xmlns="http://www.w3.org/1999/xhtml">AusTender is a website where Australian government agencies publish government business opportunities, annual procurement plans, multi-use lists and contracts awarded.</div>
+                <div GUID="dfde388a-31f3-42de-936c-fa3f3791e870" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="b52892b7-b664-4c52-9cfb-52590b962141">AusTender includes facilities for Australian government agencies to release tender documentation for response and receive tender responses electronically.</div>
+                <div GUID="cdaac001-ccc6-4e77-a8fc-ba6be2d15b18" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="413e8758-1b8b-471a-b346-efa2ab1ab1d0">Further information can be accessed on the <a target="_blank" href="http://www.tenders.gov.au" GUID="86fdac50-c5fd-4119-88ec-58dd1dd6a22a">AusTender website</a></div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('0c6e4f8b-96e4-477f-a9ce-be0cf8229a99');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="072db63e-bae9-4dad-9010-f243a622d03c">
+          <TextBox GUID="fa983a3a-ac4d-4a13-b3e2-14ca743ee0d0"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="0a33058e-eef8-4bab-91cf-8d08f0992bf0">
+    <div GUID="759f2b9e-40ca-400c-9ec3-a67923763e90" xmlns="http://www.w3.org/1999/xhtml">For FMA agencies the reporting requirements apply to all contracts over $10,000.  </div>
+    <div GUID="4a834a45-e494-4052-9e72-48f1f4d7a9a9" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="a5d8d835-b73d-4dcf-b50f-c17663bb4272">For CAC Act bodies the threshold is $9 million for procurement of construction services and $400,000 for other procurements.</div>
+    <div GUID="5b1a6e6a-b5c5-4106-b867-3ba0ef47c9a5" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="e0ee19db-4ca5-4914-a8df-f1a8cefebb6a" xmlns="http://www.w3.org/1999/xhtml">Agencies need to balance the need to keep their own and suppliers' information confidential against their reporting and disclosure obligations when conducting procurement.  <a target="_blank" href="http://www.finance.gov.au/publications/fmg-series/docs/FMG_3_Final_for_Publication.pdf" GUID="31275580-87ae-4ec7-8fd4-9af78ac53ff9">The Guidance on Confidentiality in Procurement</a> sets out further details regarding confidentiality obligations to suppliers: </div>
+    <div GUID="dc09af61-a181-4baf-93d6-35af12f0ad21" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="022a983c-dc13-4997-9d96-a851ffe70e2a" xmlns="http://www.w3.org/1999/xhtml">The next section covers the Mandatory Procurement Procedures</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page11" IsActive="true" GUID="7c0fa919-8ec9-45c2-884a-bd9785e6f81f">
+      <IncludedInTOC GUID="c44b7211-6492-4e87-bd02-82f87e453b13">true</IncludedInTOC>
+      <Title GUID="855385ab-5662-44f9-86d9-52328d86dde0">Mandatory Procurement Procedures</Title>
+      <PageElements GUID="7ef8375d-3067-485b-98cd-c41c57ed16c1">
+        <PageElement GUID="df7ad380-b96a-4e1e-b288-004ab2b10b2d">
+          <Graphic GUID="6a9a36df-2d24-4e21-9d35-20ecca688931"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/08c65dcc-110e-49fd-9160-11bc04986d92.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="518f25f0-cd07-41b0-931e-bc0d70f8b76a">
+          <TextBox GUID="e5328056-250e-449a-919c-c6f2b4412180"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="f43a034c-21af-428c-b816-10a4f8ba1963">
+    <div GUID="94be9d3f-1e78-41a6-96c7-af0103201efe" xmlns="http://www.w3.org/1999/xhtml">Division 2 of the CPGs (Mandatory Procurement Procedures) outlines procedures that agencies must comply with when procuring goods or services where the value of the tender is over a certain threshold and not covered by an exemption.</div>
+    <div GUID="4235e493-62fc-4878-a7fd-3524e30b51be" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="4947a7cf-9cad-4cb0-9f5b-580604cdc2e3">The Mandatory Procurement Procedures cover:</div>
+    <div GUID="cf5a694d-c45a-4f78-93e0-d808f3ef7bb1" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="8cdf0ee3-5238-457d-b700-e3dbb9e759ab" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="5302abc2-cb9e-4d51-b6c3-7ba056427e5c">choice of procurement method</li>
+    </ul>
+    <div GUID="cb764ff9-f577-45c1-a700-eaa7ad0ea59b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="8db8e82f-e339-417d-b18b-84142ff651a1" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="ce192884-ffc5-4e12-ab5e-1613297d7f19">drafting tender documentation</li>
+    </ul>
+    <div GUID="6f6415a6-5660-49bc-9157-a02671bcb713" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="9ca33033-17cd-4cef-bcf4-f7860850b4fb" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="33499a40-e9b6-4679-97d1-5a9d28997be8">conditions for participation in tenders</li>
+    </ul>
+    <div GUID="c50efbf8-ecc5-41df-bcd9-f1fb57f947b0" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="95bf390c-69f7-4da1-ac76-8506908eb599" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="333b8cce-4c23-4131-8220-099699f46dd0">minimum time limits</li>
+    </ul>
+    <div GUID="3c87bf1f-f76a-4641-b043-eb607fe44ae2" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="5fb07964-965a-439d-afae-150799cd99d4" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="b282d7f0-1a26-4c24-ba7e-a27e86e16fcb">receiving and opening submissions</li>
+    </ul>
+    <div GUID="405fdf42-ac9a-4754-8f59-401cdecf3b77" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="9155fcaa-7a05-4bbd-9506-ee19771cc1df" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="080abe7f-dbd3-4fbf-be2e-73d14e261a3a">when agencies may award contracts</li>
+    </ul>
+    <div GUID="efd67179-3ea2-405c-a9ed-01e14e9efba7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="7a639f18-ebb6-4ea6-978e-a59aa50dc45f" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="2955fded-fcea-4afb-a352-8624d321205a">how to notify successful and unsuccessful suppliers about the decision</li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page12" IsActive="true" GUID="52d48b20-84c5-412c-8efd-3e35d72dd66b">
+      <IncludedInTOC GUID="0308456a-53fa-44f3-b431-d83b6d54f3ff">true</IncludedInTOC>
+      <Title GUID="fa3687b2-2d29-479d-abbe-56862e22d4eb">Covered Procurements</Title>
+      <PageElements GUID="7784df90-787b-4638-93b1-cb1a9086b74d">
+        <PageElement GUID="60650758-5cd5-430d-b8e8-37877337fa98">
+          <Graphic GUID="c58ecc33-16e1-41db-bb0b-f520b023eb9e"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/2822aa48-3e7a-4205-8880-63b726aeecc9.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="283d8574-ba87-4d7e-86c8-523e80e7ea4c">
+          <TextBox GUID="74b79d62-a2b0-4bb2-8b37-c08310b75cd0"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="0d3a18a1-4354-4b9f-b814-2bd8b503f571">
+    <div GUID="760525c1-0821-46d7-8e6a-40bd573fab5e" xmlns="http://www.w3.org/1999/xhtml">Agencies conducting procurement need to determine whether the Mandatory Procurement Procedures in Division 2 of the CPGs apply by following two steps.</div>
+    <div GUID="f5fb11c5-df56-402a-a619-b0100b1d37c7" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="915b33f4-8513-46cd-a210-bea9efe38c38">
+      <strong GUID="99a5bacd-9ea4-42a9-922b-bd9a6a2ee8d1">Step 1</strong>
+    </div>
+    <div GUID="8abf6bd5-a565-4c56-bc27-fda7b5f351ee" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="7f117fa4-cc90-460b-ac2d-0f1db85d0992">First, agencies must determine whether the procurement is a covered procurement. Division 2 (Mandatory Procurement Procedures) of the CPGs defines covered procurements in paragraph 8.4. </div>
+    <div GUID="ff056fc7-ab06-4a86-aad1-2526814fd34a" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="5a0605a4-fc0e-4868-b584-3d110725ce7c">A covered procurement is a procurement with an estimated value over a certain threshold:</div>
+    <div GUID="da81768f-269f-4854-92b4-f28667fdc3ba" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d83782f8-aa3b-4433-9ccd-0ca58565b503" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="afafb48a-543b-4fdb-bb32-b905373c2727">for construction services the threshold is $9 million</li>
+      <li GUID="94693613-d0b8-4df8-8a34-97a18a975122">for FMA Act agencies, the threshold for procurements, other than construction services, is $80,000</li>
+      <li GUID="8f16f1c9-1da4-43fd-85dc-6bd0b75e4750">for CAC Act bodies, the threshold for procurements, other than construction services, is $400,000</li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="e651487b-b992-4a18-ad3b-3e78de03e369">
+          <ExtraInfo GUID="8e6cf0a6-7e2e-4a87-bfd4-31e5afc087e3"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('877f44cd-d701-4d79-9fe3-2e051ac97308');">Click here for estimated value covered procurements</A>
+      <div ID="Content_877f44cd-d701-4d79-9fe3-2e051ac97308" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="fbbad635-5aa8-40fe-bcd0-12ed2a3498aa">
+                <div GUID="6fb94201-ff1f-43b6-8a5d-0e47a20adcef" xmlns="http://www.w3.org/1999/xhtml">When valuing a procurement agencies are required to take into account any options to extend in the contract and all forms of costs including 'any premiums, fees, commissions, interest and other revenue streams' as well as 'any taxes or charges' including GST under paragraph 8.6 of the CPGs. </div>
+                <div GUID="7828b22c-196d-4a72-af39-8faf946e79b0" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="3f20d12e-d8ee-46ba-8d11-6d8acaf2a48e">Attempting to avoid a procurement threshold by dividing the procurement into separate parts is inconsistent with the Mandatory Procurement Procedures. If the valuation of the procurement is close to the threshold or there is a possibility it may exceed the threshold, the Agency should consider the procurement covered (see the Procurement Policy Framework FAQs Question 34 on the Department of Finance and Deregulation website). </div>
+                <div GUID="f45a97e4-2141-40b2-81dd-a45ac8e1bf3d" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="875e2a48-9439-4167-9e0e-7020ec5d432a">If agencies are not sure whether or not a procurement will be valued over the thresholds they should treat it as a covered procurement.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('877f44cd-d701-4d79-9fe3-2e051ac97308');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="2093820b-f3fe-47b4-aa07-4ee87b1ca23b">
+          <TextBox GUID="71a56d6d-3654-447b-af9a-b69afd5370ad"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="5793dd0b-fc4f-4a0d-bf81-bdad750d2457">
+    <div GUID="3f412eb4-f4e7-45f6-aa13-5321700e4908" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="6293c743-0950-4f60-881b-972e585d24c6">Step 2</strong>
+    </div>
+    <div GUID="4d5853ea-b4d9-48c4-97f0-535022a19495" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="9408f71e-8d4d-411f-b928-b0504ca32e72">Agencies must comply with the Mandatory Procurement Procedures when undertaking a covered procurement unless it is exempt.</div>
+    <div GUID="4b73c454-08a1-44ec-8573-f552ece69e45" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="6dc5faa4-5577-4b3e-b6c4-28627855347c">Appendix A of the CPGs specifies 15 categories of exempted procurements. </div>
+    <div GUID="6ea93260-a0c8-4a60-b78d-7e2c0fede902" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="7cafc264-a928-473b-87d4-f99553ec0e5f">If an FMA Act agency conducts an exempt procurement it must still comply with the procurement policy framework and other government policies specified in the CPGs.</div>
+    <div GUID="9a195a44-460b-43df-810b-0d9b257e8115" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="d1566909-0b72-46ec-9d0c-94dd3aea8c05">If a CAC Act agency conducts an exempt procurement it is not required to comply with any parts of the CPGs.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="f11ce000-7428-48a9-aaa8-364ffbad4047">
+          <ExtraInfo GUID="3d010e1c-ee5f-4901-a9b2-8c63d9a7985c"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('dcd20717-f8d4-4bf9-bec8-deb20ff2e3cc');">Click here for exempted procurements</A>
+      <div ID="Content_dcd20717-f8d4-4bf9-bec8-deb20ff2e3cc" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="9e43e624-f0be-4568-be21-45c8e8e1835a">
+                <div GUID="33b87c28-9c79-445b-8e72-4d89cc202e0d" xmlns="http://www.w3.org/1999/xhtml">Examples of exempted procurements include:</div>
+                <div GUID="3452cefd-98b1-4506-a7ca-2057fde436c9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="2e7a30a3-0bc3-4f5e-8d75-a5ee58fa632f" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="f8477b88-09c2-4f0d-9a5d-ef5ecef93f12">leasing or purchasing of real property or accommodation</li>
+                </ul>
+                <div GUID="4941f0dd-38a6-4588-ac29-0df8a4774816" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="db74e53b-493f-4f8e-b397-712a5b989ceb" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="3dd9a1e0-d0ed-4c32-8cd8-ccb2e97b55c7">the procurement of government advertising services</li>
+                </ul>
+                <div GUID="5f84c85c-2c64-4bf0-a2d0-4fdd2a8b296f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="4b46e3de-c1ec-41dd-91cf-d1e65d808e51" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="dd538f42-f932-4767-9c9a-7461f02fcd67">the procurement of motor vehicles.</li>
+                </ul>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('dcd20717-f8d4-4bf9-bec8-deb20ff2e3cc');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page13" IsActive="true" GUID="9ef71898-32b2-407c-a62a-7bf129232aff">
+      <IncludedInTOC GUID="bda749c4-07a5-4f06-9ee1-f396a0050c40">true</IncludedInTOC>
+      <Title GUID="5a12eba6-84a0-497b-8ee9-de7e3ba0816c">Time Limits</Title>
+      <PageElements GUID="c8d8c79c-29f0-41fe-b7af-42476d6979ab">
+        <PageElement GUID="1b6cdf08-1969-4535-90ef-9de93445d26b">
+          <Graphic GUID="31c84c4e-d700-4698-b3db-468609fcf76a"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/adc0e557-0248-47a5-9649-a963f3da8cfe.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="80146496-3820-466c-9ddd-59a0290f5f1c">
+          <TextBox GUID="0407516c-c894-4ca0-a645-076788dde2f6"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="62ec85dc-2881-4c63-abe1-cbaabe31c09e">
+    <div GUID="6569b1dc-a123-46c9-95de-8702f6c8aa94" xmlns="http://www.w3.org/1999/xhtml">If the Mandatory Procurement Procedures apply then one of the things agencies must consider in planning the procurement and issuing tender documentation is the minimum time limits for organisations to lodge tenders. </div>
+    <div GUID="6bf55af5-d0b1-4617-98d7-22999ae639e1" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="b40bb584-a7bc-4ad9-a23f-532cb0eb08eb">The Mandatory Procurement Procedures state that there must be a common tender closing time for all organisations.</div>
+    <div GUID="cbb4e9ab-107f-4c2a-a628-47b2cfba6f0c" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="d976f1a0-0509-4c7d-aa8e-c6e64f25bda5">Agencies issuing an <a target="_blank" href="http://content.compliance.bdw.com/Contentfiles/popup.html?url=Government/footnote1page13.html" GUID="c665ee31-1918-4b46-88d9-037d524829fe">open tender or a select tender</a> must allow a minimum of 25 calendar days from the date and time the agency publishes the tender for the tender lodgement deadline. </div>
+    <div GUID="5dde4bd4-a8ed-4cc7-a65c-0c0ee27abf2b" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="b28de2eb-3fea-41f5-b1d6-84a9f9f4c0a0">In certain circumstances the CPGs allow agencies to establish a time limit for lodgement of submissions that is less than 25 calendar days.  The circumstances are listed in paragraph 8.58 and include:</div>
+    <div GUID="1f6e4950-6207-4b16-a522-b7311624c520" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="77f2ff78-e01a-4e8e-abe3-2c7d19842cf0" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="5ccc60e3-1de5-447d-b115-952fe30a4ae4">where the agency has already published details of the procurement in their Annual Procurement Plan between 30 days and 12 months earlier</li>
+    </ul>
+    <div GUID="e51606d1-0f55-44a5-be0f-a425204afbed" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="01c3cbe1-dad1-4593-b981-553ddac00d20" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="02800b5a-f103-42e5-814e-2839b634b745">where there is a <a target="_blank" href="http://content.compliance.bdw.com/Contentfiles/popup.html?url=Government/footnote2page13.html" GUID="0827cc49-5bf6-4627-ba86-9a6c2641e334">genuine state of urgency</a></li>
+    </ul>
+    <div GUID="3b079ffb-b8a9-4c85-958d-c5e60822d87b" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="16bfb624-0220-4754-b011-25bbbe7625bb">In all cases the  time limit must be at least 10 calendar days, must be reasonable and allow sufficient time for potential suppliers to prepare and lodge submissions.</div>
+    <div GUID="af203369-983b-4c3b-9003-a2b840540c4d" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="4f19654d-a2ae-41c8-bc99-a7febb40dc80">If the approach to the market is not advertised or published on AusTender, the minimum timeframe is extended to 30 days.  This gives agencies an added incentive to comply with the requirement (in the CPGs) to publish invitations on AusTender.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page14" IsActive="true" GUID="cd3da3f3-6cc6-436f-b4fc-5ef1fd98d54e">
+      <IncludedInTOC GUID="0a22f25f-01a4-4f37-b903-e2470e3fc13d">true</IncludedInTOC>
+      <Title GUID="d035f033-8350-4c7b-80aa-25e58f1414cd">Tips for applying the CPGs</Title>
+      <PageElements GUID="a03fd05f-c970-4420-8590-8aecca411359">
+        <PageElement GUID="e0fbe0f0-9eb5-4829-82b8-108ebeefeaaf">
+          <Graphic GUID="11443137-bd54-4958-92e1-c21ea51e9ab2"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/d50e8075-406a-4ff0-82ef-5e64643104cc.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="b3ab0d8e-47ab-4139-ab33-85ac7ec3145f">
+          <TextBox GUID="02813ec5-7b25-4dd7-8fb8-f65dda0a6241"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="32ee9be9-d7f3-43c1-9fea-78c1cbc16673">
+    <div GUID="184d678b-dbc9-40a9-92ca-447ebf8410be" xmlns="http://www.w3.org/1999/xhtml">The key questions to ask yourself to determine whether the CPGs and the Mandatory Procurement Procedures apply to your procurement.</div>
+    <div GUID="066d9661-a9ee-4c40-82e0-11d2a812ddbe" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" GUID="31f3bf7d-ff84-47a4-8702-2cfc66c700ef" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="866f69ed-c910-43ee-9f47-6356e137dc75">What kind of agency is procuring the goods and services? Is it an FMA Act Agency or CAC Act body?</li>
+    </ol>
+    <div GUID="85f89c34-9c6d-4a93-b631-7c32222d934c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="2" NDListNewStart="true" GUID="8550b4e4-fffe-4b52-88d1-4e30875f8748" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="9a4a517c-981b-4aa0-bd99-7c89e188f755">What type of goods or services are you procuring?</li>
+    </ol>
+    <div GUID="760e0678-dbec-4ffb-ae4e-6014e5d568e8" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="3" NDListNewStart="true" GUID="9fd59b7e-4d98-4625-b59c-65b0f1cd4390" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="b4c739e6-02d4-499f-a8fc-52d626c43b5b">Which threshold applies ($80,000, $400,000 or $9 million)?</li>
+    </ol>
+    <div GUID="6454eaad-b11e-44df-80ea-59425216512f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" start="4" NDListNewStart="true" GUID="44f5c160-fa3a-4e26-9d21-128cf722e2fb" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="3fc53ddb-6cab-4ea7-b920-839df6933b78">If the estimated value of your procurement is over the relevant threshold, is it exempt?</li>
+    </ol>
+    <div GUID="e5e99c5a-e555-4d36-8670-98ef6c9a7f04" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="91ee869a-9391-4b3e-9170-edeaee38f9c0">The Procurement Policy Framework FAQs on the <a target="_blank" href="http://www.finance.gov.au/procurement/procurement-policy-and-guidance/procurement-policy-faqs.html" GUID="a331ab8f-d9b7-40f5-a949-eda428a0c42f">Department of Finance and Deregulation</a> website are a useful resource in applying the CPGs</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page15" IsActive="true" GUID="9957a8f5-a4a8-4488-a7a5-76424963bc93">
+      <IncludedInTOC GUID="83e40335-fdbf-49a7-a6dd-10c865caa4bf">true</IncludedInTOC>
+      <Title GUID="07c8490a-598b-40f4-b575-81cd658ed9ab">Scenario 1</Title>
+      <PageElements GUID="2e01e334-fe9c-4d48-84d5-daed827758a1">
+        <PageElement GUID="b2ea1ee0-77cb-40d2-97ef-e8a93108e10e">
+          <Graphic GUID="16faf35f-57eb-44ca-a085-25a2b5bc1938"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/350884ab-ae00-43c3-b51b-09fda9d8f510.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="91ad3865-2746-4b80-9699-afde5839367d">
+          <TextBox GUID="a63eb8f9-eb59-4785-85a9-6ae913cfc951"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="51002e1d-abc2-4511-a93f-9215ad2b8ac0">Do you remember the scenario?</Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="4a9307e3-6d5d-404a-a090-9f777d1dd2a9">
+          <ExtraInfo GUID="19a5ebf8-c5f0-4d73-8fc9-d2a4b4f46e61"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('1e33558e-6168-477c-afcf-f899a26effcf');">If not, click here for a reminder and then try answering the question below.</A>
+      <div ID="Content_1e33558e-6168-477c-afcf-f899a26effcf" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="bc598834-982c-4adc-8593-69e8b4c1b1d1">
+                <div GUID="b1e199b1-a293-470a-b55f-7bf175c47742" xmlns="http://www.w3.org/1999/xhtml">Imagine that you work at the Department of Education, Employment and Workplace Relations. </div>
+                <div GUID="5ebcccbc-1870-47a5-9e64-aafa49aff09e" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="c79f731b-5eca-47f4-a2cf-5c4a19ddc5ee">The Department wants to acquire new office premises in Canberra to accommodate about 400 employees.</div>
+                <div GUID="b4ac1d48-a4f3-4a28-afb9-79f52bf6febc" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="1fca1df6-e9b1-422d-b242-ea05130dbbe6">The Department decides it would be best to engage a contractor to build purpose built premises on land the Commonwealth already owns. The estimated value of contract is $35 million.</div>
+                <div GUID="6d73f0ea-585f-4f7f-821e-b859468faa9f" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="47131805-b316-41c5-ba7b-25c32e326667">You have been appointed as the project manager.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('1e33558e-6168-477c-afcf-f899a26effcf');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="99f53e9b-fe94-4731-8b27-c005349458a8">
+          <MultiChoiceQA GUID="69755418-e3d0-4d26-8ecd-caa0986bcbfd"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="128c80e5-65d5-4862-8e9d-ac45d81788a7">
+      <div GUID="223077cd-98cc-449e-ada7-eed033801b5c" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="32e365a4-8eca-42db-a483-29b7fd55e9e6">Do the CPGs apply to your agency?</strong>
+      </div>
+      <div GUID="2460bce1-200c-4620-a8ae-4902ebedeb04" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q128c80e5-65d5-4862-8e9d-ac45d81788a7" ID="A1d69d9ce-bf0f-4d50-9ecb-7578aae9fda5" onClick="ShowAnswer('1d69d9ce-bf0f-4d50-9ecb-7578aae9fda5','true');">
+      <AnswerText GUID="6f92204a-1b3f-4aa0-b556-7214fd64c9e0">(a) Yes</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="1d69d9ce-bf0f-4d50-9ecb-7578aae9fda5">
+      <Feedback GUID="2296f2b0-200c-44af-a6d5-894623583e29">
+        <div GUID="2b04f5bb-cdda-485b-8385-0eb58cb279ad" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="d20c0cd7-c2dd-4419-a63b-9db8f5a4e886">That is correct.</strong>
+        </div>
+        <div GUID="19d64ce7-ce5c-407b-a790-13bd3370b6d7" xmlns="http://www.w3.org/1999/xhtml">
+          <br GUID="96c4fd91-2f6e-4d1d-8d8f-89d3a68cb224">The Department of Education, Employment and Workplace Relations is subject to the FMA Act. All Departmental officials are required to Regulation 7 of the <em GUID="30dfb9f6-a4db-4080-9efd-0e078dc991a0">Financial Management and Accountability Regulations </em>to comply with the CPGs.<br GUID="2be0664c-325f-4e14-bb19-ab338180bd51"></div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q128c80e5-65d5-4862-8e9d-ac45d81788a7" ID="A05f08fb8-2a75-4ba7-a044-964596a88de5" onClick="ShowAnswer('05f08fb8-2a75-4ba7-a044-964596a88de5','false');">
+      <AnswerText GUID="fd4f949a-165a-4511-8478-fdff8834be9b">(b) No</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="05f08fb8-2a75-4ba7-a044-964596a88de5">
+      <Feedback GUID="4debd16e-1c40-441d-b17e-4868866cfaf3">
+        <div GUID="a7fb8f0e-c009-487b-97e1-07a2d4808c4f" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="c2b76086-8d6a-4d8e-a548-445b57df2f30">Sorry, that is incorrect.</strong>
+        </div>
+        <div GUID="93f5a82e-42f8-4bd5-ba40-7231416b289d" xmlns="http://www.w3.org/1999/xhtml">
+          <br GUID="1670e865-74a7-4ffc-b0e9-f21ab2cf29b7">The correct answer is 'yes' because the Department of Education, Employment and Workplace Relations is subject to the FMA Act. All Departmental officials are required to Regulation 7 of the <em GUID="9d0874e4-3fdb-4f44-aff8-ffc926b33ec3">Financial Management and Accountability Regulations</em> to comply with the CPGs.<br GUID="40339370-23ef-4a78-9691-303327a456fc"></div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page16" IsActive="true" GUID="21e7a0cd-cb43-4c26-9a96-0ef20deff997">
+      <IncludedInTOC GUID="96205bfc-74f3-4bb3-a8d8-083df020da0a">true</IncludedInTOC>
+      <Title GUID="22f26efb-9dbb-4c33-aaf5-95ef0ba50f37">Scenario 2</Title>
+      <PageElements GUID="170959c5-a809-4916-bbc2-2b6a6511151b">
+        <PageElement GUID="bdeee9fe-2066-49a8-a00a-539363aeca2c">
+          <Graphic GUID="ab016db7-dd6f-4154-a02a-0270792f277b"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/569b8a76-9d0f-4d54-a2fb-d0ea9f34e6f3.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="188a096b-ec91-4301-8671-cb27a79ea71a">
+          <TextBox GUID="1a59c106-ea13-4011-a19f-fe5866c8599c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="ec66f735-03e6-4607-96f4-c897495cc27a">Do you remember the scenario?</Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="dca63f44-5917-45f5-81f0-e1da84490313">
+          <ExtraInfo GUID="f7d4bdbf-f0a9-4f47-97ba-95e48dfc2f5b"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('6f2c66bb-0527-4ac6-96ab-73e8a73802bd');">If not, click here for a reminder and then try answering the question below.</A>
+      <div ID="Content_6f2c66bb-0527-4ac6-96ab-73e8a73802bd" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="f4870034-c60e-42d7-a3d2-a61932aededc">
+                <div GUID="167153ff-c706-4661-806e-affced22a33d" xmlns="http://www.w3.org/1999/xhtml">Imagine that you work at the Department of Education, Employment and Workplace Relations. </div>
+                <div GUID="d1b06f8e-0115-483f-86bc-b9d44685989d" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="4644bb95-4b31-45bb-b990-d7083075faf4">The Department wants to acquire new office premises in Canberra to accommodate about 400 employees.</div>
+                <div GUID="7d7f1126-fa1f-47fe-a93d-a8df7f69cc93" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="e30feae6-118e-4e9f-96bf-36347b700088">The Department decides it would be best to engage a contractor to build purpose built premises on land the Commonwealth already owns. The estimated value of contract is $35 million.</div>
+                <div GUID="5eee9080-a641-43c9-9264-ce30ccd39b30" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="d214bb79-a0ec-4721-a38b-fbcb34981afb">You have been appointed as the project manager.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('6f2c66bb-0527-4ac6-96ab-73e8a73802bd');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="287fe041-702a-4c92-a337-1446a5f0b271">
+          <MultiChoiceQA GUID="7281cdbf-51c5-49c1-be5a-5c3b4a5b8025"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="8be73166-154a-4968-af45-9ce825cfbec9">
+      <div GUID="231aad56-0f5c-44e1-8bcd-15e9f521d780" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="014c6197-2dd7-4ed5-9816-df4fa4ec8d94">Do you need to comply with the Mandatory Procurement Procedures?</strong>
+      </div>
+      <div GUID="0b77e96d-16a0-4b00-b476-9dcdaa684ba3" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q8be73166-154a-4968-af45-9ce825cfbec9" ID="Ab6172f08-b101-4d7e-8730-6543915101a6" onClick="ShowAnswer('b6172f08-b101-4d7e-8730-6543915101a6','true');">
+      <AnswerText GUID="2cbf333c-099a-4f28-8e76-188ec45573ac">(a) Yes, the procurement is a covered procurement.</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="b6172f08-b101-4d7e-8730-6543915101a6">
+      <Feedback GUID="d74f6063-4775-480c-b90e-638fe6da85ab">
+        <div GUID="eafc7c18-3d02-42c9-967c-c69ab38dfe98" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="60f232ae-64a3-4f93-81f8-e8d4d10baaf1">That is correct.</strong>
+        </div>
+        <div GUID="f4906808-ce56-4072-bbe6-0c91e6d1b46f" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="3e64231c-4b9d-43b6-909c-5efed4a2a48d">
+            <br GUID="a93e412f-d4a4-428e-9510-fbd2553a0938">
+          </strong>The value of the procurement is over the relevant threshold of $9 million dollars for construction services in paragraph 8.4 of the CPGs and it is not within one of the categories of exempt procurement in Appendix A of the CPGs.<br GUID="ec731f3f-5e3d-49b6-a5b2-cb764079da30"></div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q8be73166-154a-4968-af45-9ce825cfbec9" ID="A097ef087-b2bd-496a-8f72-cf9651e6b882" onClick="ShowAnswer('097ef087-b2bd-496a-8f72-cf9651e6b882','false');">
+      <AnswerText GUID="fd5d181f-1ae2-4c2d-a6eb-a623fba6c054">(b) No, the procurement is below the relevant threshold.</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="097ef087-b2bd-496a-8f72-cf9651e6b882">
+      <Feedback GUID="9b9024d4-4b21-4cb4-beab-77b482c14c27">
+        <div GUID="071770ec-69af-400a-931d-6af3249cb9db" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="8572676b-ed10-47c2-9855-5dcccaec8bdd">Sorry, that is incorrect.</strong>
+        </div>
+        <div GUID="55a7a001-01ad-40aa-a1b7-0c6c358d3c64" xmlns="http://www.w3.org/1999/xhtml">
+          <br GUID="6e3735fa-76a1-4b03-a886-2424e3d1c426">The building of a new building is construction services and the relevant threshold is $9 million under paragraph 8.4 of the CPGs. The project's estimated value is $35 million and is over the relevant threshold. Therefore, the procurement is covered and you must comply with the Mandatory Procurement Procedures. The correct answer is 'yes.'<br GUID="13dc91c9-bf1b-4fb3-947e-d604b53de4de"></div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q8be73166-154a-4968-af45-9ce825cfbec9" ID="Aa59251e1-c9ed-46ec-a998-c7d22ad6e88a" onClick="ShowAnswer('a59251e1-c9ed-46ec-a998-c7d22ad6e88a','false');">
+      <AnswerText GUID="eeb4e6cf-7d90-4977-b177-295529c68e24">(c) No, the procurement is above the relevant threshold but it is exempt.</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="a59251e1-c9ed-46ec-a998-c7d22ad6e88a">
+      <Feedback GUID="0eae4a4c-cbaa-4f1c-b99b-1cec742c0bf0">
+        <div GUID="58a0272f-4027-4cbe-89f0-19a82e524caf" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="d70e74a5-47d3-4615-a8e4-7c39c7055d3d">Sorry, that is incorrect.</strong>
+        </div>
+        <div GUID="886231fb-acf4-47eb-80bd-13fecaf52fa1" xmlns="http://www.w3.org/1999/xhtml">
+          <br GUID="24e80b4a-02ce-467c-af88-b60b0d09260c">The procurement is over the relevant threshold but it is <strong GUID="8a31832c-3e4d-4677-bdac-a245e892d17a">not </strong>exempt. The exemptions in Appendix A of the CPGs for purchasing real property or accommodation apply to land or to existing buildings. Your agency is obtaining the services of an organisation to build a new building. This means that the procurement is not exempt. Since the procurement is above the relevant threshold of $9 million for construction services you must comply with the Mandatory Procurement Procedures. The correct answer is 'yes.'<br GUID="9e1889b8-cecc-4d4d-94f4-76596cda1634"></div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page17" IsActive="true" GUID="f15b512e-34af-46a3-b382-a411da5776eb">
+      <IncludedInTOC GUID="6bff4167-2f27-4c63-a634-f4ac9dd47ee0">true</IncludedInTOC>
+      <Title GUID="3c238c37-a48d-4964-8c59-5317e843c380">Scenario 3</Title>
+      <PageElements GUID="f4ac3a53-1a74-4659-8cd7-bd842c7ae03b">
+        <PageElement GUID="c7a68913-e33f-4b49-b460-dad019c716f8">
+          <Graphic GUID="2a933ac6-0bed-4c1a-8060-a7eaee196810"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/45e44b03-c773-4f2f-86cd-0cef32fb8e8a.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="bf528b8d-9baa-4e2c-a090-e02b4533c28c">
+          <TextBox GUID="30dba343-fd75-4869-bf32-e79d18e44948"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="3e2f7763-1cf7-4cb1-8d68-5121566c1055">Do you remember the scenario?</Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="cab51756-02b2-45f2-ab1b-e43b68cd7870">
+          <ExtraInfo GUID="9dc79e92-9ba7-476b-92a7-c345c4c8e9ac"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('3db71bca-003b-40c0-a319-611c1babe52e');">If not, click here for a reminder and then try answering the question below.</A>
+      <div ID="Content_3db71bca-003b-40c0-a319-611c1babe52e" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="0730afad-09dc-4075-b710-6060e606ba63">
+                <div GUID="0037ebe3-35e3-41b8-a670-1a930958e18f" xmlns="http://www.w3.org/1999/xhtml">Imagine that you work at the Department of Education, Employment and Workplace Relations. </div>
+                <div GUID="c4d7e3e8-4fc9-4f20-9634-14b196904fe8" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="f8c9495f-0acd-40a9-b54a-90ae7814fac0">The Department wants to acquire new office premises in Canberra to accommodate about 400 employees.</div>
+                <div GUID="73939590-c35a-4f82-a594-7d8662384b4f" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="5cdcf1bd-f2b9-4787-a857-371f5abd251d">The Department decides it would be best to engage a contractor to build purpose built premises on land the Commonwealth already owns. The estimated value of contract is $35 million.</div>
+                <div GUID="8657ba38-2984-4bd5-b916-43676085184e" xmlns="http://www.w3.org/1999/xhtml">
+                  <br GUID="14ea53e8-53c2-4fc0-a79d-4557c20ad270">You have been appointed as the project manager.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('3db71bca-003b-40c0-a319-611c1babe52e');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="13c1e1dc-ff0b-42a2-9dde-e3356f766d0e">
+          <MultiChoiceQA GUID="ad7b3494-c715-4fc9-b50c-064454f649e9"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="ea7aad5c-0062-4202-b91a-92825d38f06b">
+      <div GUID="0c9750f4-61a6-4829-acea-7cff7f715c9b" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="8805d1c6-4a41-4fb4-9579-efe374836c40">The Secretary is anxious for a contractor to be engaged so that Departmental staff working on similar tasks can be co-located.  Can you shorten the tender opening period to 14 days?</strong>
+      </div>
+      <div GUID="7870a857-e77b-4cc9-88ec-a2ec02cb2171" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qea7aad5c-0062-4202-b91a-92825d38f06b" ID="Abe96ab0a-3cab-40ec-aaaa-c45006570c64" onClick="ShowAnswer('be96ab0a-3cab-40ec-aaaa-c45006570c64','true');">
+      <AnswerText GUID="050c34d7-ef7a-4e3e-8c5d-2d246ad8789c">(a) No</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="be96ab0a-3cab-40ec-aaaa-c45006570c64">
+      <Feedback GUID="4925f6e3-27dc-47c1-aaba-ff211a6f18c8">
+        <div GUID="f6e0fa74-84f7-4da7-b62a-50696ea1f3be" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="86d53928-aa0e-42c1-a2d0-d2ee344aa8e9">That is correct.</strong>
+        </div>
+        <div GUID="648484fc-7de6-4bb8-88fa-f2061d8027f9" xmlns="http://www.w3.org/1999/xhtml">
+          <br GUID="e545811c-6970-44d1-91e2-f8b6e77fccaa">The Mandatory Procurement Procedures provide that the minimum time limit for tender submissions is 25 days after the tender is released for responses. The fact that the Secretary is anxious for a contractor to be engaged so that Departmental staff can be co-located is not a 'genuine state of urgency' under the Mandatory Procurement Procedures.</div>
+        <div GUID="d100a9fd-2ea0-48d5-a4d1-fddd8ba98501" xmlns="http://www.w3.org/1999/xhtml"> </div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qea7aad5c-0062-4202-b91a-92825d38f06b" ID="A9a5388e3-ee7a-44a4-8bfb-81f5214e1d66" onClick="ShowAnswer('9a5388e3-ee7a-44a4-8bfb-81f5214e1d66','false');">
+      <AnswerText GUID="ad29f6b1-34d9-4dc0-bf54-c6be49dd70c9">(b) Yes so long as the tender documents are made available for download on AusTender or otherwise issued electronically.</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="9a5388e3-ee7a-44a4-8bfb-81f5214e1d66">
+      <Feedback GUID="8d9263ba-c474-4ab4-96f2-9c14718f9c32">
+        <div GUID="dc2fbc69-cd47-48ab-b9f7-41dae2f88282" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="0969ae92-72c5-4866-a1b4-f6982d994fec">Sorry, that is incorrect.</strong>
+        </div>
+        <div GUID="c9085df8-86ec-4f68-8b6e-c3d43ad70544" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="9033de47-c031-4831-960a-30aef63cf5c3">
+          </strong>
+          <br GUID="59662acb-f96a-4618-8aaa-4d76add666ea">The Mandatory Procurement Procedures provide that the minimum time limit for tender submissions is 25 calendar days after the tender is released for responses. The minimum period would be even longer if the tender was not advertised electronically.</div>
+        <div GUID="5ecee184-220e-4329-88dc-8c94b601cdb9" xmlns="http://www.w3.org/1999/xhtml">  <br GUID="e440a00e-c4c7-4893-b806-3095f8d94182">The correct answer is 'no'.<br GUID="5d8fd3df-197d-4fa9-a70d-e60759edd1fc"></div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qea7aad5c-0062-4202-b91a-92825d38f06b" ID="A32c4eaa6-6d3f-4805-9333-0f400788217f" onClick="ShowAnswer('32c4eaa6-6d3f-4805-9333-0f400788217f','false');">
+      <AnswerText GUID="3aa7cf85-55be-4c47-9742-1e2c762bfeac">(c) Yes, because the Secretary has decided that the project is a priority and it will enhance the Department's ability to undertake its functions.</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="32c4eaa6-6d3f-4805-9333-0f400788217f">
+      <Feedback GUID="ec52714b-9361-420f-ba1a-07daebc2d1bc">
+        <div GUID="00956d63-80ca-4e80-af44-760075a52e26" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="a156484f-fa1d-4226-826b-de9dc3795532">Sorry, that is incorrect.</strong>
+        </div>
+        <div GUID="c0d5d50e-f57c-4c7b-8370-14d00c7e99cb" xmlns="http://www.w3.org/1999/xhtml">
+          <br GUID="f29af8b2-b75c-4d05-8f0e-edc7c9b8bfbe">The Mandatory Procurement Procedures provide that the minimum time limit for tender submissions is 25 calendar days after the tender is released for responses. The fact that the Secretary is anxious for a contractor to be engaged is not a 'genuine state of urgency' under the Mandatory Procurement Procedures. The correct answer is 'no'.<br GUID="365789e7-6e39-4e4c-a537-4fcc8c20e5e5"></div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page18" IsActive="true" GUID="d6b7a606-9fd7-4e1b-92a3-c3e16fc24435">
+      <IncludedInTOC GUID="8dc19175-5e97-45de-bc55-b14b6056b419">false</IncludedInTOC>
+      <Title GUID="3072cd3d-3b8d-4ce2-91fc-8a4052e633c3">End of lesson</Title>
+      <PageElements GUID="96cf74ee-db69-4b91-97b9-919dd58ef81b">
+        <PageElement GUID="a625a0dc-345a-4f5c-a05d-820dec2bc36d">
+          <Graphic GUID="2d53dae7-e93f-4d15-81c3-ef3f0b5ef1b6"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/0edef56b-1190-4a86-af45-a888d060ffd9.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="7bd024b2-eec3-467c-8227-2343ef355d62">
+          <TextBox GUID="b0fdf79c-3934-4cca-9bc4-b7fa3bca49f0"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="cc2a6789-67c2-4eb2-8710-c679a1776d08">
+    <div GUID="02bea324-02d9-49b6-9a13-91833119bc6a" xmlns="http://www.w3.org/1999/xhtml">Congratulations! You have completed your lesson.</div>
+    <div GUID="2a33c0ae-0805-45dd-92f1-001c4ae20713" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ddd4dd8c-a746-443e-8f84-83bce51033b7" xmlns="http://www.w3.org/1999/xhtml">Click the <strong GUID="38af4472-ee58-490b-a12d-28f6a87e57f8">End Lesson</strong> button to exit the lesson.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="91c4ac6e-0f38-434f-bc7a-78da044435e8">
+          <EndLesson GUID="5f858078-8e1c-43f2-ba13-a81c17086d57"> <![CDATA[<div class="EndLesson_Main">
+  <input type="button" class="Navigation_Button_Submit" value="End Lesson" onClick="__doPostBack('Lesson_End','')">
+</div>]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

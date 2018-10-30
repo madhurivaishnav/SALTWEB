@@ -1,0 +1,29 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetSaltDate]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'CREATE FUNCTION [udfGetSaltDate]
+(
+
+)
+-- This function should be called by all Stored Procedures in SALT that use getdate() or getUTCdate()
+-- By directing all calls through this function it is easy to perform testing on date related business rules - for
+-- example by changing the function call (below) to	SELECT @UTCDate = DATEADD(YEAR,1,dbo.getUTCdate()) it is possible to enter test data through the WebSite that is 1 year old
+
+RETURNS DateTime
+AS
+BEGIN
+
+DECLARE @UTCDate datetime
+
+SELECT @UTCDate = dbo.getUTCdate()
+
+
+RETURN @UTCDate
+
+END
+' 
+END
+GO

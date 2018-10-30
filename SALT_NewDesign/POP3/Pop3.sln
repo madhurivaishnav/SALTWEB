@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pop3", "Pop3.csproj", "{6EB93AE3-CBF9-4EBA-973E-D3C9B58D716C}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {B7EC7939-6CBB-4086-8B7B-FC4137458DFB}
+		SccProjectUniqueName1 = Pop3.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6EB93AE3-CBF9-4EBA-973E-D3C9B58D716C}.Debug.ActiveCfg = Debug|.NET
+		{6EB93AE3-CBF9-4EBA-973E-D3C9B58D716C}.Debug.Build.0 = Debug|.NET
+		{6EB93AE3-CBF9-4EBA-973E-D3C9B58D716C}.Release.ActiveCfg = Release|.NET
+		{6EB93AE3-CBF9-4EBA-973E-D3C9B58D716C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

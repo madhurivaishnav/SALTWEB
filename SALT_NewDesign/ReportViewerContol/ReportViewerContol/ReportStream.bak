@@ -1,0 +1,95 @@
+/*=====================================================================
+  File:     ReportStream.cs
+  
+This class is used to display images in the report, such as chart.
+  
+=====================================================================*/
+using System;
+using System.ComponentModel;
+using System.Collections;
+using System.Collections.Specialized;
+using System.Text;
+using System.IO;
+
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+using System.Diagnostics;
+
+using System.Web.Services.Protocols;
+
+
+using Bdw.SqlServer.Reporting.ReportingServices;
+
+
+namespace Bdw.SqlServer.Reporting
+{
+	/// <summary>
+	///This class is used to display images in the report, such as chart.
+	/// </summary>
+	public class ReportStream: ReportBasePage
+	{
+		private void Page_Load(object sender, System.EventArgs e)
+		{
+			byte[] content;
+			string mimeType;
+			
+			//1.Get image content
+			content = this.GetContent(out mimeType);
+			
+			//2. output image
+			//Don't call this. the image will be cached in 10 minutes, this will improve performance
+			//Response.ClearContent();
+			//Response.ClearHeaders();
+
+			//Response.Write(DateTime.Now.ToLongTimeString());
+
+			Response.ContentType = mimeType;
+			Response.AppendHeader("Content-Length", content.Length.ToString());
+			Response.BinaryWrite(content);
+
+		}
+
+		/// <summary>
+		/// Renders content via SOAP
+		/// </summary>
+		/// <returns></returns>
+		private byte[] GetContent(out string mimeType)
+		{
+			ReportingService rs;
+
+			byte[] content;
+			//In argements
+			string deviceInfo;
+			ParameterValue[] parameterValues;
+
+			//Out arguments
+			string encoding;
+
+			//1. Get input arguments
+			// Set html device information
+			deviceInfo = "";
+			//Get report parameters
+			parameterValues = this.ReportParameters;
+
+			//2. Get reporting web service
+			rs = Util.GetReportingService(this.SessionID);
+
+			//3. Call render web service	
+			content = rs.RenderStream(this.Settings.ReportFolder + this.ReportPath, this.Format,this.StreamID, null, deviceInfo, parameterValues, out encoding, out mimeType);
+
+			//4. Session Validation
+			if (this.Settings.SessionValidation)
+			{
+				if (rs.SessionHeaderValue.SessionId != this.SessionID)
+				{
+					throw new ApplicationException("Session timeout");
+				}
+			}
+
+			return content;
+		}
+	}
+
+}

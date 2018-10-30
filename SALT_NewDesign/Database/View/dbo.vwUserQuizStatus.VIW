@@ -1,0 +1,74 @@
+IF  EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwUserQuizStatus]'))
+DROP VIEW [vwUserQuizStatus]
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwUserQuizStatus]'))
+EXEC dbo.sp_executesql @statement = N'
+/*Summary:
+gets the latest quiz results for each user
+Returns:
+table
+
+Called By:
+prcModule_GetDetailsForHomePage
+prcIndividualReport
+Calls:
+
+Remarks:
+--// The quiz status details we need are in the table tblUserQuizStatus
+--// However this table contains historic as well as current data
+--// The view below gets only the latest results for each user <-> module
+--// This is evectivly a Remove Duplicates problem
+--// Where the duplicate is defined as having the same UserID and ModuleID
+--// but a different Primary Key. Only the row with the latest PK is returned
+
+Author:
+Jack Liu
+Date Created: 17 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+--------------------
+prcModule_GetDetailsForHomePage @userID = 11, @courseID=1
+*/
+
+CREATE   VIEW [vwUserQuizStatus]
+AS
+select
+QuizStatus.UserQuizStatusID
+, QuizStatus.UserID
+, QuizStatus.ModuleID
+, m.CourseID
+, QuizStatus.QuizStatusID
+, QuizStatus.QuizFrequency
+, QuizStatus.QuizPassMark
+, QuizStatus.QuizSessionID
+, QuizStatus.QuizScore
+, QuizStatus.DateCreated
+
+from
+tblUserQuizStatus QuizStatus
+inner join tblModule m on m.ModuleID = QuizStatus.ModuleID
+inner join
+(
+select
+max(UserQuizStatusID) UserQuizStatusID --UserQuizStatusID is identity
+from
+tblUserQuizStatus
+group by
+UserID,moduleID
+) currentStatus
+on QuizStatus.UserQuizStatusID = currentStatus.UserQuizStatusID
+where m.active = 1
+
+
+
+'
+GO

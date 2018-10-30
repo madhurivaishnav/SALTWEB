@@ -1,0 +1,834 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" productVersion="11.0.8165" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="c72de325-d254-45a0-a8ca-dcd6329aea19">
+  <Summary ID="bdgpg01q" GUID="e1a58822-bf0e-46b3-ab43-4eac83642e2a">
+    <ContentType GUID="6d23d835-0708-459e-817d-9b54f708a6ac">quiz</ContentType>
+    <UploadType GUID="4322776a-0d1c-49a1-bb06-18437efa76d6">update</UploadType>
+    <Title GUID="3b995307-d961-4ee5-803f-8ae14f005ea6">Introduction to Commonwealth Procurement Guidelines</Title>
+    <CreatedBy GUID="97eb2704-e2ed-46f8-92e1-1dcf755146aa">LTG Casual</CreatedBy>
+    <CreatedDate GUID="123db899-f90b-4f9c-b882-4b76c80e9a6c">2005-04-12T09:32:40</CreatedDate>
+    <LastModifiedBy GUID="96907c20-7596-437c-9c74-0f3e15b39602">ltgltomi</LastModifiedBy>
+    <LastModifiedDate GUID="2d94f135-bac8-4273-9b0b-d46961d1db99">2011-01-31T13:25:13</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="ff8be40a-733a-416c-9757-f20ad39e144a">
+    <Page ID="Intro1" IsActive="true" GUID="0a38d87a-ce87-4564-ac8c-a3ade96ed91b">
+      <Title GUID="b679dbfd-b058-4667-9973-0d87f3410743">Introduction to Commonwealth Procurement Guidelines</Title>
+      <PageElements GUID="349fd5ca-2131-4b2c-9c32-65527580d27b">
+        <PageElement GUID="c08c8a1f-2683-482d-9d1e-945a109c4cff">
+          <Graphic GUID="515aed2f-6b6c-4a14-9fe2-fc141751e9b7"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/7b80b3e2-2ab8-4db0-888c-de85c79847ed.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="8e94cef3-d4d1-4587-8fea-dd78ebfd6251">
+          <TextBox GUID="d5a3343f-e270-44a4-9c8d-d18b1c95dfc8"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="79f5362b-3e5b-4d15-a442-52780783591f">
+    <div GUID="27b8adb9-2072-472e-9159-534e60cd927c" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked <strong GUID="4ec3300b-89aa-470f-b2a9-6001268f7796">%System_NumberOfQuestions%</strong> questions about the Introduction to Commonwealth Procurement Guidelines.</div>
+    <div GUID="0dfd40c2-e8a7-4deb-accb-d3c9e5c1c8a5" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="53c49676-9ef4-44de-90ef-88e110353083">You may be asked 3 different types of questions: multiple choice, true/false or yes/no. Answer each question by clicking the button to the left of the most appropriate response.<br GUID="6df9b958-a9d6-4200-90af-20297577aedd"><br GUID="24c7dbf3-60a2-4e49-a0cc-9856f2c6813d">After you answer the last question, you will be given the chance to review and then submit your answers.<br GUID="92ecacb3-eb69-4b97-ac41-4e6008c6bc84"><br GUID="1e6a2444-b005-4186-9402-ff775356f993">Please note that if you Exit the quiz before clicking the Submit Answers button then your answers will not be saved. <br GUID="e2b4febd-e71c-4816-9266-813bc2d81197"><br GUID="a66ba248-005d-43ea-9c9d-e75963556945">To move between questions, use the <font size="4" GUID="f5c9f408-53df-4249-ba2f-de603e9a736b"><font face="Arial" GUID="3b0b79ae-02c2-438e-b9e7-0f76737ab59e">◄</font><font face="Arial" GUID="b573fc65-9668-4efe-ab64-f6d10096c3f8"></font></font>and <font face="Arial" size="4" GUID="ba05b142-fd4e-4847-a917-b6b59e21de9d">► </font>navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="4ec3484d-85ca-4da4-a46a-ba8f579d9c94">
+    <Page ID="Q1" IsActive="true" GUID="52dc98f6-1050-4c03-96e5-be6055745e0c">
+      <Title GUID="8014e5c5-7608-4a1f-b68d-d44c80846a72">Question</Title>
+      <PageElements GUID="7bc60405-a74a-4ca7-9888-73499e6fe3ad">
+        <PageElement GUID="ad74e979-a67f-45c6-bf00-03184086761e">
+          <Question GUID="3a21a360-7bea-4e1a-8e1c-3f83b0914500"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="e3b1f8e5-9f48-41c3-9091-f06ce7e14418">
+      <strong GUID="975a5fec-de19-4666-a344-ac42b1ba0b08" xmlns="http://www.w3.org/1999/xhtml">
+        <span GUID="59d205d2-eda8-4b6f-bee6-f1fcb0e8c2b0">
+          <strong GUID="18e5c546-a08c-4c55-ad8e-6e76b9158391">
+            <span style="FONT-SIZE: 10pt" GUID="6d06bcd8-a72d-4b44-bebe-20c028fb630c">
+              <strong GUID="2e17b70d-bd9b-4f45-bf00-8ce297c0fa71">Who must comply with the CPGs?</strong>
+            </span>
+          </strong>
+        </span>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d63cb546-1f37-4cd5-a5f8-6d8a11b8c06c">
+        <span style="FONT-SIZE: 10pt" GUID="04083a2f-b558-4d82-bdcb-88beddcde22c" xmlns="http://www.w3.org/1999/xhtml">All Commonwealth government bodies.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4681e4db-2ea2-4af0-b224-2a8467506945">
+        <span style="FONT-SIZE: 10pt" GUID="741c6a08-a534-4918-a750-cf97e2536cac" xmlns="http://www.w3.org/1999/xhtml">Only agencies governed by the <em GUID="610c7cfc-4a5a-442b-9b6c-bd95ae6ca12e">Financial Management and Accountability Act </em></span>
+        <span style="FONT-SIZE: 10pt" GUID="e5b43060-6382-4d4b-965d-adab4c97ba29" xmlns="http://www.w3.org/1999/xhtml">(FMA Act Agencies) because the CPGs are a policy issued under the Financial Management and Accountability Regulations.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6f92c744-9dff-43ad-8519-7327cd2067b3">FMA Act Agencies, and CAC Act bodies which have been directed to comply by the Finance Minister.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d4cafe12-daf8-44a0-9277-8e5d25e33f3c">
+        <span style="FONT-SIZE: 10pt" GUID="6e019fef-6f21-4b97-a62e-8403aa1fe98c" xmlns="http://www.w3.org/1999/xhtml">All organisations (including private sector organisations) that are procuring goods or services that will be paid for by taxpayers</span>
+        <span style="FONT-SIZE: 10pt" GUID="e35fd426-0812-4498-a47e-b311dd14f056" xmlns="http://www.w3.org/1999/xhtml">.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_5" Name="Answer" Value="5" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2e4d50b1-3659-4c52-8f5e-234b0a690558">
+        <span style="FONT-SIZE: 10pt" GUID="c6656b78-148b-4469-bf1c-8361f3708608" xmlns="http://www.w3.org/1999/xhtml">All Commonwealth budget funded organisations that have been directed to comply by the Finance Minister.</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="e07affd0-8304-4d96-bb4c-d4c3bfe0f8df">
+      <Title GUID="986725e8-620f-45b5-ad5f-74e5c7b61be3">Question</Title>
+      <PageElements GUID="88c36668-72e3-4e46-9c55-9183a028ab99">
+        <PageElement GUID="b6172d72-b5ca-42a6-9287-88d5559f444c">
+          <Question GUID="869bc586-7ecd-477b-914d-ce1b4cb97a6d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="51595faa-581c-420f-9712-6ae0e7f29c47">
+      <strong GUID="336935bd-bd4b-4c0e-b3a8-e0c7a6ebdeb8" xmlns="http://www.w3.org/1999/xhtml">
+        <span GUID="4e6cca8c-a269-4fd9-b741-a820eb06b8bc">
+          <strong GUID="eed5e16b-1b85-42ce-8d1f-6181f18e57b3">
+            <span style="FONT-SIZE: 10pt" GUID="9c038856-f1e2-4719-8e27-085c834824ad">
+              <strong GUID="871a9238-da69-42f9-ae68-72d8299914bc">If a FMA Act agency issues a tender for a two year contract (estimated value of $70,000) with an option for the Agency to extend the Contract for a further year (estimated value $35,000) is it a covered procurement under the CPGs?</strong>
+            </span>
+          </strong>
+        </span>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="23dd5ff2-14e4-418e-af28-063ea4770a3f">
+        <span style="FONT-SIZE: 10pt" GUID="831ee7f6-b291-4a86-9c15-f83be0d58af8" xmlns="http://www.w3.org/1999/xhtml">Yes.  The procurement as a whole will be a covered procurement under the CPGs because a second procurement process is not required to exercise the option.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c7a71d02-5417-4188-aa0d-3b4247ec2c78">
+        <span style="FONT-SIZE: 10pt" GUID="5266579f-5fdf-43c3-958d-cf60a244dce6" xmlns="http://www.w3.org/1999/xhtml">No, because the procurement is below the threshold.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="81eb9291-7ac4-490e-85ec-6cdb0a23ebda">
+        <span style="FONT-SIZE: 10pt" GUID="80e539d6-75d6-4851-9e5c-67fab853c16f" xmlns="http://www.w3.org/1999/xhtml">No, but the Agency is required to decide when it exercises the option whether or not the additional procurement it is value for money.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8984d7bb-ff68-42b2-acbf-b8195e1e15e6">
+        <span style="FONT-SIZE: 10pt" GUID="5853b3a1-5c2a-46b1-8b62-1e77dc914ed1" xmlns="http://www.w3.org/1999/xhtml">Only when the Agency decides to exercise the option.</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="04c849f1-69a1-4ad6-b2b1-7133a1ca5481">
+      <Title GUID="2551ac9a-0555-4e03-993d-591de0808a33">Question</Title>
+      <PageElements GUID="0960d12c-2ed7-4291-9cf4-00a7e622afb4">
+        <PageElement GUID="8f4888c2-3287-4439-9292-f2d92feaa5f8">
+          <Question GUID="20b3a8bf-7520-4a4d-9a31-09b7073c5beb"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="97564f96-24d6-4ea9-b320-b3d42a5930d5">
+      <strong GUID="4bdfe2ff-18c6-42ce-adb5-a8dfac926570" xmlns="http://www.w3.org/1999/xhtml">
+        <span style="FONT-SIZE: 10pt" GUID="b7d4d96d-03f7-46a5-a283-3d7665d27ef9">
+          <strong GUID="2f75c4c9-66e5-46e6-a581-a30a90d85040">What should you take into account in value for money assessments?</strong>
+        </span>  </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1c1cb0be-8fb5-46c0-bb10-479502b2b05a">
+        <span style="FONT-SIZE: 10pt" GUID="41ff1eac-639b-40c8-963a-7a9a5c92e12b" xmlns="http://www.w3.org/1999/xhtml">Cost.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8a8e4971-026f-4fed-bcf5-cd8025f1a3c7">
+        <span style="FONT-SIZE: 10pt" GUID="674d0cc9-baf2-4311-a1de-19c715fa50c1" xmlns="http://www.w3.org/1999/xhtml">Cost and risk.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3f02aa60-328d-4b01-a561-597ad6fd6caf">
+        <span GUID="ddc39379-0856-485e-8a47-e1cdc3ee8815" xmlns="http://www.w3.org/1999/xhtml">
+          <span style="FONT-SIZE: 10pt" GUID="1efc3091-451c-4300-b2bb-daebb7cf8f7c">Cost and flexibility to adapt to changes over the life of the procurement.</span>
+        </span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="82160623-3464-4cb1-b748-6e4bd7dfdc99">
+        <span style="FONT-SIZE: 10pt" GUID="9d729dc7-161e-43c9-97c0-895394ab5699" xmlns="http://www.w3.org/1999/xhtml">Costs as well as any non financial benefits.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_5" Name="Answer" Value="5" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="37553229-dce7-4d34-8a98-4a7c4d280e23">
+        <span style="FONT-SIZE: 10pt" GUID="3870cf0e-33ec-40a5-b11f-743462997672" xmlns="http://www.w3.org/1999/xhtml">All of the above.</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="c9f568f4-7b89-45c1-af52-218c4e050127">
+      <Title GUID="c14349ee-d623-4849-bd85-5c87f179f245">Question</Title>
+      <PageElements GUID="59f63d34-4ea3-46d3-930c-25cb6c5fd09d">
+        <PageElement GUID="9e36205c-a592-4525-aa6d-bc9a7b05d8c1">
+          <Question GUID="086acef8-9758-4244-837d-d59305dc73be"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="f48b0ae5-3a0b-48ac-bf17-433b448df380">
+      <strong GUID="86985cd9-275a-4b39-b536-a855127d2bfe" xmlns="http://www.w3.org/1999/xhtml">
+        <span GUID="3871858e-4e7c-4455-bbfc-303e3d66ea35">
+          <strong GUID="522904a4-00a1-42b1-8ae6-f9e83ef5858e">
+            <span style="FONT-SIZE: 10pt" GUID="ced93dbe-2b31-4aa8-8698-03f01bca7775">
+              <strong GUID="06a60415-5fc6-4c12-8cbb-58659b78b862">Why is it important to facilitate SME participation in Australian government procurement as part of determining value for money?</strong>
+            </span>
+          </strong>
+        </span>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4a0ab29c-d036-4ded-ab79-ff630019b42a">
+        <span style="FONT-SIZE: 10pt" GUID="ddc3106b-bae9-45e4-9a0d-0f1923064d2d" xmlns="http://www.w3.org/1999/xhtml">To support Australian businesses.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="599c9b9d-c934-4179-bcac-8f2e1fe37ee4">
+        <span style="FONT-SIZE: 10pt" GUID="b2988961-020e-4b2e-aaf3-3ae633ca0e09" xmlns="http://www.w3.org/1999/xhtml">To encourage competition.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="af60188c-fd0f-47a1-bd05-e6de6b35fc9f">
+        <span style="FONT-SIZE: 10pt" GUID="e9db49bc-3b1d-4b8c-b796-05a601fac00b" xmlns="http://www.w3.org/1999/xhtml">To ensure ethical use of resources.</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="d2116ad1-7c98-4963-85fb-d0ffba5b618c">
+      <Title GUID="55108e86-a62e-4ef3-bd01-19b5c2ad30cc">Question</Title>
+      <PageElements GUID="818ccf42-5a41-48ae-ab13-fac2c8350721">
+        <PageElement GUID="bd122eab-2def-4f5e-aa56-b719cce961fd">
+          <Question GUID="51b02bf4-3114-470c-8230-6ddd6ddcd908"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="35612c11-a6af-4776-93f0-d02f2fa07a20">
+      <strong GUID="ed2751e7-9c68-40a9-8714-0d64e9b5deb3" xmlns="http://www.w3.org/1999/xhtml">
+        <span style="FONT-SIZE: 10pt" GUID="04fc718c-73f9-4d9e-a7b2-cffb4675bb2e">
+          <strong GUID="574d0218-8ea3-41b1-ade7-0ad1ce00851c">If an Agency conducts a two stage covered procurement process – a request for expressions of interest followed by a select request for tender - how long do the CPGs require that the select request for tender process be open to responses for?</strong>
+        </span>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e9799f1c-1fad-4e33-a2e2-57ce448e14ef">
+        <span style="FONT-SIZE: 10pt" GUID="a6c249e2-871f-4d3f-8857-40ffa0c35860" xmlns="http://www.w3.org/1999/xhtml">At least 10 calendar days</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b20af0b9-b1b0-4187-ad25-044dd69fb1bc">
+        <span style="FONT-SIZE: 10pt" GUID="92884112-910d-40da-bfc6-2fe8dba94c90" xmlns="http://www.w3.org/1999/xhtml">Any length of time (but at least as long as reasonably necessary to respond)</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f815efe2-14d3-4bb4-9da2-8a2a98a9e421">
+        <span style="FONT-SIZE: 10pt" GUID="50eaf735-8a42-43eb-a1c7-4e257e6466be" xmlns="http://www.w3.org/1999/xhtml">At least 25 calendar days</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e59bc5dc-7d2e-40fa-ba59-35bcabb3dec7">
+        <span style="FONT-SIZE: 10pt" GUID="4f2688a1-b900-4ddd-8fd3-c08079ade05d" xmlns="http://www.w3.org/1999/xhtml">At least 30 calendar days</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="5945b378-b651-42d0-a2ff-ee84ed9c026e">
+      <Title GUID="1cf808f0-88b5-4bb1-97d1-454a1aaffaaf">Question</Title>
+      <PageElements GUID="0fd493fd-ed1f-456d-970d-d3cdff47f8a1">
+        <PageElement GUID="81ea8eff-a822-4b9b-94e8-34ab5b640e9c">
+          <Question GUID="c83ebd8a-e9ce-4d99-8582-954794f5671f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="2a07226c-f556-4c7d-bd03-fdbc3fc3352b">
+      <strong GUID="2a8a3ec7-6c31-4592-9996-d690c121b2ef" xmlns="http://www.w3.org/1999/xhtml">
+        <span style="FONT-SIZE: 10pt" GUID="98019afc-15c4-45c1-98c9-00cea374e59b">
+          <strong GUID="cda6f546-2ec4-4b6d-815d-467661b9732b">If the Australian Defence Force requires boots for ADF personnel being deployed, what is the minimum time limit that can be set for responding to a request for tender on AusTender? </strong>
+        </span>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2cca0ed4-a33a-4ba1-b7a5-24d578d2f524">
+        <span style="FONT-SIZE: 10pt" GUID="d8ed928a-825c-4de2-a160-8c52d26a557e" xmlns="http://www.w3.org/1999/xhtml">Any length of time.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="30fa583b-cf89-4f34-953a-393801c33860">
+        <span style="FONT-SIZE: 10pt" GUID="fd475662-ba8b-43a2-9562-181ae135aa67" xmlns="http://www.w3.org/1999/xhtml">At least 10 calendar days.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="36db57eb-4fa8-4ae4-a7ca-7f052780fded">
+        <span style="FONT-SIZE: 10pt" GUID="18947564-4930-4fd3-8c6d-3e458065fb15" xmlns="http://www.w3.org/1999/xhtml">At least 25 business days.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="988dff34-2d44-40ae-8fb9-5c49b30e499f">
+        <span style="FONT-SIZE: 10pt" GUID="2df26c47-b255-41c6-8fb1-093d8a74520e" xmlns="http://www.w3.org/1999/xhtml">At least 25 calendar days.</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="2dba7976-4e90-415c-b37b-3b984f699c68">
+      <Title GUID="3cf05da6-0ef4-4ca0-ac7e-100bffa84384">Question</Title>
+      <PageElements GUID="be6e3fca-f69b-4617-9114-3222f9f36584">
+        <PageElement GUID="13127765-444d-45ca-986e-289beb92d8c7">
+          <Question GUID="1c5467b9-9669-41c6-848e-8d847223fa47"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="2c15dc62-c711-48f9-91d9-34e0d9672236">
+      <strong GUID="f24064ce-6910-4579-8047-97eefed708a8" xmlns="http://www.w3.org/1999/xhtml">
+        <span style="FONT-SIZE: 10pt" GUID="d4fafde9-42d4-41b3-9173-01ed22abc146">
+          <strong GUID="7efbe19f-1c28-48ca-b0f9-e7aadba5ff11">Should agencies keep all information about contracts and suppliers confidential?</strong>
+        </span>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a1c950b7-72f4-4312-a27f-0f17d258ed8a">
+        <span style="FONT-SIZE: 10pt" GUID="70dacc7e-e6a4-4b59-9329-a34cb5030252" xmlns="http://www.w3.org/1999/xhtml">Yes always, unless written consent is obtained from the supplier.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2a3f9ec9-9cd2-4435-8253-c6b14069efa3">
+        <span style="FONT-SIZE: 10pt" GUID="c206d67e-c8a2-4808-ace5-3602f720a824" xmlns="http://www.w3.org/1999/xhtml">Only where the information is actually confidential.  All confidential information should be kept confidential subject to complying with government reporting requirements under the principle of accountability and transparency.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cbc8f9d0-6036-47f9-95df-a45571d29452">
+        <span style="FONT-SIZE: 10pt" GUID="73f3d6f8-d622-43bc-845d-25c7066dd2cb" xmlns="http://www.w3.org/1999/xhtml">Yes always, except where there is an exception set out in the relevant contract.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4735f1ef-e608-48c0-82f4-e5d236884c8c">
+        <span style="FONT-SIZE: 10pt" GUID="104c6466-433c-4683-81b9-5c5cc50e6960" xmlns="http://www.w3.org/1999/xhtml">Yes always, but only until the request for tender process is finalised.  After the request for tender process the government is required to make information available to the public.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_5" Name="Answer" Value="5" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d3a565a0-d9b6-4449-9fee-9f40787d676d">
+        <span style="FONT-SIZE: 10pt" GUID="d980f437-73c7-44fe-a458-9a5a95d58797" xmlns="http://www.w3.org/1999/xhtml">Yes, but only until the request for tender process is finalised.  Once the tender process is finalised, only information specified in a contract is protected as confidential.</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="1144c049-17cd-4eb8-b31a-777264da43da">
+      <Title GUID="317b0093-ba5b-49dd-b207-5ef2797f8e36">Question</Title>
+      <PageElements GUID="49360b89-30c9-4352-a6ee-af0bbc503f30">
+        <PageElement GUID="815050af-d937-4bb1-812f-54b3efba1c04">
+          <Question GUID="07e57bf9-a036-410c-bcb3-b7b5b5d33f8f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="954b3f37-e68e-4a59-aa84-b7930ad83e8a">
+      <span style="FONT-SIZE: 10pt" GUID="dd1adc75-21b3-44b3-b555-043fa8ddca6a" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="85d9ee81-50ba-4f36-a33d-5d7a376dd081">In addition to any requirements for covered procurements, the efficient, effective and ethical use of resources requires agencies to: </strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b5989f47-9916-4b9f-9191-8ac0a40b4338">
+        <span style="FONT-SIZE: 10pt" GUID="7fd9497e-bd98-4a06-82a6-82eceb74ee51" xmlns="http://www.w3.org/1999/xhtml">A) Establish protocols for dealing with current suppliers to ensure that all organisations invited to tender have received the same information in relation to a procurement.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="70822c67-254e-404e-8311-e957a1ee4db1">
+        <span style="FONT-SIZE: 10pt" GUID="67a0047d-f700-4065-869d-29276dbe91be" xmlns="http://www.w3.org/1999/xhtml">B) Offer industry briefings and information sessions to potential providers where necessary to ensure an adequate understanding of the procurement process and the Agency's requirements.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2cf1d740-6dee-4dbe-8c0a-35f17407f257">
+        <span style="FONT-SIZE: 10pt" GUID="0386ac46-6a6c-47d5-8efd-536f816a96a0" xmlns="http://www.w3.org/1999/xhtml">C) Invite as many potential suppliers to tender as possible in order to maximise competition.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="666be0b8-f737-4ac6-959a-65a1221836ad">
+        <span style="FONT-SIZE: 10pt" GUID="a0051f97-909e-4cdf-90bc-d68d052487ae" xmlns="http://www.w3.org/1999/xhtml">D) All of the above</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_5" Name="Answer" Value="5" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="116c6154-72b0-4fd4-8939-c3139bd2bdb9">
+        <span style="FONT-SIZE: 10pt" GUID="26ccfa7d-0148-401f-b9f0-902bb62ff13f" xmlns="http://www.w3.org/1999/xhtml">E) A) and B)</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="2b2c0f0b-b869-43f6-9545-5795177a6328">
+      <Title GUID="98e7e496-8b9f-4f02-bf7e-ce3606c92801">Question</Title>
+      <PageElements GUID="0330fefe-a2fb-4772-8357-b3b442315098">
+        <PageElement GUID="a94c94d4-fae1-4744-b9cf-3d22610e80bf">
+          <Question GUID="1e6e003e-79fc-41d0-a2ef-8b98566539cc"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="6ee2812b-978e-4b58-a64e-a89655aefa3e">
+      <span style="FONT-SIZE: 10pt" GUID="e9de081b-8f1b-4dfa-ad44-70a67ebdf706" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="5e0d5752-e1f6-4d1b-aa6d-de76380d35b1">What information are agencies usually required to publish about their contracts?</strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="799361b6-7ab0-403b-a0d6-90ed536e41c0">
+        <span style="FONT-SIZE: 10pt" GUID="9c1be364-4dc1-46c7-adfd-e662dda59f2a" xmlns="http://www.w3.org/1999/xhtml">Agencies must publish the details on AusTender within six weeks of contract signature.  This includes the name of the contracting parties, the nature of the contract, and the total value of the contract.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7e2ac637-5a37-4955-be24-0ab43aa3ffac">
+        <span style="FONT-SIZE: 10pt" GUID="0d3902d9-de37-404f-a52b-d90a59af5839" xmlns="http://www.w3.org/1999/xhtml">Unless the contract delegate approves a media statement, both the agency and the supplier should keep the details of the contract confidential.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="37e97c5f-2e26-4129-b4b6-d83e2c5e08c7">
+        <span style="FONT-SIZE: 10pt" GUID="6c8ef545-f103-4f21-a1e5-69eec1b36a74" xmlns="http://www.w3.org/1999/xhtml">Agencies must publish the details in the Commonwealth Government gazette within six after weeks of contract signature.  This includes the name of the contracting parties, the nature of the contract, and the total value of the contract.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ad52fb2e-13de-435b-a119-820c45d0c528">
+        <span style="FONT-SIZE: 10pt" GUID="bd9aef7d-b5f8-45d8-aaf9-79b394f027e7" xmlns="http://www.w3.org/1999/xhtml">Agencies must place a copy of the contract on their website within six weeks after contract signature.</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="1e69e0e0-cc5b-4723-b0a6-576429623bf3">
+      <Title GUID="d1f64804-c47c-4860-a32b-f14f3b8a80c0">Question</Title>
+      <PageElements GUID="a9878c7e-1ebc-47ef-ac31-29cd82e37ed4">
+        <PageElement GUID="a1657765-280d-48ac-87f5-809ea13fd3d5">
+          <Question GUID="4a371337-d31b-4f62-8f8d-237c6fc1de99"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="91ae9694-d7f6-453d-982d-83c0f1a4636d">
+      <span style="FONT-SIZE: 10pt" GUID="e099a7df-3ed3-4d1c-adc2-d4eea162a221" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="25e3c31e-7336-4d9a-9589-2a69a1d3d89f">An agency wants to make the tender submission deadline 10 days after the tender release.  In which of the following circumstances is that permissible?</strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b2b98505-c0d4-43b3-b716-6c91f972514b">
+        <span style="FONT-SIZE: 10pt" GUID="3903dd8c-a40f-46e3-b2e4-44c05a5540bf" xmlns="http://www.w3.org/1999/xhtml">The agency has done extensive research which demonstrates that the only companies that will be interested are those that are already very familiar with the agency's requirements and so will not need 25 days to write a response.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="add947cf-ef17-40de-a6b7-754ea679c709">
+        <span style="FONT-SIZE: 10pt" GUID="b56a9f31-ae27-408a-a1b4-d88202e2b5f1" xmlns="http://www.w3.org/1999/xhtml">The agency's current contract for the services will expire next month and the agency has no further options to extend.  Unless a new contract is entered into, the agency's operations will be disrupted.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d5ae6702-fada-4742-a5bc-ea3e5d4f2413">
+        <span style="FONT-SIZE: 10pt" GUID="778dc73d-24e3-4675-828e-6b5b97c637ec" xmlns="http://www.w3.org/1999/xhtml">The agency has already undertaken an expression of interest process for the procurement to limit the number of potential suppliers.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f736d09a-0d32-41b3-840b-0e8d21f7136a">
+        <span style="FONT-SIZE: 10pt" GUID="91610d9e-1fc2-4cc9-acb6-0b8101c83e3d" xmlns="http://www.w3.org/1999/xhtml">The agency has published all the details of the tender in their Annual Procurement Plan released at least two months ago.</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q11" IsActive="true" GUID="05e67489-71cb-4c08-a285-41f6397729f0">
+      <Title GUID="c0cec79d-9201-40f5-a63c-e2389264290a">Question</Title>
+      <PageElements GUID="29c99bd2-5bb9-475b-a209-bf0d7942408b">
+        <PageElement GUID="c64ceba9-55f6-4477-a22a-c30dccaf2713">
+          <Question GUID="753bb686-f282-40e4-91fb-52fa4e580e23"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="690c6263-658a-4cd9-97cf-beb657aec025">
+      <span style="FONT-SIZE: 10pt" GUID="b478840c-5a7e-41c6-8b10-862bfc0f2d75" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="a84c8c8e-bd0f-4ede-96bc-07a09e9a0c35">What is a select tender?</strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="195a5879-a6e5-4387-83c8-7bc4e85ff8b2">
+        <span style="FONT-SIZE: 10pt" GUID="892067aa-fd34-4eb5-b6d5-08e69d5101d0" xmlns="http://www.w3.org/1999/xhtml">A select tender is a tender process which involves publishing of a tender inviting responses from any organisation.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8813c7e2-9bc5-4b2d-a1ef-c116339753f7">
+        <span style="FONT-SIZE: 10pt" GUID="fc873fba-c985-434b-b728-92abf741bcfc" xmlns="http://www.w3.org/1999/xhtml">A select tender is any tender that is undertaken in a genuine state of urgency.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="35182d69-acac-462d-bba7-18503576c38d">
+        <span style="FONT-SIZE: 10pt" GUID="94e9360e-139b-4349-9d57-cf247a981bef" xmlns="http://www.w3.org/1999/xhtml">A select tender is a tender process which involves the issue of request documentation to only one or a limited number of potential suppliers selected by the Agency.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d37c4f29-2663-4159-bfaa-dffa0769fbe8">
+        <span style="FONT-SIZE: 10pt" GUID="2fb18a5f-2b83-47ad-a18c-45b7826a50b9" xmlns="http://www.w3.org/1999/xhtml">A select tender is a tender process where an Agency is permitted to select the successful tenderer on the basis that they have previously provided services to the Australian Government.</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q12" IsActive="true" GUID="8244b8f8-ef22-4636-982f-04dede95c0b6">
+      <Title GUID="668843e3-4929-444f-b7ea-ba145a8d4f03">Question</Title>
+      <PageElements GUID="eb9e7efc-2967-4679-993a-a5b1e4d8dadc">
+        <PageElement GUID="db6fea2e-a8ce-47c6-8d43-ff46530c42a3">
+          <Question GUID="8f8a484d-b80d-4a38-81b1-5109dd989e30"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="0d4c96ac-2c2b-4b63-8bc3-741e5df13254">
+      <span style="FONT-SIZE: 10pt" GUID="c1ed97cd-e6cb-416d-bb8a-bf0851a3ee05" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="18265b46-a607-4c3b-9105-91668dd8d07f">What is the monetary threshold over which all Commonwealth contracts and amendments to these arrangements, must be published on the AusTender website?</strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c0806f24-e912-4a7a-be85-d3e4bdccda0a">
+        <span style="FONT-SIZE: 10pt" GUID="db378511-93ed-45ad-88f2-6f3738aa6aef" xmlns="http://www.w3.org/1999/xhtml">Details of all contracts and any amendments must be published.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="36af09a1-f9fa-450c-9978-9395441606eb">
+        <span style="FONT-SIZE: 10pt" GUID="b5fa3b72-ff06-4545-b6b3-5bda0dab2c1d" xmlns="http://www.w3.org/1999/xhtml">Details of all contracts over $100,000 (and any amendments that bring the total contract price to over $100,000) must be published.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="527043c6-76f6-4ab0-b087-7917bc3c5bf4">For FMA agencies the reporting requirements apply to all contracts over $10,000. CAC Act bodies are not required to report their contracts on AusTender.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5357009c-fb7d-4a1e-b1ae-031a0cfcc4fe">For FMA agencies the reporting requirements apply to all contracts over $10,000. For CAC Act bodies the threshold is $9 million for procurement of construction services and $400,000 for other procurements.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q13" IsActive="true" GUID="4db2ba8f-92b7-401e-97fd-06cc869127d2">
+      <Title GUID="1b75216b-144c-48e3-a3bd-c75fbaaefb84">Question</Title>
+      <PageElements GUID="6bce9a0b-e657-4a53-94af-035e851ebd4d">
+        <PageElement GUID="12090ba6-624e-4f12-8c45-52fe2df00c80">
+          <Question GUID="96bdde92-556e-4785-98f5-b1a6e2a16ae6"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="9fe79428-9a06-4b03-af9a-8537072381c2">
+      <span style="FONT-SIZE: 10pt" GUID="75df2596-df4a-42aa-b460-7c4ea1e0adc0" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="34c0bb2d-c755-494d-b452-3179fffefe0d">For covered procurements, what is the threshold for all construction services?</strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5a8c64d5-2f46-47bb-9e26-5d353a8fff1b">
+        <span style="FONT-SIZE: 10pt" GUID="5b689565-3248-4d0d-90a7-153c099c8d8e" xmlns="http://www.w3.org/1999/xhtml">$80,000.00</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="834b4aa8-5a6a-4f7b-b5a3-211eee7065da">
+        <span style="FONT-SIZE: 10pt" GUID="c764f790-3521-406e-aac0-38624e2016ef" xmlns="http://www.w3.org/1999/xhtml">$400,000.00</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="346a86a6-2f40-4b3b-baa0-f4aed3ee4a02">
+        <span style="FONT-SIZE: 10pt" GUID="f7551d8d-a365-4f2d-9435-6253b683d4fb" xmlns="http://www.w3.org/1999/xhtml">$11 million</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3931e809-650b-48c3-96a3-c9317d93d3bc">
+        <span style="FONT-SIZE: 10pt" GUID="52dfe4f2-f3c6-43d3-b82a-e0edf87e5bbb" xmlns="http://www.w3.org/1999/xhtml">$9 million</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q14" IsActive="true" GUID="bcceb39d-0f3f-479b-a17a-68aa7db2bf94">
+      <Title GUID="0c4ee0f6-d77d-4e03-a244-3b6c6e69a408">Question</Title>
+      <PageElements GUID="ec50f9d3-0188-434d-97cd-28f17d693f1a">
+        <PageElement GUID="eff9e862-0667-4e64-8492-c0ca771feffc">
+          <Question GUID="635ca541-c0ce-482c-8684-db5d9444556f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="756afd77-05a2-42b3-81d0-7f70a9a5d91b">
+      <span style="FONT-SIZE: 10pt" GUID="49729864-8582-4a18-a4db-a747f7d25ccd" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="59ed0556-dc3a-4542-8122-f96623880794">An agency wants to avoid the covered procurement threshold in the CPGs by separating a procurement into parts; in what circumstance is this allowed?</strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8905fee0-19cf-4f90-b49e-3cb704955ab1">
+        <span style="FONT-SIZE: 10pt" GUID="b6f4ed11-4322-4866-80b0-4cbb983fb610" xmlns="http://www.w3.org/1999/xhtml">By having separate contracts for different aspects of the goods and services that are being procured, so that no single contract is over the threshold.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a61cf119-2327-44c3-b0a8-8b6b102d49dd">
+        <span style="FONT-SIZE: 10pt" GUID="6c7471a1-82b4-4d87-8310-a198c44dc948" xmlns="http://www.w3.org/1999/xhtml">Where the agency is procuring different components from separate suppliers, and the total being procured from any one supplier will not exceed the covered procurement threshold.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cfee5cec-40b7-4e0a-a003-d469a02f7e3e">
+        <span style="FONT-SIZE: 10pt" GUID="0455796b-211b-44c0-b668-adcddf63991f" xmlns="http://www.w3.org/1999/xhtml">By entering into a deed arrangement where individual work orders are issued, and each of the work orders are for less than the covered procurement threshold.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0fbd0710-451e-4edf-8397-9d0c50656054">
+        <span style="FONT-SIZE: 10pt" GUID="c1efb89b-c07e-4c3f-93df-e78af5529f24" xmlns="http://www.w3.org/1999/xhtml">When the total contract value may be over the threshold, but can not be accurately calculated at the time that the contract is entered into.</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q15" IsActive="true" GUID="bf3e8e4e-d845-4d42-8070-00336d9d0460">
+      <Title GUID="7cd0c524-33dc-43d3-945c-36e75df43bc5">Question</Title>
+      <PageElements GUID="202c99ee-027c-481d-987d-9b9efd754a4d">
+        <PageElement GUID="a2a10829-f9d8-4b17-a566-f6722cdc5d65">
+          <Question GUID="23989b56-5783-45af-9b58-f1c6c8cc88d5"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="c4d01e3c-b432-4259-af7f-71054ee88156">
+      <span style="FONT-SIZE: 10pt" GUID="b74179f5-674e-42f6-ade6-9cd61dd38c8f" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="e2bd4d89-e961-4145-9e49-cf5b3b19889e">Which of the following tender requirements would be inconsistent with the CPGs </strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="551c6e8c-b839-4cab-a42f-baa9882cb9ab">
+        <span style="FONT-SIZE: 10pt" GUID="7e305d94-422c-482a-ab42-49e090a60dd1" xmlns="http://www.w3.org/1999/xhtml">That no agency data be permitted to be taken outside of Australia</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e708635f-d858-4b3c-86a0-5ecae5394a17">
+        <span style="FONT-SIZE: 10pt" GUID="1c020236-7b94-4b6f-a611-4bcbf4d76bdc" xmlns="http://www.w3.org/1999/xhtml">That the tenderer comply with all applicable laws and Australian government policies in performing the contract</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="05f8b080-92dc-4b11-a7c9-4dc0564c542d">
+        <span style="FONT-SIZE: 10pt" GUID="80295291-b7e2-4c5b-9237-efb22eb6a464" xmlns="http://www.w3.org/1999/xhtml">That the tenderer demonstrate it has previously undertaken similar work for the public sector</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1c4855f6-8595-4900-9451-c2d6e870caec">
+        <span style="FONT-SIZE: 10pt" GUID="3721e14b-f287-4597-9058-65702a247c2e" xmlns="http://www.w3.org/1999/xhtml">That the tenderer provide the services from a specific location in Sydney.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_5" Name="Answer" Value="5" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c6487837-011d-46d2-96d8-6b165151e6e8">
+        <span style="FONT-SIZE: 10pt" GUID="4922b977-b46d-4699-b0d1-b0621d1e92cc" xmlns="http://www.w3.org/1999/xhtml">That the tenderer be incorporated in Australia, or an Australian resident for taxation purposes.</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q16" IsActive="true" GUID="58136ec0-e823-48f2-b254-9edd5312e2b1">
+      <Title GUID="10560e50-9720-4c3c-9a9c-b9170d0418c2">Question</Title>
+      <PageElements GUID="099bfa43-189f-42f5-9305-349914e13154">
+        <PageElement GUID="dce1a8fa-2233-45e9-9762-bbe537ca1ff2">
+          <Question GUID="c21cb092-dce7-4144-9f91-1370a5bfd40f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="dae0a899-75f6-42bf-933f-366dafe32c13">
+      <span style="FONT-SIZE: 10pt" GUID="fc0ba049-11ca-4245-8075-f762acd70126" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="8d3d2807-4380-4ce7-8486-f5442b965826">Which legislation is most relevant to financial management of Commonwealth agencies?</strong>
+      </span>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ada605ca-f27e-4ee8-bcab-e7e10cd8b4d7">
+        <span style="FONT-SIZE: 10pt" GUID="e3f63fea-52f4-4500-bf11-0afb2b9c1f88" xmlns="http://www.w3.org/1999/xhtml">Fiscal Maintenance and Accountability Act and the Commonwealth Authorities and Companies Act</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0a635254-6a49-4785-b6da-d7bd652d62de">
+        <span style="FONT-SIZE: 10pt" GUID="ada112dd-5cf4-42a1-884c-0eb3c5bec747" xmlns="http://www.w3.org/1999/xhtml">Financial Management and Accountability Act.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4a4d1994-25c3-422b-9846-dae8fa8f2218">
+        <span style="FONT-SIZE: 10pt" GUID="846bc53f-3a32-4b9d-bdeb-c8e406b0b905" xmlns="http://www.w3.org/1999/xhtml">Financial Maintenance and Accountability Act and the Constitution</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="23ebdfa4-17b8-43ca-be4c-3668fae0a722">
+        <span style="FONT-SIZE: 10pt" GUID="fd0aca10-a244-4410-866b-31d6f3eca977" xmlns="http://www.w3.org/1999/xhtml">None, financial management requirements are all set out in the CPGs.</span>
+      </Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_5" Name="Answer" Value="5" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3d02e346-144d-4b7e-b8e5-09e84d676155">
+        <span style="FONT-SIZE: 10pt" GUID="861f8c45-ec36-4d79-a0d2-8c6d745f8ad0" xmlns="http://www.w3.org/1999/xhtml">Financial Management and Accountability Act and the Commonwealth Authorities and Companies Act.</span>
+      </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="ac46d858-43c5-447b-813d-d05b8ca40adc">
+    <Page ID="Comp1" IsActive="true" GUID="70548881-71dd-4b66-818e-94661504d50f">
+      <Title GUID="ee80ca00-5dca-41a6-a0e8-96e7c2c9af4e">End of quiz</Title>
+      <PageElements GUID="09bd0f35-5616-43e6-952b-f59437e16d0f">
+        <PageElement GUID="e4d0b421-6551-4c08-8866-59ec3bac1aec">
+          <Graphic GUID="54f7b77e-e4f9-4345-a4e3-24661ad40d11"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/13cc261b-b2d4-4d7c-8978-6146272e8cfc.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="d376f1f7-d6ec-4300-9579-17cb9d646a8a">
+          <TextBox GUID="798fb8d0-6371-4681-ab1d-cdf911a2f284"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="3bd43adc-cf2f-4b04-92dc-0b6e0df9b9f1">
+    <div GUID="ef36f422-5d62-4a45-acab-31b01ee5bba7" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="86cb9c84-f6f9-4d03-88c6-a19cce75c837"><br GUID="bd7dfcaf-54b0-4b21-950a-d7a9ac376b4e">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="8e8dca03-9bd9-4203-aad9-6f1a19ef70a7"><br GUID="ead67955-b413-4404-aa3b-4dc9d35026c8">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="1dce513c-255b-4d3d-a461-959c8c99da2c">
+          <SubmitAnswers GUID="6c41997e-13a8-49ae-8312-241bef9b61db"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

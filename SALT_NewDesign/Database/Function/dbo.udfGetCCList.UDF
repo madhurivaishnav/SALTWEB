@@ -1,0 +1,28 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetCCList]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'CREATE  FUNCTION [udfGetCCList]
+(
+@ScheduleID int
+)
+RETURNS nvarchar(4000)
+Begin
+
+declare @CCList nvarchar(4000)
+set @CCList = ''''
+
+select @CCList=   @CCList  + CASE WHEN @CCList = '''' THEN '''' ELSE '','' END + tblUser.FirstName + '' '' + tblUser.LastName + '' <'' + tblUser.Email + ''>''
+FROM tblCCList
+INNER JOIN tblUser ON tblUser.UserID = tblCCList.UserID 
+WHERE tblUser.Active = 1 
+AND tblCCList.ScheduleID = @ScheduleID 
+
+
+RETURN @CCList
+End
+' 
+END
+GO

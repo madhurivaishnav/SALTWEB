@@ -1,0 +1,42 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblCourse]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblCourse](
+	[CourseID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[Name] [nvarchar](100) NULL,
+	[Notes] [nvarchar](1000) NULL,
+	[Active] [bit] NOT NULL,
+	[CreatedBy] [int] NOT NULL,
+	[DateCreated] [datetime] NOT NULL,
+	[UpdatedBy] [int] NULL,
+	[DateUpdated] [datetime] NULL,
+ CONSTRAINT [PK_tblCourse] PRIMARY KEY CLUSTERED 
+(
+	[CourseID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblCourse_Active]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblCourse]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblCourse_Active]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblCourse] ADD  CONSTRAINT [DF_tblCourse_Active]  DEFAULT ((0)) FOR [Active]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblCourse_DateCreated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblCourse]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblCourse_DateCreated]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblCourse] ADD  CONSTRAINT [DF_tblCourse_DateCreated]  DEFAULT (getutcdate()) FOR [DateCreated]
+END
+
+
+End
+GO

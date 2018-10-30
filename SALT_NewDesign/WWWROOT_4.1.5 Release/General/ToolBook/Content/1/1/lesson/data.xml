@@ -1,0 +1,1056 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" productVersion="11.0.6357" name="urn:Lesson:Salt:Bdw" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-us" GUID="2b5bcd7d-bbc3-4dc5-b0b8-ef8536f250e9">
+  <Summary ID="pr03" GUID="23d73668-0c80-41f8-89c1-c19eb88e7b50">
+    <ContentType GUID="39362953-2d35-4068-83de-acfcbaa46fb4">lesson</ContentType>
+    <UploadType GUID="3127a331-ab57-4e13-9166-9905b4fb752a">update</UploadType>
+    <Title GUID="d0ceaacf-83fa-4512-8d57-425d208b13ad">Use and Disclosure Principle</Title>
+    <CreatedBy GUID="d346366e-e623-4fdb-af7c-045f3c4e942d">Administrator</CreatedBy>
+    <CreatedDate GUID="d34ea0c0-4cc2-4b69-9d3d-2fd44830a365">2005-03-02T16:28:10</CreatedDate>
+    <LastModifiedBy GUID="18c61c41-854a-469d-9b5c-3fd5adda0ccd">pkneale</LastModifiedBy>
+    <LastModifiedDate GUID="66d51f33-eb28-4b26-91d9-17e735429287">2005-03-07T17:02:55</LastModifiedDate>
+  </Summary>
+  <Players GUID="7bdd1eec-51de-4e0d-9c2e-87447261cd08">
+    <Player ID="Player1" GUID="37e278c6-0942-4926-b0f3-b39e5dece5a7">
+      <Name GUID="fb36096b-208d-4c92-9684-8d3c9babbe9f">Peter Kneale</Name>
+      <Picture GUID="93462461-c4c7-4ab9-9cda-1612854a63b6">
+        <Image GUID="2396bafe-0e8c-45c7-82bb-1da5d3444107">Images/828d0715-b5d4-4fa1-ac82-9b8075858636.gif</Image>
+        <AltText GUID="73808210-7dec-47da-8ce7-06da080534fd">This is Peter Kneale</AltText>
+        <Align GUID="d2e4c595-241e-4fc8-9e1a-35e85957f1d6">Left</Align>
+      </Picture>
+      <Description GUID="ce4189de-5a0f-438e-88ea-dbede7011554">Lorem ipsum appareat salutandi pro ne. Per no iuvaret admodum comprehensam. Pro at urbanitas omittantur contentiones, equidem salutatus id ius, ad debet graecis disputando eum. Quo et vero veri populo, has ad adipisci nominati scripserit. Eu adhuc tritani graecis sed, omnis nonumy graecis cu quo, amet fugit cu vim. Nam malis debet dicam no.</Description>
+    </Player>
+    <Player ID="Player2" GUID="5fac86d0-3be9-440a-b2d6-09be9e5a29b6">
+      <Name GUID="1707d12d-d072-418c-98c5-f5e23f7767af">Bob Brown</Name>
+      <Picture GUID="8f6f1b21-9da1-4e7c-a08e-74effe62aefc">
+        <Image GUID="ab305737-2783-4c6f-b4df-0238821966b3">Images/f46a5d0f-a9dc-43a5-b001-5b6bddd3be6f.gif</Image>
+        <AltText GUID="6ea6308f-3919-4fe9-a918-c9e3ebebd461">This is Bob Brown</AltText>
+        <Align GUID="8bafc371-f30b-4759-9677-437009e8bb05">Left</Align>
+      </Picture>
+      <Description GUID="c21ee8ab-f5ed-4840-9a9b-5ddb55042c29">In mucius prompta maiorum mel. Eam ut solet fabellas, alterum explicari cum in. Vim eu nulla error vivendum. Ius cu vidisse habemus minimum. Et vim alia porro, vis insolens torquatos ex, mei ne dolor saepe maluisset.</Description>
+    </Player>
+    <Player ID="Player3" GUID="0ad12e45-05bc-44e1-8daf-9bc5231ed3d5">
+      <Name GUID="39eb409e-1e60-4fe1-857f-d11a7bf9d90e">Charlie Card</Name>
+      <Picture GUID="3c7adaf1-cb84-4089-ad13-f31ac5bdd1cc">
+        <Image GUID="2dfdd219-e4f0-4236-a841-f409d1513114">Images/37c8876a-0ee9-4294-aa86-e6e794cda750.gif</Image>
+        <AltText GUID="860fa152-dc82-471f-83ee-e90fdd9ac170">This is Charlie Card</AltText>
+        <Align GUID="07017aab-ccbb-46a0-98a8-03ee26ff5f3a">Left</Align>
+      </Picture>
+      <Description GUID="7f0cd1dd-7877-4963-8682-562e809c4b7f">Expetenda urbanitas pri ut. Errem inermis mandamus ex usu, cibo modus ludus per id, cum ex accusam vituperatoribus admodum. Mutat omnes nostrud in mea. Habemus recteque eu sed. No probo porro vix. Ut pri possit ocurreret philosophia, sea erat probo eu.</Description>
+    </Player>
+    <Player ID="Player4" GUID="8add6943-7908-47b3-a561-fc233bf6172a">
+      <Name GUID="dbe677c5-a17c-4486-8cc8-3537e92cd58f">Debra Doyles</Name>
+      <Picture GUID="cb31dc00-ddc6-42cc-b93b-cac3df30425c">
+        <Image GUID="fd18bd87-0160-413f-b516-43311fd719be">Images/cd63a060-1968-4111-a0f5-c3e68fd94bf4.gif</Image>
+        <AltText GUID="e31ea444-5837-4fcf-aab0-be575a7e6ce3">This is Debra Doyles</AltText>
+        <Align GUID="4efefcb6-ee2c-4fff-bb01-07eb1b46441c">Left</Align>
+      </Picture>
+      <Description GUID="550848d3-78aa-4922-b3b4-0a9f591d85e1">Libris moderatius cu quo, quo agam appareat argumentum in. Sed laoreet ullamcorper ea, nec apeirian persecuti in. Eu mei salutatus adversarium definitionem. Ei modo nusquam invenire quo, ex mea hinc complectitur. Est iudicabit explicari concludaturque in, persius expetenda inciderint no mea, ius nulla latine docendi id.</Description>
+    </Player>
+    <Player ID="Player5" GUID="eb569339-3a13-43a3-807c-07b30501461c">
+      <Name GUID="f20f1e7e-527c-46ae-ab26-9b3b6b5d3748">Elias Estperento</Name>
+      <Picture GUID="cdffda0b-982c-45f7-94a2-ab699bcc3a12">
+        <Image GUID="62e2d1bf-145c-4eec-8667-007d014b1a1b">Images/c095204b-64f1-4a61-adf0-5390c87cb844.gif</Image>
+        <AltText GUID="562f888a-b644-473b-9a0d-541f837273cb">This is Elias Esperento</AltText>
+        <Align GUID="bc8f086f-b24b-4b00-bec6-08c3c07b74f9">Left</Align>
+      </Picture>
+      <Description GUID="eb362de7-8534-4601-b22f-711714de4287">Per iusto libris adipiscing an, justo iriure accusamus nec eu. Quis omnium placerat ne has, nec an kasd tamquam delectus. Eos eu nostrud omnesque probatus. Vis te legere scaevola tractatos.</Description>
+    </Player>
+  </Players>
+  <Pages PageFilter="0" GUID="dae63ec4-014b-42ad-be6b-d04e319e9b93">
+    <Page ID="Page1" IsActive="true" GUID="6f1c124c-4e31-424d-9c33-92246475db2b">
+      <IncludedInTOC GUID="ee61348d-27b8-4cc2-a2f3-3ab04e5b4b9c">false</IncludedInTOC>
+      <Title GUID="fc62f5f7-085c-407c-adbb-120cb0d0e214">Table of Contents</Title>
+      <PageElements GUID="e29c34d1-2b4f-42ae-8c89-e155013d09ce">
+        <PageElement GUID="d34852e5-d451-42a8-82d5-5d4b31e03e38">
+          <TextBox GUID="744cb3f0-7c4f-4933-9179-55873d73046e"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="ac3b216f-423a-4378-9ab1-6bf6c23a2cc1">
+    <div GUID="a470d32b-6be8-408c-9224-21e47be9a85f" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="3ca19566-354a-4740-8690-25dd2ee54642">
+        <span style="FONT-SIZE: 10pt" GUID="a58cc36d-de6a-4460-8c45-1cf792ab0396">In this lesson you will move through a number of information screens which will teach you about <strong GUID="4f0956ce-42a3-43a2-997b-0659e72606fd">[Lesson Title]</strong>.<br GUID="5f42317b-9b04-4424-9ccb-b985751fa822"><br GUID="613a596c-53a6-4d08-985c-4136477710f1">You will also be presented with scenario pages, where a situation will be described involving a number of fictitious characters. You will be asked questions which will test your understanding of <strong GUID="38232503-0a4c-4e7a-9dc9-65ad42e3cbb6">[Lesson Title]</strong>.</span>
+      </font>
+    </div>
+    <div GUID="3c12ddaf-c86e-4bbd-8f83-e1c220b6ed44" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="14d36f6c-bdfb-4c8c-bdf4-fb7fedf11dbd">
+        <span style="FONT-SIZE: 10pt" GUID="1f2aeafb-cb92-4e94-af3e-378c5e911194">
+          <br GUID="53b8e771-83d8-4995-86ea-6f26f273fb7e">These questions are not scored and your response is not recorded. Use the feedback provided to consolidate what you have learned during this lesson.<br GUID="c8208b0f-caf2-4111-85d2-935bd7dc574a"><br GUID="c5bc2f4b-547b-4d58-9d38-e94f404364bc">Click on the <strong GUID="0a2eb4ff-6cd8-40e8-8174-1d7ca9d06988">Quick Facts</strong> menu button above to view a summary of points covered in the lesson.<br GUID="60c60cfa-46ac-4886-a7bf-b1d9417a8f98"></span>
+      </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="7646e9b1-6dc2-4783-a3cb-e3bf264a3785">
+          <TOC GUID="150bc2dd-5a5f-4843-927b-927166f4ad81"> <![CDATA[<div class="TableOfContents_Main">
+  <div class="TableOfContentsTitle">Table of Contents</div>
+  <ul class="TableOfContentsList">
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page2')">Learning Objectives</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page3')">The Use and Disclosure Principle</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page4')">Other Situations for Using and Disclosing Personal Information</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page5')">Using Personal Information for Direct Marketing</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page6')">Use and Disclosure of Personal Information between Related Companies</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page7')">Test your Knowledge</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page8')">Scenario 1</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page9')">Scenario 2</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page10')">Scenario 3</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page11')">Scenario 4</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page12')">Meet a few Players</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page13')">Meet all the players</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page14')">Feedback</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page15')">ari</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page16')">End of lesson</A>
+  </ul>
+</div>]]></TOC>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="51013965-c803-4716-b996-c5f94c8d6c53">
+      <IncludedInTOC GUID="29bc304e-43a7-46e3-9c9e-2f2a5441ed97">true</IncludedInTOC>
+      <Title GUID="20f56458-c1e1-4368-a916-b60a5a50ea58">Learning Objectives</Title>
+      <PageElements GUID="168714ea-9515-4e89-b8a2-ce5d732f4433">
+        <PageElement GUID="426b3068-9c7a-4921-bf4a-08c00bd78102">
+          <Graphic GUID="6be292d6-ecb2-4df8-bc61-dded96acdd11"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/212ff463-907b-428c-894e-d83fdafc28a5.gif" alt="Learning Objectives" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="e652be91-b165-4335-814a-4c2b8c04ceb2">
+          <TextBox GUID="47669077-ecf9-446b-ad71-13bcd3427191"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="5acdb901-5e05-419d-9155-91c614f06f69">
+    <div GUID="a74a6a38-41ae-435e-bb4b-4de2cf0cee46" xmlns="http://www.w3.org/1999/xhtml">This lesson should take about <strong GUID="2b9e2dc9-9160-49ce-9a26-908fc159da8a">20 minutes</strong>.</div>
+    <div GUID="5992814f-bfee-4ef2-9e18-bbfde21556e8" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="a64e3e26-682a-44b0-836c-b091eb17a0b4" xmlns="http://www.w3.org/1999/xhtml">You will learn about the Use and Disclosure Principle that sets out the rules for how you can use and disclose personal information.</div>
+    <div GUID="41f83af4-dd47-469d-adb3-4853c90260c3" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="34a14098-cfb6-46aa-b133-ba7c06592bee" xmlns="http://www.w3.org/1999/xhtml">At the end of the module you should have a good understanding of:</div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" GUID="4642f19b-07c1-47b9-b501-e65f5de4a065" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="94c39526-4769-46ca-818c-cb3cbc605986">the ways that organisations can use and disclose personal information in general </li>
+      <li GUID="bc365b3b-0be7-481e-9b50-628d1b2ff7e2">the special rules that apply to direct marketing and to the exchange of information between related companies</li>
+    </ul>
+    <div GUID="f55de20d-2e80-4ccb-b3dc-335482021663" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="4732a0eb-8534-4d2a-91ce-f18bb57a2c0c" xmlns="http://www.w3.org/1999/xhtml">To get started, please click on the <strong GUID="669c3e98-2be4-4755-8386-152b3844a165">next</strong> button below. </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="23226ef1-0c6b-4231-a089-1c6eae28211e">
+      <IncludedInTOC GUID="9541afae-6834-4980-9f6f-e93a044369f7">true</IncludedInTOC>
+      <Title GUID="3c24d233-00a8-49fa-b954-fd2cbc5c7f06">The Use and Disclosure Principle</Title>
+      <PageElements GUID="1045b175-96af-4547-8ca3-144c28405459">
+        <PageElement GUID="96b3f3ea-4975-4bdd-a0ff-09206cdd8264">
+          <Graphic GUID="5768c288-78af-447d-ac8b-cda67f4c0e98"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/93b0a092-7f19-4df1-bd41-d104389ad3d5.gif" alt="Light globe at top of mountain" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="410ef03a-86c3-4fbc-923f-baedac146ed7">
+          <TextBox GUID="a3c9ddf1-3d23-44a8-b221-1f93e15fac58"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="e2a72e3b-0858-431f-b9d9-2102d007ab19">
+    <div GUID="0c5477e5-d81d-4fa8-8026-9fd0cf80e3d3" xmlns="http://www.w3.org/1999/xhtml">The Use and Disclosure Principle sets out the rules for how you can use and disclose personal information.</div>
+    <div GUID="331e6f71-25b2-4208-b8f9-83a3ba43f85e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="96f46edd-b536-4b11-b0dd-f6ecb651168b" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="d3ad1d20-ca22-4150-a731-397dbf0926bf">When does it apply?</strong>
+    </div>
+    <div GUID="80f5e293-e43c-4823-9404-97a322aa28f5" xmlns="http://www.w3.org/1999/xhtml">The principle applies when you use or disclose personal information that was collected by your organisation after 21 December 2001 (whether that information is collected directly from an individual or from a third party).</div>
+    <div GUID="2e425836-fee3-4cbd-adf2-d59decc29cce" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="74deccc3-c4b0-4167-911c-4d2c91e8af2d" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="5f7c9363-5638-4f5a-9a6e-a02082823887">What are the rules for using and disclosing personal information?</strong>
+    </div>
+    <div GUID="f8415cf3-adf2-4115-a032-35087cd66f13" xmlns="http://www.w3.org/1999/xhtml">You can always use and disclose personal information for the main purpose that it was collected for. The main purpose is called the "primary purpose" in the National Privacy Principles (NPPs).</div>
+    <div GUID="9219dd28-97e7-4523-b801-6f34a2639502" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="f2fdd8b1-f35e-4d7b-a287-e3f817e88063" xmlns="http://www.w3.org/1999/xhtml">The primary purpose of collection can be determined from the context in which the information was provided. For example, if a new customer supplies personal information to your organisation for the purpose of buying a product or service, the sale of that product or service by your organisation would be the primary purpose of collection.</div>
+    <div GUID="adf9f3bb-050f-414f-91cb-8e2152d1fce3" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="9b831665-d4a7-4fb8-ba7d-f6a3e50671ea" xmlns="http://www.w3.org/1999/xhtml">You can only use or disclose personal information for another purpose in certain situations.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="be881faa-4867-42a0-b723-5f4c3681efc8">
+          <ExtraInfo GUID="241f49e6-2917-4494-9dad-b181d5f50bcc"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Use and Disclosure Principle</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="http://www.privacy.gov.au/publications/npps01.html#b" class="ExtraInfo_Link" target="_blank">Click here to view the full text of the Use and Disclosure Principle</A>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="c8d77ad6-8b9c-4cec-bddc-0aeae59f2024">
+      <IncludedInTOC GUID="8e3f3a40-e866-4b90-a425-3ca0626517ad">true</IncludedInTOC>
+      <Title GUID="85b7bfb4-885c-450b-b85c-533d504c4277">Other Situations for Using and Disclosing Personal Information</Title>
+      <PageElements GUID="0b2b09f4-283a-479f-a74f-7cc05da9a9d3">
+        <PageElement GUID="c734c5a6-388d-4185-baa5-53a92eab6d4f">
+          <Graphic GUID="7469271f-ecc3-4bc7-b0d3-77812623be58"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/9f1f612c-b9a4-4bbe-8d47-93ba091ccc4d.gif" alt="Man with clipboard" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="cdae6dc0-836e-4972-936c-c990ebca2a64">
+          <TextBox GUID="298d1fb1-27fa-45a3-871f-d42db66c59fa"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="5f4ba8c4-a66a-45c0-bc43-496309fd9846">
+    <div GUID="92fd954a-315c-4e5c-b9eb-7b4a9a0f5616" xmlns="http://www.w3.org/1999/xhtml">You cannot use or disclose personal information for purposes other than the primary purpose except in any of the following situations. Other purposes are called "secondary purposes" in the NPPs.</div>
+    <div GUID="b502fda3-aa95-4486-ae50-ba374a87de83" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" GUID="0028251e-5125-4b07-9a5b-2b0329dd57f9" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="922e105a-007d-4338-a8ea-5ed38c6fc276">
+        <div GUID="fd824f72-856a-48b0-a6c1-c93303e1e144">If the other purpose is related (in the case of sensitive information, directly related) to the primary purpose of collection, and individuals would reasonably expect their personal information to be used or disclosed for the other purpose.</div>
+      </li>
+      <li GUID="d4644d9e-ba2d-4530-9568-65d85a3e3b2b">
+        <div GUID="11dc1f41-4bd7-405c-bb3f-dcfc434401a7">If individuals have consented to the use or disclosure of their personal information for the other purpose</div>
+      </li>
+      <li GUID="99b1bc02-1a02-4c63-bf0f-e764dfd2a1dc">
+        <div GUID="9ce6e83d-1a0b-4c27-8f4f-fd3b772b930d">If the use or disclosure is required or authorised by law</div>
+      </li>
+      <li GUID="18eb89c0-227a-4a26-abfb-4493070ac8b5">
+        <div GUID="10277830-d492-4f5d-bf8a-09970b9130d0">If it is necessary to prevent a serious threat to an individual's life, health or safety</div>
+      </li>
+      <li GUID="948bf9c8-fa56-45a4-80f2-128d3768b970">
+        <div GUID="859403fb-e2e9-4b59-abd8-99c91132fabe">If it is necessary to prevent a serious threat to public health or public safety</div>
+      </li>
+      <li GUID="d3198dd2-acc6-4116-8c66-5cc81562155b">
+        <div GUID="a72b82a3-ff67-4a2e-84f1-0a84596dcad0">In investigations of unlawful activity (such as fraud) as long as the disclosure is necessary to the investigation</div>
+      </li>
+      <li GUID="8cfe9dfb-e843-4806-841b-bc82127ba4ec">
+        <div GUID="c4c4816b-d69b-4ca3-aab9-b80500f413d5">If it is reasonably necessary to help official enforcement agencies</div>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="28307f83-7b12-430d-9b51-4bf90a720662">
+          <ExtraInfo GUID="84324dfe-b3e3-4c6a-bfdb-6570f8e84c81"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Click here to view a definition of sensitive information</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('c8342a33-52ca-40cf-949f-2ee90901e493');">Sensitive information means any information relating to an individual's:</A>
+      <div ID="Content_c8342a33-52ca-40cf-949f-2ee90901e493" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="a57bc618-ceb3-4d5c-9132-8a787cc60f52">
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" GUID="76ad82e5-c201-430e-b1f2-abf05dce6a27" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="c86f127e-21c5-4d2b-9427-4ab9462e80ba">health </li>
+                  <li GUID="b1aac2a7-92ab-4a20-884e-a91b016d3832">
+                    <div GUID="0f9a6ac8-aa37-458d-9ada-c49ba0122aa7">racial or ethnic origin</div>
+                  </li>
+                  <li GUID="beb5f91f-d63b-4b25-98b7-3da9f3c72396">
+                    <div GUID="076532ef-5a58-4082-b47b-552f6acdf633">political opinions</div>
+                  </li>
+                  <li GUID="bbd619ff-a419-4a79-bae5-ec6aa9a29573">
+                    <div GUID="331c3dab-6c53-4ce1-a4f2-36ba55ea7ae9">membership of a political association, professional or trade association or trade union</div>
+                  </li>
+                  <li GUID="39ee1a3d-b2f9-4075-ad42-04a6e5e78410">
+                    <div GUID="7578a53c-8820-45ce-944c-d0a222fe7b4d">religious beliefs or affiliations</div>
+                  </li>
+                  <li GUID="7ee205e4-cfa0-4f6f-9046-98ae2c183194">
+                    <div GUID="b067d33d-d916-4b93-a9ce-85d1fd7b8d21">philosophical beliefs</div>
+                  </li>
+                  <li GUID="e752a795-e61e-4d6d-9ba3-10a63918c8ae">
+                    <div GUID="6ca8e0a8-821c-4a0e-8781-945219f2a4a2">sexual preferences or practices</div>
+                  </li>
+                  <li GUID="c3dc45bf-2329-41d6-b86c-a9c591817798">
+                    <div GUID="d1aa59b3-f5be-4c42-85db-8c3dedcaa048">criminal record</div>
+                  </li>
+                </ul>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('c8342a33-52ca-40cf-949f-2ee90901e493');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="19a5ed91-3709-4303-9a31-eb7219460b78">
+          <TextBox GUID="40c258f5-0f9d-414a-a44c-472fd19a052f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="49f2765e-5c27-40dc-8c35-e6541ce7688c">There are certain other situations where the use or disclosure of information for secondary purposes is permitted. These are specified in the Use and Disclosure Principle.</Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="e91e65b1-f2ff-417a-85e9-5693bdda9d9f">
+      <IncludedInTOC GUID="5100c7a5-ffaa-4188-b719-07264eb77484">true</IncludedInTOC>
+      <Title GUID="38532a64-e724-4a8b-9664-c2ebaa69c67d">Using Personal Information for Direct Marketing</Title>
+      <PageElements GUID="28d18104-4b35-41ab-abcb-c4372e8adbd5">
+        <PageElement GUID="afdddc9c-2a3c-4cf9-a3f6-5c43158fd90a">
+          <Graphic GUID="f167b147-b544-4150-8b67-31057892f1e5"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/426b87d6-8cab-4eb5-a4e7-ca3398936bc6.gif" alt="Computer" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="a8349885-0b05-4ee3-b518-6b3e7b4441af">
+          <TextBox GUID="59e5a539-792c-4067-9706-0f53d88688f5"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="a30e6360-d12e-4896-9985-4df81de3eafd">
+    <div GUID="eebdfaca-edd6-413a-98a1-8730cd6963d4" xmlns="http://www.w3.org/1999/xhtml">You can use (but not disclose to third parties) personal information for direct marketing if:</div>
+    <div GUID="a7f13a0a-5214-4dce-85bd-421e38d14cfa" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" GUID="e94aada3-7785-4297-b2af-7a2e220ec06a" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="006a33d7-c655-450e-a8f7-d963061af57b">
+        <div GUID="ac08bb97-ac90-4807-81b9-583b89bd1444">direct marketing is the primary purpose of collecting the personal information.</div>
+      </li>
+      <li GUID="e42ac593-7b53-4d6a-a797-d697c0a1fe2e">
+        <div GUID="f91a2ce9-95df-450f-9b25-6d54eb6e9501">direct marketing is related to the primary purpose of collection and individuals would reasonably expect their information to be used for direct marketing</div>
+      </li>
+    </ul>
+    <div GUID="fc956549-196a-42b6-9fe7-f420ab1123cd" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="f3dcb3b9-4209-476c-a027-574524095521" xmlns="http://www.w3.org/1999/xhtml">You can also use personal information for direct marketing if ALL of the following apply:</div>
+    <div GUID="6a5a90ad-3ce4-475b-8d81-56b5ec5c7614" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" GUID="cb6a35d3-8ac8-4023-ba63-f8f394b13ed4" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="5e02366a-364f-4d75-a9d3-182d92613e65">
+        <div GUID="5785083b-293b-42df-8eff-f42595bfca27">the information being used is NOT sensitive information</div>
+      </li>
+      <li GUID="6ac95ff0-9af9-44c0-bbcd-a8cf05562a09">
+        <div GUID="df666143-780e-4946-984a-7878376bd57f">it is not practical to seek consent before using the information for direct marketing</div>
+      </li>
+      <li GUID="b8bf045e-50af-467a-91fa-03eb8f38d20f">
+        <div GUID="4b799214-e052-48fe-8627-81d0d78e5a79">the individual has not previously told you that they do not want to receive direct marketing material from you</div>
+      </li>
+      <li GUID="8692e1e5-ad61-4534-9d6c-6b36817cdcce">
+        <div GUID="a231ad15-6c51-4b24-86e3-ba5e2da59e5e">you display a notice letting individuals "opt-out" of future direct marketing</div>
+      </li>
+      <li GUID="43f8fff7-426a-4676-89d8-e1a13d80cc7d">
+        <div GUID="d4f40af1-4c71-4db2-bdb1-ebc8f575bc89">you do not charge individuals for choosing to opt-out</div>
+      </li>
+      <li GUID="72a84810-8bd8-4f7b-b246-1329b7432311">
+        <div GUID="b2ed2219-ee04-4a23-bb57-99cc56cdc7d7">you set out your organisation's address and phone number, or its fax or email address if the direct marketing was by fax or email</div>
+      </li>
+    </ul>
+    <div GUID="c8561278-a2a2-4531-98d7-e120a6c6dd91" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="a4bef43b-9b44-42fd-a595-bece70408271" xmlns="http://www.w3.org/1999/xhtml">You cannot use sensitive information for direct marketing purposes without specifically obtaining an individual's consent.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="5c37b694-94bd-4349-b2cc-b4f78d30a323">
+      <IncludedInTOC GUID="b003c7df-1592-4af6-b43a-0a82adf6c1cf">true</IncludedInTOC>
+      <Title GUID="7a95c392-07a4-439a-beed-ebd01ab64bfc">Use and Disclosure of Personal Information between Related Companies</Title>
+      <PageElements GUID="683d5a76-b64b-4899-b2b1-6f646d65a517">
+        <PageElement GUID="42bcc71c-e2b9-4e33-863c-b87928a73539">
+          <Graphic GUID="6354387e-99e5-4c5c-96cd-1d1ccf8db512"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/6bb83fb8-781c-4e56-b231-2c84a7821994.gif" alt="Globe" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="6001ff03-7b42-442c-a821-2bf8d6fb97ff">
+          <ExtraInfo GUID="42df240d-6994-40ee-a619-cbcbd7ea721c"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Click here to view a definition of related companies</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('fdcfb76e-9715-4479-9385-49d91c753ac5');">Two companies are related if:</A>
+      <div ID="Content_fdcfb76e-9715-4479-9385-49d91c753ac5" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="3794b7b7-94c6-4567-a1f0-9876101bbb52">
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" GUID="91aefb90-0ccc-4997-9eb3-f8b82bf9d5a5" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="ebd3f1f9-ccc3-4131-b282-54f38e643333">
+                    <div GUID="e7e89b11-fbc4-4250-832e-8c240496ea52">one company is a holding company of the other company;</div>
+                  </li>
+                  <li GUID="98517854-956f-42ea-9002-9efa77ff3e59">
+                    <div GUID="700135a7-a995-43a9-9424-89719f6bd545">one company is a subsidiary of the other; or</div>
+                  </li>
+                  <li GUID="02890059-68ad-4537-a56a-890c3e432aa1">
+                    <div GUID="0de99f05-42b4-4e78-8082-6e78bb7496d3">they are sister companies, that is, they share the same parent company.</div>
+                  </li>
+                </ul>
+                <div GUID="3983bc2a-8b25-415d-a8b8-0b48bf7c8d77" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="7be9ed67-f0e2-4425-b60e-586ef6d03cff" xmlns="http://www.w3.org/1999/xhtml">If you have any questions about whether your organisation is related to another company, you should contact the legal department.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('fdcfb76e-9715-4479-9385-49d91c753ac5');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="509f4477-c307-41e2-bfd6-e99a50c53c14">
+          <TextBox GUID="c5fe713a-d756-4f36-8f31-dba3a9a222e7"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="eb3219d0-8bc4-4910-8e80-2877d08ea182">Your organisation can disclose personal information (but not sensitive information) to a related company if you told the individuals that you would do so when you collected the information or as soon as practicable after collection. The related company that collects the personal information does not need to make the disclosures ordinarily required under the <strong GUID="82b30829-d3ba-483a-88fa-423d78b898c0" xmlns="http://www.w3.org/1999/xhtml">notice requirements </strong>of the Collection Principle.</Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="4611f32d-f327-4399-8807-33ee0e5656f8">
+          <ExtraInfo GUID="928cf071-4b3d-400d-bde3-3f2cc59f0494"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Click here to view the Notice Requirements of the Collection Principle</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('d74c60a6-35b5-4e39-ad08-e9df29283312');">Notice Requirements of Collection Principle</A>
+      <div ID="Content_d74c60a6-35b5-4e39-ad08-e9df29283312" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="aeaebe0d-f2f4-4085-9a02-f2a6ab485b00">
+                <div GUID="e33505de-11d2-42a7-a428-da099341d6ff" xmlns="http://www.w3.org/1999/xhtml">When you collect information from individuals, you must take reasonable steps to make them aware of <strong GUID="7731c803-8602-411c-8e8f-8744b7fa3ef4">all</strong> of the following information:</div>
+                <div GUID="4012f910-bb1a-4c23-b81a-16eb55df2cb1" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" GUID="5258e2e0-60b2-437e-a54d-e2f435f5fa0a" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="e6308bce-5df6-44e4-983b-67cbcb093221">
+                    <div GUID="6b6aeb45-32f6-4d1e-8ec3-87941973cef4">the name of your organisation and how to contact it</div>
+                  </li>
+                  <li GUID="ab46c200-161c-45de-8f3a-abde078e3c46">
+                    <div GUID="20df4725-470f-493c-84f0-6c074a1d42e6">that individuals are able to access the information held about them</div>
+                  </li>
+                  <li GUID="0dbc3aa2-11cf-466b-83b9-e2b3117c8e50">
+                    <div GUID="6841718f-8137-4c3e-9c38-c973a3591e70">the purposes of collection</div>
+                  </li>
+                  <li GUID="bcedef51-0ec7-4aa8-a73f-c3b1cf74afa2">
+                    <div GUID="65f5a182-8289-471c-9f3d-22fe1bdb061e">the organisations or types of organisations that your organisation usually gives this information to</div>
+                  </li>
+                  <li GUID="8a3c76fb-a9b9-4dc7-aef7-2d4c3965d11a">
+                    <div GUID="1a9f1186-ea73-42d7-9187-4042b858d288">if the information is required by law</div>
+                  </li>
+                  <li GUID="be2486a1-cc5d-437e-8790-7b60dc672807">
+                    <div GUID="f46d848c-8041-4166-961d-d2ed75d59258">the main consequences, if any, for the individual if they do not provide you with the information</div>
+                  </li>
+                </ul>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('d74c60a6-35b5-4e39-ad08-e9df29283312');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="28ec674e-fe74-4673-ae9b-84f3ccc44be8">
+          <TextBox GUID="a15a1ddf-c4fd-4618-8a40-b8647c06b746"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="f1b74c9c-f0a4-424b-8c2e-02b9668560a7">
+    <div GUID="0cac1867-88bc-4e54-aa54-94b90cb10c15" xmlns="http://www.w3.org/1999/xhtml">A related company that collects information in this way can only use and disclose the information for purposes that it was originally collected for.</div>
+    <div GUID="cf825cba-5d40-4d9c-99d4-8649c1ad964c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="9694f2a5-45d7-4b71-a594-b60d5214389a" xmlns="http://www.w3.org/1999/xhtml">For example, if you collect information for the purpose of improving customer service you can disclose that information to a related company but the related company can only use the information for improving customer service. </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="fb72ba45-7144-46a4-a634-bf166eb55d48">
+      <IncludedInTOC GUID="fcb290a9-5fb0-4e47-8828-7585381898ba">true</IncludedInTOC>
+      <Title GUID="c58afea6-2862-4b6a-b9b9-3fcb86201e36">Test your Knowledge</Title>
+      <PageElements GUID="34e90e47-8583-46a5-ae78-ff6d720e19a2">
+        <PageElement GUID="468c0178-92f8-45ae-a389-bb34a27afc2d">
+          <Graphic GUID="b58a9f1a-bc67-438c-9cc2-3741c80ac9ed"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/aeea6f6d-15aa-4b70-a6dc-c11ddee01b82.gif" alt="Question marks" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="bc57734d-3d76-412a-8775-5dd232fe693e">
+          <TextBox GUID="6342bb73-0a75-44b6-8c2e-52f57f68f690"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="e958e786-3e40-43d9-96bc-c2e078911db1">
+    <div GUID="0f5c4e5d-dfe3-4dcd-a1fd-3f6dc22cd2ef" xmlns="http://www.w3.org/1999/xhtml">The scenarios on the next pages will help you work out when you can and cannot use and disclose personal information.</div>
+    <div GUID="bf849d59-77e0-4878-a035-8fa2c86134c8" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="7e8d5489-4ce4-4511-b49b-4e13bdbdbade" xmlns="http://www.w3.org/1999/xhtml">On the next few screens are some imaginary scenarios for you to read.</div>
+    <div GUID="600b9efc-3aa9-43eb-a5e4-bbac758312d9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="862b16ea-bfee-4e75-af7f-f6016023f677" xmlns="http://www.w3.org/1999/xhtml">Then have a go at answering some practice questions. Your answers will not be recorded or scored.</div>
+    <div GUID="6829ca45-cf68-43aa-88f2-ff74b64a8a19" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="5fe87c72-34ac-4e2a-9cfc-13843f3427b1" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="cc03d18b-c409-4656-96ae-c7448fd542c5">
+        <em GUID="65c66d02-1eab-4a53-91f6-173587d1e646">Here goes...</em>
+      </strong>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="327f6328-2c0d-401c-8619-9ecb8553110a">
+      <IncludedInTOC GUID="f462212c-9076-45b3-b775-979b709adb55">true</IncludedInTOC>
+      <Title GUID="4d5b4738-5822-467f-b8e6-6f3c8f980552">Scenario 1</Title>
+      <PageElements GUID="8176c809-caf1-4118-bd2a-a35bfd49c7a0">
+        <PageElement GUID="4870aae2-b0d0-4525-b63b-4cb74603d863">
+          <Graphic GUID="5b267c47-f430-40ee-9757-092c4d46438b"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/1bec2868-5ac3-4cf1-b4c3-ebb0b4df7007.gif" alt="Joe" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="3c73c590-0e2f-4b20-a10f-37433b0ad6c4">
+          <TextBox GUID="a3784bf5-0058-4fdd-a491-76c6ff3a9129"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="b067122c-ab67-4037-b758-3cded89e4dc0">
+    <div GUID="e3360bb5-44b4-4dbf-80be-5b2692bf20d1" xmlns="http://www.w3.org/1999/xhtml">Joe is a member of the customer service team for ACME Superannuation Limited. Joe has access to the customer inquiries database that contains name and address details of prospective customers who have telephoned ACME to inquire about superannuation.</div>
+    <div GUID="620ee7ee-7524-4ae8-880a-f04d7dd5221a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="a43e78d1-d3f2-47d1-9342-40e78610e2bf" xmlns="http://www.w3.org/1999/xhtml">Joe thinks this valuable information could be used for many other purposes. He would like to analyse the information and compare profiles of people who inquire about ACME's superannuation plans with those who actually buy thesuperannuation plans. ACME could then build up profiles of particular customers and determine the success rate of different sales and customer service techniques. These sales and service techniques (and not the customer information) could, in turn, be used to establish a customer service training business as an adjunct to ACME's core business activities.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="ab8b1460-09de-4153-9c8b-c35952b29722">
+          <MultiChoiceQA GUID="2ddec891-1771-4fc7-8637-9ca1416975e5"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="41fa968f-8bea-45d2-a987-81d6c4cfedfa">Is this a use or a disclosure issue?</Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q41fa968f-8bea-45d2-a987-81d6c4cfedfa" ID="A2a4fcc38-4619-4638-a2a6-bb4495b6a43c" onClick="ShowAnswer('2a4fcc38-4619-4638-a2a6-bb4495b6a43c','true');">
+      <AnswerText GUID="2273e586-1978-4b4d-ab03-18395f3f8173">Use</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="2a4fcc38-4619-4638-a2a6-bb4495b6a43c">
+      <Feedback GUID="4046b283-4063-42fc-901a-d5d220384cd7">
+        <div GUID="f83767b9-1bed-4001-8e56-2f4230465188" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="bfb5dd4a-b34d-49b3-8b2c-cbec3564e43e">Yes.</strong>
+        </div>
+        <div GUID="ec0f3282-0292-486e-8c31-402a2dee3c23" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="009cca06-96d0-48a5-9140-21f235882cc2" xmlns="http://www.w3.org/1999/xhtml">Even though ACME will not be "disclosing" the information to a third party, it will still be "using" the information internally, so the Use and Disclosure Principle applies.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q41fa968f-8bea-45d2-a987-81d6c4cfedfa" ID="A33cd0fdc-9ce8-4db7-9e22-717ee43fc688" onClick="ShowAnswer('33cd0fdc-9ce8-4db7-9e22-717ee43fc688','false');">
+      <AnswerText GUID="189448a2-9100-41f3-91cb-57d36d287d77">Disclosure</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="33cd0fdc-9ce8-4db7-9e22-717ee43fc688">
+      <Feedback GUID="98ddb997-1673-44d4-af8a-0052f12907aa">
+        <div GUID="61454dd1-3c83-4039-99d0-2e3da3824332" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="cc66e221-75d2-4914-8353-375e9203f4f3">No.</strong>
+        </div>
+        <div GUID="b16a3e59-3c2b-4109-9bfe-ff9d1ac617a5" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="741fbc98-222a-4297-b618-0f6260e8b661">
+          </strong> </div>
+        <div GUID="07dff917-5338-43e8-8b8b-48560bb90c88" xmlns="http://www.w3.org/1999/xhtml">The information is not being "disclosed" to any third party. However, the information is being "used" internally, so the Use and Disclosure Principle applies.</div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page9" IsActive="true" GUID="64fad7b6-51a7-44ac-87b4-0fa099f0b768">
+      <IncludedInTOC GUID="a0955c9b-3334-4abb-af71-b7df4398b4ad">true</IncludedInTOC>
+      <Title GUID="e55197e7-cb76-48c1-9e0e-167a60d97324">Scenario 2</Title>
+      <PageElements GUID="acb92ab6-44bc-4200-ac0d-4b2911281500">
+        <PageElement GUID="2dd18e69-2e66-44d9-819f-fc2fd39712a9">
+          <Graphic GUID="5476a802-7422-49cd-abe4-dc15c9f8e9e2"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/4e12eebb-a5a3-4120-80da-b02601d599d3.gif" alt="Joe" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="f8017a5f-9a6c-4cb7-b376-b08c979ad869">
+          <TextBox GUID="8f9d731e-6ce9-4f30-a62d-3b502be6fd41"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="09d43fbd-424f-4cc9-b4d3-de1fe58cf2fb">Joe runs his idea past Jeremy, ACME's legal counsel.</Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="cf072b36-9f8e-4737-944c-179613487436">
+          <MultiChoiceQA GUID="e0f1fc62-0cbb-49ba-ae17-509dfc04096b"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="0ffdc1b6-b15c-40cd-b45b-a7eed95b8e3c">Will Jeremy tell Joe that using customer inquiry information in this way:</Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q0ffdc1b6-b15c-40cd-b45b-a7eed95b8e3c" ID="Aa54f7c4c-d252-4bf3-ab21-207689a1aac7" onClick="ShowAnswer('a54f7c4c-d252-4bf3-ab21-207689a1aac7','false');">
+      <AnswerText GUID="683e348a-a03d-47f6-a0a5-4a737659037a">is okay because the information is only being used internally by ACME</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="a54f7c4c-d252-4bf3-ab21-207689a1aac7">
+      <Feedback GUID="feb1f074-104d-4d45-b562-5ebebae5ec92">
+        <div GUID="137d2817-709c-45c6-bd3e-8c47302abdd9" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="498ba964-bb34-460e-a552-f56967c54cea">No.</strong>
+        </div>
+        <div GUID="89cdf9a8-0b28-411b-9fdf-06e3f537f1e8" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="5f8aa604-6886-4181-92e1-369eed6dddbc" xmlns="http://www.w3.org/1999/xhtml">The Use and Disclosure Principle applies to internal use of personal information in the same way it applies to "external" use of personal information.</div>
+        <div GUID="b75067ba-c0b7-47ba-a15e-007da5c49b45" xmlns="http://www.w3.org/1999/xhtml">Prospective customers have provided their details for the primary purpose of receiving information about ACME's superannuation. The use of the information to establish a customer service training business is not a purpose related to the primary purpose of collection and individuals would not reasonably expect their personal information to be used for this purpose.</div>
+        <div GUID="08659aff-d99c-498e-bf60-b5d7aedc68ab" xmlns="http://www.w3.org/1999/xhtml">If ACME wants to use its customers' information in this manner, it must ask for their consent.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q0ffdc1b6-b15c-40cd-b45b-a7eed95b8e3c" ID="Af370cf49-0aa6-4181-bc8e-7ad6512b6f34" onClick="ShowAnswer('f370cf49-0aa6-4181-bc8e-7ad6512b6f34','false');">
+      <AnswerText GUID="eb69425f-ed2f-44b5-ba08-1a6e698b4f4d">is okay because it is related to the primary purpose of collection and the individual would reasonably expect ACME to use it in this way</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="f370cf49-0aa6-4181-bc8e-7ad6512b6f34">
+      <Feedback GUID="26136624-3176-49fe-8536-b6e363f299f1">
+        <div GUID="d308b346-31d6-47af-8e42-086fa8ffcd83" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="e1d17b72-abfb-43ff-ab80-f6c0a5219444">No.</strong>
+        </div>
+        <div GUID="b77aaf9b-a5c8-471b-a74a-e4400790b6bc" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="fef10df7-6639-4190-bb0e-76d42588439b" xmlns="http://www.w3.org/1999/xhtml">Prospective customers have provided their details for the primary purpose of receiving information about ACME's superannuation. The use of the information to establish a customer service training business is not a purpose related to the primary purpose of collection and individuals would not reasonably expect their personal information to be used for this purpose.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q0ffdc1b6-b15c-40cd-b45b-a7eed95b8e3c" ID="A2e40c1ae-e1e5-4c7a-9b71-74623fb67711" onClick="ShowAnswer('2e40c1ae-e1e5-4c7a-9b71-74623fb67711','true');">
+      <AnswerText GUID="65ab9f13-34e2-49e7-aac4-58e1f1124abe">is not allowed because it is not related to the primary purpose of collection</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="2e40c1ae-e1e5-4c7a-9b71-74623fb67711">
+      <Feedback GUID="786689af-f082-44d8-8752-7c019ae25a2f">
+        <div GUID="c0fc7290-5488-424d-93b5-c62f59af4545" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="4a75ce90-1bb2-4ab3-86a9-45fa8ddc08f9">Yes.</strong>
+        </div>
+        <div GUID="c4883336-c9f7-4905-b877-32bdd9b063cd" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="3406fbbd-b796-4c04-85ca-c7f11c0df6a6">
+          </strong> </div>
+        <div GUID="8e0d971b-2d8c-43b5-88a6-60577922f74a" xmlns="http://www.w3.org/1999/xhtml">If ACME wants to use its customers' information in this manner, it must ask for their consent.</div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page10" IsActive="true" GUID="71a9b688-a33e-4f7c-85d6-ad6fb6bc25e4">
+      <IncludedInTOC GUID="d9705428-0cd6-49f3-90b3-853371f6fc85">true</IncludedInTOC>
+      <Title GUID="023af545-8063-4f37-a820-eeca3c7acb6a">Scenario 3</Title>
+      <PageElements GUID="c49fa190-7f2d-442b-9551-a81c863144c7">
+        <PageElement GUID="0dcf86d0-5aa0-4106-a430-8c97b0e8c5de">
+          <Graphic GUID="628dfdd0-739c-4713-9ca4-ad43ff2e69b1"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/054995ae-4c92-4606-b41a-23463d4aab47.gif" alt="Clarisse" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="5100d685-b6b3-40ce-b936-2b04af52d877">
+          <TextBox GUID="c5207670-791f-485f-9697-e83025f3b8a3"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="72f0d975-3aaa-4ffd-a4c2-c38f34c97f69">Clarisse is the privacy officer of St Martins Bank. Clarisse has had several requests from government agencies and other third parties for the personal details of clients of the bank. On occasions, she has felt uncomfortable when she has released information. She asks Stephen, the bank's legal counsel, for his advice on how she should handle the following situations.</Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="d93efbe2-819b-4ede-8353-520a73671e75">
+          <MultiChoiceQA GUID="5a6c7633-aaca-4642-8b3b-78ba8cbe5f61"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="688e5b92-b6af-41d3-925b-1525217594f3">What should Stephen's advice be - can St Martins Bank disclose personal information in these situations?</Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q688e5b92-b6af-41d3-925b-1525217594f3" ID="A2927ff61-daff-49f4-8973-c010e230d19a" onClick="ShowAnswer('2927ff61-daff-49f4-8973-c010e230d19a','true');">
+      <AnswerText GUID="b0711e9b-f219-403c-ab91-e53cf043dc71">An Assistant Police Commissioner phones up and asks for details of a client who is under investigation for money laundering</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="2927ff61-daff-49f4-8973-c010e230d19a">
+      <Feedback GUID="8ace4459-0e3e-4ec0-96a9-6dd26e794f41">
+        <div GUID="b6f36b83-42f0-4dec-b8db-fdbf044691ba" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="345d99f8-d7f5-4184-9450-634003d70f36">Yes.</strong>
+        </div>
+        <div GUID="1dce7cb5-b3b6-446b-a4fe-67cd0b57f564" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="58c8fb77-cca7-4df9-a71a-7cdfc7f0015c" xmlns="http://www.w3.org/1999/xhtml">But this information should not be given over the telephone. The Police should be asked to put their request in writing. St Martins Bank can disclose information to assist enforcement agencies, if Clarisse and Stephen are satisfied that the information requested is 'reasonably necessary'. If they obtain evidence that a warrant has been issued St Martins Bank would not need to take any further precautions before disclosing the requested information.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q688e5b92-b6af-41d3-925b-1525217594f3" ID="A2a2d8f36-7d06-4da7-a948-206886b4a196" onClick="ShowAnswer('2a2d8f36-7d06-4da7-a948-206886b4a196','false');">
+      <AnswerText GUID="7b3f0818-2129-4d86-82cf-47cb78d24393">The Australian Tax Office requests quarterly returns on interest paid to clients</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="2a2d8f36-7d06-4da7-a948-206886b4a196">
+      <Feedback GUID="42a23337-cd58-491c-b7e4-658ec457742f">
+        <div GUID="aaeaa62b-2ebb-4abf-be4c-d269debe8d5f" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="2400a0ce-1e31-411d-8502-5b6db627707e">No.</strong>
+        </div>
+        <div GUID="1f7051f9-cee4-4bbe-9721-8dc0d4e63756" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="36b9c2ab-43e3-4888-85f9-fe42d50a24c4" xmlns="http://www.w3.org/1999/xhtml">The Tax Office does not have power to require regular returns of this sort. Clarisse should insist on a formal notice citing the relevant authority under tax law.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q688e5b92-b6af-41d3-925b-1525217594f3" ID="Af2dc7d17-8b39-4f23-b346-c55cfa6c45d3" onClick="ShowAnswer('f2dc7d17-8b39-4f23-b346-c55cfa6c45d3','false');">
+      <AnswerText GUID="53b57d66-0cbb-45c5-be3a-727859e834b6">A solicitor requests details about one of St Martins Bank's client that he is representing in a property dispute</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="f2dc7d17-8b39-4f23-b346-c55cfa6c45d3">
+      <Feedback GUID="8e7cccaa-642d-4b60-8dfb-3f65724bd9ca">
+        <div GUID="6d35d717-9589-4250-ab15-9899b38088ab" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="dbe67295-3665-4338-bdbf-1f19ad64661d">No.</strong>
+        </div>
+        <div GUID="7e155ddf-0a9a-4cb3-a717-7f44b93e94c7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="51c44617-bf6c-464a-a63d-2e16954f95d5" xmlns="http://www.w3.org/1999/xhtml">St Martins Bank should obtain written authorisation from the client to provide this information to the solicitor.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q688e5b92-b6af-41d3-925b-1525217594f3" ID="Af6a68a72-c9cb-4bd7-89a6-70465bd593e6" onClick="ShowAnswer('f6a68a72-c9cb-4bd7-89a6-70465bd593e6','true');">
+      <AnswerText GUID="36165c51-2d44-4aae-8fa0-feffcb78c7eb">Another bank (not part of the St Martins Bank group) wants details of a mutual client whom they suspect of fraud</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="f6a68a72-c9cb-4bd7-89a6-70465bd593e6">
+      <Feedback GUID="48f50e9f-a5a1-4f45-9c2c-bf9c385153ab">
+        <div GUID="ff8c1456-202b-4502-9922-3d390beb05e1" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="70d94e78-8f9e-4d38-a1b5-63a153d80f96">Yes.</strong>
+        </div>
+        <div GUID="d88aa938-0a56-4fd8-823c-f5abb87799a0" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="1286074c-ccea-416c-a5df-37ecc4e18063" xmlns="http://www.w3.org/1999/xhtml">The Use and Disclosure Principle allows for the disclosure of information for the investigation of unlawful activity, as long as the disclosure is necessary to the investigation.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q688e5b92-b6af-41d3-925b-1525217594f3" ID="A2f3a2a20-8200-4b76-856c-87668710cd38" onClick="ShowAnswer('2f3a2a20-8200-4b76-856c-87668710cd38','false');">
+      <AnswerText GUID="e9caa9ac-66bf-43d3-817d-6feada8f1cf9">A solicitor asks for financial information about one of St Martins Bank's clients she expects to call as a witness in a complex trial</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="2f3a2a20-8200-4b76-856c-87668710cd38">
+      <Feedback GUID="2bf7bbba-4520-496c-9e83-6b7d05673992">
+        <div GUID="cb992ad0-fc53-436a-806d-40df8ab06fed" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="92ac4682-7841-4b77-bbd3-822c54d16e03">No.</strong>
+        </div>
+        <div GUID="c2e7312b-4b9b-4e08-b6d7-dcf836f2744b" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="13b391b6-382e-4a35-aecf-5457e15194b9">
+          </strong> </div>
+        <div GUID="dcc47475-e499-4e0a-8019-65e47b1db2d5" xmlns="http://www.w3.org/1999/xhtml">This request should be refused. Information should only be disclosed in this situation if the solicitor has a subpoena.</div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page11" IsActive="true" GUID="f00050b2-72dc-44e2-99c9-858cd9c582a3">
+      <IncludedInTOC GUID="09efa39d-1dd8-438a-a434-890101d972f8">true</IncludedInTOC>
+      <Title GUID="59c66373-173f-49c5-b26a-b31b67b0629c">Scenario 4</Title>
+      <PageElements GUID="e8e2f5ee-b682-445b-b8e4-bfb71b4c4321">
+        <PageElement GUID="bbc7e44f-1c30-4f56-ab3b-83eff65a1ba4">
+          <Graphic GUID="9c587849-1b2c-4324-80a2-6e47c3da5f7a"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/746da277-9a1f-44fd-9218-3f58b7cc8b49.gif" alt="Justin" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="894237a1-d051-46d4-85dd-07e7edf8e587">
+          <TextBox GUID="b759409e-e2bd-413d-80e8-cf3f0de6c1da"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="07a88c5f-62cf-416b-ae5a-812b08aecf4f">
+    <div GUID="31cdf809-e512-46fb-bbfa-dacb71c44e78" xmlns="http://www.w3.org/1999/xhtml">Justin is the sales manager for mobiles phones at Fones4U. ByteIT provides Fones4U's IT services. Justin is not very impressed with the quality of ByteIT's services. Justin knows that Computers4U, a related company to Fones4U, generally uses individuals who are independent contractors for its IT services. Justin asks his counterpart at Computers4U to send him a copy of the Computers4U contractor database for the purpose of acquiring IT services. Justin mentions this idea to Louise, the marketing manager of Fones4U in passing.</div>
+    <div GUID="bea5f8df-02fb-4205-b0ef-9f62f2e12df7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="4e4e467e-857b-421a-b803-f8d8999828c6" xmlns="http://www.w3.org/1999/xhtml">Although Louise thinks ByteIT is doing a good job, she thinks that the contractor database contains a lot of information that would be valuable for marketing purposes, including salary information. Louise thinks the IT contractors would be a great sample market for Fones4U's new 3G mobile phone products.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="4ff5fa86-d07c-4e01-9afc-95456e3bb6f5">
+          <MultiChoiceQA GUID="12c4ea7b-3d8e-4999-adfb-13e7ea5c03ed"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="b66ed3ed-0b26-42f4-bc0d-a3d3cabec365">How do you think Fone4U's legal counsel would view this?</Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qb66ed3ed-0b26-42f4-bc0d-a3d3cabec365" ID="A2df21452-2951-401e-b6db-17d42d51198b" onClick="ShowAnswer('2df21452-2951-401e-b6db-17d42d51198b','false');">
+      <AnswerText GUID="86319ee4-e7e3-401e-8be6-61dba37efed9">Louise has come up with a winner - because the contractors' information was collected by Computers4U, a related company, Fones4U can use the information and does not have to comply with the notice requirements of the Collection Principle</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="2df21452-2951-401e-b6db-17d42d51198b">
+      <Feedback GUID="f734e18c-66eb-4925-adf2-214eb965bf6f">
+        <div GUID="45abe062-75f5-483f-b220-a53488ada615" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="d1796e81-8b08-49bb-ad4e-6fbf33be38a0">No</strong>. Louise hasn't come up with a winner.</div>
+        <div GUID="849e72cd-d9f9-4f5c-838c-321c103d8bb2" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="bdf074b0-678a-4c63-a69d-5fa1615835e8" xmlns="http://www.w3.org/1999/xhtml">Louise is correct in thinking that Fones4U does not need to notify the contractors of all the matters listed in the Collection Principle when Fones4U collects personal information from its related company, Computers 4U provided that Computers 4U has disclosed it will disclose the information about contractors to its related companies. However, Fones4U can only use that information for the purposes for which it was collected by Computers 4U.</div>
+        <div GUID="3c74d4e1-6b5c-49bf-9941-15f06cdc0e0f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="cee85236-8970-42da-b56d-60a776d7c102" xmlns="http://www.w3.org/1999/xhtml">In this case, Computers4U collected the information for the primary purpose of managing and acquiring IT services from contractors. Fones4U could use this information for the same purpose (as envisaged by Justin) or another related purpose which the contractors would reasonably expect.</div>
+        <div GUID="7dbdb29b-41bf-4b02-a0a5-a218710b7399" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="36bb92b2-9e5e-43c7-a76b-ea7dcbacc173" xmlns="http://www.w3.org/1999/xhtml">The marketing activities which Louise proposed are not a related purpose.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qb66ed3ed-0b26-42f4-bc0d-a3d3cabec365" ID="A4fe7b291-62b1-4e03-b2a0-deb6a2f7078b" onClick="ShowAnswer('4fe7b291-62b1-4e03-b2a0-deb6a2f7078b','true');">
+      <AnswerText GUID="6d0b7f5b-f702-475b-8243-2e34f299ef3c">Louise needs to go back to the drawing board</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="4fe7b291-62b1-4e03-b2a0-deb6a2f7078b">
+      <Feedback GUID="19fcd5d4-848b-4439-be65-729b696183cf">
+        <div GUID="01310549-4325-43c3-95a4-771b35f48322" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="48a7ecfd-3814-4a08-8f26-26bc170f9173">Yes</strong>. Louise does need to go back to the drawing board.</div>
+        <div GUID="adf8fee3-a3c6-46e4-9e13-6454c341eb5a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="1dbffbe4-fc11-4229-9018-1eb753118dc8" xmlns="http://www.w3.org/1999/xhtml">Louise is correct in thinking that Fones4U does not need to notify the contractors of all the matters listed in the Collection Principle when Fones4U collects personal information from its related company, Computers 4U provided that Computers 4U has disclosed it will disclose the information about contractors to its related companies. However, Fones4U can only use that information for the purposes for which it was collected by Computers 4U.</div>
+        <div GUID="037b6921-c64f-42ee-a15d-93effce3785b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="9ab45977-60cc-4f62-badd-4774e39f2f75" xmlns="http://www.w3.org/1999/xhtml">In this case, Computers4U collected the information for the purpose of managing and acquiring IT services from contractors. Fones4U could use this information for the same purpose (as envisaged by Justin) or another related purpose which the contractors would reasonably expect. </div>
+        <div GUID="f0871461-3cca-4fe6-8b17-6cebb016db73" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="8c1a8237-6d39-47cf-a7c1-d0e262c373a5" xmlns="http://www.w3.org/1999/xhtml">The marketing activities which Louise proposed are not a related purpose.</div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page12" IsActive="true" GUID="abeb4885-b5ab-44ef-a324-f0b9dcad3abd">
+      <IncludedInTOC GUID="c5516f08-1559-4f77-a44b-5bcac60c93d2">true</IncludedInTOC>
+      <Title GUID="3eb5affd-9db4-45ae-892b-b72b957d6db6">Meet a few Players</Title>
+      <PageElements GUID="d8cd70b8-b83e-40f0-9a17-97f933c3c090">
+        <PageElement GUID="f1cb30ff-b938-4d35-826a-4b976f9828a5">
+          <MeetThePlayer ID="Player1" GUID="2f16f8dd-c560-405c-a6cd-9cb1a1f6d421"> <![CDATA[<table cellpadding="0" cellspacing="0" border="0" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/828d0715-b5d4-4fa1-ac82-9b8075858636.gif" alt="This is Peter Kneale" align="texttop">
+    </td>
+    <td>
+      <div class="MeetThePlayer_Name">Peter Kneale</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="ce4189de-5a0f-438e-88ea-dbede7011554">Lorem ipsum appareat salutandi pro ne. Per no iuvaret admodum comprehensam. Pro at urbanitas omittantur contentiones, equidem salutatus id ius, ad debet graecis disputando eum. Quo et vero veri populo, has ad adipisci nominati scripserit. Eu adhuc tritani graecis sed, omnis nonumy graecis cu quo, amet fugit cu vim. Nam malis debet dicam no.</Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+        <PageElement GUID="1af0ba0f-c8d9-4d4d-85ae-3dfda4ab0f57">
+          <MeetThePlayer ID="Player2" GUID="0fdce08e-9af9-43fd-8881-1c97ff53c4c9"> <![CDATA[<table cellpadding="0" cellspacing="0" border="0" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/f46a5d0f-a9dc-43a5-b001-5b6bddd3be6f.gif" alt="This is Bob Brown" align="texttop">
+    </td>
+    <td>
+      <div class="MeetThePlayer_Name">Bob Brown</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="c21ee8ab-f5ed-4840-9a9b-5ddb55042c29">In mucius prompta maiorum mel. Eam ut solet fabellas, alterum explicari cum in. Vim eu nulla error vivendum. Ius cu vidisse habemus minimum. Et vim alia porro, vis insolens torquatos ex, mei ne dolor saepe maluisset.</Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+        <PageElement GUID="0e4b5d46-440f-42ae-b10f-804f3c41370b">
+          <MeetThePlayer ID="Player3" GUID="c7556ee4-e14f-48a4-8b3d-d50105a96434"> <![CDATA[<table cellpadding="0" cellspacing="0" border="0" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/37c8876a-0ee9-4294-aa86-e6e794cda750.gif" alt="This is Charlie Card" align="texttop">
+    </td>
+    <td>
+      <div class="MeetThePlayer_Name">Charlie Card</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="7f0cd1dd-7877-4963-8682-562e809c4b7f">Expetenda urbanitas pri ut. Errem inermis mandamus ex usu, cibo modus ludus per id, cum ex accusam vituperatoribus admodum. Mutat omnes nostrud in mea. Habemus recteque eu sed. No probo porro vix. Ut pri possit ocurreret philosophia, sea erat probo eu.</Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page13" IsActive="true" GUID="702de8c7-f2cf-4a70-a3b5-7e3b45e76cd3">
+      <IncludedInTOC GUID="21dc3e8c-a415-472c-913e-ccd86ea22245">true</IncludedInTOC>
+      <Title GUID="0f1274d9-8d6c-4f42-b20e-24f360d88ec2">Meet all the players</Title>
+      <PageElements GUID="5293d175-e3ba-4b6d-b22c-729573f1d3bd">
+        <PageElement GUID="b947f2a8-0133-4701-aaea-7f4d314bc96c">
+          <Graphic GUID="65507f4e-3c53-4ace-9c4d-a03bb16cc099"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/89da886c-e3f2-4e50-94e0-0de83aa44429.gif" alt="Globe" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="045c76c1-0024-469f-bd94-1d5a30c0c87d">
+          <ShowAllPlayers GUID="5038af51-787f-4e48-9548-3c317567e72f"> <![CDATA[<div class="ShowAllPlayers_Main">
+  <div class="ShowAllPlayers_Title">
+            The players involved in this scenario are:
+            </div>
+  <ul>
+    <li>
+    </li>
+    <A HREF="#" class="ShowAllPlayers_Link" onClick="ShowPlayer_All('37e278c6-0942-4926-b0f3-b39e5dece5a7');">Peter Kneale</A>
+    <div ID="37e278c6-0942-4926-b0f3-b39e5dece5a7" class="ShowAllPlayers_Player_Hide">
+      <table cellpadding="2" cellspacing="0" border="0">
+        <tr>
+          <td valign="top">
+            <img src="Images/828d0715-b5d4-4fa1-ac82-9b8075858636.gif" alt="This is Peter Kneale" align="texttop">
+          </td>
+          <td valign="top">
+            <Description GUID="ce4189de-5a0f-438e-88ea-dbede7011554">Lorem ipsum appareat salutandi pro ne. Per no iuvaret admodum comprehensam. Pro at urbanitas omittantur contentiones, equidem salutatus id ius, ad debet graecis disputando eum. Quo et vero veri populo, has ad adipisci nominati scripserit. Eu adhuc tritani graecis sed, omnis nonumy graecis cu quo, amet fugit cu vim. Nam malis debet dicam no.</Description>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" colspan="2">
+            <A HREF="#" class="Hide_Link" onClick="HidePlayer_All('37e278c6-0942-4926-b0f3-b39e5dece5a7');">
+						[Hide]
+					</A>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <li>
+    </li>
+    <A HREF="#" class="ShowAllPlayers_Link" onClick="ShowPlayer_All('5fac86d0-3be9-440a-b2d6-09be9e5a29b6');">Bob Brown</A>
+    <div ID="5fac86d0-3be9-440a-b2d6-09be9e5a29b6" class="ShowAllPlayers_Player_Hide">
+      <table cellpadding="2" cellspacing="0" border="0">
+        <tr>
+          <td valign="top">
+            <img src="Images/f46a5d0f-a9dc-43a5-b001-5b6bddd3be6f.gif" alt="This is Bob Brown" align="texttop">
+          </td>
+          <td valign="top">
+            <Description GUID="c21ee8ab-f5ed-4840-9a9b-5ddb55042c29">In mucius prompta maiorum mel. Eam ut solet fabellas, alterum explicari cum in. Vim eu nulla error vivendum. Ius cu vidisse habemus minimum. Et vim alia porro, vis insolens torquatos ex, mei ne dolor saepe maluisset.</Description>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" colspan="2">
+            <A HREF="#" class="Hide_Link" onClick="HidePlayer_All('5fac86d0-3be9-440a-b2d6-09be9e5a29b6');">
+						[Hide]
+					</A>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <li>
+    </li>
+    <A HREF="#" class="ShowAllPlayers_Link" onClick="ShowPlayer_All('0ad12e45-05bc-44e1-8daf-9bc5231ed3d5');">Charlie Card</A>
+    <div ID="0ad12e45-05bc-44e1-8daf-9bc5231ed3d5" class="ShowAllPlayers_Player_Hide">
+      <table cellpadding="2" cellspacing="0" border="0">
+        <tr>
+          <td valign="top">
+            <img src="Images/37c8876a-0ee9-4294-aa86-e6e794cda750.gif" alt="This is Charlie Card" align="texttop">
+          </td>
+          <td valign="top">
+            <Description GUID="7f0cd1dd-7877-4963-8682-562e809c4b7f">Expetenda urbanitas pri ut. Errem inermis mandamus ex usu, cibo modus ludus per id, cum ex accusam vituperatoribus admodum. Mutat omnes nostrud in mea. Habemus recteque eu sed. No probo porro vix. Ut pri possit ocurreret philosophia, sea erat probo eu.</Description>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" colspan="2">
+            <A HREF="#" class="Hide_Link" onClick="HidePlayer_All('0ad12e45-05bc-44e1-8daf-9bc5231ed3d5');">
+						[Hide]
+					</A>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <li>
+    </li>
+    <A HREF="#" class="ShowAllPlayers_Link" onClick="ShowPlayer_All('8add6943-7908-47b3-a561-fc233bf6172a');">Debra Doyles</A>
+    <div ID="8add6943-7908-47b3-a561-fc233bf6172a" class="ShowAllPlayers_Player_Hide">
+      <table cellpadding="2" cellspacing="0" border="0">
+        <tr>
+          <td valign="top">
+            <img src="Images/cd63a060-1968-4111-a0f5-c3e68fd94bf4.gif" alt="This is Debra Doyles" align="texttop">
+          </td>
+          <td valign="top">
+            <Description GUID="550848d3-78aa-4922-b3b4-0a9f591d85e1">Libris moderatius cu quo, quo agam appareat argumentum in. Sed laoreet ullamcorper ea, nec apeirian persecuti in. Eu mei salutatus adversarium definitionem. Ei modo nusquam invenire quo, ex mea hinc complectitur. Est iudicabit explicari concludaturque in, persius expetenda inciderint no mea, ius nulla latine docendi id.</Description>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" colspan="2">
+            <A HREF="#" class="Hide_Link" onClick="HidePlayer_All('8add6943-7908-47b3-a561-fc233bf6172a');">
+						[Hide]
+					</A>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <li>
+    </li>
+    <A HREF="#" class="ShowAllPlayers_Link" onClick="ShowPlayer_All('eb569339-3a13-43a3-807c-07b30501461c');">Elias Estperento</A>
+    <div ID="eb569339-3a13-43a3-807c-07b30501461c" class="ShowAllPlayers_Player_Hide">
+      <table cellpadding="2" cellspacing="0" border="0">
+        <tr>
+          <td valign="top">
+            <img src="Images/c095204b-64f1-4a61-adf0-5390c87cb844.gif" alt="This is Elias Esperento" align="texttop">
+          </td>
+          <td valign="top">
+            <Description GUID="eb362de7-8534-4601-b22f-711714de4287">Per iusto libris adipiscing an, justo iriure accusamus nec eu. Quis omnium placerat ne has, nec an kasd tamquam delectus. Eos eu nostrud omnesque probatus. Vis te legere scaevola tractatos.</Description>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" colspan="2">
+            <A HREF="#" class="Hide_Link" onClick="HidePlayer_All('eb569339-3a13-43a3-807c-07b30501461c');">
+						[Hide]
+					</A>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </ul>
+</div>]]></ShowAllPlayers>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page14" IsActive="true" GUID="7b0afbaf-16be-4a7a-9a7e-24782a80622c">
+      <IncludedInTOC GUID="0260c03d-da6d-48a8-b4f9-4fa099be7a01">true</IncludedInTOC>
+      <Title GUID="6ccacc7b-9bfb-4af8-9986-c4e6c3fcc0a9">Feedback</Title>
+      <PageElements GUID="a11f82a4-ac30-49db-b021-41620d6a8499">
+        <PageElement GUID="4f3ad627-1691-4558-80a3-9263fb90de60">
+          <Graphic GUID="1e67ed2e-d7c2-448e-9e62-73f6548b6a95"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/e58dc7dd-c451-4da7-b681-05d3d3b51930.gif" alt="Feedback" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="a25d702e-7d4f-4a04-9aef-32a00a940489">
+          <TextBox GUID="226f8cce-0cc3-4238-9701-ef46bff08d00"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="59eec900-c072-4f5d-8f1b-7bce02d3982c">
+    <div GUID="b4b90919-4b66-40d3-a822-cbffbeebfd65" xmlns="http://www.w3.org/1999/xhtml">Nam te vero dicant democritum, usu eu aeque alterum liberavisse, equidem nominavi pericula his an. Sint takimata sadipscing ex mel, id modus erant omnium mea, per cu assum minim audire. Nisl nusquam corpora usu no, appareat reprehendunt ut eam. Probo laudem nam et, est adipisci periculis explicari et. Mollis vituperatoribus diceret pri in, his maiestatis deterruisset in.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="3aec740f-e8f1-429d-9705-357f896c3a50">
+          <FreeTextQA GUID="09bbe519-75e2-4062-99d6-9b02547291e5"> <![CDATA[<div class="FreeTextQA_Main">
+  <div class="FreeTextQA_Question">
+    <Question GUID="b3f32c9a-7643-4a9f-8141-3f74c3f106b7">What did you think of the lesson?</Question>
+  </div>
+  <div class="FreeTextQA_Input">
+    <input class="FreeTextQA_Input" type="text" ID="b3f32c9a-7643-4a9f-8141-3f74c3f106b7">
+  </div>
+  <input type="button" class="FreeTextQA_FeedbackButton" value="Show Answer" onClick="GiveFeedback(this,'929ab5c0-7bcb-4e98-96a9-8204cfad9143');">
+  <div class="FreeTextQA_Feedback" ID="929ab5c0-7bcb-4e98-96a9-8204cfad9143">
+    <Feedback GUID="929ab5c0-7bcb-4e98-96a9-8204cfad9143">Thanks for your feedback. </Feedback>
+  </div>
+</div>]]></FreeTextQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page15" IsActive="true" GUID="0c5c1ffe-7dea-40d0-9997-b5a1546c9741">
+      <IncludedInTOC GUID="2a8f83ed-7ee7-4406-b847-77eb433a96b0">true</IncludedInTOC>
+      <Title GUID="66a672b0-b9ed-4da6-908b-1891f27ff834">ari</Title>
+      <PageElements GUID="4b35b2fa-a4d2-4ee2-9237-54280283b7a7">
+        <PageElement GUID="e1495097-f001-4d80-aa9c-42e004490872">
+          <Graphic GUID="9baf48b6-26e5-41ef-9018-5879571ca59a"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/ddc04e21-5f64-4162-9183-4e3e4539f28c.gif" alt="awsd" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="851d3d52-1814-4f1e-b283-e5ce00a98afc">
+          <MultiChoiceQA GUID="f4817293-dfdd-4ecf-9f1e-04a24c0afa75"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="27ddf577-2c90-4bce-b4ec-1e96d0412aed">q</Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q27ddf577-2c90-4bce-b4ec-1e96d0412aed" ID="Aa0b76357-056b-41dd-b353-40ec3e896774" onClick="ShowAnswer('a0b76357-056b-41dd-b353-40ec3e896774','false');">
+      <AnswerText GUID="1d086854-ae63-4036-88e2-29ccd135e46c">a</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="a0b76357-056b-41dd-b353-40ec3e896774">
+      <Feedback GUID="f57b1afc-c820-44ea-b311-50602adcc994">f</Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q27ddf577-2c90-4bce-b4ec-1e96d0412aed" ID="A78fbdf3a-dcd2-40d9-899c-e6dc40bfbc8c" onClick="ShowAnswer('78fbdf3a-dcd2-40d9-899c-e6dc40bfbc8c','true');">
+      <AnswerText GUID="e2c3b2b7-4e2e-410e-b68c-9aafdd1dd036">a2</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="78fbdf3a-dcd2-40d9-899c-e6dc40bfbc8c">
+      <Feedback GUID="1e721d06-0aa4-4ce1-868a-60b23443eb65">f2</Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page16" IsActive="true" GUID="5e690b3a-2926-4208-8ba5-db94fbab2c12">
+      <IncludedInTOC GUID="724acab6-fecc-4a9b-8497-37c6990198bb">true</IncludedInTOC>
+      <Title GUID="644303d4-bb18-45eb-aed9-5ca680e4b8ad">End of lesson</Title>
+      <PageElements GUID="a323c368-fcb9-4bbf-b7fb-0bd3769d4ec4">
+        <PageElement GUID="2eb4db96-8763-4d26-92af-dab683c1052f">
+          <TextGraphic GUID="e442577a-2c03-48fa-9692-90f9575c7b3c"> <![CDATA[<div class="TextGraphic_Main">
+  <table>
+    <tr>
+      <td class="TextGraphic_Image_Left">
+        <img src="Images/41ba6c16-ffdc-4b89-9268-29b7367d4d1f.gif" alt="left" align="texttop">
+      </td>
+      <td class="TextGraphic_Description">
+        <Description GUID="add5f991-9845-40e3-a365-e831c326687b">
+          <div GUID="38fdf544-e55b-43e0-812f-0f6fd06406cb" xmlns="http://www.w3.org/1999/xhtml">Congratulation! you have completed your lesson.</div>
+          <div GUID="130ec8e6-0d84-402b-9289-6d742d9f1909" xmlns="http://www.w3.org/1999/xhtml">Click the <strong GUID="5de65853-e17b-4004-81dd-aa595e3f7366">End Lesson</strong> button to exit the lesson</div>
+        </Description>
+      </td>
+    </tr>
+  </table>
+</div>]]></TextGraphic>
+        </PageElement>
+        <PageElement GUID="7fdeb0c7-586f-4051-850b-7b98d53d34eb">
+          <EndLesson GUID="5a60fe54-5427-4427-8c4e-97bed53b7b14"> <![CDATA[<div class="EndLesson_Main">
+  <input type="button" class="Navigation_Button_Submit" value="End Lesson" onClick="__doPostBack('Lesson_End','')">
+</div>]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

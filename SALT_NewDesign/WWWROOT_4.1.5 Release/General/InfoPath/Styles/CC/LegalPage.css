@@ -1,0 +1,28 @@
+/* Legal Content Specific Styles */
+.LegalContent
+{
+   vertical-align:top;
+}
+.LegalContentLeft
+{
+    vertical-align:top;
+    background-image:url(/general/images/watermarklight.jpg);
+    background-repeat:no-repeat;
+    margin-top:2px;
+    border-top:outset 1px #aaaaaa;
+    border-left:outset 1px #aaaaaa;
+    border-right:outset 3px #aaaaaa;
+    border-bottom:outset 3px #aaaaaa;
+    padding:1px;
+    overflow: auto;
+    height: 490px;
+}
+.LegalContentRight
+{
+    overflow:hidden;
+    vertical-align:top;
+    text-align:center;
+    width:150px;
+    padding-top:0px;
+}
+

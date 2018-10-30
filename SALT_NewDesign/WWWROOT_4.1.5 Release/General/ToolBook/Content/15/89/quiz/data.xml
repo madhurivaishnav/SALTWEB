@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" productVersion="11.0.8165" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="20e0ff43-250d-432e-8242-5804f6a26f33">
+  <Summary ID="ksrma04q" GUID="d02d01fe-bfc9-4058-ae71-47817992b072">
+    <ContentType GUID="755e3cf3-1238-4bf9-89e3-5f05b694a294">quiz</ContentType>
+    <UploadType GUID="9ffb9055-84e4-4680-a20a-d50086d0e209">update</UploadType>
+    <Title GUID="97f3fee6-d0a4-43ed-be28-944fee4134b1">Environmental Offences</Title>
+    <CreatedBy GUID="6fbc21ff-9175-417e-9f0f-862ab90eddc0">LTG Casual</CreatedBy>
+    <CreatedDate GUID="72cdb617-d335-4b9b-b03d-fcba9e7d795f">2006-10-11T10:37:44</CreatedDate>
+    <LastModifiedBy GUID="a723401d-9dad-42e3-a5ad-e49d78eee75b">ntomich</LastModifiedBy>
+    <LastModifiedDate GUID="805bb9b5-5aa3-4558-96b2-dc5e678fcf4d">2010-07-05T13:07:28</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="4692736e-59ca-4323-bd4b-f61780254e6e">
+    <Page ID="Intro1" IsActive="true" GUID="302a6cf9-b53c-4ffb-8873-1b93ea4d7cb4">
+      <Title GUID="3955effb-8142-4f3e-8768-fd1e5929a414">Environmental Offences</Title>
+      <PageElements GUID="ca5a8bbd-d6df-4557-8c19-0f3d60c3b8a2">
+        <PageElement GUID="d3372fdb-5248-4555-8bed-d06c518bdcef">
+          <Graphic GUID="60647bb8-07cd-4173-a916-d9dae9e5a7b2"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/73bad8b1-7505-4e91-bf00-5daa215609db.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="1db0cf49-7af1-4f9f-81d9-0a3042679d66">
+          <TextBox GUID="cfe5aefe-6656-4301-9654-31da296888a9"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="a4b5aae9-bda3-486e-b009-51ba53dcdfe9">
+    <div GUID="cb4b4e3e-7367-4442-83af-a3a35eb8b36b" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="21859a2c-826a-4148-b944-93b2bb15e6ce">%System_NumberOfQuestions%</strong>  questions about environmental offences under the RMA.</div>
+    <div GUID="a6ef4864-b667-4e8e-b89e-65e9d97fd3f2" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="189b3a88-05f5-4857-bdee-6bd93cb1e664">You may be asked three different types of questions: multiple choice, true/false or yes/no. Answer each question by clicking the button to the left of the most appropriate response.<br GUID="93e6a064-6e8b-4fdc-8b5f-05f81371cbe6"><br GUID="c0157c72-9ad4-42e4-aae1-07ced776cb86">After you answer the last question, you will be given the chance to review and then submit your answers.<br GUID="470aaf39-03ac-4d25-8b5a-757f37da2209"><br GUID="9f8c772c-e22e-4aa9-91dc-7fbd9a2da2f0">Please note that if you Exit the quiz before clicking the Submit Answers button then your answers will not be saved. <br GUID="4b0d942b-652d-49f7-9469-fe06fb918f89"><br GUID="026ab757-e939-47f7-871b-3d59be99ccc0">To move between questions, use the <font face="Times New Roman" size="4" GUID="bc2a51bf-a334-4f33-8b45-6fd77a2020a5">◄</font> and <font face="Times New Roman" size="4" GUID="fa9a5d86-e4fb-40e3-a6c4-d99405fcde1d">►</font> navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="9f5e5d95-2a71-4d93-9682-7b6a644d6da1">
+    <Page ID="Q1" IsActive="true" GUID="1ab63124-610c-475a-8d3c-ffdac1188f43">
+      <Title GUID="df5ac8a6-7f5f-4835-a3d1-2bb1fe93b36e">Question</Title>
+      <PageElements GUID="f86f4a8d-f07f-4938-a3bb-187e13022113">
+        <PageElement GUID="2be1182d-68a6-43e3-b692-8d4064c35747">
+          <Question GUID="49d7904a-c172-4dab-bb89-a01f8b8954e5"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="6f374bde-1047-4b67-95e3-8b8852181a0d">
+      <div GUID="12852ce1-6ba9-433d-b0a0-ab64e974ca8b" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="4ed24f23-f6a0-4b0e-b14b-79a2ae12ef76">WG Limited runs a waste treatment plant.  The plant contains a large tank to hold the waste material, which is dug into the ground.  Soon after the new plant opens, there is a malfunction, the tank overflows and a large amount of waste is discharged into a nearby stream causing pollution.  The cause of the overflow is a blockage in the outflow pipe, which WG was not aware of.  Is WG Limited liable for prosecution under the RMA?</strong>
+        <strong GUID="21365cc2-ba4f-44c3-8963-252f48fd3061">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7d8ca6c5-523d-407a-b879-66c194c06108">No, WGL is not liable because it did not intend to cause the discharge of the waste.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6e9fcecf-cf84-472c-a734-d0406cbc693f">Yes, the blockage was a foreseeable event and as long as there is a link between WGL and the discharge, they will be liable.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="36e1ef78-9fec-4bc2-8bb5-be849aca7512">No, the blockage had not happened before, so WGL cannot be legally responsible.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="252558a8-2521-4d75-ab06-3dee50f09de5">
+      <Title GUID="f5bd7f88-7b63-4e80-93f1-0d691e7924ec">Question</Title>
+      <PageElements GUID="630b9ee0-6cbb-41dc-bb8b-3894784bfb62">
+        <PageElement GUID="0c1ffd38-a843-4ada-8e68-698398d78146">
+          <Question GUID="35956e88-ba52-434d-bfc1-d285313ff82d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="ec259aad-0623-475b-9382-553a6a55ac46">
+      <div GUID="cd020f62-720d-432f-8384-9f398f7cf7df" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="43b5e051-1d2a-49b6-b94b-f7621bfb1719">What is an abatement notice?</strong>
+        <strong GUID="10abe646-ff43-4401-ad4d-0c00c7bfdb0e">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e7cd72e5-1bf4-4692-b594-713d7e8f2918">An order from the Court requiring the land owner to stop carrying out an activity that is causing adverse environmental effects.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="164d90cd-54c9-4bcf-9cbe-4c01766c8964">A notice issued by the council to prevent activities which breach a rule in a district plan, a condition in a resource consent, or a provision of the RMA.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="e8c72cba-eb2f-4d72-a579-bf0d576c7d16">
+      <Title GUID="a5e16538-e71a-4186-b381-89e9c9922d33">Question</Title>
+      <PageElements GUID="98bf2d9c-4cae-4c43-9de0-06e18289772b">
+        <PageElement GUID="65fff625-8b40-4eb2-8fd7-b0f5414d4cce">
+          <Question GUID="3b08d2f8-2219-4383-8ee3-35ebdaa1160d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="69997841-9a1e-4d2e-8384-16465f75df71">
+      <div GUID="2e558492-df01-492f-8493-870e4198ffc6" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="b2a2f142-e5a8-4cbd-937e-66fbec2f7f95">How long have you got to challenge an abatement notice if you are not prepared to comply with it?<br GUID="00f55f2b-807b-416d-9f20-56b2ae5b167f"></strong>
+        <strong GUID="1b914cfa-21ad-45dc-85c7-eaea81e93c37">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="83b7a686-4825-4dd1-8baa-99d7ca0e9a53">Three months from date of receipt.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3aacf66d-3422-4432-89e8-8c355e107e85">Fifteen working days from date of receipt.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="ec3a11e8-1df8-4971-89e6-b83453c8d5f3">
+      <Title GUID="d2c05859-ad5a-447b-a4c3-bfbbd9a9774a">Question</Title>
+      <PageElements GUID="b98365d9-f5c1-463e-96f8-11695e1cdd2f">
+        <PageElement GUID="b1ded68d-9b41-419f-88c5-45ab0166cc2c">
+          <Question GUID="05c0cab2-4075-4210-81ff-9f5f893b8fe2"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="032154d8-0328-4652-ba8c-fd8507ef83c7">
+      <div GUID="41832212-426b-40cf-9ae0-42655029e28e" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="45d23612-d011-49d5-b483-58d804c30f20">RM Limited operates an oil processing plant.  During a heavy storm an employee of RML opens a valve in one of the processing tanks to avoid the risk of the tank overflowing.  The valve is opened too widely and oil is discharged via the stormwater drains into a nearby stream.  Is it a defence for RML and its employee to say that the storm was something beyond their control?</strong>
+        <strong GUID="711f8a7e-82ec-49d3-b013-20e85a8d5601">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="74ea71a3-7fd5-45b8-8ad4-9a859aec1e18">Yes, RML cannot be held responsible for natural events such as storm rainfall.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="625904c3-ab56-4cc3-b4ed-be86197f38bb">No, a storm is a normal natural event and RML should have taken appropriate preventive measures to avoid the tank overflowing.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="84a2fd4c-221c-47d5-9c43-20ccdc860e8e">
+      <Title GUID="415e974f-6bf3-4cf2-854e-4c7e12d7aab2">Question</Title>
+      <PageElements GUID="b4f9dcfd-fcd2-48c9-9d73-31ea4d527cea">
+        <PageElement GUID="e03f575d-d9ee-42c0-95ca-ff02cb157575">
+          <Question GUID="29c4f9c2-1d90-49c6-9ab0-65b4901649c9"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="a5058d4d-4998-4ae3-a695-157bbcdda823">
+      <div GUID="45bc782c-b3db-450a-a4dd-37fef9f2408b" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="0b17a5eb-3f75-4a49-afee-64cc262977b9">What is the maximum penalty under the RMA?</strong>
+        <strong GUID="b29a284c-49e1-4c59-9bd7-426881666c43">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="990130c6-53a4-4e2b-bd83-645172c01037">A fine of up to $1,000,000.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4c39f266-70f6-4b65-8f9c-3786e329970b">Community Service of up to 200 hours.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="accaeda8-c937-452a-90b6-79d8f4ff5cec">Up to two years in prison or a fine of up to $300,000 for an individual and up to $600,000 for a company.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="6a1a05a9-356f-4234-aa8d-104e9b768994">
+      <Title GUID="c309852a-cdf4-480d-aac1-7ffd324225a1">Question</Title>
+      <PageElements GUID="14b1d607-db59-4f4a-a33a-dda48a22a80c">
+        <PageElement GUID="25918f6d-5fb1-4338-abcf-36fd15692718">
+          <Question GUID="0375a567-60c7-4dbe-854d-651e334ae956"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1429d917-1b46-4344-8ffa-a390636662d2">
+      <div GUID="27f96bff-9c6b-47b1-8b71-ccaca8559752" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="9d865090-df6c-4f27-9515-0e79f7c1f7bc">Mr Johnston buys a factory on a large area of land.  Unknown to him, the previous owner dumped a number of drums of a hazardous waste at the back of that land.  The council becomes aware of this via Mr Johnson’s neighbour, Repcorp, who are concerned about possible contamination of their own land which could affect their market garden business.  What remedy is available to Repcorp?</strong>
+        <strong GUID="8773f667-e082-4fee-8e6a-fb45b2500826">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="69f973b4-b3a5-42c9-9517-58e3f24c34b9">Repcorp can take no enforcement action directly. They should speak to the council about the problem and persuade them to take action.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d5aa7dd6-032b-4aca-85da-11b930067022">Repcorp can apply to the Court for an enforcement order to require a clean up.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="a1140692-7c40-4c49-9c30-022bb7d8a565">
+      <Title GUID="ead2e16b-55d9-43cd-a6d0-c28621498a11">Question</Title>
+      <PageElements GUID="a5111ebc-aeae-4e85-8e44-daffe51c9fa4">
+        <PageElement GUID="8faa212c-605b-409d-a1a1-4c562039da50">
+          <Question GUID="6fe6a977-4e6c-4e14-bbe6-84d047998acd"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="6f75d399-b4ab-4a0b-a180-beaad6f369ef">
+      <div GUID="81af7c00-fcde-429b-89bd-8fbde955d497" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="ab24afe8-557e-4ed4-92d7-98665cafc361">GR Limited are building a new factory.  They think they have all the necessary consents to undertake this, but during a council inspection it is discovered they have failed to obtain an appropriate earthworks consent (for foundation construction).  Council serve GRL with an abatement notice to stop works until the necessary consent is obtained.  GRL’s planner disagrees with the council’s interpretation of the district plan rules and GRL therefore appeals  council’s decision.  Does GRL need to comply with the abatement notice (i.e. stop work) while they are waiting for the appeal to be determined?</strong>
+        <strong GUID="299914d8-9196-4b00-8671-9cba0fb2c991">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="175b3994-a72b-4f6a-b12b-4483a3cad155">No, they can continue with construction during this time.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="51a9dabf-c81e-4a21-a2d1-324d74c4e854">Yes, the notice must be complied with even if an appeal has been lodged. The Court can be asked to stay the notice separately, i.e. to prevent it taking effect prior to the appeal being heard.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="2c14e25f-a0ca-4fdd-bd06-46b5ac61af7c">
+      <Title GUID="184be94e-9975-4dab-b551-f8c3df0c4bf8">Question</Title>
+      <PageElements GUID="2c4a72dd-ff5d-429e-9230-d7c667a1c804">
+        <PageElement GUID="fb48e8db-6e3b-4a1b-9f71-ba4a67c5ffd1">
+          <Question GUID="e7b7a808-339b-401b-8e2f-477e658fdeb4"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="750d8e6f-51ff-4eb6-abb8-c95eab7f73ff">
+      <div GUID="0c506dee-9261-4cb4-a1b7-245e58719549" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="dbae624d-9610-4fcb-93b8-fca180489f6b">AB Limited operates a sewerage treatment facility.  A valve fails to close properly on a pipe which fills a storage tank.  Sewerage overflows from the tank and flows into the nearby river, causing much pollution. Which statement is correct?</strong>
+        <strong GUID="566c542f-9563-423e-8620-ce98520bd264">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="48a4bd48-43ff-4dab-95c9-86b9f0ca8fbf">ABL did not cause the pollution because it did not know that the valve was faulty.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b1ea4fe7-0d14-4035-a752-8d2f7fcde85c">The employee who last installed the valve caused the pollution, not ABL.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f56860c3-ebfe-4967-b704-66e84ae5cfa7">ABL caused the pollution because it was in control of the operation which led to the pollution. ABL should have procedures in place to ensure the valves are not faulty and have facilities in place to contain spills in case events like this happen.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="c2813f0e-db0a-4cd0-bdbf-237130e7df71">
+      <Title GUID="6e4241dd-697b-4fb8-ac33-3588bee1034b">Question</Title>
+      <PageElements GUID="a43f56f5-0b1c-474c-8113-d6db2664344d">
+        <PageElement GUID="47164aa0-c04d-4fc6-8508-48db5eed3547">
+          <Question GUID="9891a9dc-3930-43e5-85ec-81ba203982a7"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="410e89a7-8b1c-481f-ba43-b0f8159b6f05">
+      <div GUID="924a55a7-ad53-4847-98da-2f37ab8eee0c" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="ef7f4e58-508e-4cdb-afab-93a4514ae511">Environmental offences are mostly criminal offences.  True or false?</strong>
+        <strong GUID="0fa7d89c-3da9-4016-b6b6-346d7b52e59f">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="dcc49fb4-3ce4-4618-b991-0f5d24a35588">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c4591a9d-4b96-4e51-9152-31195ebb4a1b">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="f797e802-5292-4b05-9249-89f43e4df8d2">
+      <Title GUID="d17bd480-b176-4dfb-9a15-0600e21e5e44">Question</Title>
+      <PageElements GUID="0985b97d-59ca-4042-b620-6985e17115b7">
+        <PageElement GUID="212d0643-2d45-45d8-bc74-3933d54017f5">
+          <Question GUID="c98d8196-0099-457c-9c5e-01e6c200d71d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="4db3869b-c9f3-4cb9-94c4-406aab8eee8e">
+      <div GUID="20f717e5-59f4-4b06-9af0-d5e67a88a5e5" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="b581b19f-fdca-4870-abd6-8e8ba2779282">You can commit an environmental offence even if you did not intend to cause damage to the environment.  True or false?</strong>
+        <strong GUID="0933839d-4146-4ea4-8fad-45277ad340c6">
+        </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="42cb19be-370d-493c-b7c0-7673a90cc193">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1e1bea8b-dad5-48f5-8225-535a00bf9a90">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q11" IsActive="true" GUID="829bfcd1-d2cc-4245-a58b-ddd729b2fa07">
+      <Title GUID="3c90b833-2339-4f5f-9824-d50da4166e77">Question</Title>
+      <PageElements GUID="ae555ce7-4827-46c0-a39c-82829e63818c">
+        <PageElement GUID="89ba9e99-c6bf-4abb-aae5-1b9e1d22477d">
+          <Question GUID="0ea811af-fda4-45d8-8fa4-cb3257430fce"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="8b09b48b-888f-4c9a-96c6-59c16928a205">
+      <div GUID="68da88d0-2f3b-483d-baeb-460b2f78ed12" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="f7c7fb3a-5615-488e-8143-bc13e0946490">Choose the correct answer.  To minimise the chance of being held liable for offences committed by a contractor, an organisation should: </strong>
+      </div>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d7660940-661a-49b5-99c7-29012e0ef76d">Always choose the contractor with the lowest quote.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f6287b79-d97f-407e-869b-133d8cc4f152">Always choose the contractor who can do the job the fastest.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="02e0fcee-fb4a-452d-90de-530f0d1ddf42">Only choose experienced, qualified, and competent contractors.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q12" IsActive="true" GUID="e26cb13e-65ac-43df-8eb9-b6a5777add71">
+      <Title GUID="77c7f682-9d2a-4a88-8d55-2a058f7fc9ac">Question</Title>
+      <PageElements GUID="1145f659-035e-4349-b84e-f67b897a3183">
+        <PageElement GUID="615ed958-6719-46fd-8800-6ad9841c6664">
+          <Question GUID="f0f8a1ab-f648-4e8e-b7f7-ca04fcfee56d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="bd264b58-29c3-4940-a7ba-9ef67632db91">
+      <strong GUID="0f05a247-46b8-444a-b2d9-2a023f9594c3" xmlns="http://www.w3.org/1999/xhtml">Which statement is true?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ce947e07-9202-4e93-a734-492ed0759cf4">Infringement notices can only be issued with the approval of the Environment Court.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="07ab4d29-a6ef-4a75-9f54-6130b2f1d0d5">Infringement notices are the most serious tool under the RMA for dealing with environmental offences.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="22c5cfeb-e2df-4989-8bf7-07f890875b2a">Infringement notices involve instant fines, and are issued by Council Officers. They are used for low level offences under the RMA.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q13" IsActive="true" GUID="abfa6e01-f94a-4ea3-a67e-dd520cf16e88">
+      <Title GUID="f9ba9182-fb09-46e9-a5ab-1af8979db234">Question</Title>
+      <PageElements GUID="9a7b59cb-2f3b-4b5f-8156-bf733edaa40c">
+        <PageElement GUID="c08795df-e5a9-4b08-91ef-e86022515566">
+          <Question GUID="6d13e1b1-1b38-43e2-9ec7-1509fa7fa5b1"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="b47e3698-8f72-4e8e-8734-1fe37959f95c">
+      <strong GUID="2aede1f8-57a8-48a6-a8ac-23248e7fa639" xmlns="http://www.w3.org/1999/xhtml">Offences under the RMA are ‘strict liability’ – this means that:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d2137511-3f38-4258-aa82-d82bd7a706a9">Offence provisions under the RMA are interpreted strictly, i.e. an accused person will get the benefit of the doubt.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6ef42525-fb4a-493d-9f6c-b9ff8928b953">There is no need to prove that a person intended to commit an offence, he or she will be liable regardless.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bac6b917-01bb-447d-98ca-06f1594c4175">A person who breaches the Act will always be liable – there are no defences of any kind.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="b0f1818a-44dc-4c66-8c34-f09773e2ace3">
+    <Page ID="Comp1" IsActive="true" GUID="72b71c71-1991-40c2-b54a-39f28686786e">
+      <Title GUID="3a144177-9450-4d44-8fd0-db7ac3321cc8">End of Quiz</Title>
+      <PageElements GUID="f795fcde-efc7-43de-b8dd-f3bbab77baf1">
+        <PageElement GUID="9a5397a6-1c78-483f-8434-e0825b6d9ffa">
+          <Graphic GUID="a0538369-6a68-4683-ba1a-5db7a3e3eeec"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/36fada38-1307-4d6f-b2fe-9154bdf26cab.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="8574acde-a1f6-47ac-beba-96c2a15effc1">
+          <TextBox GUID="8fb287c9-3e45-4a00-9488-47d3c4438050"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="0ce38cd2-3bed-4bd6-834b-d982634018f4">
+    <div GUID="af6967da-facf-43cb-ba89-9fa0eb0f3d8f" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="b4a936ce-b738-47d4-b737-42f500427bf4"><br GUID="8f9fa2dc-273c-455d-aee8-2958099fcdb8">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="d11ff48a-e42e-419a-bc89-d9bf232eff5a"><br GUID="fb07d96a-b978-42ce-9026-9461d426d617">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="e4aec9f6-0590-4c8e-b900-095bb975e6a0">
+          <SubmitAnswers GUID="ee1c8d7e-f5a0-4a07-b79b-a670bc2bbcf2"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

@@ -1,0 +1,55 @@
+SET ANSI_NULLS OFF
+GO
+SET QUOTED_IDENTIFIER OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetLastCompletedDate]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfGetLastCompletedDate    Script Date: 24/07/2009 4:47 PM ******/
+
+
+/*
+Summary:		Calculates the date when the user last
+completed the course, or ''Never'' (if status
+is not incomplete or they have never
+completed the course.
+
+Returns:		varchar
+
+Called By:		vwUserCourseStatus,
+udfReport_HistoricViewCourseStatus
+
+Author:			Mark Donald
+Create date:	24/07/2009
+
+Modification History
+-----------------------------------------------------------
+Author		Date			Description
+
+*/
+
+CREATE FUNCTION [udfGetLastCompletedDate]
+(
+@userCourseStatusID int,
+@userID int,
+@courseID int,
+@courseStatusID int
+)
+RETURNS varchar(10)
+AS
+BEGIN
+
+RETURN (SELECT
+coalesce(convert(varchar(10), max(DateCreated), 103), ''Never'')
+FROM
+tblUserCourseStatus
+WHERE
+@courseStatusID = 1 --incompleted users only
+AND UserID = @userID
+AND CourseID = @courseID
+AND CourseStatusID = 2
+AND UserCourseStatusID < @userCourseStatusID)
+
+END
+' 
+END
+GO

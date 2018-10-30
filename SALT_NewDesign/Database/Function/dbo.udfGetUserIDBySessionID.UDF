@@ -1,0 +1,84 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetUserIDBySessionID]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfGetUserIDBySessionID    Script Date: 20/04/2004 8:25:57 AM ******/
+
+
+/*Summary:
+user Defined Function that return a user id given a session id
+Works for both the lesson and quiz
+Returns:
+UserID int
+
+Called By:
+dbo.prcBookMark_GetBookMark
+dbo.prcBookMark_GetBookMarkBySessionID
+dbo.prcLessonPageAudit_GetPagesVisited
+dbo.prcLessonPageAudit_GetPagesVisitedBySessionID
+dbo.prcLessonQuizSession_GetUserIDBySession
+dbo.prcLessonSession_EndLesson
+dbo.prcQuizSession_EndQuiz
+dbo.prcUser_GetNameBySessionID
+dbo.prcUser_GetUserIDBySessionID
+Calls:
+
+Remarks:
+
+
+Author:
+Stephen Kennedy-Clark
+Date Created: 2 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+print dbo.udfGetUserIDBySessionID(''52FC3930-B1B6-474D-B041-28771E9964AD'')
+-- select * from tblQuizSession
+-- select * from tblLessonSession
+**/
+CREATE  FUNCTION [udfGetUserIDBySessionID]
+(
+@sessionID varchar(50) -- Session ID a GUID
+)
+RETURNS INT --< UserID >--
+Begin
+------------------------------------------
+-- get user id for this session
+------------------------------------------
+
+DECLARE @retVal int
+set @retVal =
+(
+Select Top 1
+UserID
+From
+(
+--< tblQuizSession >--
+Select
+userID
+From
+tblQuizSession
+where
+QuizSessionID = @SessionID
+UNION
+
+--< tblLessonSession >--
+Select
+userID
+From
+tblLessonSession
+Where
+LessonSessionID =  @SessionID
+) t1 --< Dummy Table name to stop SQL complaining >--
+)
+RETURN @retVal
+End
+' 
+END
+GO

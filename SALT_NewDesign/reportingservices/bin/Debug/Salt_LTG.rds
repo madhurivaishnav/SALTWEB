@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Salt R2</Name>
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>data source=johnpc7\SQLEXPRESS;Initial Catalog=SALT Transact Rev2</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>c33e4adc-58e1-4e4b-a9ab-e958d7e0fe17</DataSourceID>
+</RptDataSource>

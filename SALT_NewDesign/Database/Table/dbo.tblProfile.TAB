@@ -1,0 +1,24 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblProfile]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblProfile](
+	[ProfileID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[ProfileName] [nvarchar](255) NOT NULL,
+	[OrganisationID] [int] NOT NULL,
+ CONSTRAINT [PK_tblProfile] PRIMARY KEY CLUSTERED 
+(
+	[ProfileID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblProfile_tblOrganisation]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblProfile]'))
+ALTER TABLE [dbo].[tblProfile]  WITH CHECK ADD  CONSTRAINT [FK_tblProfile_tblOrganisation] FOREIGN KEY([OrganisationID])
+REFERENCES [dbo].[tblOrganisation] ([OrganisationID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblProfile_tblOrganisation]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblProfile]'))
+ALTER TABLE [dbo].[tblProfile] CHECK CONSTRAINT [FK_tblProfile_tblOrganisation]
+GO

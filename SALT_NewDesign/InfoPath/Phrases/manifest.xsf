@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This file is automatically created and modified by Microsoft Office InfoPath.
+Changes made to the file outside of InfoPath might be lost if the form template is modified in InfoPath.
+-->
+<xsf:xDocumentClass trustSetting="automatic" solutionVersion="1.0.0.66" solutionFormatVersion="1.100.0.0" productVersion="11.0.6357" publishUrl="D:\Work\SALT v3.0 Managed\SALT\InfoPath\Phrases\manifest.xsf" name="urn:schemas-microsoft-com:office:infopath:Phrases:-myXSD-2005-02-20T23-45-49" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-20T23-45-49" xmlns:xsf="http://schemas.microsoft.com/office/infopath/2003/solutionDefinition" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xdUtil="http://schemas.microsoft.com/office/infopath/2003/xslt/Util" xmlns:xdXDocument="http://schemas.microsoft.com/office/infopath/2003/xslt/xDocument" xmlns:xdMath="http://schemas.microsoft.com/office/infopath/2003/xslt/Math" xmlns:xdDate="http://schemas.microsoft.com/office/infopath/2003/xslt/Date" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<xsf:package>
+		<xsf:files>
+			<xsf:file name="template.xml"></xsf:file>
+			<xsf:file name="sampledata.xml">
+				<xsf:fileProperties>
+					<xsf:property name="fileType" type="string" value="sampleData"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="view1.xsl">
+				<xsf:fileProperties>
+					<xsf:property name="lang" type="string" value="1033"></xsf:property>
+					<xsf:property name="componentId" type="string" value="13"></xsf:property>
+					<xsf:property name="xmlToEditName" type="string" value="7"></xsf:property>
+					<xsf:property name="mode" type="string" value="1"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="Phrases.xsd">
+				<xsf:fileProperties>
+					<xsf:property name="editability" type="string" value="none"></xsf:property>
+					<xsf:property name="rootElement" type="string" value="Phrases"></xsf:property>
+					<xsf:property name="useOnDemandAlgorithm" type="string" value="yes"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="upgrade.xsl"></xsf:file>
+			<xsf:file name="Phrases.dll">
+				<xsf:fileProperties>
+					<xsf:property name="fileType" type="string" value="rootAssembly"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+		</xsf:files>
+	</xsf:package>
+	<xsf:importParameters enabled="yes"></xsf:importParameters>
+	<xsf:views default="View 1">
+		<xsf:view name="View 1" caption="View 1">
+			<xsf:mainpane transform="view1.xsl"></xsf:mainpane>
+			<xsf:editing>
+				<xsf:xmlToEdit name="Instruction_2" item="/Phrases/Instruction">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Phrase_4" item="/Phrases/Phrase" container="/Phrases" viewContext="CTRL5_4">
+					<xsf:editWith caption="Phrase" xd:autogeneration="template" component="xCollection">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="Phrase">
+								<Phrase ID="">
+									<Title></Title>
+									<Text></Text>
+								</Phrase>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Text_7" item="/Phrases/Phrase/Text">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+			</xsf:editing>
+			<xsf:menuArea name="msoInsertMenu">
+				<xsf:menu caption="&amp;Section">
+					<xsf:button action="xCollection::insert" xmlToEdit="Phrase_4" caption="Phrase"></xsf:button>
+				</xsf:menu>
+			</xsf:menuArea>
+			<xsf:menuArea name="msoStructuralEditingContextMenu">
+				<xsf:button action="xCollection::insertBefore" xmlToEdit="Phrase_4" caption="Insert Phrase above" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertAfter" xmlToEdit="Phrase_4" caption="Insert Phrase below" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::remove" xmlToEdit="Phrase_4" caption="Remove Phrase" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insert" xmlToEdit="Phrase_4" caption="Insert Phrase" showIf="immediate"></xsf:button>
+			</xsf:menuArea>
+		</xsf:view>
+	</xsf:views>
+	<xsf:applicationParameters application="InfoPath Design Mode">
+		<xsf:solutionProperties fullyEditableNamespace="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-20T23-45-49" lastOpenView="view1.xsl" lastVersionNeedingTransform="1.0.0.1" allowCustomization="no" scriptLanguage="managedCode"></xsf:solutionProperties>
+	</xsf:applicationParameters>
+	<xsf:documentSchemas>
+		<xsf:documentSchema rootSchema="yes" location="Phrases.xsd"></xsf:documentSchema>
+	</xsf:documentSchemas>
+	<xsf:fileNew>
+		<xsf:initialXmlDocument caption="Phrases" href="template.xml"></xsf:initialXmlDocument>
+	</xsf:fileNew>
+	<xsf:customValidation>
+		<xsf:errorCondition match="/Phrases/Instruction" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="cannot be blank">cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/Phrases/Phrase/Text" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="Cannot be blank">Cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+	</xsf:customValidation>
+	<xsf:calculations>
+		<xsf:calculatedField target="/Phrases/Phrase/@ID" expression="concat(&quot;Phrase&quot;, count(../preceding-sibling::Phrase) + 1)" refresh="onChange"></xsf:calculatedField>
+	</xsf:calculations>
+	<xsf:save>
+		<xsf:useScriptHandler></xsf:useScriptHandler>
+	</xsf:save>
+	<xsf:documentVersionUpgrade>
+		<xsf:useTransform transform="upgrade.xsl" minVersionToUpgrade="0.0.0.0" maxVersionToUpgrade="1.0.0.1"></xsf:useTransform>
+	</xsf:documentVersionUpgrade>
+</xsf:xDocumentClass>

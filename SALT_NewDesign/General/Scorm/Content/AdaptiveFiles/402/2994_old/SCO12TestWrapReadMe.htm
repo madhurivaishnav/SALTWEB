@@ -1,0 +1,548 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+
+
+<meta name="generator" content="Claude Ostyn">
+<meta name="description" content="A simple exerciser for the SCORM and IEEE API interface. Launch as a SCO. Refer to SCORM 1.2 specification and SCORM 1.3 draft for data element names and values you can test.">
+<meta name="copyright" content="Copyright 2003 Click2learn, Inc. All rights reserved.">
+<style type="text/css">
+body,p,th,td {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  font-family: Sans-Serif;
+  font-size: xx-small;
+}
+input {
+  font-family: Sans-Serif;
+  font-size: xx-small;
+}
+textarea {
+  font-family: Sans-Serif;
+  font-size: xx-small;
+}
+select {
+  font-family: Sans-Serif;
+  font-size: xx-small;
+}
+.ui_info_button {
+	color: white;
+	background-color: blue;
+	border-color: blue;
+	font-family: Courier, Verdana, Arial, Helvetica, Sans-Serif;
+	font-weight: bold;
+}
+.ui_strong {
+	font-weight: bold;
+}
+
+</style>
+
+<script type="text/javascript" language="JavaScript">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+var nFindAPITries = 0;
+var API = null;
+var g_bIsInternetExplorer = navigator.appName.indexOf("Microsoft") != -1;
+var g_WinHelpPopup = null;
+
+function PopupAboutThis(){
+	var s="";
+	s += 'Simple SCORM API tester';
+	s += '\n';
+	s += 'Version 1.2-2';
+	s += '\n\n';
+	s += 'This is a tool to exercise the SCORM API interface. It works only if launched as a SCO in a runtime environment that implements a SCORM API object. Refer to the SCORM 1.2 specification and the SCORM 1.3 draft for data element names and values you can test.';
+	s += '\n\n';
+	s += 'This tool can also be used to test an IEEE API implementation that conforms to the IEEE LTSC API draft.';
+	s += '\n\n';
+	s += 'Copyright © 2002-2003 Click2learn, Inc. All rights reserved.';
+	s += '\n';
+	s += 'By using this application, you agree with the terms of use. Please click OK to review the terms of use before proceeding.';
+	if (confirm(s)) PopupLicense()
+}
+
+function PopupLicense(){
+var s="";
+s += '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"\n';
+s += ' "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">';
+s += '<html xmlns="http://www.w3.org/1999/xhtml">';
+s += '<head>';
+s += '<title>Click2learn Software License Agreement<\/title>';
+s += '<style type="text/css">';
+s += 'body {font-family: Arial,Helvetica; font-size: small}';
+s += '<\/style>';
+s += '<\/head>';
+s += '<body>';
+s += '<p align="center"><b>CLICK2LEARN, INC.<br />';
+s += 'SOFTWARE LICENSE AGREEMENT<br />';
+s += 'SCORM Demonstration Application<\/b><\/p>';
+s += '<p align="center"><b>THIS IS A LEGAL AGREEMENT BETWEEN YOU AND CLICK2LEARN, INC. ("CLICK2LEARN") WHICH GOVERNS YOUR USE OF THIS SOFTWARE. CLICK2LEARN IS WILLING TO LICENSE THE SOFTWARE TO YOU ONLY ON THE CONDITION THAT YOU AGREE TO ALL OF THE TERMS OF THIS AGREEMENT. CAREFULLY READ THIS AGREEMENT BEFORE DOWNLOADING, USING OR DISTRIBUTING THE SOFTWARE. BY DOWNLOADING, USING OR DISTRIBUTING THE SOFTWARE, YOU AGREE TO THE TERMS OF THIS AGREEMENT.<\/b><\/p>';
+s += '';
+s += '<p><b>License and Copyright.<\/b> This license applies to any version of the Sharable Content Object Reference Model ("SCORM") Demonstration Applications. Under this license you may download, install and use the SCORM Demonstration Application (which is referred to as the "Software") on as many computers as you like. You may also permit the Software to be downloaded from your world wide web page or network file server and you may duplicate and redistribute the Software for use pursuant to this license; provided that in either case the Software may not be modified in any way. You may not: (i) modify, translate, or merge the Software; (ii) reverse-engineer, disassemble, or decompile the Software (except to the extent expressly permitted by the application of local copyright law whose exclusion is precluded); or (iii) transfer, sublicense or lease the Software except as provided in this agreement. The Software is protected by copyright laws and must be treated like any other copyrighted material.<\/p>';
+s += '<p><b>DISCLAIMER OF WARRANTY.<\/b> THIS SOFTWARE IS PROVIDED FREE OF CHARGE. THEREFORE, CLICK2LEARN AND ITS SUPPLIERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES (OR CONDITIONS), EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT. THE SOFTWARE IS PROVIDED "AS IS" AND YOU BEAR ALL OF THE RISK RELATED TO THE USE, DUPLICATION AND DISTRIBUTION OF THE SOFTWARE.<\/p>';
+s += '<p><b>LIMITATIONS OF LIABILITY.<\/b> CLICK2LEARN AND ITS SUPPLIERS ARE NOT LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER SUCH DAMAGES ARISE FROM CLAIMS BASED UPON CONTRACT, WARRANTY, TORT OR OTHERWISE. Some jurisdictions do not allow limitation or exclusion of incidental or consequential damages, so the above limitation or exclusion may not apply to you to the extent that liability is by law incapable of exclusion or restriction.<\/p>';
+s += '<p><b>General.<\/b> You agree not to directly or indirectly export or re-export the Software or the direct product thereof except as authorized by the laws and regulations of the United States and any other applicable jurisdiction. This license and your right to use the Software terminate automatically if you violate any part of this agreement. In the event of termination, you must immediately destroy all copies of the Software or return them to Click2learn. This agreement constitutes the entire agreement between you and Click2learn. It shall not be modified except by written agreement dated subsequent to the date of this agreement signed by an authorized Click2learn representative. Click2learn is not bound by any provision of any purchase order, confirmation, correspondence or otherwise, unless Click2learn specifically agrees to the provision in writing. This agreement is governed by the internal laws of the State of Washington, U.S.A., and specifically excludes the United Nations Convention on Contracts for the International Sale of Goods.<\/p>';
+s += '<p>[Rev.4-28-03]<\/p>';
+s += '<p align="right"><small><a href="JavaScript:window.close()">Close this window<\/a><\/small><\/p>';
+s += '<\/body>';
+s += '<\/html>';
+
+var wndLog = g_WinHelpPopup;
+		if ((!wndLog) || (wndLog.closed)) {
+			window.status = "Opening help window";
+			var features = "scrollbars,resizable,menubar,toolbar,dependent";
+			wndLog = window.open("","C2LGymWndPopup",features);
+		}
+		if ((wndLog) && (!wndLog.closed)) {
+			wndLog.document.open();
+			wndLog.document.write(s);
+			wndLog.document.close();
+			wndLog.scrollTo(0,90000000);
+		}
+		if (wndLog.opener) wndLog.opener = self;
+		wndLog.focus();
+		if (wndLog.activate) wndLog.activate();
+		g_WinHelpPopup = wndLog
+}
+
+
+function showNoAPI() {
+  alert("No API adapter found")
+}
+
+function clearResults() {
+  document.forms[0].CallResult.value = "";
+  document.forms[0].LastErrorValue.value = "";
+  document.forms[0].LastErrorString.value = "";
+}
+
+function showResult(s) {
+  document.forms[0].CallResult.value = s;
+}
+
+function showErrorResult() {
+  var n, s;
+  n = API.LMSGetLastError();
+  if (!isNaN(n)) {
+    s = API.LMSGetErrorString(n + "")
+  }
+  document.forms[0].LastErrorValue.value = n;
+  document.forms[0].LastErrorString.value = s;
+}
+
+function FindAPI(win) {
+  while ((win.API == null) && (win.parent != null) && (win.parent != win)) {
+    nFindAPITries ++;
+    if (nFindAPITries > 500) {
+      alert("Error in finding API -- too deeply nested.");
+      return null
+    }
+    win = win.parent
+  }
+  return win.API
+}
+
+function init() {
+
+  if ((window.parent) && (window.parent != window)){
+    API = FindAPI(window.parent)
+  }
+  if ((API == null) && (window.opener != null)){
+    API = FindAPI(window.opener)
+  }
+}
+
+function SCOInitialize() {
+  if (API == null) { showNoAPI(); return }
+	clearResults();
+  showResult(API.LMSInitialize(""));
+  showErrorResult()
+}
+
+function SCOFinish() {
+  if (API == null) { showNoAPI(); return }
+	clearResults();
+  showResult(API.LMSFinish(""));
+  showErrorResult()
+}
+
+function TestGetValue() {
+	if (API == null) { showNoAPI(); return }
+	clearResults();
+	var s = document.forms[0].GetValueParam.value;
+	document.forms[0].CallResult.value = API.LMSGetValue(s + "");
+	showErrorResult()
+}
+
+function TestSetValue() {
+	if (API == null) { showNoAPI(); return }
+	var s,v;
+	clearResults();
+  s = document.forms[0].SetValueParam1.value;
+  v = document.forms[0].SetValueParam2.value;
+  showResult(API.LMSSetValue(s + "",v + ""));
+	showErrorResult()
+}
+
+function TestGetDiagnostic() {
+	if (API == null) { showNoAPI(); return }
+	clearResults();
+  var s = document.forms[0].GetDiagnosticParam.value;
+  document.forms[0].CallResult.value = API.LMSGetDiagnostic(s + "");
+  showErrorResult()
+}
+
+function TestGetLastError() {
+  if (API == null) { showNoAPI(); return }
+	clearResults();
+  showResult("(see Last Error)")
+  showErrorResult()
+}
+
+function TestCommit() {
+  if (API == null) { showNoAPI(); return }
+	clearResults();
+  showResult(API.LMSCommit(""));
+  showErrorResult()
+}
+
+function ResetForm() {
+  document.forms[0].GetValueParam.value = "";
+  document.forms[0].SetValueParam1.value = "";
+  document.forms[0].SetValueParam2.value = "";
+  document.forms[0].GetDiagnosticParam.value = "";
+  clearResults();
+}
+
+function SetGetValueElementPick() {
+  var i = document.forms[0].GetValueElementPick.selectedIndex;
+  if (i > 0) {
+    var v = document.forms[0].GetValueElementPick.options[i].text;
+    document.forms[0].GetValueParam.value = v
+  }
+}
+
+function SetSetValueElementPick() {
+  var i = document.forms[0].SetValueElementPick.selectedIndex;
+  if (i > 0) {
+    var v = document.forms[0].SetValueElementPick.options[i].text;
+    document.forms[0].SetValueParam1.value = v
+  }
+}
+
+function SetLastErrorAsDiagnosticParam() {
+  document.forms[0].GetDiagnosticParam.value = document.forms[0].LastErrorValue.value
+}
+
+//alert('Script OK')
+/////// Generic cookie functions
+
+var zdateCookieExpirationDate = new Date();
+zdateCookieExpirationDate.toGMTString();
+
+// Mac date bug fix
+function FixCookieDate (date) {
+  var base = new Date(0);
+  var skew = base.getTime();
+  if (skew > 0) date.setTime (date.getTime() - skew);
+}
+
+// Parses document's cookie for a named value
+function GetCookie (name) {
+
+  //alert (document.cookie)
+
+  var arg = name + "=";
+  var arglen = arg.length;
+  var clen = document.cookie.length;
+  var i = 0;
+  while (i < clen) {
+    var j = i + arglen;
+    if (document.cookie.substring(i, j) == arg) {
+      //return getCookieVal (j);
+  		var p3 = document.cookie.indexOf (";", j);
+  		if (p3 < 0) p3 = document.cookie.length;
+  		return unescape(document.cookie.substring(j, p3));
+		}
+    i = document.cookie.indexOf(" ", i) + 1;
+    if (i == 0) break;
+  }
+  return null;
+}
+
+
+function SetCookie (name,value,expires,path,domain,secure) {
+// first 2 params are required, others optional
+	if (!(expires)) { expires = zdateCookieExpirationDate ;}
+  document.cookie = name + "=" + escape (value) +
+    ((expires) ? "; expires=" + expires.toGMTString() : "") +
+    ((path) ? "; path=" + path : "") +
+    ((domain) ? "; domain=" + domain : "") +
+    ((secure) ? "; secure" : "");
+	//alert('cookie set to expire ' + expires + ' : ' + GetCookie(name))
+}
+
+function DeleteCookie (name,path,domain) {
+  if (GetCookie(name)) {
+    document.cookie = name + "=" +
+      ((path) ? "; path=" + path : "") +
+      ((domain) ? "; domain=" + domain : "") +
+      "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+  }
+}
+
+function clearCookies(aNames) {
+	if (aNames) {
+		for (i=0;i<aNames.length;i++){
+			DeleteCookie(aNames[i])
+		}
+	}
+}
+
+FixCookieDate (zdateCookieExpirationDate);
+// Correct for Mac date bug - call only once for given Date object!
+
+// Arbitrary expiration date set to 300 days for this mockup.
+zdateCookieExpirationDate.setTime (zdateCookieExpirationDate.getTime() + (300 * 24 * 60 * 60 * 1000));
+
+// End of generic cookie functions
+
+</script>
+
+<title>Simple SCORM API Exerciser</title>
+</head><body color="black" bgcolor="#d0d0d0">
+
+<script type="text/javascript" language="JavaScript">
+// Generic font size override
+var gUserFontSize = GetCookie("font-size");
+var gDefaultFontSize = "x-small";
+
+function InsertFontSize(siz) {
+	var s = '<style type="text/css">';
+	s += 'body,p,th,td,input,textarea,select {font-size: ' + siz + '}';
+	s += '</style>';
+	document.write(s);
+}
+function SetFontSize(what) {
+	var siz = gDefaultFontSize;
+	var aValid = new Array("xx-small","x-small","small","medium","large","x-large");
+	for (i=0;i<aValid.length;i++){
+		if (what == aValid[i]) siz = what
+	}
+	SetCookie("font-size",siz);
+	if (siz != gDefaultFontSize) {
+		if (confirm('Changing the font size will reload and clear the form. OK to continue?')){
+			window.location.href=window.location.href
+		}
+	}
+}
+if ((gUserFontSize) && (gUserFontSize != "") && (gUserFontSize != gDefaultFontSize)){
+	gDefaultFontSize = gUserFontSize;
+	// refresh cookie
+	SetCookie("font-size",gDefaultFontSize);
+}
+
+InsertFontSize(gDefaultFontSize);
+
+function InsertFontSizeChooser() {
+	var aValid = new Array("xx-small","x-small","small","medium","large","x-large");
+	var s = 'Font size&nbsp;';
+	s += '<select name="FontSizeChooser" ';
+	s += 'onchange="JavaScript:SetFontSize(this.options[this.selectedIndex].value)" >'
+	for (i=0;i<aValid.length;i++){
+		s += '<option';
+		if (gDefaultFontSize == aValid[i]) s += ' selected';
+		s += ' value="' + aValid[i] + '">' + aValid[i] + '</option>'
+	}
+	s += '<select>';
+	document.write(s)
+}
+</script><style type="text/css">body,p,th,td,input,textarea,select {font-size: x-small}</style>
+
+
+
+<form>
+<table bgcolor="#d0d0d0" border="0" width="100%">
+<tbody><tr>
+<td><big><big><b>SCORM API Exerciser</b></big></big> </td>
+<td align="right" width="10%" nowrap="nowrap">
+<script type="text/javascript" language="JavaScript">
+InsertFontSizeChooser()
+</script>Font size&nbsp;<select name="FontSizeChooser" onchange="JavaScript:SetFontSize(this.options[this.selectedIndex].value)"><option value="xx-small">xx-small</option><option selected="selected" value="x-small">x-small</option><option value="small">small</option><option value="medium">medium</option><option value="large">large</option><option value="x-large">x-large</option></select><select>
+</select></td><td nowrap="nowrap"><input name="Reset" value="Clear form" onclick="JavaScript:ResetForm()" type="button">&nbsp;<input class="ui_info_button" name="About" value=" i " onclick="JavaScript:PopupAboutThis()" type="button"></td>
+</tr>
+
+<tr>
+<td colspan="2">
+<script type="text/javascript">
+  var s;
+  init();
+  if (API == null) {
+    s = '<font color="red">No API adapter could be located. You will not be able to run any test.<\/font>'
+  } else {
+    s = 'An API adapter has been located. Click buttons to trigger calls to the API, adding parameters first where appropriate, then view the results.'
+  }
+  document.write(s)
+</script>An API adapter has been located. Click buttons to trigger
+calls to the API, adding parameters first where appropriate, then view
+the results.
+</td>
+</tr>
+</tbody></table>
+
+<table summary="layout table" bgcolor="#d0d0d0" border="0" cellpadding="3" cellspacing="2" cols="4" width="100%">
+<tbody><tr>
+<td valign="top" width="30">(Session)</td>
+
+<td colspan="2" align="center" bgcolor="#e0e0e0"><input name="Initialize" value="LMSInitialize" onclick="JavaScript:SCOInitialize()" type="button">&nbsp;&nbsp;&nbsp;<input name="Finish" value="LMSFinish" onclick="JavaScript:SCOFinish()" type="button">&nbsp;&nbsp;&nbsp;<input name="Commit" value="LMSCommit" onclick="JavaScript:TestCommit()" type="button"></td>
+<td width="80%">&nbsp;</td></tr>
+
+<tr>
+<td class="ui_strong" valign="top" width="30"><strong>LMSSetValue</strong></td>
+<td bgcolor="#e0e0e0">Parameter 1: <small>(Choose from list or type in a data element name) <select name="SetValueElementPick" onchange="JavaScript:SetSetValueElementPick()">
+<option>(Choose from list or type below)</option>
+<option>cmi.comments_from_lms</option>
+<option>cmi.comments</option>
+<option>cmi.core._children</option>
+<option>cmi.core.credit</option>
+<option>cmi.core.entry</option>
+<option>cmi.core.exit</option>
+<option>cmi.core.lesson_location</option>
+<option>cmi.core.lesson_mode</option>
+<option>cmi.core.lesson_status</option>
+<option>cmi.core.score._children</option>
+<option>cmi.core.score.max</option>
+<option>cmi.core.score.min</option>
+<option>cmi.core.score.raw</option>
+<option>cmi.core.session_time</option>
+<option>cmi.core.student_id</option>
+<option>cmi.core.student_name</option>
+<option>cmi.core.total_time</option>
+<option>cmi.interactions._children</option>
+<option>cmi.interactions._count</option>
+<option>cmi.interactions.1.correct_responses._count</option>
+<option>cmi.interactions.1.correct_responses.n.pattern</option>
+<option>cmi.interactions.1.id</option>
+<option>cmi.interactions.1.latency</option>
+<option>cmi.interactions.1.objectives._count</option>
+<option>cmi.interactions.1.objectives.n.id</option>
+<option>cmi.interactions.1.result</option>
+<option>cmi.interactions.1.student_response</option>
+<option>cmi.interactions.1.time</option>
+<option>cmi.interactions.1.type</option>
+<option>cmi.interactions.1.weighting</option>
+<option>cmi.launch_data</option>
+<option>cmi.objectives._children</option>
+<option>cmi.objectives._count</option>
+<option>cmi.objectives.1.id</option>
+<option>cmi.objectives.1.score._children</option>
+<option>cmi.objectives.1.score.max</option>
+<option>cmi.objectives.1.score.min</option>
+<option>cmi.objectives.1.score.raw</option>
+<option>cmi.objectives.1.status</option>
+<option>cmi.student_data._children</option>
+<option>cmi.student_data.mastery_score</option>
+<option>cmi.student_data.max_time_allowed</option>
+<option>cmi.student_data.time_limit_action</option>
+<option>cmi.student_preference._children</option>
+<option>cmi.student_preference.audio</option>
+<option>cmi.student_preference.language</option>
+<option>cmi.student_preference.speed</option>
+<option>cmi.student_preference.text</option>
+<option>cmi.suspend_data</option>
+</select></small> <br>
+ <input name="SetValueParam1" size="80" type="text"><br>
+Parameter 2:<br>
+<textarea name="SetValueParam2" rows="3" cols="80"></textarea></td>
+<td align="left" bgcolor="#e0e0e0" valign="middle" width="20"><input name="SetValue" value="Set" onclick="JavaScript:TestSetValue()" class="ui_strong" type="button"></td>
+<td width="80%">&nbsp;</td>
+</tr>
+
+<tr>
+<td class="ui_strong" valign="top" width="30"><strong>LMSGetValue</strong></td>
+<td bgcolor="#e0e0e0" width="30">Parameter: <small>(Choose from list or type in a data element name) <select name="GetValueElementPick" onchange="JavaScript:SetGetValueElementPick()">
+<option>(Choose from list or type below)</option>
+<option>cmi.comments_from_lms</option>
+<option>cmi.comments</option>
+<option>cmi.core._children</option>
+<option>cmi.core.credit</option>
+<option>cmi.core.entry</option>
+<option>cmi.core.exit</option>
+<option>cmi.core.lesson_location</option>
+<option>cmi.core.lesson_mode</option>
+<option>cmi.core.lesson_status</option>
+<option>cmi.core.score._children</option>
+<option>cmi.core.score.max</option>
+<option>cmi.core.score.min</option>
+<option>cmi.core.score.raw</option>
+<option>cmi.core.session_time</option>
+<option>cmi.core.student_id</option>
+<option>cmi.core.student_name</option>
+<option>cmi.core.total_time</option>
+<option>cmi.interactions._children</option>
+<option>cmi.interactions._count</option>
+<option>cmi.interactions.1.correct_responses._count</option>
+<option>cmi.interactions.1.correct_responses.n.pattern</option>
+<option>cmi.interactions.1.id</option>
+<option>cmi.interactions.1.latency</option>
+<option>cmi.interactions.1.objectives._count</option>
+<option>cmi.interactions.1.objectives.n.id</option>
+<option>cmi.interactions.1.result</option>
+<option>cmi.interactions.1.student_response</option>
+<option>cmi.interactions.1.time</option>
+<option>cmi.interactions.1.type</option>
+<option>cmi.interactions.1.weighting</option>
+<option>cmi.launch_data</option>
+<option>cmi.objectives._children</option>
+<option>cmi.objectives._count</option>
+<option>cmi.objectives.1.id</option>
+<option>cmi.objectives.1.score._children</option>
+<option>cmi.objectives.1.score.max</option>
+<option>cmi.objectives.1.score.min</option>
+<option>cmi.objectives.1.score.raw</option>
+<option>cmi.objectives.1.status</option>
+<option>cmi.student_data._children</option>
+<option>cmi.student_data.mastery_score</option>
+<option>cmi.student_data.max_time_allowed</option>
+<option>cmi.student_data.time_limit_action</option>
+<option>cmi.student_preference._children</option>
+<option>cmi.student_preference.audio</option>
+<option>cmi.student_preference.language</option>
+<option>cmi.student_preference.speed</option>
+<option>cmi.student_preference.text</option>
+<option>cmi.suspend_data</option>
+</select></small> <br>
+ <input name="GetValueParam" maxlength="255" size="80" type="text"></td>
+<td align="left" bgcolor="#e0e0e0" valign="middle" width="20"><input name="GetValue" value="Get" onclick="JavaScript:TestGetValue()" class="ui_strong" type="button"></td>
+<td width="80%">&nbsp;</td>
+</tr>
+
+<tr>
+<td class="ui_strong" valign="top" width="30"><strong>LMSGetDiagnostic</strong></td>
+<td bgcolor="#e0e0e0">Parameter: <small><a href="javascript:SetLastErrorAsDiagnosticParam()">Use last error as parameter</a></small><br>
+<input name="GetDiagnosticParam" size="80" type="text"></td>
+<td align="left" bgcolor="#e0e0e0" valign="middle" width="20"><input name="GetDiagnostic" value="Get" onclick="JavaScript:TestGetDiagnostic()" class="ui_strong" type="button"></td>
+<td width="80%">&nbsp;</td>
+</tr>
+</tbody></table>
+
+<table bgcolor="#d0d0d0" border="0" cellpadding="2" cellspacing="0" width="100%">
+<tbody><tr>
+<td valign="top" width="20">API&nbsp;returns:</td>
+<td width="20">
+<textarea name="CallResult" rows="3" cols="60" readonly="true"></textarea>
+</td>
+<td align="left" valign="top" width="80%">
+Last error: <input name="LastErrorValue" id="LastErrorValue" value="" size="3" readonly="true" type="text"><br><input name="GetLastError" value="Check again" onclick="JavaScript:TestGetLastError()" type="button"></td>
+</tr>
+
+<tr>
+<td>Error&nbsp;string:</td>
+<td colspan="2"><input name="LastErrorString" value="" size="80" readonly="true" type="text"></td>
+</tr>
+</tbody></table>
+</form>
+</body></html>

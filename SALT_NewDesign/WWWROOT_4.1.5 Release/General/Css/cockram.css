@@ -1,0 +1,101 @@
+/*****************************************************************
+ * Places Victoria Stylesheet
+ * Description:
+ *****************************************************************/
+
+@import url('default.css');
+
+body { color: #111111; }
+td { color: #111111; }
+h3 { color: #111111; }
+/* Links */
+a, a:link, a:visited, a:active  { color : #337700; text-decoration: none; }
+a:hover, a:focus { color: #770000; text-decoration: underline; }
+
+table.topmenu { margin-bottom: 3px; }
+tr.topmenu { background-color: #1E2939;  }
+td.topMenuImageCellLeft {  background: #1E2939 url('/General/Images/custom/cockram_logo.jpg') left center no-repeat; width: 100%; height: 80px; padding-left:10px; }
+img.topMenuImageCellLeft { }
+td.topMenuImageCellCenter { display: none; height: 80px; }
+td.topMenuImageCellRight {background-color; #004d8d;}
+
+/*
+td.topMenuImageCellLeft { display: none; height: 80px; }
+img.topMenuImageCellLeft {  }
+td.topMenuImageCellCenter { background: #ffffff url('/General/Images/custom/BrandReview.jpg') left center no-repeat; width: 100%; height: 63px; }
+td.topMenuImageCellRight { background-color; #004d8d; }
+ */
+
+.SaltLogo { background: url('/General/Images/logo_saltenterprise_sub_white.gif') right no-repeat; width: 600px; margin-top: 9px; }
+
+IMG.HomePageOrgImage  { display: none; }
+
+#lblAdministrationWelcome, #lblReportingWelcome { color: #111111; }
+.ApplicationNameInline, .TradeMarkInline { color: #6689cd; }
+
+.topmenubg { background-color: #1E2939; color: #ffffff;  }
+td.topmenuNav, td.topmenuNavOver { background-color: #1E2939;  }
+a.topmenu:link,a.topmenu:visited,a.topmenu:active { color: #ffffff; text-decoration: none; }
+a.topmenu:hover { color:#1E2939; }
+td.topmenuNavOver, td.topmenuNavOver a:link, td.topmenuNavOver a:visited, td.topmenuNavOver a:active{ background-color:#ffffff; color:#1E2939; }
+
+.SectionTitle, .SectionTitleNoSpace { color: #1E2939; width: 600px; margin-top: 13px; }
+/*3e81b5*/
+.pageTitle { color:#1E2939; }
+.HomePageWelcome { color: #1E2939; }
+
+li.UserMenuHeading { background-color: #1E2939; color:#ffffff; }
+li.UserMenuLinks { background-color: #b3b3b3; }
+.UserMenuLinks a { color:#ffffff;  padding-left: 15px; }
+.UserMenuLinks a:link,.UserMenuLinks a:visited,.UserMenuLinks a:hover,.UserMenuLinks a:active { color:#ffffff; text-decoration: none; }
+.UserMenuLinks a:hover { background-color: #BF862C; color:#ffffff; text-decoration: none; }
+
+.tablerowtop { color: #F64796; background-color: #1E2939; }
+.tablerowtop td { color: #ffffff; }
+.tablerowtop a:link,
+.tablerowtop a:visited,
+.tablerowtop a:active,
+.tablerowtop a:hover { color: #F64796; }
+.tablerowtop a:hover { text-decoration: underline; }
+/*.tablerow1 { background-color: #d2d2ca; }
+.tablerow2 { background-color: #e7e7dd; }*/
+
+.tablerow1 .Module,
+.tablerow2 .Module
+{ /* color: #262626; */ }
+
+
+/* Admin Menu */
+.AdminMenu span, .ReportMenu span { color:  #32FEFD;}
+a.AdminMenu,a.ReportMenu { color: #F64796;}
+
+
+#cssmenu ,#menu li, ul.help{
+    border-bottom: none;
+    background: #1E2939;
+   
+}
+
+
+/* button */
+.addButton
+, .assignButton
+, .backButton
+, .cancelButton
+, .findButton 
+, .generateButton
+, .moveButton
+, .populateButton 
+, .saveButton 
+, .sendButton
+, .searchButton 
+, .resetButton 
+, .uploadButton 
+, .runButton 
+, .previewButton
+, .browseButton
+{
+	background-color: #1E2939;
+}
+
+

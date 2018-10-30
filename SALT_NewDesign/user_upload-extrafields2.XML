@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?><BDWUserUpload xmlns="http://salt.bdw.com/schemas/v3/0">
+  <User Username="fred1" Password="Password10" Firstname="fred" Lastname="Jones" Email="fred1@emerging.com.au" ExternalID="" UnitID="" Archive="1"     NotifyUnitAdmin="N" NotifyOrgAdmin="N" ManagerNotification="Y" ManagerToNotify="joe.blow@BlowsBloggs.com">
+    <CustomClassifications>
+      <CustomClassification Name="State" Option="State 1" />
+    </CustomClassifications>
+  </User>
+<User Username="fred2" Password="Password11" Firstname="fred" Lastname="Smith" Email="fred2@emerging.com.au" ExternalID="" UnitID="" Archive="0">
+<CustomClassifications>
+<CustomClassification Name="State" Option="State 1" />
+</CustomClassifications>
+</User>
+  <User Username="fred11" Password="Password10" Firstname="fred" Lastname="Jones" Email="fred11@emerging.com.au" ExternalID="" UnitID="" Archive="1"     NotifyUnitAdmin="N" NotifyOrgAdmin="Y" ManagerNotification="Y" >
+  </User>
+</BDWUserUpload>

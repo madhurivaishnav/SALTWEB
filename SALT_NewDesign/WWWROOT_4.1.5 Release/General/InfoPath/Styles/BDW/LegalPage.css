@@ -1,0 +1,34 @@
+/* Legal Page layout specific styles. These classes are used by  LegalPage.xslt*/
+.Main_Table
+{
+    background-color:#EFEFEF;
+    background-image:url(/General/Images/Infopath/salt_watermark.gif);
+    background-repeat:no-repeat;
+    background-position:100% 95%;
+}
+.LegalContent
+{
+    vertical-align:top;
+    padding-bottom:20px;
+}
+.LegalContentLeft
+{   
+    /*background-color:#FFFFFF;*/
+    vertical-align:top;
+    border-right:outset 3px #cccccc;
+    border-bottom:outset 3px #cccccc;
+    padding:20 30 20 30px;
+    overflow: auto;
+    height: 410px;
+    background-color:#F2F1E6;
+}
+.LegalContentRight
+{
+    overflow:hidden;
+    vertical-align:top;
+    text-align:center;
+    width:200px;
+    height:100%;
+    padding-top:0px;
+    background-color:#E9E6D5;
+}

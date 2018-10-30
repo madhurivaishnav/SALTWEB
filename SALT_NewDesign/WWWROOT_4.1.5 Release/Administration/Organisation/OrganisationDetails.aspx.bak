@@ -1,0 +1,316 @@
+<%@ Register TagPrefix="Style" TagName="Style" Src="../../General/UserControls/Style.ascx"  %>
+<%@ Register TagPrefix="navigation" TagName="footer" Src="../../General/UserControls/Navigation/Footer.ascx"  %>
+<%@ Register TagPrefix="navigation" TagName="header" Src="../../General/UserControls/Navigation/Header.ascx" %>
+<%@ Register TagPrefix="navigation" Tagname="adminMenu" Src="../../General/UserControls/Navigation/AdminMenu.ascx" %>
+<%@ Register TagPrefix="dialogs" Tagname="EScalendar" Src="../../General/UserControls/EmergingControls/EmergingSystemsCalendar.ascx" %>
+<%@ Page language="c#" Codebehind="OrganisationDetails.aspx.cs" AutoEventWireup="True" Inherits="Bdw.Application.Salt.Web.Administration.Organisation.OrganisationDetails" validateRequest="false"%>
+<%@ Register TagPrefix="Localized" Namespace="Localization" Assembly="Localization" %>
+<%@ Register TagPrefix="cc" Namespace="tinyMCE" Assembly="tinyMCE" %>
+<HTML>
+
+      
+
+  <SCRIPT LANGUAGE=JAVASCRIPT SRC="../../General/js/ESDateTime.js">
+
+
+
+
+  </SCRIPT>
+	
+	
+	
+	<HEAD>
+		<title runat="server" id="pagTitle"></title>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+		<Style:Style id="ucStyle" runat="server"></Style:Style>
+		<meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+	</HEAD>
+	<body ms_positioning="FlowLayout" bottommargin="0" topmargin="0" leftmargin="0" rightmargin="0"
+		onload="document.frmOrgDetails.txtOrganisationName.focus();">
+		<form id="frmOrgDetails" method="post" runat="server">
+
+			<table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+				<!-- Header -->
+				<tr align="center" valign="top" width="100%">
+					<td align="center" valign="top" width="100%" colspan="2">
+						<navigation:header id="ucHeader" runat="server"></navigation:header>
+					</td>
+				</tr>
+				<tr height="100%" align="left" valign="top">
+					<!-- Left Navigation -->
+					<td class="AdminMenuContainer">
+						<navigation:adminmenu runat="server" id="ucAdminMenu"></navigation:adminmenu>
+					</td>
+					<!-- Body/Conent -->
+					<td width="90%">
+						<asp:Label id="lblPageTitle" CssClass="pageTitle" Runat="server">Organisation Details</asp:Label><br>
+
+						<table align="left" border="0">
+							<tr>
+								<td>
+									<asp:PlaceHolder ID="plhOrganisationDetails" Runat="server">
+										<TABLE border="0">
+											<TR>
+												<TD class="formLabel">
+													<Localized:LocalizedLabel id="lblOrgName" runat="server"></Localized:LocalizedLabel>
+                                                    &nbsp;</TD>
+												<TD>
+													<asp:textbox id="txtOrganisationName" runat="server" columns="40" textmode="SingleLine" maxlength="50"></asp:textbox>
+													<Localized:Localizedrequiredfieldvalidator id="validatorOrganisationName" runat="server" CssClass="ValidatorMessage" display="Dynamic"
+														errormessage="You must specify the organisation name." controltovalidate="txtOrganisationName"></Localized:Localizedrequiredfieldvalidator></TD>
+											</TR>
+											<TR>
+												<TD class="formLabel">
+													<Localized:LocalizedLabel id="lblOrgNotes" runat="server"></Localized:LocalizedLabel>
+                                                    &nbsp;</TD>
+												<TD>
+												    <cc:texteditor runat="server" name="content" id="txtOrganisationNotes" Width="600px" Height="250px" MaxLength="4000" Mode="Full" />
+													<%--<asp:textbox id="txtOrganisationNotes" runat="server" columns="42" Width="600px" Height="250px" textmode="MultiLine" rows="10" MaxLength="4000"></asp:textbox>--%>
+													<Localized:Localizedrequiredfieldvalidator id="validatorOrganisationNotes" runat="server" CssClass="ValidatorMessage" display="Dynamic"
+														errormessage="You must specify the organisation notes." controltovalidate="txtOrganisationNotes"></Localized:Localizedrequiredfieldvalidator></TD>
+											</TR>
+											<TR>
+												<TD class="formLabel">
+													<Localized:LocalizedLabel id="lblOrgLogo" runat="server"></Localized:LocalizedLabel>
+                                                    &nbsp;</TD>
+												<TD>
+													<asp:label id="lblLogo" runat="server"></asp:label>&nbsp;<INPUT class="browseButton" id="fileLogo" type="file" runat="server"><BR>
+													<Localized:LocalizedLiteral id="litLogoNote" runat="server"></Localized:LocalizedLiteral>
+                                                        &nbsp;
+													<Localized:LocalizedRequiredFieldValidator id="validatorOrganisationLogo" runat="server" CssClass="ValidatorMessage" ControlToValidate="fileLogo"
+														ErrorMessage=""></Localized:LocalizedRequiredFieldValidator></NOBR></TD>
+											</TR>
+											<TR>
+												<TD class="formLabel">
+													<Localized:LocalizedLabel id="lblLessFreq" runat="server"></Localized:LocalizedLabel>
+                                                    &nbsp;</TD>
+												<TD style="HEIGHT: 20px">
+													<asp:dropdownlist id="cboDefaultLessonFrequency" runat="server">
+														<asp:listitem value="0" Text=""></asp:listitem>
+														<asp:listitem value="1">1</asp:listitem>
+														<asp:listitem value="2">2</asp:listitem>
+														<asp:listitem value="3">3</asp:listitem>
+														<asp:listitem value="4">4</asp:listitem>
+														<asp:listitem value="5">5</asp:listitem>
+														<asp:listitem value="6">6</asp:listitem>
+														<asp:listitem value="7">7</asp:listitem>
+														<asp:listitem value="8">8</asp:listitem>
+														<asp:listitem value="9">9</asp:listitem>
+														<asp:listitem value="10">10</asp:listitem>
+														<asp:listitem value="11">11</asp:listitem>
+														<asp:listitem selected="True" value="12">12</asp:listitem>
+														<asp:listitem value="13">13</asp:listitem>
+														<asp:listitem value="14">14</asp:listitem>
+														<asp:listitem value="15">15</asp:listitem>
+														<asp:listitem value="16">16</asp:listitem>
+														<asp:listitem value="17">17</asp:listitem>
+														<asp:listitem value="18">18</asp:listitem>
+														<asp:listitem value="19">19</asp:listitem>
+														<asp:listitem value="20">20</asp:listitem>
+														<asp:listitem value="21">21</asp:listitem>
+														<asp:listitem value="22">22</asp:listitem>
+														<asp:listitem value="23">23</asp:listitem>
+														<asp:listitem value="24">24</asp:listitem>
+													</asp:dropdownlist>&nbsp;
+													<Localized:LocalizedLiteral id="LocalizedLiteral1" runat="server" key="Months"></Localized:LocalizedLiteral></TD>
+											</TR>
+											<TR>
+												<TD class="formLabel">
+													<Localized:LocalizedLabel id="lblQuizFreq" runat="server"></Localized:LocalizedLabel>
+                                                    &nbsp;</TD>
+												<TD>
+													<asp:dropdownlist id="cboDefaultQuizFrequency" runat="server">
+														<asp:listitem value="0" Text=""></asp:listitem>
+														<asp:listitem value="1">1</asp:listitem>
+														<asp:listitem value="2">2</asp:listitem>
+														<asp:listitem value="3">3</asp:listitem>
+														<asp:listitem value="4">4</asp:listitem>
+														<asp:listitem value="5">5</asp:listitem>
+														<asp:listitem value="6">6</asp:listitem>
+														<asp:listitem value="7">7</asp:listitem>
+														<asp:listitem value="8">8</asp:listitem>
+														<asp:listitem value="9">9</asp:listitem>
+														<asp:listitem value="10">10</asp:listitem>
+														<asp:listitem value="11">11</asp:listitem>
+														<asp:listitem selected="True" value="12">12</asp:listitem>
+														<asp:listitem value="13">13</asp:listitem>
+														<asp:listitem value="14">14</asp:listitem>
+														<asp:listitem value="15">15</asp:listitem>
+														<asp:listitem value="16">16</asp:listitem>
+														<asp:listitem value="17">17</asp:listitem>
+														<asp:listitem value="18">18</asp:listitem>
+														<asp:listitem value="19">19</asp:listitem>
+														<asp:listitem value="20">20</asp:listitem>
+														<asp:listitem value="21">21</asp:listitem>
+														<asp:listitem value="22">22</asp:listitem>
+														<asp:listitem value="23">23</asp:listitem>
+														<asp:listitem value="24">24</asp:listitem>
+													</asp:dropdownlist>&nbsp;
+													<Localized:LocalizedLiteral id="LocalizedLiteral2" runat="server" key="Months"></Localized:LocalizedLiteral></TD>
+											</TR>
+											<TR>
+												<TD class="formLabel">
+													<Localized:LocalizedLabel id="lblPassMark" runat="server"></Localized:LocalizedLabel>
+                                                    &nbsp;</TD>
+												<TD>
+													<asp:textbox id="txtDefaultQuizPassMark" runat="server" columns="5" textmode="SingleLine" maxlength="3"></asp:textbox>
+                                                    %
+													<Localized:Localizedrequiredfieldvalidator id="validatorDefaultQuizPassMark" runat="server" CssClass="ValidatorMessage" display="Dynamic"
+														errormessage="You must specify the default quiz pass mark." controltovalidate="txtDefaultQuizPassMark"></Localized:Localizedrequiredfieldvalidator>
+													<Localized:LocalizedRangeValidator id="validatorPassMark" runat="server" controltovalidate="txtDefaultQuizPassMark"
+														Type="Integer" MaximumValue="100" MinimumValue="1"></Localized:LocalizedRangeValidator></TD>
+											</TR> <!-- business requirement 1 a, b --> <!-- TODO: implement the actual functionalities -->
+											<TR>
+												<TD class="formLabel">
+													<Localized:LocalizedLabel id="lblLessDate" runat="server"></Localized:LocalizedLabel></TD>
+
+							<TD>
+							            
+            
+                                                    <BR>
+													<asp:dropdownlist id="cboLCompletionDay" Runat="server" onchange ="javascript:verifyDate(cboLCompletionDay, cboLCompletionMonth, cboLCompletionYear, localizedBadDateMsg,apptitle)"></asp:dropdownlist>
+													<asp:dropdownlist id="cboLCompletionMonth" Runat="server" onchange ="javascript:verifyDate(cboLCompletionDay, cboLCompletionMonth, cboLCompletionYear, localizedBadDateMsg,apptitle)"></asp:dropdownlist>
+													<asp:dropdownlist id="cboLCompletionYear" Runat="server" onchange ="javascript:verifyDate(cboLCompletionDay, cboLCompletionMonth, cboLCompletionYear, localizedBadDateMsg,apptitle)"></asp:dropdownlist>
+   	                                                <img src="../../General/Images/ESCalendar2.bmp" onclick="OpenCal(cboLCompletionDay, cboLCompletionMonth, cboLCompletionYear)" />                                                 
+                                                    <Localized:LocalizedButton  id="localizedBadDateMsg" height = "1px" Width = "1px" BorderStyle="None"  runat="server"> </Localized:LocalizedButton>
+						                            <asp:Button ID="apptitle"  runat = "server" height = "1px" Width = "1px"  ></asp:Button>
+							    
+					                                
+                                                    <BR>
+													<asp:checkbox id="ckbOverrideUnitLF" Runat="server"></asp:checkbox><STRONG>
+														<Localized:LocalizedLiteral id="litOverLess" runat="server"></Localized:LocalizedLiteral></STRONG></TD>
+											    </TR>
+					                            <TR><dialogs:EScalendar runat="server" id="Calendar1"  ></dialogs:EScalendar>	</TR>												<TR>
+												<TD class="formLabel">
+													<Localized:LocalizedLabel id="lblQuizDate" runat="server"></Localized:LocalizedLabel></TD>
+												<TD>
+												
+													<asp:dropdownlist id="cboQCompletionDay" Runat="server" onchange ="javascript:verifyDate(cboQCompletionDay, cboQCompletionMonth, cboQCompletionYear, localizedBadDateMsg,apptitle)"></asp:dropdownlist>
+													<asp:dropdownlist id="cboQCompletionMonth" Runat="server" onchange ="javascript:verifyDate(cboQCompletionDay, cboQCompletionMonth, cboQCompletionYear, localizedBadDateMsg,apptitle)"></asp:dropdownlist>
+													<asp:dropdownlist id="cboQCompletionYear" Runat="server" onchange ="javascript:verifyDate(cboQCompletionDay, cboQCompletionMonth, cboQCompletionYear, localizedBadDateMsg,apptitle)"></asp:dropdownlist>
+                                                                  
+   	                                                <img src="../../General/Images/ESCalendar2.bmp" onclick="OpenCal(cboQCompletionDay, cboQCompletionMonth, cboQCompletionYear)" />                                                
+
+												<BR>
+												
+												
+													<asp:checkbox id="ckbOverrideUnitQF" Runat="server"></asp:checkbox><STRONG>
+														<Localized:LocalizedLiteral id="litOverQuiz" runat="server"></Localized:LocalizedLiteral></STRONG></TD>
+											</TR> <!-- end new controls -->
+											<TR>
+												<TD class="formLabel">
+													<Localized:LocalizedLabel id="lblAdvReporting" runat="server"></Localized:LocalizedLabel></TD>
+												<TD>
+													<asp:CheckBox id="chkAdvancedReporting" runat="server"></asp:CheckBox>
+													<Localized:LocalizedLabel id="lblAdvancedReporting" Runat="server">No</Localized:LocalizedLabel></TD>
+											</TR>
+											<TR>
+												<TD class="formLabel">
+													<Localized:LocalizedLabel id="lblCustomClasification" Runat="server" CssClass="formLabel"></Localized:LocalizedLabel>
+                                                    &nbsp;</TD>
+												<TD>
+													<asp:textbox id="txtClassificationName" runat="server" columns="5" textmode="SingleLine" maxlength="50"></asp:textbox>
+                                                    &nbsp;
+													<Localized:Localizedlinkbutton id="lnkModifyClassificationOptions" runat="server" onclick="lnkModifyClassificationOptions_Click">
+                                                        Modify Grouping Options</Localized:Localizedlinkbutton></TD>
+											</TR>
+											<TR>
+												<TD class="formLabel">
+													<Localized:LocalizedLabel id="lblCPDReportName" Runat="server" CssClass="formLabel"></Localized:LocalizedLabel>
+                                                    &nbsp;</TD>
+												<TD>
+													<asp:textbox id="txtCPDReportName" runat="server" columns="40" textmode="SingleLine" maxlength="200"></asp:textbox>
+                                                    &nbsp;</TD>
+											</TR>
+											<div id="divDiskSpace" runat="server">
+											<tr>
+												<TD class="formLabel">
+													<Localized:LocalizedLabel id="lblDiskSpace" Runat="server" CssClass="formLabel"></Localized:LocalizedLabel>
+                                                    &nbsp;</TD>
+												<TD>
+													<asp:textbox id="txtDiskSpace" runat="server" columns="5" textmode="SingleLine" maxlength="200" /><asp:Label ID="lblDiskSpaceDisplay" Runat="server" />
+                                                    &nbsp;
+													<STRONG>
+														<Localized:LocalizedLiteral id="litMegabytes" runat="server" /></STRONG>
+														<localized:localizedCustomValidator id="cvDiskSpace" runat="server" text="*" enabled="true" onservervalidate="cvDiskSpace_ServerValidate" />
+												</TD>
+											</tr>
+											</div>
+											<tr>
+												<td class="formLabel">
+													<Localized:LocalizedLabel id="lblIncludeLogo" runat="server" cssclass="formLabel" />
+												</td>
+												<td>
+													<asp:CheckBox id="ckbIncludeLogo" Runat="server" />&nbsp;<Localized:LocalizedLabel id="lblInclLogoMsg" runat="server" cssclass="formLabel" />
+												</td>
+											</tr>
+											<tr>
+												<td class="formLabel">
+													<Localized:LocalizedLabel id="lblPassword" runat="server" ccsclass="formLabel" />
+												</td>
+												<td>
+													<asp:CheckBox ID="chkActivatePassword" Runat="server" />&nbsp;<Localized:LocalizedLabel id="lblActivatePassword" runat="server" cssclass="formLabel" />
+												</td>
+											</tr>
+											<TR>
+												<td class="formLabel">
+													<Localized:LocalizedLabel id="lblTimeZone" runat="server" ccsclass="formLabel" />
+												</td>
+											    <TD>
+													<asp:dropdownlist id="listTimeZone" Runat="server" ></asp:dropdownlist>
+                                                </TD>
+                                            </TR>	
+											<tr>
+												<td class="formLabel">
+													<Localized:LocalizedLabel id="lblShowLastPassDate" runat="server" ccsclass="formLabel" />
+												</td>
+												<td>
+													<asp:CheckBox ID="chkBxShowLastPassDate" Runat="server" />&nbsp;
+												</td>
+											</tr>
+											<tr>
+												<td class="formLabel">
+													<Localized:LocalizedLabel id="lblDisablePasswordField" runat="server" ccsclass="formLabel" />
+												</td>
+												<td>
+													<asp:CheckBox ID="chkDisablePasswordField" Runat="server" />&nbsp;
+												</td>
+											</tr>
+                                            
+											<TR>
+												<TD>&nbsp;</TD>
+												<td></td>
+											</TR>
+											<TR>
+												<TD>&nbsp;</TD>
+												<TD>
+													<Localized:Localizedbutton id="btnSave" runat="server" CssClass="saveButton" key="cmnSave" text="Save" onclick="btnSave_Click"></Localized:Localizedbutton>
+                                                    &nbsp;
+													<asp:label id="lblMessage" runat="server" EnableViewState="false"></asp:label></TD>
+											</TR>
+											<TR>
+												<TD>&nbsp;</TD>
+												<TD><A href="/Administration/AdministrationHome.aspx">
+														<Localized:LocalizedLiteral id="lnkReturn" runat="server" key="cmnReturn"></Localized:LocalizedLiteral></A></TD>
+											</TR>
+										</TABLE>
+									</asp:PlaceHolder>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<!-- Footer -->
+				<tr align="center" valign="bottom">
+					<td align="center" valign="middle" colspan="2">
+						<navigation:footer id="ucFooter" runat="server"></navigation:footer>
+					</td>
+				</tr>
+			</table>
+		</form>
+	</body>
+</HTML>

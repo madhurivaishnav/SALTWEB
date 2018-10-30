@@ -1,0 +1,109 @@
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<Summary ID="">
+		<ContentType>lesson</ContentType>
+		<UploadType>update</UploadType>
+		<Title/>
+		<CreatedBy/>
+		<CreatedDate/>
+		<LastModifiedBy/>
+		<LastModifiedDate/>
+	</Summary>
+	<Players>
+		<Player ID="">
+			<Name/>
+			<Picture>
+				<Image/>
+				<AltText/>
+				<Align>Left</Align>
+			</Picture>
+			<Description/>
+		</Player>
+	</Players>
+	<Pages PageFilter="0">
+		<Page ID="" IsActive="true">
+			<IncludedInTOC>true</IncludedInTOC>
+			<Title/>
+			<PageElements>
+				<PageElement>
+					<TextGraphic>
+						<Picture>
+							<Image/>
+							<AltText/>
+							<Align>Left</Align>
+						</Picture>
+						<Description/>
+					</TextGraphic>
+					<TextBox>
+						<Description/>
+					</TextBox>
+					<Graphic>
+						<Picture>
+							<Image/>
+							<AltText/>
+							<Align/>
+						</Picture>
+					</Graphic>
+					<ExtraInfo>
+						<Heading/>
+						<Links>
+							<Link>
+								<Internal>
+									<Title/>
+									<Picture>
+										<Image/>
+										<AltText/>
+										<Align/>
+									</Picture>
+									<Description/>
+								</Internal>
+								<External>
+									<DisplayName/>
+									<Url/>
+								</External>
+							</Link>
+						</Links>
+					</ExtraInfo>
+					<MultiChoiceQA>
+						<Question/>
+						<Answer Correct="false">
+							<AnswerText/>
+							<Feedback/>
+						</Answer>
+					</MultiChoiceQA>
+					<FreeTextQA>
+						<Question/>
+						<Feedback/>
+					</FreeTextQA>
+					<MeetThePlayer ID=""/>
+					<ShowAllPlayers/>
+					<TOC/>
+					<EndLesson/>
+				</PageElement>
+			</PageElements>
+		</Page>
+	</Pages>
+	<xd:SchemaInfo LocalName="BDWInfoPathLesson" NamespaceURI="">
+		<xd:Namespaces>
+			<xd:Namespace LocalName="BDWInfoPathLesson" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathLesson" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathLesson" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathLesson" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathLesson" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathLesson" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathLesson" NamespaceURI=""/>
+			<xd:Namespace LocalName="BDWInfoPathLesson" NamespaceURI=""/>
+		</xd:Namespaces>
+	</xd:SchemaInfo>
+	<xd:DataConnection Name="Phrases">
+		<Phrases xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+			<ContentType/>
+			<Instruction/>
+			<xd:SchemaInfo LocalName="Phrases" NamespaceURI="">
+				<xd:Namespaces>
+					<xd:Namespace LocalName="Phrases" NamespaceURI=""/>
+					<xd:Namespace LocalName="Phrases" NamespaceURI=""/>
+				</xd:Namespaces>
+			</xd:SchemaInfo>
+		</Phrases>
+	</xd:DataConnection>
+</BDWInfoPathLesson>

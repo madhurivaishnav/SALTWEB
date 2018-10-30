@@ -1,0 +1,54 @@
+C:\transfers\saltcompiled\Bdw.Application.Salt.Components.dll.config
+C:\transfers\saltcompiled\Bdw.Application.Salt.Components.dll
+C:\transfers\saltcompiled\Bdw.Application.Salt.Components.pdb
+C:\Projects\salt compiled\Bdw.Application.Salt.Components.dll.config
+C:\Projects\salt compiled\Bdw.Application.Salt.Components.dll
+C:\Projects\salt compiled\Bdw.Application.Salt.Components.pdb
+C:\Projects\SALT\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll.config
+C:\Projects\SALT\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll
+C:\Projects\SALT\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.pdb
+C:\Projects\SALT\Components\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SALT\Components\obj\Debug\Bdw.Application.Salt.Components.dll
+C:\Projects\SALT\Components\obj\Debug\Bdw.Application.Salt.Components.pdb
+F:\Development\SALT_Source\SALT\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll.config
+F:\Development\SALT_Source\SALT\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll
+F:\Development\SALT_Source\SALT\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.pdb
+F:\Development\SALT_Source\SALT\Components\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\SALT_Source\SALT\Components\obj\Debug\Bdw.Application.Salt.Components.dll
+F:\Development\SALT_Source\SALT\Components\obj\Debug\Bdw.Application.Salt.Components.pdb
+C:\AshrustSalt\SALT_Source\SALT\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll.config
+C:\AshrustSalt\SALT_Source\SALT\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll
+C:\AshrustSalt\SALT_Source\SALT\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.pdb
+C:\AshrustSalt\SALT_Source\SALT\Components\obj\Debug\ResolveAssemblyReference.cache
+C:\AshrustSalt\SALT_Source\SALT\Components\obj\Debug\Bdw.Application.Salt.Components.dll
+C:\AshrustSalt\SALT_Source\SALT\Components\obj\Debug\Bdw.Application.Salt.Components.pdb
+C:\VS2008Projects\SALT\SALTSite1\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll.config
+C:\VS2008Projects\SALT\SALTSite1\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll
+C:\VS2008Projects\SALT\SALTSite1\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.pdb
+C:\VS2008Projects\SALT\SALTSite1\Components\obj\Debug\ResolveAssemblyReference.cache
+C:\VS2008Projects\SALT\SALTSite1\Components\obj\Debug\Bdw.Application.Salt.Components.dll
+C:\VS2008Projects\SALT\SALTSite1\Components\obj\Debug\Bdw.Application.Salt.Components.pdb
+C:\VS2008Projects\SALT_SCROM_Integration\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll.config
+C:\VS2008Projects\SALT_SCROM_Integration\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll
+C:\VS2008Projects\SALT_SCROM_Integration\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.pdb
+C:\VS2008Projects\SALT_SCROM_Integration\Components\obj\Debug\ResolveAssemblyReference.cache
+C:\VS2008Projects\SALT_SCROM_Integration\Components\obj\Debug\Bdw.Application.Salt.Components.dll
+C:\VS2008Projects\SALT_SCROM_Integration\Components\obj\Debug\Bdw.Application.Salt.Components.pdb
+C:\VS2008Projects\SALT_CPD_Integration\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll.config
+C:\VS2008Projects\SALT_CPD_Integration\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll
+C:\VS2008Projects\SALT_CPD_Integration\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.pdb
+C:\VS2008Projects\SALT_CPD_Integration\Components\obj\Debug\ResolveAssemblyReference.cache
+C:\VS2008Projects\SALT_CPD_Integration\Components\obj\Debug\Bdw.Application.Salt.Components.dll
+C:\VS2008Projects\SALT_CPD_Integration\Components\obj\Debug\Bdw.Application.Salt.Components.pdb
+C:\inetpub\wwwroot\SALT_CPD_Integration\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll.config
+C:\inetpub\wwwroot\SALT_CPD_Integration\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll
+C:\inetpub\wwwroot\SALT_CPD_Integration\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.pdb
+C:\inetpub\wwwroot\SALT_CPD_Integration\Components\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\SALT_CPD_Integration\Components\obj\Debug\Bdw.Application.Salt.Components.dll
+C:\inetpub\wwwroot\SALT_CPD_Integration\Components\obj\Debug\Bdw.Application.Salt.Components.pdb
+C:\inetpub\wwwroot\SALT_NewDesign\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll.config
+C:\inetpub\wwwroot\SALT_NewDesign\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.dll
+C:\inetpub\wwwroot\SALT_NewDesign\WWWROOT_4.1.5 Release\bin\Bdw.Application.Salt.Components.pdb
+C:\inetpub\wwwroot\SALT_NewDesign\Components\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\SALT_NewDesign\Components\obj\Debug\Bdw.Application.Salt.Components.dll
+C:\inetpub\wwwroot\SALT_NewDesign\Components\obj\Debug\Bdw.Application.Salt.Components.pdb

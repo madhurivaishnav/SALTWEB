@@ -1,0 +1,91 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReport_IndividualDetails]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfReport_IndividualDetails    Script Date: 20/04/2004 8:25:58 AM ******/
+
+
+
+/*Summary:
+Given a users ID this udfReport_IndividualDetails Gets Details for home page and individual report
+Returns:
+ordered table of distinct PageID''s
+
+Called By:
+dbo.prcReport_Individual
+dbo.prcModule_GetDetailsForHomePage
+Calls:
+dbo.vwUserQuizStatus
+dbo.udfGetLessonStatus
+dbo.vwUserModuleAccess
+Remarks:
+1. This udf required that the schema of the underlying views does not change
+
+Author:
+Stephen Kennedy-Clark
+Date Created: 17 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#3.0.25 Aaron Cripps	08/05/2007		Replace vwUserCourseStatus with a select statement that filters on UserID parameter passed into the function to reduce the number of rows returned (and the time taken to retrieve rows)
+
+
+--------------------
+
+
+**/
+CREATE function [udfReport_IndividualDetails]
+(
+@userID  int = null     -- ID of this User
+)
+------------------------------------------
+Returns table
+as
+
+Return
+select
+vUMA.UserID		as ''UserID''
+, vUMA.CourseID		as ''CourseID''
+, vUMA.CourseName 	as ''CourseName''
+, vUMA.ModuleID		as ''ModuleID''
+, vUMA.[Name] 		as ''ModuleName''
+, tL.LessonID	  	as ''LessonID''
+, isNull(dbo.udfGetLessonStatus(vUMA.ModuleID,vUMA.UserID), 1) as ''LessonStatus''  -- n^2 complexety :-(
+, isNull(vUQS.QuizStatusID, 1)   as ''QuizStatus''
+, vUQS.QuizScore	as ''QuizScore''
+, vUQS.QuizPassMark	as ''QuizPassMark''
+, replace(replace( tL.ToolbookLocation,''ie4/index.html'',''qfs.html''),''default.aspx'',''QFS.html'') as ''QFSPath''
+--, SUBSTRING(  tL.ToolbookLocation,0,(len(tL.ToolbookLocation)-12)  ) + ''/'' + ''QFS.html'' as ''QFSPath''
+, vUMA.Sequence		as ''Sequence''
+from
+--< get the module access details for this user >--
+vwUserModuleAccess vUMA
+--< get the module access details for this user >--
+left outer join tblLesson tL
+on tL.ModuleID = vUMA.ModuleID
+and tL.Active = 1
+--< get the details of the latest quiz  >--
+left outer join 
+--< below replaces vwUserQuizStatus >--
+(
+SELECT      QuizStatus.UserID, QuizStatus.ModuleID, m.CourseID, QuizStatus.QuizStatusID, QuizStatus.QuizPassMark, QuizStatus.QuizScore
+FROM         dbo.tblUserQuizStatus AS QuizStatus INNER JOIN
+                      dbo.tblModule AS m ON m.ModuleID = QuizStatus.ModuleID INNER JOIN
+                          (SELECT     MAX(UserQuizStatusID) AS UserQuizStatusID
+                            FROM          dbo.tblUserQuizStatus where UserID = @UserID
+                            GROUP BY UserID, ModuleID ) AS currentStatus ON QuizStatus.UserQuizStatusID = currentStatus.UserQuizStatusID
+WHERE     (m.Active = 1)
+)
+--vwUserQuizStatus 
+vUQS -- n^2 complexety :-(
+on vUQS.UserID = vUMA.UserID
+and vUQS.ModuleID = vUMA.ModuleID
+Where
+-- vUMA.CourseID = isnull(@courseID, vUMA.CourseID ) and
+vUMA.UserID = isnull(@userID, vUMA.UserID)
+' 
+END
+GO

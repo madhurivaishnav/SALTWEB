@@ -1,0 +1,40 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblLangValue]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblLangValue](
+	[LangValueID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[LangID] [int] NOT NULL,
+	[LangInterfaceID] [int] NOT NULL,
+	[LangResourceID] [int] NOT NULL,
+	[LangEntryValue] [nvarchar](4000) NULL,
+	[Active] [bit] NOT NULL,
+	[UserCreated] [int] NULL,
+	[UserModified] [int] NULL,
+	[UserDeleted] [int] NULL,
+	[DateCreated] [datetime] NULL,
+	[DateModified] [datetime] NULL,
+	[DateDeleted] [datetime] NULL,
+	[RecordLock] [uniqueidentifier] NULL,
+ CONSTRAINT [PK_tblLangValue] PRIMARY KEY CLUSTERED 
+(
+	[LangID] ASC,
+	[LangInterfaceID] ASC,
+	[LangResourceID] ASC,
+	[Active] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblLangValue_RecordLock]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblLangValue]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblLangValue_RecordLock]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblLangValue] ADD  CONSTRAINT [DF_tblLangValue_RecordLock]  DEFAULT (newid()) FOR [RecordLock]
+END
+
+
+End
+GO

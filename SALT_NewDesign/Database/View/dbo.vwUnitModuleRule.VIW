@@ -1,0 +1,88 @@
+IF  EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwUnitModuleRule]'))
+DROP VIEW [vwUnitModuleRule]
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwUnitModuleRule]'))
+EXEC dbo.sp_executesql @statement = N'
+/*Summary:
+	Gets unit module compliance rules
+
+Returns:
+	table
+		
+Called By: 
+
+Calls:
+
+Remarks:
+	
+
+	
+Author:
+Jack Liu
+Date Created: 23 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1	mikev		1/5/2007		Added Completion dates to view. There is a business rule which says that you cannot have both frequency and date fields for lesson and quiz. There is a ISNULL in the view which uses the organisation''s default frequency. Note, that when frequency is not used, it will have a value of null; so I don''t see a problem with using the default value in this case.
+--------------------
+*/
+CREATE view [vwUnitModuleRule]
+as
+Select 	u.UnitID,
+	m.CourseID,
+	m.ModuleID,
+	m.Name,
+	case 
+		when ur.unitID is null then cast(1 as bit)
+		else cast(0 as bit)
+	end as UsingDefault,
+	case 
+		when (ur.LessonFrequency is null and ur.LessonCompletionDate is null and o.DefaultLessonCompletionDate is null) then 
+			o.DefaultLessonFrequency
+		else 
+			ur.LessonFrequency
+		end 
+	as LessonFrequency, 
+	case 
+		when (ur.QuizFrequency is null and ur.QuizCompletionDate is null and o.DefaultQuizCompletionDate is null) then 
+			o.DefaultQuizFrequency
+		else 
+			ur.QuizFrequency
+		end 
+	as QuizFrequency, 
+	isNull(ur.QuizPassMark, o.DefaultQuizPassMark) as QuizPassMark,
+	case 
+		when (ur.LessonFrequency is null and ur.LessonCompletionDate is null and not(o.DefaultLessonCompletionDate is null)) then 
+			o.DefaultLessonCompletionDate
+		else
+			ur.LessonCompletionDate
+		end 
+	as LessonCompletionDate,
+	case 
+		when (ur.QuizFrequency is null and ur.QuizCompletionDate is null and not(o.DefaultQuizCompletionDate is null)) then 
+			o.DefaultQuizCompletionDate
+		else
+			ur.QuizCompletionDate
+		end 
+	as QuizCompletionDate
+From tblOrganisationCourseAccess c
+	inner join tblModule m
+		on m.CourseID = c.GrantedCourseID
+	inner join tblOrganisation o  -- Get default compliance rules
+		on o.OrganisationID = c.OrganisationID
+	inner join tblUnit u
+		on u.OrganisationID = c.OrganisationID
+	left join tblUnitRule ur --Get the unit specific rules
+		on ur.ModuleID = m.ModuleID 
+			and ur.UnitID=u.unitID
+
+
+
+
+'
+GO

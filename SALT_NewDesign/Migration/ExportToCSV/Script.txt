@@ -1,0 +1,109 @@
+declare @UnitID int
+declare @UnitName varchar(200)
+declare @OrganisationID int
+set @OrganisationID = %OrganisationID%
+/******
+Declare Loop
+*******/
+DECLARE cursor_Units CURSOR
+FOR
+
+		-- normal units
+		select [UnitID], Org_Name + ' - ' + Div_Name + ' - ' + SubDiv_Name + ' - ' + [UnitName] from unit 
+		inner join [subdivision] on [unit].unit_subdiv_id = [subdivision].subdiv_id
+		inner join [division] on [subdivision].[subdiv_div_id] = division.div_id
+		inner join [org] on [division].[div_org_ID] = org.org_id
+		where unit_subdiv_id in 
+		(
+			select subdiv_id from subdivision where subdiv_div_id in 
+			(
+				select div_id from division where div_org_id = @OrganisationID
+			)
+		)	
+
+	union
+		-- screwy sub division
+		select [UnitID],  Org_Name + ' - ' + SubDiv_Name + ' - ' + [UnitName] from unit 
+		inner join [subdivision] on [unit].unit_subdiv_id = [subdivision].subdiv_id
+		inner join [org] on [subdivision].[subdiv_org_id] = org.org_id
+		where unit_subdiv_id in 
+		(
+			select subdiv_id from subdivision where subdiv_org_id =@OrganisationID
+		)	
+			
+
+	union
+		-- screwey unit type 1
+		select [UnitID], Org_Name + ' - ' + Div_Name + ' - ' + [UnitName] from unit 
+		inner join [division] on [unit].[unit_div_id] = division.div_id
+		inner join [org] on [division].[div_org_ID] = org.org_id
+		where unit_div_id in 
+		(
+			select div_id from division where div_org_id = @OrganisationID
+		)
+
+	union
+
+		-- screwey init type 2
+		select [UnitID], Org_Name + ' - ' + [UnitName] from unit 
+		inner join [org] on [org].[org_ID] = unit.unit_org_id
+		where unit_org_id =@OrganisationID
+	
+-- 2462 rows
+Open cursor_Units
+
+FETCH NEXT FROM cursor_Units Into @UnitID,@UnitName
+
+/******
+Begin Loop
+*******/
+WHILE @@FETCH_STATUS = 0
+BEGIN
+	/******
+	Perform Export Query
+	*******/
+	Print '-----------------------------------'
+	SELECT 
+		
+		[UserName], 
+		'welcome*' 	as 'Password', 
+		[FirstName]	as 'FirstName', 
+		[LastName]	as 'LastName', 
+		[UserEmail]	as 'UserEmail', 
+		[UserID] 	as 'ExternalUserID',
+		'UnitID Needed!' 		as 'UnitID',
+		'State'		as 'ClassificationType',
+		case [UserState]
+			when 1 then null
+			when 2 then 'NSW'			
+			when 3 then 'VIC'
+			when 4 then 'NT'
+			when 6 then 'SA'
+			when 7 then 'TAS'
+			when 8 then 'WA'
+			when 9 then 'ACT'
+			when 10 then 'NZ'
+		end as 'ClassificationValue',
+		@UnitName
+		
+
+	FROM 
+		[User]
+	WHERE 
+		[User].UnitID = @UnitID
+	and
+		(
+		[User].Status = 0 
+		or
+		[User].Status = 1
+		)
+	ORDER BY 
+		UserName
+
+FETCH NEXT FROM cursor_Units Into @UnitID,@UnitName
+END 
+/******
+Finalise
+*******/
+CLOSE cursor_Units
+DEALLOCATE cursor_Units

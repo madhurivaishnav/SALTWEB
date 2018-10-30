@@ -1,0 +1,72 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetLessonPageIDByToolbookPageID]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfGetLessonPageIDByToolbookPageID    Script Date: 20/04/2004 8:25:57 AM ******/
+
+
+
+
+
+
+/*
+Summary:
+user Defined Function that returns a Lesson Page ID given a Toolbook Page ID
+only Works for a lesson
+Returns:
+scaler - Lesson Page id - int
+
+Called By:
+dbo.prcLessonPageAudit_InsertPageVisited
+dbo.prcLessonSession_EndLesson
+Calls:
+
+Remarks:
+
+
+Author:
+Stephen Kennedy-Clark
+Date Created: 3 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+print dbo.udfGetLessonIDByToolbookID(''toolBookID-1'')
+-- select * from tblLessonPage
+
+**/
+CREATE     FUNCTION [udfGetLessonPageIDByToolbookPageID]
+(
+@toolBookPageID varchar(50) -- Tool Book Page ID
+, @lessonID	integer	    -- The lesson id
+)
+RETURNS INT --< LessonPageID >--
+Begin
+------------------------------------------
+-- get Lesson Page ID for this Toolbook Page ID
+------------------------------------------
+
+DECLARE @retVal int
+set @retVal =
+(
+(
+SELECT TOP 1
+LessonPageID
+FROM
+tblLessonPage
+WHERE
+ToolbookPageID = @toolBookPageID
+and lessonID = @lessonID
+)
+)
+
+RETURN @retVal
+End
+' 
+END
+GO

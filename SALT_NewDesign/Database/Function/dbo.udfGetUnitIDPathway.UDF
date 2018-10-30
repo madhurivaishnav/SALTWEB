@@ -1,0 +1,65 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetUnitIDPathway]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfGetUnitPathway    Script Date: 20/04/2004 8:25:57 AM ******/
+
+/*
+Summary:
+user Defined Function that returns pathway of a specified unit
+Returns:
+">" delimited pathway of a unit
+e.g. "Unit 1 > Unit 2 > Unit 5 > Unit 7"
+
+Called By:
+
+Calls:
+
+Remarks:
+
+
+Author: Jack Liu
+Date Created: 6 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+select  dbo.udfGetUnitIDPathway(9)
+
+select dbo.udfGetUnitIDPathway(UnitID)
+from tblUnit
+
+**/
+CREATE  FUNCTION [udfGetUnitIDPathway]
+(
+@UnitID int
+)
+RETURNS nvarchar(4000)
+Begin
+
+declare @strPathway nvarchar(4000)
+declare @strHierarchy nvarchar(500)
+
+select @strHierarchy='',''+hierarchy+'',''
+from tblUnit
+where UnitID = @UnitID
+
+--Convert unit ID hierarchy ''1,2,5,7'' to pathway ''Unit 1 > Unit 2 > Unit 5 > Unit 7''
+
+select @strPathway=IsNull(@strPathway+'' > '','''')+cast(UnitID as varchar)
+from tblUnit
+where charindex('',''+cast(UnitID as varchar)+'','', @strHierarchy)>0
+order by [Level]
+
+--select @strPathway
+
+RETURN @strPathway
+End
+' 
+END
+GO

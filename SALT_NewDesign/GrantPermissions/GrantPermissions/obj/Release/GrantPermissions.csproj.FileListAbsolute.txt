@@ -1,0 +1,16 @@
+C:\Projects\SALT\GrantPermissions\GrantPermissions\bin\Release\GrantPermissions.exe
+C:\Projects\SALT\GrantPermissions\GrantPermissions\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\SALT\GrantPermissions\GrantPermissions\obj\Release\GrantPermissions.Form1.resources
+C:\Projects\SALT\GrantPermissions\GrantPermissions\obj\Release\GrantPermissions.Properties.Resources.resources
+C:\Projects\SALT\GrantPermissions\GrantPermissions\obj\Release\GrantPermissions.csproj.GenerateResource.Cache
+C:\Projects\SALT\GrantPermissions\GrantPermissions\obj\Release\GrantPermissions.exe
+C:\Projects\SALT\GrantPermissions\GrantPermissions\obj\Release\GrantPermissions.pdb
+C:\Projects\SALT\GrantPermissions\GrantPermissions\bin\Release\GrantPermissions.pdb
+C:\inetpub\wwwroot\SALT_NewDesign\GrantPermissions\GrantPermissions\bin\Release\GrantPermissions.exe
+C:\inetpub\wwwroot\SALT_NewDesign\GrantPermissions\GrantPermissions\bin\Release\GrantPermissions.pdb
+C:\inetpub\wwwroot\SALT_NewDesign\GrantPermissions\GrantPermissions\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\SALT_NewDesign\GrantPermissions\GrantPermissions\obj\Release\GrantPermissions.Form1.resources
+C:\inetpub\wwwroot\SALT_NewDesign\GrantPermissions\GrantPermissions\obj\Release\GrantPermissions.Properties.Resources.resources
+C:\inetpub\wwwroot\SALT_NewDesign\GrantPermissions\GrantPermissions\obj\Release\GrantPermissions.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\SALT_NewDesign\GrantPermissions\GrantPermissions\obj\Release\GrantPermissions.exe
+C:\inetpub\wwwroot\SALT_NewDesign\GrantPermissions\GrantPermissions\obj\Release\GrantPermissions.pdb

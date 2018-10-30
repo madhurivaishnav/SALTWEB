@@ -1,0 +1,934 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Lesson:Salt:Bdw" PIVersion="1.0.0.0" productVersion="11.0.6357" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="cs" GUID="11e2c7e2-11db-4942-a6a3-3dd2e4ef9f3b">
+  <Summary ID="Impergreless1" GUID="59b7b5a0-9669-4716-8d44-124591c52f0f">
+    <ContentType GUID="63548a41-1ea3-47b0-9d1a-df8d8ca5fb57">lesson</ContentType>
+    <UploadType GUID="63960169-94ef-4b54-87c2-a0026afcf672">update</UploadType>
+    <Title GUID="c9dc0ecd-cc6a-4e7c-8e69-78cc8ba62681">Εισαγωγή στη Συμμόρφωση με το Δίκαιο Ανταγωνισμού</Title>
+    <CreatedBy GUID="f0fa9951-03b2-49a1-8311-c8b4577e6cfe">904917</CreatedBy>
+    <CreatedDate GUID="261e7096-8331-4c9b-ab0e-ea39d992d455">2006-12-18T09:58:30</CreatedDate>
+    <LastModifiedBy GUID="7281862f-cb28-4a2c-bf7c-3a9ea48e2ae0">904722</LastModifiedBy>
+    <LastModifiedDate GUID="9a0a15a1-5f3d-47c0-9f82-fa1a09c07af1">2007-01-15T16:52:56</LastModifiedDate>
+  </Summary>
+  <Players GUID="6a544775-cea4-43c4-8675-950196501d34">
+  </Players>
+  <Pages PageFilter="0" GUID="ed09f503-9a43-4f8d-96a7-215b98f4732e">
+    <Page ID="Page1" IsActive="true" GUID="40e384a5-053f-4c12-abd4-8ebd6e2c70bc">
+      <IncludedInTOC GUID="7e10bb13-fa7e-4e68-a3b9-5e2003a5e188">true</IncludedInTOC>
+      <Title GUID="88b84122-c282-45db-8914-3c3dac43d0a6">Καλωσορίσατε στη Συμμόρφωση με το Δίκαιο Ανταγωνισμού</Title>
+      <PageElements GUID="e4ce5a69-76f0-446f-a669-f4b12219e421">
+        <PageElement GUID="010cbc12-9163-4d2f-b04c-7f983a65a886">
+          <Graphic GUID="6d173470-bfa3-44c7-958b-c1f00c007b5a"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/4a043a6d-7ef7-4c58-96ed-08fe38257431.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="7799baa2-b38d-47e2-8a7e-34a9501b07e0">
+          <Graphic GUID="bc1652d7-d05c-4014-940b-41c3e5932d73"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/0496b749-37f2-46dd-b3e7-74a2c3c8ce71.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="5b8a93a3-1917-40d4-8112-9478b1493b6c">
+          <TextBox GUID="3960eccc-13a4-4b2c-ac4b-878a86f235a6"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="c5d55e37-2dc1-4e19-aa75-7cf8ad75dad5">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="4dab9a30-811c-4e33-9d63-fadaa4a07da2" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="62a03199-26ea-4527-8ab6-f35c3a38df33">Αυτή η Ενότητα θα πρέπει να διαρκέσει περίπου <span GUID="e763bea5-a38d-4e63-9065-55b22209eefe"><strong GUID="57d47f93-e736-4007-a1c2-edd2adfb5957">10 λεπτά</strong></span>.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="98e7c47e-5acb-41c4-9d0d-aa061b95c05c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="aa610fa9-39f8-4b99-8509-0324b26bb7e4">Θα μάθετε για το Δίκαιο Ανταγωνισμού που ισχύει στην Ευρωπαική Ένωση (ΕΕ) και γιατί είναι σημαντικό για εσάς να το κατανοήσετε.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="f48b68a0-5009-4247-8fbb-7fe670f6a83d" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="f37b062d-daa7-4e7b-b6ad-6c631ab1854b">
+        <strong GUID="25573b24-7faf-417b-81d2-2827e1fe1b2f">
+          <font face="Arial" GUID="6689abb3-ecb6-46f3-b63a-43e639f6de99">Ικανότητες που θα αποκτήσετε από αυτήν την Ενότητα</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="f15f5687-e5fe-4c35-a9d9-1326b8603bef" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="b734238d-74c4-4692-ad60-157e6b321117">Στο τέλος αυτού του μαθήματος θα πρέπει να γνωρίζετε:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="cfd9f72f-d0bd-4e97-b009-f5e1f8a144d2" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="0e31e71d-2736-47eb-8c6f-3facc1fd898e">
+        <div align="left" GUID="b73123f9-41e9-4ab7-961d-37b108e14d11">
+          <font face="Arial" GUID="38533948-c989-4c2c-85c8-eb45aa414c89">τι είναι το Δίκαιο Ανταγωνισμού και πώς λειτουργεί στην καθημερινή ζωή, </font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="bb5e9b9e-174f-410b-addb-6feb6ec962a1" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="4846b2bc-74f8-47d6-a4be-6dd569d3a7c5">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c1066117-7c43-4e65-a7ef-fb00e51fe3c0" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="8cf8b7cc-2f99-4471-bdcd-68ff180ac576">
+        <div align="left" GUID="188db3f5-6c58-4231-be87-f0556f5331a1">
+          <font face="Arial" GUID="31e88823-2f97-4e55-9c3d-af5676242c40">γιατί είναι σημαντικό,  </font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="4c0016c0-7e1c-40bd-99ac-a3be0602fc67" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="36b70485-bbe4-4575-80ec-fe5f19bfe35c">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="dcaf70f5-b7cb-48ff-bc72-f5c3204dbbb9" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="013d4183-db95-4daa-8d02-b36ded2e09f6">
+        <div align="left" GUID="3be7a8a1-66a0-460b-a0e7-ce5559ece2c3">
+          <font face="Arial" GUID="27f6f411-90a4-48c0-9959-b2bfabc950a2">γιατί πρέπει να το κατανοήσετε,</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="1a84878c-9e2e-48ff-8827-cfd58b786a7c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="06127af0-e107-4acd-a955-39c1005693f2">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="9169f7eb-6e36-443a-9d5c-2bf3d2aaac83" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="1174408a-d540-49cf-9844-87ae8e4096b0">
+        <div align="left" GUID="0f732a16-5d10-4d39-9294-825b1a7a9b34">
+          <font face="Arial" GUID="a1e360d2-207d-4acb-9e09-384ea0b9f4ad">πώς να το εφαρμόζετε στη δουλειά σας, και</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="5ae8602c-65f8-4bef-855b-e59a1c8f80b4" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="7e026d66-7f8b-4031-b856-de0cf18f0558">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="01c2e57d-07ea-4046-9c50-757f012ca79f" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="ba3cc7f4-97e2-4597-ab54-57dae2bdfa64">
+        <div align="left" GUID="c40a1b02-b771-48f6-a63b-9fe32283d1c0">
+          <font face="Arial" GUID="7b7b58fe-b205-4029-adad-baa11f18ed21">πότε να ζητάτε βοήθεια.</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="33e76262-5b18-4075-8089-846340921649" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="d15fe37f-bb28-4efa-b016-ef2f6153f389">
+      </font> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="2ff05679-4cbb-475f-9e49-2f78e93f9993" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="7e507521-9dd2-47a9-93ca-1b016875fc4e">«Αυτή η εισαγωγή παρέχει μια σύντομη επισκόπηση του Δικαίου Ανταγωνισμού και των συνεπειών του, ωστόσο, οι υπόλοιπες ενότητες παρέχουν περισσότερες λεπτομέρειες για κάθε κύριο θέμα». </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="608e98cc-eb7d-4921-8d38-ccd8afc470a8">
+      <IncludedInTOC GUID="754ca398-f9b6-4ad4-bd80-f3f5944bfdc5">true</IncludedInTOC>
+      <Title GUID="2c9d796f-6925-48f6-a72d-96aa2265d767">Εισαγωγή από τον Gareth Davis, Διευθύνοντα Σύμβουλο της Imperial Tobacco Group PLC</Title>
+      <PageElements GUID="f0013b88-5dde-4f74-b06e-f9ea8810d7ab">
+        <PageElement GUID="241b9702-3d2b-4c58-a04d-ca978d9f53ed">
+          <Graphic GUID="54e64b8b-7a4b-49c3-b6ed-9a7cb65f3e47"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/8c60079f-2c7f-4b47-8760-cff8676ac028.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="c6a1bc6e-41b8-4032-89b2-38f477eaed3c">
+          <TextBox GUID="ad175e3e-c6a4-473a-a49c-718f82cab3c9"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="85d6f3e4-6c18-4141-b16d-784f43b47fa2">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="fce9ec94-cc3e-4eda-8818-83e2d2f9c35f" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="80eeed49-52da-458e-9b47-41645a16d4bc">Σας ευχαριστώ που αποφασίσατε να παρακολουθήσετε αυτό το νέο και σημαντικό πρόγραμμα κατάρτισης.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="d85c9396-5946-430b-b154-0c5f060a4b56" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="333b6e03-ee02-4678-b866-faf2b7ea48b0">Η Imperial Tobacco Group PLC είναι αφοσιωμένη στην τήρηση της σχετικής νομοθεσίας στις χώρες όπου δραστηριοποιείται, καθώς και του Δικαίου Ανταγωνισμού της Ευρωπαϊκής Ένωσης.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="3071a985-b499-42c3-950f-6470c49b95ca" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="7b63e442-ef5a-40cf-9910-87c3314a18c0">Το Δίκαιο Ανταγωνισμού επηρεάζει την επιχειρηματική δραστηριότητα περισσότερο από ποτέ και οι συνέπειες της μη συμμόρφωσης είναι εξαιρετικά σοβαρές.  Τα πρόστιμα μπορούν πιθανόν να ανέρχονται στο 10% του κύκλου εργασιών μιας εταιρείας.  Για την Imperial Tobacco Group PLC, βάσει των λογαριασμών μας για το έτος 2005, το ποσό αυτό θα ανερχόταν σε 315 εκατομμύρια στερλίνες περίπου.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="a7ac4293-f6b8-446a-80c3-e7eaa48fd29e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="2acc46a2-9209-42a2-b3a0-a4752984b746">Ως εκ τούτου, οι εργαζόμενοι που συμμετέχουν σε τομείς εμπορικών συναλλαγών, μάρκετινγκ, διανομής, τιμολόγησης και αδειοδότησης είναι επιτακτικό να κατανοούν και να συμμορφώνονται με την ισχύουσα νομοθεσία.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="eade71a8-f261-4947-ab08-f0f37329ac18" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="35034272-8f82-4806-a15c-97a2a4e51ff2">Για να διευκολύνουμε αυτήν τη διαδικασία, αναπτύξαμε ένα ηλεκτρονικό πρόγραμμα κατάρτισης για τους εργαζομένους που έχουν τέτοιες ευθύνες στις ευρωπαϊκές αγορές μας.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="d3cf8e49-8655-43aa-84f4-688c1542b2f0">
+      <IncludedInTOC GUID="68ff73bf-a244-4596-a8db-c669f8d488ec">true</IncludedInTOC>
+      <Title GUID="1f14f20c-4624-4de7-8cc0-86c1b6ee657f">Εισαγωγή από τον Gareth Davis, Διευθύνοντα Σύμβουλο της Imperial Tobacco Group PLC</Title>
+      <PageElements GUID="a4260fd5-911e-48ba-acf4-5f81c6be1f79">
+        <PageElement GUID="c8d6ca1d-adc0-40ba-97f5-22a3f5b394fa">
+          <Graphic GUID="259e1c51-20f2-4a24-bb73-ed13794de55b"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/b5a69112-e3d6-41c3-9354-d7ab550e790d.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="935d7a7a-f0e6-46da-8fe4-59123aa842c3">
+          <TextBox GUID="d2806a07-3fe3-4924-843b-0f6f498311c0"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="a3c68876-9c09-4e1c-97af-d9f17848b449">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="cd93c205-5ee5-4546-9340-1f83f5c7f019" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="32138ee1-a17d-403e-b93c-2fc7bcc377e1">Σαφώς, το Δίκαιο Ανταγωνισμού μπορεί να είναι απαιτητικό και πολύ σύνθετο.  Αυτό το πρόγραμμα κατάρτισης δεν έχει σκοπό να κάνει τους πάντες ειδικούς στο Δίκαιο Ανταγωνισμού και δεν είναι όλα τα στοιχεία του προγράμματος το ίδιο σχετικά για τους υπαλλήλους σε κάθε αγορά.   Για παράδειγμα, το Δίκαιο Ανταγωνισμού, μεταξύ άλλων, διέπει τον καθορισμό των τιμών μεταπώλησης (δηλαδή, σε ό,τι μας αφορά, το βαθμό στον οποίο ο κατασκευαστής επιτρέπεται να επηρεάζει τις τιμές που χρεώνουν οι πελάτες μας).   Σε ορισμένες αγορές, η τιμολόγηση των προϊόντων καπνού από τον πελάτη καθορίζεται από το ισχύον φορολογικό καθεστώς, επομένως αυτό το στοιχείο θα έχει περιορισμένη εφαρμογή.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="b5b777db-83b0-49a2-9fa3-be1cfa664b16" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="9e7e80ad-ba4b-4548-9da8-075eac7d24fd">Ωστόσο, είναι σημαντικό να καταλάβουμε όλοι καθέναν από τους κύριους τομείς του δικαίου του ανταγωνισμού.   Τα φορολογικά καθεστώτα αλλάζουν, οι άνθρωποί μας μετακινούνται σε διάφορες αγορές και πολλοί από εμάς έχουμε συναλλαγές με διάφορες αγορές σε καθημερινή βάση. Έτσι όλοι πρέπει να έχουμε σφαιρική γνώση των κύριων θεμάτων, ούτως ώστε να γνωρίζουμε πότε να αναζητούμε τη βοήθεια ειδικών.  Αυτό θα μας επιτρέπει να εντοπίζουμε και να ανταποκρινόμαστε πιο αποτελεσματικά σε κάθε θέμα που ανακύπτει, λαμβάνοντας ταυτόχρονα νομικές συμβουλές όταν είναι απαραίτητο.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="bd7572a6-f0cc-42df-9134-6ca9a9010cc6" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="f3f954d3-f109-4dc8-9b9c-ce811ed12423">Με αυτόν τον τρόπο μπορούμε να είμαστε σίγουροι ότι συνεχίζουμε να ανταγωνιζόμαστε σθεναρά και ειλικρινά τους ανταγωνιστές μας στην αγορά.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="ffe4e786-1b2a-40ab-8bb5-c4c99b832ea7" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="6e47b286-2a85-41ef-abc2-ab7c75989c84">Για την παροχή αυτού του προγράμματος κατάρτισης έχουμε την υποστήριξη της Clifford Chance LLP.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="b15f73c7-5334-4f04-b95f-a173ab08b614">
+      <IncludedInTOC GUID="4360c80d-6fbc-4dfe-a3d5-39b7e623f085">true</IncludedInTOC>
+      <Title GUID="9e575eaf-b17b-4d0e-8d64-165cdeb74d2a">Τι είναι το Δίκαιο Ανταγωνισμού;</Title>
+      <PageElements GUID="ae97c700-4680-48a5-b3c8-fbc57e6a052e">
+        <PageElement GUID="f4dc612f-d559-4358-8ae5-35a4cbce858f">
+          <Graphic GUID="d6e1a73d-ee65-42aa-ab1e-0251103ab931"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/2f86cbfb-11be-4628-8c63-70b5b80a8fda.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="90450ac4-2ed2-403c-a4bd-e812a6fdb3be">
+          <TextBox GUID="891da7ee-b550-487a-9a76-e58e3227844a"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="195e32e6-8e80-4230-8281-006e979512e7">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="51fcfc30-6951-4d05-bf76-b86c1b111297" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="cc2c28ba-e03a-4941-82f7-9855e12283ec">Το Δίκαιο Ανταγωνισμού είναι ένα σύνολο κανόνων που ελέγχουν τον τρόπο με τον οποίο οι εταιρείες δραστηριοποιούνται στην αγορά:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="9552b254-d311-4784-95c1-96624ccee8e2" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="6eb60969-51ef-4c06-938c-195c8dcfcece">
+        <div align="left" GUID="101949e4-495c-4f2a-9ae0-e449b5017106">
+          <span style="FONT-SIZE: 10pt" GUID="87f7805f-eaff-4391-a12e-a29a128b4911">
+            <font face="Arial" GUID="3af16b11-2ad9-4197-b579-412efdcae25a">εμποδίζει τις εταιρείες να κάνουν αθέμιτες συμφωνίες ή συνεννοήσεις, </font>
+          </span>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="left" GUID="9bed4460-9c14-43fe-874a-514213d11353" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="e8eacad7-873d-469f-be3d-0b8a3831ca99">
+        <font face="Arial" GUID="6b5b381b-37fd-43a6-8e9b-c429663049f7">
+        </font>
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="e96ece02-9b56-4177-9692-c453bbfeaa25" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="0abb26ea-13e8-479c-8256-bfc12099299a">
+        <div align="left" GUID="6b9fdcf9-5645-4e56-9ded-a5a881353094">
+          <span style="FONT-SIZE: 10pt" GUID="ac17be9a-f96a-484f-ae48-d1039b8754ad">
+            <font face="Arial" GUID="68b57282-54d3-4a55-b8b3-af8b3ead6f3f">εμποδίζει τις εταιρείες να καταχρώνται την ισχύ τους στην αγορά για να ζημιώνουν άλλες εταιρείες, και  </font>
+          </span>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="left" GUID="604adb51-b8e3-461a-9ebc-8ee513e40d79" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="4ddfaa6b-ee77-476b-9fef-2d680c77fa84">
+      </span> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="75cf6f36-7588-4b23-90fc-102b5f333f32" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="d671d902-5e17-48d3-b1d7-f401285bad0b">
+        <div align="left" GUID="6607d2d2-d8eb-416f-8395-534cd5cee438">
+          <span style="FONT-SIZE: 10pt" GUID="eb3e87f2-9324-41e4-ba46-1f3cb1bd4f14">
+            <font face="Arial" GUID="820270cf-de96-4a60-a0a3-890ba81092fc">εμποδίζει τις εταιρείες να γίνουν πολύ ισχυρές ελέγχοντας εάν μπορούν να συγχωνεύονται με άλλες εταιρείες.</font>
+          </span>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="left" GUID="f15a8b88-deb5-4a5d-aa1b-4c0a8c885458" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="b24c3295-82b9-46ab-a652-ee4a8cec74fe">
+        <font face="Arial" GUID="e3f9d7c8-8868-43fa-bf92-698b257b28d4">
+        </font>
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="d6bd99bb-629a-409a-ad21-d89000f5ba9e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="83b79761-0a3d-461f-96d6-014fb3bafbba">Θα πρέπει να γνωρίζετε ότι πολλές χώρες ανά τον κόσμο διαθέτουν Δίκαιο Ανταγωνισμού.   Κάθε σύστημα έχει διαφορετικούς κανόνες, αλλά οι γενικές αρχές είναι πάντα οι ίδιες.  Αυτό το μάθημα σας διδάσκει αυτές τις γενικές αρχές.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="b46c7467-7bac-4837-91ed-4cbeb6f005f5">
+          <ExtraInfo GUID="b6516035-a54b-4cf2-92b9-1908710d7344"> <![CDATA[<div class="ExtraInfo_Main">
+  <table cellpadding="0" cellspacing="0" border="0" class="ExtraInfoExtraVisible">
+    <tr>
+      <td width="2%" class="" style="padding-left:5px;cursor:hand;">
+        <img class="" src="/General/Images/InfoPath/CC_Example.gif" name="EX_&quot;11642782-2040-4311-9525-4580c1f6f8b5" ID="EX_11642782-2040-4311-9525-4580c1f6f8b5" onClick="TogglePopup('11642782-2040-4311-9525-4580c1f6f8b5');" onmouseover="this.src=activeExample;" onmouseout="this.src=Example;">
+      </td>
+      <td class="" align="left" style="padding-left:5px;vertical-align:top;">
+        <div class="">ΤΟ ΔΙΚΑΙΟ ΑΝΤΑΓΩΝΙΣΜΟΥ ΠΟΥ ΠΕΡΙΓΡΑΦΕΤΑΙ ΣΕ ΑΥΤΟ ΤΟ ΜΑΘΗΜΑ ΠΡΟΕΡΧΕΤΑΙ ΑΠΟ ΔΥΟ ΠΗΓΕΣ:</div>
+      </td>
+    </tr>
+  </table>
+  <div ID="Content_11642782-2040-4311-9525-4580c1f6f8b5" class="ExtraInfo_Hide">
+    <table>
+      <tr>
+        <td class="TextGraphic_Description">
+          <Description GUID="f6ed49d1-dda3-4bb6-9f26-504365f7d096">
+            <div align="left" GUID="2d8df3b5-4f39-4c5d-a873-abef39fadc10" xmlns="http://www.w3.org/1999/xhtml">
+              <strong GUID="7e03a563-13ae-48df-9a9a-328aaf49c8a5">
+                <font face="Arial" GUID="551731b2-6b13-49ab-ba8a-b78f83b4c68b">
+                  <span style="LAYOUT-GRID-MODE: line" GUID="798c2d10-88cb-4998-be8d-71cd83b80abf">ΤΟ ΔΙΚΑΙΟ ΑΝΤΑΓΩΝΙΣΜΟΥ ΠΟΥ ΠΕΡΙΓΡΑΦΕΤΑΙ ΣΕ ΑΥΤΟ ΤΟ ΜΑΘΗΜΑ ΠΡΟΕΡΧΕΤΑΙ ΑΠΟ ΔΥΟ ΠΗΓΕΣ</span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="9f2bd7da-8773-46c8-8442-4e7fe2d61d04">:</span>
+                </font>
+              </strong>
+            </div>
+            <div align="left" GUID="2b60f936-ef81-4c75-a60d-d7f6db3cacc6" xmlns="http://www.w3.org/1999/xhtml">
+              <strong GUID="4128524b-37f2-4749-b42a-1eb293160936">
+                <span style="LAYOUT-GRID-MODE: line" GUID="f91fff22-d841-4a72-938d-a01a2e192142">
+                  <font face="Arial" GUID="25b78043-bcd2-4a5c-8a2f-c4c591add739">
+                  </font>
+                </span>
+              </strong> </div>
+            <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d033fc9f-e3e5-4ed1-8932-ade644f18d01" xmlns="http://www.w3.org/1999/xhtml">
+              <li GUID="6fa660fd-3b89-45c2-a30f-32b595de2f58">
+                <div align="left" GUID="2f722b40-acc1-4597-ba17-271826c22095">
+                  <span style="LAYOUT-GRID-MODE: line" GUID="7fbe2e51-52ba-4b45-b9bc-a6ec1de2e8b2">
+                    <font face="Arial" GUID="e3e7d5e2-016d-4eb5-bb6d-0824d1330241">Από τη Συνθήκη ΕΚ, η οποία ορίζει κανόνες για όλες τις χώρες της Ευρωπαϊκής Ένωσης, και </font>
+                  </span>
+                </div>
+              </li>
+            </ul>
+            <div align="left" GUID="fe5ed51f-1bbb-4c03-8499-858270522d92" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="a03bfeb2-a9d8-47bd-bf80-b366f296f8d8">
+                <font face="Arial" GUID="abcb450a-9398-4406-af2a-0cd7da9c8f30">
+                </font>
+              </span> </div>
+            <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="59b4fbb3-451a-44e4-b73c-8b9ef51fc5b2" xmlns="http://www.w3.org/1999/xhtml">
+              <li GUID="4668f8fb-da19-4cbf-aa7f-8fba0269d3d7">
+                <div align="left" GUID="2ba00876-0a9e-42a4-88e1-ed4d6aeb00ef">
+                  <span style="LAYOUT-GRID-MODE: line" GUID="4a4c5146-ef35-41aa-a649-e06459d22a7a">
+                    <font face="Arial" GUID="850bfa45-0107-4f23-b226-994573389220">Από την εθνική νομοθεσία, η οποία συνήθως αντικατοπτρίζει τους κανόνες της Συνθήκης ΕΚ. </font>
+                  </span>
+                </div>
+              </li>
+            </ul>
+            <div align="left" GUID="71755a53-6b41-4faa-8aa1-231aa69c80a9" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="891a9d47-9e89-45f3-bac9-a38224f88fb8">
+                <font face="Arial" GUID="4e212a46-8f79-4de8-bf5d-b65a7b41b788">
+                </font>
+              </span> </div>
+            <div align="left" GUID="903bc2af-b95e-4488-839b-1e844b5fb0f0" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="345055c4-695d-4dc8-b5a8-40566623d955">
+                <span style="LAYOUT-GRID-MODE: line" GUID="f9ea8f71-65fd-4109-9b51-255acd1774ac">Οι βασικοι κανόνες του Ευρωπαϊκού Δίκαιου Ανταγωνισμού περιέχονται σε δύο Άρθρα της Συνθήκης ΕΚ</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="58b6f7f3-db6b-47ed-9aac-4ee520412d88">: </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="fbe705ad-04b6-4ced-961e-673b59994377">το Άρθρο</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="923cb22d-69b7-47f8-9f7b-e094b753608b"> 81 </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="e88926a3-445d-4378-8875-c67f303984e0">και το Άρθρο 82 </span>
+              </font>
+            </div>
+            <div align="left" GUID="fbfad5fb-e60a-43e6-b184-05dfcb127e3b" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="4e92a3e1-92a5-423c-82bd-ac243fddd59f">
+                <font face="Arial" GUID="fd14ad99-da3c-4e4c-8027-d04a48154539">
+                </font>
+              </span> </div>
+            <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="3dcee883-9827-42dc-86e5-b26d56c85521" xmlns="http://www.w3.org/1999/xhtml">
+              <li GUID="9835ff3f-5f8d-478b-9cb8-b31ac23ee4c3">
+                <div align="left" GUID="ed5cb0ca-3e8d-4054-b3d1-5ac10ade5636">
+                  <font face="Arial" GUID="ada86c8a-2bdc-4ad3-9688-60287192441a">
+                    <span style="LAYOUT-GRID-MODE: line" GUID="70e189ab-4f8f-4f92-81fb-c01ccae85b1e">
+                    </span>
+                    <span style="LAYOUT-GRID-MODE: line" GUID="58285341-5529-43e7-981c-4e5b5bc8a68f">Το Άρθρο</span>
+                    <span style="LAYOUT-GRID-MODE: line" GUID="df004a48-12eb-44d1-918c-da9bbfa1a009"> 81 </span>
+                    <span style="LAYOUT-GRID-MODE: line" GUID="e1ef088c-427a-40d6-bcbf-52f1094fa775">απαγορεύει στις εταιρείες να συνάπτουν συμφωνίες που περιορίζουν, παρεμποδίζουν ή νοθεύουν τον ανταγωνισμό, και </span>
+                  </font>
+                </div>
+              </li>
+            </ul>
+            <div align="left" GUID="63e02c0f-95a6-4dcc-be0c-8bdd4b462e2a" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="ad4ae274-9630-497b-939d-61e99bbcc46e">
+                <font face="Arial" GUID="bb7f084b-4e55-4c10-aeaa-51102322cc23">
+                </font>
+              </span> </div>
+            <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="1609d642-27c5-4bf8-bd2c-504bfa5f7c72" xmlns="http://www.w3.org/1999/xhtml">
+              <li GUID="9778bf00-3a4b-436b-bda9-6761d82488e2">
+                <div align="left" GUID="9e8820f6-c976-4655-91fb-979fb40ee29c">
+                  <font face="Arial" GUID="d5118d6a-7bd6-47ee-8647-747c0cfc9cff">
+                    <span style="LAYOUT-GRID-MODE: line" GUID="066774f1-3aa3-4033-96b7-afb05c176e4e">
+                    </span>
+                    <span style="LAYOUT-GRID-MODE: line" GUID="5481ec28-74b2-4aa8-945d-9488473e7c07">Το Άρθρο</span>
+                    <span style="LAYOUT-GRID-MODE: line" GUID="76bf6478-81b6-4cf0-9f3f-43af90eb6ba2"> 82 </span>
+                    <span style="LAYOUT-GRID-MODE: line" GUID="6b5e2cfc-5722-432d-8d31-4f106fe8a325">απαγορεύει στις δεσπόζουσες εταιρείες να καταχρώνται την ισχύ τους στην αγορά</span>
+                    <span style="LAYOUT-GRID-MODE: line" GUID="3053bf98-5eb7-445e-9dcd-f631c6dbb2c0">.</span>
+                  </font>
+                </div>
+              </li>
+            </ul>
+          </Description>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img class="" style="position:absolute;left:488px;top:368px;;cursor:hand;" src="/General/Images/InfoPath/CC_Close.gif" onClick="TogglePopup('11642782-2040-4311-9525-4580c1f6f8b5');" onmouseover="this.src=activeCloseImg;" onmouseout="this.src=closeImg;">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="dccc948b-6e25-464d-bfba-523794faeed0">
+      <IncludedInTOC GUID="4e73f409-353a-4eb0-96c7-604cb1c17ecc">true</IncludedInTOC>
+      <Title GUID="c0789a32-9426-4efb-89bc-9c8ba20212e1">Γιατί υπάρχει το Δίκαιο Ανταγωνισμού - προώθηση του θεμιτού ανταγωνισμού</Title>
+      <PageElements GUID="43d3829e-dbb5-495e-9fc9-e9bf4e8fac10">
+        <PageElement GUID="bbe5e589-7ab1-42f9-a823-2cf2c03e54db">
+          <Graphic GUID="26ef8893-d49c-4f42-bc0b-2ef2b2d20f02"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/7657eec4-aed8-4943-b3b9-ad647c5c6487.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="1ff9e9fe-bbcb-4eb4-b52b-1fd1f5430571">
+          <TextBox GUID="7f5ec500-b195-4b23-b88d-6f2a61cc7485"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="4061d5ec-2dbe-4c0d-a0c3-ec14fdedb216">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="8ca08c9b-7b16-4bfb-ae7a-02d765dc0742" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="6c55955c-ddb6-4b73-bf96-914b53a48c80">Το Δίκαιο Ανταγωνισμού υποχρεώνει τις εταιρείες να ανταγωνίζονται η μία την άλλη για να κερδίζουν πελάτες. Αυτό σημαίνει ότι οι πελάτες λαμβάνουν μια δίκαιη μεταχείριση.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="5e8db0ee-28b9-4c27-899c-8a4d3073922a" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="8ef7d473-10a0-4cb2-b8b8-1d252d992ad2">Για παράδειγμα, εάν δύο εταιρείες ανταγωνίζονται η μία την άλλη για έναν πελάτη, μπορούν να κάνουν ορισμένα πράγματα για να προσπαθήσουν να κερδίσουν αυτόν τον πελάτη, όπως:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="b5c61d32-4118-454b-aa4d-be30b7a0856e" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="955ea0a8-3c5b-4e2c-b4bc-c216b5501446">
+        <div align="left" GUID="8f8db19e-cbb1-4511-91b3-02dd172a0726">
+          <span style="FONT-SIZE: 10pt" GUID="97b23ee2-8cb4-4ac6-a17f-7161fdc9d16e">
+            <font face="Arial" GUID="1675555f-cb9d-4795-b76e-00225cd42964">να βελτιώσουν το προϊόν τους,</font>
+          </span>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="17e5eea6-9238-4692-a19e-242a9ebb5f59">
+        <div align="left" GUID="3d1a6f7d-25be-47a6-bdc0-7de65ad9f5d3">
+          <span style="FONT-SIZE: 10pt" GUID="0cfdfd3c-ab63-44d7-bbbf-becd1ba3ca9d">
+            <font face="Arial" GUID="4d8418c7-ac9d-4442-96b4-988df2938c8b">να παράσχουν καλύτερες υπηρεσίες,</font>
+          </span>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="06ce3afa-bfb3-4a2c-9a0b-7c14bd4d8181">
+        <div align="left" GUID="65e4c96b-1373-4e32-8173-18acd558ba89">
+          <span style="FONT-SIZE: 10pt" GUID="9bd4cd92-2c60-412d-b942-e5f6e1d716b7">
+            <font face="Arial" GUID="70815f8c-b5d6-43aa-890e-356c9200f274">να προσφέρουν καλύτερη τιμή, και</font>
+          </span>
+        </div>
+      </li>
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" GUID="0cecba92-5ce8-4e8f-a4c9-5c4aae2a26dd">
+        <div align="left" GUID="b9f6cdb5-305b-499b-8915-173b544c4b68">
+          <span style="FONT-SIZE: 10pt" GUID="efa6ea18-7739-4d12-b256-fe0858e56222">
+            <font face="Arial" GUID="c09615bf-9cff-4ade-8484-e105102e088c">να προσφέρουν μεγαλύτερη επιλογή.</font>
+          </span>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" align="left" GUID="9782f308-c390-4570-8401-f998ceb0e12f" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="c44bb247-95d1-425d-a361-f4cac9cb6abb">
+        <font face="Arial" GUID="c120b336-a824-46cd-af99-7552534baddb">
+        </font>
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="be6c8782-9c87-41b0-8252-6801b9f509c0" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="64034a59-1f5f-4691-8774-ce873f252a91">Μπορούν να κάνουν και τα τέσσερα! Σε τελική ανάλυση, ο πελάτης λαμβάνει μια καλύτερη μεταχείριση λόγω των θετικών επιπτώσεων του ανταγωνισμού μεταξύ των δύο εταιρειών.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="81518671-b7b3-419d-ae36-f0bcd4624cac" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="e3ca5f73-7128-4f38-8cb9-5be6b97cdbf1">Το Δίκαιο Ανταγωνισμού αποσκοπεί σε αυτήν την προώθηση του θεμιτού ανταγωνισμού.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="75365341-3eec-433b-ba94-caadfaa3da9e" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="903b2e9c-4e5b-4732-b3a5-a611a5ef664e">
+        <strong GUID="e72d7fb6-8fbb-4c07-ad80-ff86c407ab6f">
+          <font face="Arial" GUID="de142ce4-e22f-4fe3-8537-3ffcf73e1153">Αλλά πώς το πετυχαίνει αυτό;<br GUID="cbe417cf-e15a-45c3-b72c-b676ea95acac"></font>
+        </strong>
+      </i>
+      <font face="Arial" GUID="db698cb2-2176-4242-af47-1e9d31c698af">Όπως πολλές νομοθεσίες, το Δίκαιο Ανταγωνισμού προωθεί την καλή συμπεριφορά καθιστώντας την κακή συμπεριφορά παράνομη.  Το Δίκαιο Ανταγωνισμού προωθεί το θεμιτό ανταγωνισμό καθιστώντας τον αθέμιτο ανταγωνισμό παράνομο.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="941f21d0-dc48-422f-9ee4-d6d9e7226972" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="c5a68f2e-fc00-4807-8d95-99e4dcd356bf">Ακούγονται όλα αυτά πολύ θεωρητικά; </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="a78cb640-ae75-4920-8970-5bd3239dcf3f">
+      <IncludedInTOC GUID="80847641-cbad-4bc2-9e6e-105ad0b21dda">true</IncludedInTOC>
+      <Title GUID="f2e76daa-e886-42a4-a4ce-73e4cd46793e">Παράδειγμα 1:  Η δεσπόζουσα εταιρεία</Title>
+      <PageElements GUID="3c933689-89a9-4154-b916-c5199afd524d">
+        <PageElement GUID="ed748d2c-c5ae-4631-ba93-ef437de84458">
+          <Graphic GUID="99595997-64e5-4d43-b9eb-842a0f48391b"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/5fae439d-912f-4a15-8ee9-082ff0bc1f36.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="13a1dd50-47f2-4a30-b246-51657ef30445">
+          <TextBox GUID="3a75f961-1aa8-45a3-abdd-58945fdc6779"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="e9540376-5f87-43d7-80e5-703644c2c6f0">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="731a6afc-5bfd-4240-ad10-880947b40bc5" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="3df50ec8-c564-4c76-8faa-59146cb72843">Εάν υπήρχαν δέκα πελάτες αλλά μόνο μία εταιρεία που να παρέχει ένα συγκεκριμένο προϊόν, δεν θα υπήρχε ανταγωνισμός με άλλες εταιρείες για τους πελάτες αυτούς.  Μια εταιρεία σε αυτήν τη θέση ονομάζεται κατά κανόνα «μονοπώλιο».  Μπορεί επίσης να ονομάζεται «δεσπόζουσα» γιατί δεσπόζει στην αγορά της. </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="fe4f744f-c4e1-4496-9550-5a9dc153ea1c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="4988574b-bb79-4839-8933-0aabbef599f2">Η δεσπόζουσα εταιρεία δεν έχει κανένα κίνητρο να βελτιώσει το προϊόν της ή να παράσχει καλύτερες υπηρεσίες ή να μειώσει τις τιμές της ή να προσφέρει μεγαλύτερη επιλογή γιατί δεν υπάρχει κανένας εναλλακτικός προμηθευτής στον οποίον θα μπορούσαν να στραφούν αυτοί οι δέκα πελάτες.  Θα μπορούσε μάλιστα ακόμα και να αυξήσει τις τιμές για να αποκομίσει μεγαλύτερο κέρδος από την εγκλωβισμένη πελατειακή της βάση.   Οι πελάτες δεν θα είχαν δίκαιη μεταχείριση.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="030e9006-9b6f-4164-97b2-6713d7a410eb" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="7cc497c3-1901-4804-9b72-51ae2300f7bf">Ωστόσο, μια εταιρεία μπορεί να είναι δεσπόζουσα ακόμα και όταν υπάρχουν ανταγωνιστές, εάν οι ανταγωνιστές αυτοί είναι αδύναμοι και δεν μπορούν να κάνουν πολλά πράγματα για να περιορίσουν τη δεσπόζουσα εταιρεία. </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="466735a9-8c59-4741-b8a9-49a4f8725c90" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="f271325f-cd93-40f9-a3d9-ebe7f4619a00">Το να είναι μία εταιρεία δεσπόζουσα δεν είναι παράνομο από μόνο του, είναι παράνομη όμως η κατάχρηση δεσπόζουσας θέσης (δηλαδή η εκμετάλλευση δεσπόζουσας θέσης με σκοπό την υπονόμευση ανταγωνιστών ή πελατών).  Το Δίκαιο Ανταγωνισμού απαγορεύει τον αθέμιτο ανταγωνισμό από δεσπόζουσες εταιρείες. Σ' αυτήν την περίπτωση προβλέπονται αυστηρές ποινές.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="75ef31da-71bc-4e9e-8d56-8feec858dd0c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="2ff6f69d-136d-4c6d-8666-396ed3acb403">Το Δίκαιο Ανταγωνισμού εμποδίζει επίσης τις εταιρείες να αποκτήσουν δεσπόζουσα θέση απαγορεύοντάς τους να συγχωνεύονται με ανταγωνιστές τους (αυτό είναι γνωστό ως «έλεγχος συγχωνεύσεων» και δεν εντάσσεται στο πλαίσιο αυτού του προγράμματος).</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="79b048be-e16e-40e9-ae0a-fdecd257c90a">
+      <IncludedInTOC GUID="cf4f169c-5c68-4158-bf59-0a4afe36d56a">true</IncludedInTOC>
+      <Title GUID="ca4009f2-13f6-458c-b7a3-94ed4974f1ce">Παράδειγμα 2: Εταιρείες που συμφωνούν να μην ανταγωνίζονται η μία την άλλη</Title>
+      <PageElements GUID="b0ac8ca6-4399-4333-9d43-165a78ae17fe">
+        <PageElement GUID="aee361da-ab28-40ae-929f-eb4782a0c57b">
+          <Graphic GUID="68bc76c5-e31e-4f89-bd3a-83ce8848f0b2"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/ae1962f6-3908-4cbc-8aee-45d4487ef01d.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="81966d6c-c5e6-4a6f-8e8d-7478590fc4e1">
+          <TextBox GUID="5efbcb82-b1b6-4be7-a2e1-de793e1851c6"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="e826603d-3d7c-4ae8-8185-34412dde9715">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="dca88f94-04fb-4fd6-b742-db7240ed2a9b" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="ecbc6e34-69f0-433e-b23d-ec83473e056f">Μερικές φορές εταιρείες που θα έπρεπε να ανταγωνίζονται η μία την άλλη συμφωνούν μεταξύ τους να μην το κάνουν. </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="8a7b263f-9b82-4d98-b548-abe7e53dd4a6" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="9bab7ef7-c829-4e61-94d3-94275cd1a97c">Αυτό μπορεί να τους επιτρέπει να μην βελτιώνουν τα προϊόντα τους ή να μην παρέχουν καλύτερες υπηρεσίες ή να μην μειώνουν τις τιμές ή να μην προσφέρουν μεγαλύτερη επιλογή.  Μπορούν επίσης να συμφωνούν τον καθορισμό κοινών τιμών. </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="c7b06f24-06f5-4303-a669-7d09d009fffc" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="5f03e391-02a3-49a0-89fd-52cb2f2a706f">Ξέρουν ότι ο ανταγωνιστής τους δεν πρόκειται να κινηθεί επιθετικά ή να «ταράξει τα νερά» και αυτό σημαίνει ότι μπορούν να εκμεταλλεύονται τους πελάτες.  Οι πελάτες δεν λαμβάνουν μια δίκαιη μεταχείριση και οι θετικές επιπτώσεις του ανταγωνισμού περιορίζονται.   Κατά συνέπεια, οι τιμές τείνουν να είναι υψηλότερες, η ποιότητα των προϊόντων και των υπηρεσιών υποβαθμίζεται και η επιλογή και η καινοτομία μένουν στάσιμες.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="3a7b9798-8ace-4934-adf4-1dcb008ac8c1" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="4120c63f-1d31-4711-a2e9-bbee37c6f0e5">Το Δίκαιο Ανταγωνισμού απαγορεύει στις εταιρείες να συνάπτουν συμφωνίες μη-ανταγωνισμού.  Για το σκοπό αυτό υπάρχουν αυστηρές ποινές. </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="b74d72cc-d75a-4f30-abb3-91b98558c36c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="9614c8d4-67a1-492b-88b6-0fc1e206072a">Στην Ενότητα 2 θα μάθετε ότι ο καθορισμός των τιμών, η κατανομή των αγορών, η κατανομή των πελατών, η μείωση της παραγωγής ή της προσφοράς, ή η νόθευση διαγωνισμών (π.χ. η εκ περιτροπής ανάληψη συμβάσεων σε διαγωνισμούς πελατών) αποτελούν παράνομες δραστηριότητες που πρέπει να αποφεύγονται στις συναλλαγές με ανταγωνιστές. </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="40e85727-9422-4911-b58c-594f734b0a68">
+      <IncludedInTOC GUID="629e50ad-aa1b-481a-a980-99ae094a5e96">true</IncludedInTOC>
+      <Title GUID="dc458b8e-e0d4-4748-9f86-1d9d5a07d2a7">Γιατί πρέπει να κατανοούμε το Δίκαιο Ανταγωνισμού</Title>
+      <PageElements GUID="d604cab8-1be1-49c9-bbf8-5af170ff76a2">
+        <PageElement GUID="5dc69156-ddf9-4ac5-82fb-645435a4b261">
+          <Graphic GUID="f86ab592-9af2-4d85-90a7-a0981af54e66"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/6083a7af-f864-44e9-a277-488b111b95b4.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="35ad7350-cff2-4111-8a88-5199835bffcf">
+          <TextBox GUID="ecfd91e0-d61a-401e-9013-12cd0ec7b54a"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="83db8430-d163-40cb-9df0-ac39d073907f">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="55f6ae50-805b-4d8d-aa68-cdbe8f47350c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="9ed16f82-179c-432d-9d2e-b3f9118325dd">Ο καθένας πρέπει να κατανοεί το Δίκαιο Ανταγωνισμού.  Γιατί;</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="097ea02a-13bb-42a8-ad9b-ca6c953ef780" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="5786d5ff-b36e-4b3f-b902-1c16abacb0ce">
+        <div align="left" GUID="d80a2ab0-0ec3-4651-9469-c223c57f987d">
+          <font face="Arial" GUID="f9de2cc9-96bb-4af5-9cd9-9cb34aeadf86">Εάν γνωρίζετε πώς λειτουργεί, μπορείτε να ανταγωνίζεστε πιο αποτελεσματικά και να συμμορφώνεστε με τους κανόνες - η γνώση σας θα μπορούσε να σας εξασφαλίσει πλεονεκτική θέση έναντι των ανταγωνιστών σας.</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="db2cdd3e-8377-4d93-893b-cc58b41717d9" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="a4a014a3-b8b7-4a5d-9748-6d46865fe77c">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="38ab21af-ffa2-42fd-a0b4-bf29656d74d3" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="b21f8420-baca-4c0b-9586-f2c6fb7c7f6a">
+        <div align="left" GUID="f363c4b7-3749-4ccd-99c7-e16a99658262">
+          <font face="Arial" GUID="6b767017-2788-4671-af0f-fbe0118d683a">Μπορείτε να αισθάνεστε σίγουροι στις συναλλαγές σας με πελάτες, προμηθευτές και ανταγωνιστές, και να εντοπίζετε τις αθέμιτες συναλλακτικές πρακτικές από την πλευρά τους.</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="a738d588-6d3b-46c9-955e-d8bba40afb74" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="d54227e8-c6de-4132-8e03-92174c183787">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="cda57fe8-27f5-43ba-a28a-bc86727603dd" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="62c972aa-3c6c-4dfb-97dc-18501c3da981">
+        <div align="left" GUID="a3e61837-2c4e-4923-9406-20b2a08c4899">
+          <font face="Arial" GUID="ff95a549-307b-447a-8ae9-3354aa2c412d">Θα ξέρετε πώς να συμπεριφέρεστε σε πιθανόν παράνομες καταστάσεις, όπως σε περίπτωση που οι συζητήσεις σε συνεδριάσεις εμπορικών συλλόγων στρέφονταν στο θέμα των τιμών.</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="95e5b9b1-df2f-4c75-8524-c93c89382479" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="7bfd56da-49c2-4b98-80b8-08a4d8250559">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="080e23ee-a5f7-444d-8377-a3f4ae9b9100" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="98298d1c-0074-4db1-a8c8-f0adc97e6b33">
+        <div align="left" GUID="45490284-7674-4521-a505-ad3c9ea75981">
+          <font face="Arial" GUID="5557b354-a51b-42bf-86b9-ae0e90807d04">Μπορείτε να καταλαβαίνετε πώς να αποφεύγετε προβλήματα χρησιμοποιώντας κατάλληλη γλώσσα σε επαγγελματικές επικοινωνίες (όπως τα e-mails).</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="96dbd338-7962-4e9c-82e4-2dd0050aba64" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="055a79ba-6366-4008-8704-7c686efb2293">
+      </font> </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page9" IsActive="true" GUID="488a75b8-e2cd-4b18-ba48-68a99b6e5fd1">
+      <IncludedInTOC GUID="bc6c1d5f-1f27-4672-bba9-d907ae95b91d">true</IncludedInTOC>
+      <Title GUID="8e31075f-778d-47bb-b0af-befce0e23fcb">Γιατί πρέπει να κατανοούμε το Δίκαιο Ανταγωνισμού</Title>
+      <PageElements GUID="8bd0419a-ef4f-4b55-9e28-2d3ca6b2893e">
+        <PageElement GUID="62b728d9-3f77-4837-bd0b-69d155147d3c">
+          <Graphic GUID="29791bf8-c26a-4323-9ee9-ca35fff8d070"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/c6a3f332-124a-4a7a-b3eb-603079369a0e.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="9dbff423-67ed-408c-b12d-73785f614581">
+          <TextBox GUID="3e026bc8-8e9e-4732-a146-0570f4d763c7"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="d9370965-b579-4229-b42e-95ee045c188c">
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="cf23bc6e-b9d4-4ad1-99ba-827ec2ec7a91" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="0ede997a-826c-4bde-a07d-ff86cc6ddf6e">
+        <font face="Arial" GUID="a8a27b4a-7411-4a21-ad62-bd2909e9278d">Μπορείτε να αποφεύγετε παραβάσεις της νομοθεσίας.  Αυτό είναι πολύ σημαντικό.  Η Imperial θα μπορούσε να αντιμετωπίζει πολύ σοβαρή ποινή σε περίπτωση παράβασης του νόμου εξαιτίας κάποιας ενέργειάς σας και οι ίδιοι θα μπορούσατε να αντιμετωπίζετε ακόμα και ποινικές κυρώσεις.</font>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="e5e1049f-8244-46f8-8ab6-860c821efbef" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="f1e73ecb-87c4-41bd-8e26-6cee8f6e446a">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="b3649999-1672-4e42-91bf-db73c98768d9" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="76853e05-6165-4c8f-af25-d8435c55d8af">
+        <font face="Arial" GUID="3bf10021-55de-481b-89f9-aa04547c3d30">Οι αρχές που επιβάλλουν το Δίκαιο Ανταγωνισμού συνιστούν την παροχή προγραμμάτων κατάρτισης. Επιβάλλουν αυστηρότερες ποινές σε εταιρείες που δεν έχουν εκπαιδεύσει το προσωπικό τους και παραβαίνουν το Δίκαιο Ανταγωνισμού.   Για αυτόν το λόγο το ηλεκτρονικό πρόγραμμα κατάρτισης για τη συμμόρφωση είναι τόσο σημαντικό. </font>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="1087c73f-712f-4b92-a275-c884abff19c9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="ba9ea9dd-a4f7-4715-8cfe-914c07d6971a" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="f012ef3b-9e50-4358-bbea-a368b5ab3d16">
+        <font face="Arial" GUID="a7f20a1d-63db-4895-a8f8-eaa21b7f2c2f">Μέσω του Εγχειριδίου Πολιτικής του Ομίλου Imperial (Group Policy Manual) όλοι οι εργαζόμενοι υποχρεούνται να συμμορφώνονται με το Δίκαιο Ανταγωνισμού και ως εκ τούτου η μη συμμόρφωση θα μπορούσε να αποτελεί πειθαρχικό ζήτημα.</font>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page10" IsActive="true" GUID="417a6b92-ef5c-48a5-b2fe-d76397c6ec5b">
+      <IncludedInTOC GUID="6feff575-5cac-4a7f-8dce-dcef8bff2cc5">true</IncludedInTOC>
+      <Title GUID="79a14d8e-bf01-44f1-9af6-f3d1630b0a53">Γιατί είναι σημαντικό να μην παραβαίνουμε το Δίκαιο Ανταγωνισμού</Title>
+      <PageElements GUID="b7b84bea-3ff1-45de-9f66-e24c84818b5d">
+        <PageElement GUID="5444cc2d-4670-4bcd-8546-f32f4e054f71">
+          <Graphic GUID="3c72d95b-8dc5-4cb2-af6d-70100d73bb37"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/5f5755e1-4eb5-4491-8520-b5cee0f49123.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="9690b0e7-34c6-4c98-ba37-2cb69892a88f">
+          <TextBox GUID="fa00e089-8d75-4879-bc89-3a511098646e"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="4b7f5985-e32f-4396-8fba-f4b32dc32daa">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="ffff4a56-8cb7-4384-a955-57433b6e6934" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="5ad2b651-b543-470b-8519-59a7b81ac46e">Η παράβαση του Δικαίου του Ανταγωνισμού έχει σοβαρές συνέπειες για εσάς και την Imperial:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="36f8cac3-5bd1-4ca8-bd1f-a65c7ec1bef4" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="9f62e0ec-63dd-495b-80eb-bc9a662151be">
+        <div align="left" GUID="c069dbc7-3592-4f07-a72e-6cfb13a1a9f7">
+          <font face="Arial" GUID="38f5ce11-6db1-44e3-a624-2d1b2c9ae0e6">οι αρχές ανταγωνισμού θα μπορούσαν να επιβάλλουν στην Imperial πρόστιμα ύψους έως 10% του ετήσιου παγκόσμιου κύκλου εργασιών της εταιρείας (και αυτά τα πρόστιμα θα μπορούσαν να προκύψουν από μία μόνο παράβαση του Δικαίου του Ανταγωνισμού, όπως μια συμφωνία καθορισμού κοινών τιμών),</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="97d81307-11ed-42a6-95ae-783561a2e6c7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="439a4cd1-9201-453c-bf32-232581906aeb" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="b19162a2-b94e-407c-85c3-dccc8536b1fd">
+        <div align="left" GUID="377b0f80-1e92-48a6-ae91-046539e4084d">
+          <font face="Arial" GUID="59162577-79b7-407a-97bf-ca8ca4991b03">οι όροι σε συμφωνίες τις οποίες συνάπτουμε και οι οποίες παραβαίνουν το Δίκαιο Ανταγωνισμού είναι παράνομοι - αυτό σημαίνει ότι δεν μπορούμε να εφαρμόζουμε αυτούς τους όρους και μας είναι άχρηστοι, </font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="efdae927-96f5-4065-a024-3c0aeb54c2c6" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="89b207ad-0389-43ef-ac6c-6c966455f51f">
+      </font> </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page11" IsActive="true" GUID="b14bc3ae-e275-4b9a-b6ec-638023728c7d">
+      <IncludedInTOC GUID="2376f616-ec2d-4ddd-89f8-60de9b4658ed">true</IncludedInTOC>
+      <Title GUID="36f4044b-4998-420d-ad4a-9d126103f6e6">Γιατί είναι σημαντικό να μην παραβαίνουμε το Δίκαιο Ανταγωνισμού</Title>
+      <PageElements GUID="a695ce1a-7b43-4876-bf53-ef9d765071c8">
+        <PageElement GUID="950e67c6-8156-461e-a481-f0bda4fd994c">
+          <Graphic GUID="02f2faeb-848a-4c77-9640-e2b148daf9d7"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/747e3252-90a7-4bce-9d8a-4095cb463242.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="c8e99e2c-340e-4b6e-b422-45ce398c0981">
+          <TextBox GUID="d1ab8e56-fd6a-4146-bdb2-0036bba9ab3b"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="5341c8e6-76fc-4465-aa5d-4bc13ae1ad4b">
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="3ca97e26-8d6c-480a-97e4-acd03f524416" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="0853a55d-f35d-4526-ade6-befa8253277b">
+        <font face="Arial" GUID="1bdb2a73-4f1a-49d2-8139-775a0cd0783e">εάν οι ανταγωνιστές και οι πελάτες μας έχουν υποστεί ζημία λόγω παράνομων ενεργειών μας που περιορίζουν τον ανταγωνισμό, θα μπορούσαν να κινηθούν δικαστικά εναντίον μας και μπορεί να χρειαστεί να τους πληρώσουμε αποζημίωση,</font>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="fa9efb2d-cb42-477d-80be-77af53cb134b" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="0f927c3f-77b6-4dc5-a26d-e4d7cf3ffb50">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="fa93b4b2-8d02-40e7-a368-ddbee9bc0788" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="832ef01d-8a5b-4eed-b33e-e1e0e9e72424">
+        <font face="Arial" GUID="2ffc9ae7-408f-4bca-ace3-63d7ba22b336">θα βλάπταμε τη φήμη μας και θα χάναμε πελάτες, και</font>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="e8c27d7c-2b75-4b03-8439-ac6b7f9f118f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="87af3e7c-5cce-4aec-935f-8d1a4ae2efdf" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="5de6943b-8260-4615-83f8-0f06977335b4">
+        <font face="Arial" GUID="3cb27db4-0739-4042-b7a1-6ef46dac096b">σε προσωπικό επίπεδο, μπορούν να ασκηθούν εις βάρος σας πειθαρχικά μέτρα, όπως απόλυση, για παράβαση του Δικαίου του Ανταγωνισμού.   Θα μπορούσατε επίσης να αντιμετωπίσετε αποκλεισμό, εάν είστε μέλος διοικητικού συμβουλίου, και ποινικές κυρώσεις, όπως προσωπικά πρόστιμα και φυλάκιση!</font>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="105f13a9-602e-4b7a-b85c-acb62e506747" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="justify" GUID="fabd4b6f-8759-45b6-9597-f28d1ff05bcc" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="cd77c2d6-b3b7-4527-a941-ecff380c09d8">Γενικά, είναι καλύτερα να είναι κανείς ενήμερος.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="justify" GUID="9bc1cab2-b3e6-43ea-83bd-f5460568f646" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="eb107d24-3248-447b-9d81-327b2925f27c">Ας ρίξουμε μια ματιά σε πραγματικές ποινές που έχουν επιβληθεί για παραβάσεις του Δικαίου του Ανταγωνισμού.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page12" IsActive="true" GUID="e5787a1e-f36a-40c8-a5f0-f6d2d2dfc4cb">
+      <IncludedInTOC GUID="140d61c4-67da-4ad3-80bc-8aa8fdc9a9fd">true</IncludedInTOC>
+      <Title GUID="78b71b86-309b-4291-8784-cf396be7cfcf">Πρόστιμα</Title>
+      <PageElements GUID="edd132ca-251e-4cb3-bf05-01ad4d97aab3">
+        <PageElement GUID="1bd04a5f-ab3b-4e3b-b6ef-d7746a0299a5">
+          <Graphic GUID="ceb238b9-ba86-4907-bbb2-6775e0ea7c81"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/aed6bae6-f932-4e32-9822-10310e6cce48.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="eceed0ef-2e6e-4a8d-b07c-17c7a3678e04">
+          <TextBox GUID="8792f53e-7ca3-4575-852c-d126c79a7084"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="374c0bfb-9ccc-4e88-b521-9c4d7dbca183">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="422c348c-428a-48c0-9336-14f7c759fc5d" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="2c85551a-3f9d-4398-9302-cadcaceaadf8">Τα τελευταία χρόνια οι αρχές ανταγωνισμού έχουν αυξήσει σημαντικά το επίπεδο των προστίμων που επιβάλλονται σε επιχειρήσεις που πιάνονται να παραβαίνουν το Δίκαιο Ανταγωνισμού. </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="bbadf8b3-4352-4edb-b72b-467467bc8443" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="8510e00d-0c43-4262-ba96-edfdb0cfc5ba">Στα πέντε χρόνια από το 1996 έως και το 2000, η Ευρωπαϊκή Επιτροπή επέβαλλε πρόστιμα συνολικής αξίας 725 εκατομμυρίων ευρώ για συμφωνίες καθορισμού κοινών τιμών.   Κατά τα τρία χρόνια από το 2001 και μετά, τα πρόστιμα της Επιτροπής για συμφωνίες καθορισμού των κοινών τιμών ανήλθαν συνολικά σε περίπου 4 δισεκατομμύρια ευρώ.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="a80c0d93-92f5-4ecc-9a82-e847e4f716e1" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="7d7539ca-afca-45e1-8fe3-c577980b690a">Ας δούμε ορισμένα παραδείγματα με ποινές που επιβλήθηκαν πρόσφατα από την Ευρωπαϊκή Επιτροπή και τη Βρετανική Αρχή Ανταγωνισμού (Office of Fair Trading - OFT).</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="402786a3-e4f5-4f4e-a32d-49f1cbe844da" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="086df70d-2cb2-4702-af35-ac37c43eb5c5">
+        <strong GUID="ee7de1eb-d780-4196-bed6-9411767239a3">
+          <font face="Arial" GUID="09636e5b-56e3-4f95-8977-38f6fe8b24c4">Καθορισμός Kοινών Τιμών</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="5876ae3b-1ffe-48e4-9e7e-56cf5634ef86" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="43055868-d9ce-4030-9249-f19e254c51ac">Οκτώ παρασκευαστές βιταμινών συνεδρίαζαν σε τακτική βάση και καθόριζαν τις τιμές που θα χρέωναν για τα προϊόντα τους.   Κατένειμαν επίσης ποσοστώσεις πωλήσεων μεταξύ τους και συμφωνούσαν το ύψος οποιασδήποτε αύξησης των τιμών.   Οι εταιρείες αντάλλασσαν πληροφορίες σχετικά με την αξία και τον όγκο των πωλήσεών τους, καθώς και άλλες πληροφορίες σχετικά με τις τιμές τους σε τακτική βάση, και παρακολουθούσαν την τήρηση της συμφωνίας τους.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="229519ed-a93a-43bf-8b5b-944c97601f2c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="eb7c60da-30bb-488d-b66a-7f466a5c65dd">Η Ευρωπαϊκή Επιτροπή έκρινε ότι οι παρασκευαστές βιταμινών συμμετείχαν σε παράνομη σύμπραξη (καρτέλ) και τους επέβαλλε συνολικό πρόστιμο 822 εκατομμυρίων ευρώ.  Το υψηλότερο ατομικό πρόστιμο επιβλήθηκε στον παρασκευαστή που είχε ηγετικό ρόλο: 462 εκατομμύρια ευρώ.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page13" IsActive="true" GUID="cf650d76-f678-43e8-bec8-9579d6d08076">
+      <IncludedInTOC GUID="fc94b916-db4f-4627-b401-1a91250d5376">true</IncludedInTOC>
+      <Title GUID="7a5f66cb-efe4-40d5-8872-bdb79fdff3c2">Πρόστιμα (συνέχεια)</Title>
+      <PageElements GUID="c755edc6-df47-4f28-91f4-f7f21131f1db">
+        <PageElement GUID="3e025a39-d740-4578-9fe0-3789b2efe6b2">
+          <Graphic GUID="635c96b2-8ee8-44a8-924d-d4b15ffcf58e"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/6adccb08-d112-4ca0-adb4-e2a44e8da491.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="45f2272f-8210-4bd5-b980-8865f9b012cb">
+          <TextBox GUID="90eaee21-d95a-4a7c-b660-6db149f02f67"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="9d122624-184b-4809-97b4-a840448e0668">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="a8c7ad57-f605-4552-b8db-d9f43353b75b" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="ff14a157-8127-4377-8372-789829904f27">
+        <em GUID="6614640a-2e5e-4db1-b61e-a0adda8025b0">
+          <font face="Arial" GUID="d250f97b-53fa-4719-a22b-f882ac1cc9fd">Προκαθορισμός Τιμών Μεταπώλησης</font>
+        </em>
+      </strong>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="57c2f0db-feda-455c-904f-eb303a5f069a" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="8dbdf1bb-8b82-496f-8c24-cd899bd0bc53">Στο Ηνωμένο Βασίλειο, διάφορες εταιρείες όπως η Umbro, η Manchester United, η Allsports Ltd και η JJB Sports plc είχαν παράνομα καθορίσει τις τιμές ποδοσφαιρικών στολών. Η Βρετανική Αρχή Ανταγωνισμού (OFT) έκρινε ότι ένας κατασκευαστής και διάφοροι έμποροι λιανικής πώλησης αθλητικών ειδών είχαν συνάψει συμφωνίες καθορισμού των τιμών, και τους επέβαλλε συνολικό πρόστιμο 6 εκατομμυρίων στερλινών (το οποίο μειώθηκε σε 5 εκατομμύρια στερλίνες κατόπιν έφεσης) για τις παραβάσεις.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="e3ad9b00-ec21-48f8-acee-17d88e3a1741" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="40da606f-edbf-47f5-8ccc-63ec1f294cd1">
+        <strong GUID="38c601eb-35a3-420f-bb7c-77275233fa14">
+          <font face="Arial" GUID="6863b114-c351-471e-adbd-0f8b8b5a380a">Απαγορεύσεις εξαγωγών</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="6ae0499d-92e8-4481-9dbd-e2395b845eb5" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="ffa36c3e-e9dc-456c-aea1-7694b2d55607">Η Nintendo και οι ευρωπαίοι διανομείς της συνήλθαν για να εμποδίσουν εμπόρους και λιανοπωλητές από το να εξάγουν τις κονσόλες και τα παιχνίδια Nintendo από αγορές όπου οι τιμές ήταν χαμηλές (όπως το Ηνωμένο Βασίλειο) σε αγορές όπου οι τιμές για αυτά τα προϊόντα ήταν πολύ υψηλότερες (π.χ. στη Γερμανία και στην Ολλανδία).  Υπό την καθοδήγηση της Nintendo, οι έμποροι που επέτρεπαν τέτοιου είδους παράλληλες εισαγωγές τιμωρούνταν με μειωμένες προμήθειες εμπορευμάτων ή με γενικό εμπορικό αποκλεισμό. </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="8fb6d6d5-bbaa-4301-bfef-306e346c735e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="514fb652-288c-476b-8757-9f8dd289d4c8">Η Ευρωπαϊκή Επιτροπή αποφάσισε ότι αυτοί οι περιορισμοί του παράλληλου εμπορίου αποτελούσαν σοβαρή παράβαση του Δικαίου του Ανταγωνισμού.   Πρόστιμο 149 εκατομμυρίων ευρώ επιβλήθηκε στη Nintendo, ενώ οι διανομείς της τιμωρήθηκαν με πρόστιμα συνολικής αξίας 18 εκατομμυρίων ευρώ.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page14" IsActive="true" GUID="48307084-b183-4a53-9fde-e531cc7aa2d9">
+      <IncludedInTOC GUID="a90b0f4a-e43e-4a80-a5f1-f454691c8265">true</IncludedInTOC>
+      <Title GUID="a492f755-a0ba-4870-a555-6973c46afb55">Πρόστιμα (συνέχεια)</Title>
+      <PageElements GUID="80618d54-0ea7-4c92-80c8-fd76ca8972a0">
+        <PageElement GUID="7f76c7a5-62a9-4f0f-a918-97a3d0c135d0">
+          <Graphic GUID="53f10fe2-bad2-49cd-a3a4-ed5a19996532"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/dc96ceb5-c957-4ceb-aeea-70f57f3c115f.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="46663d94-a1c5-4407-bab1-ecce1e8a80a5">
+          <TextBox GUID="33b27ce9-54ca-4bf0-8ec8-e104dc06b42f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="2178ad9c-36ca-4b1b-8e08-657515d2a4e1">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="09587ef7-817c-46c1-b58f-5fc4a543b11f" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="b2aea949-5182-4f67-a310-6b04521d6836">
+        <font face="Arial" GUID="203d19c4-6c38-4cfc-aa77-3dca1a3e8064">
+          <em GUID="6354fc4a-9568-477e-bf96-c684197eae9b">Κατάχρηση ισχύος στην αγορά</em>
+        </font>
+      </strong>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="57e95643-6466-48dd-bfe6-88003a54cdb3" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="2a4e5d41-3a9d-49d9-bca6-4db14f389bf7">Η Ευρωπαϊκή Επιτροπή επέβαλλε πρόστιμο στη Microsoft για καταχρηστική εκμετάλλευση της δεσπόζουσας θέσης της στην αγορά των λειτουργικών συστημάτων για ηλεκτρονικούς υπολογιστές.  Μεταξύ άλλων, έκρινε ότι η Microsoft είχε καταχραστεί την ισχύ της στην αγορά περιορίζοντας εσκεμμένα τη διαλειτουργικότητα μεταξύ των ηλεκτρονικών υπολογιστών που χρησιμοποιούσαν την πλατφόρμα Windows και των διαμετακομιστών για ομάδες εργασίας (που χρησιμοποιούνται για διάφορες βασικές λειτουργίες δικτύων) που δεν χρησιμοποιούσαν λειτουργικά συστήματα της Microsoft, και συνδέοντας την πώληση του Windows Media Player, ενός προϊόντος στο οποίο η Microsoft αντιμετώπιζε ανταγωνισμό, με το λειτουργικό της σύστημα Windows, στο οποίο έχει σχεδόν μονοπώλιο.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="eb7ba893-b0a5-4966-9afc-ac8a526d7957" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="b3fbb779-7cc2-4336-96c2-7c30edb07c8b">Η Microsoft τιμωρήθηκε με πρόστιμο 497 εκατομμυρίων ευρώ, για το οποίο υπέβαλλε έφεση.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="33bcba3e-a4a4-4294-b65f-1d3d9581eaa2" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="39d0b160-e631-4dac-bb9b-c42cef9b40b6">Γιατί είναι λοιπόν καλύτερη η συμμόρφωση; </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page15" IsActive="true" GUID="74db87cb-05dd-4711-b3f8-3010bb1582f0">
+      <IncludedInTOC GUID="f4f6a585-96b4-4d36-92cf-14ceed973e7b">true</IncludedInTOC>
+      <Title GUID="eca17635-5e48-455f-8135-b56175cc826e">Τα πλεονεκτήματα της συμμόρφωσης</Title>
+      <PageElements GUID="f53d9af0-e2ec-43f2-a6d9-0d1f6345b59b">
+        <PageElement GUID="a271647e-e81d-4c60-957f-6c33b85801ac">
+          <Graphic GUID="67f3dbe0-4317-4941-b928-e7dc7751de57"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/740ab2af-8753-41a2-94b9-8ac83d2ad5f9.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="eb7d5fb3-7534-4d4b-92fc-229e8121a166">
+          <TextBox GUID="5d42349c-1e11-4c70-96ad-eb7b2c86ee51"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="147cd866-83f2-46db-92b5-187b5f901afc">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="89e39966-2b85-4535-b149-9aab685d2739" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="e19f3ea9-f3f5-4378-8767-5c989accb558">
+        <strong GUID="47fcaa3c-560a-41f5-833f-88179b61648f">
+          <font face="Arial" GUID="1dd8c69e-045c-41fd-9c18-f0acf9816232">Γιατί πρέπει να συμμορφωνόμαστε με το Δίκαιο Ανταγωνισμού;<br GUID="0e5ff85b-0c50-4c9b-83d5-f439a81f1b07"></font>
+        </strong>
+      </i>
+      <font face="Arial" GUID="938d7205-ad7f-487e-b007-d395bb988454">Η παράβαση του Δικαίου  Ανταγωνισμού έχει σοβαρές συνέπειες και αυτός είναι ένας καλός λόγος για συμμόρφωση. </font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="2942ceda-d331-4e02-a153-b979951b2cef" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="4488f4ea-3efc-46a0-b03d-f0395d364778">Υπάρχουν όμως και άλλα πλεονεκτήματα.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="c00b7070-0703-4b30-9f8e-1cfca94092c1" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="ae51cd2b-d8ef-4e6a-9e18-23ee0217981e">
+        <strong GUID="39175bd0-bcea-4f13-80a8-f4b03fdf9892">
+          <font face="Arial" GUID="005cdac7-5f13-4bfa-acdd-df2a840e320d">Η συμμόρφωση σημαίνει ότι …</font>
+        </strong>
+      </i>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="18107d30-3406-47dc-8c3d-44b23f7d3171" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="7b614648-8c3b-439b-bcbf-3fde830870c0">
+        <div align="left" GUID="550e2a8c-dd61-4e20-8525-2095c2b50d49">
+          <font face="Arial" GUID="db483a2d-0091-4602-9a9b-32b08f92faea">θα είμαστε πάντα σύννομοι, </font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="cecf2243-27bb-4c1d-9eae-e76630014543" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="1c9938fc-1908-4af5-91ec-9a9e1de16a3d">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c92e4ba8-d375-486b-8c56-4bfdb85fb252" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="a2c7c546-fe49-42c2-aca8-2dde00ffd23a">
+        <div align="left" GUID="72006077-4df4-4534-8454-830bd6c80deb">
+          <font face="Arial" GUID="5489aa28-062e-48e2-8dd9-7fc7b32ff09e">το προσωπικό σε κάθε επίπεδο μπορεί να εντοπίζει προβλήματα και να τα αναφέρει,</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="50035f50-663a-40a2-b5e6-8ee777506c0e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="41989626-d2c7-4ec5-ad19-3368cbabaeca">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="59c7711f-0df3-4bdf-918c-228a8c8c544d" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="59d6aeb9-e988-48d6-bee7-78cdccbed412">
+        <div align="left" GUID="02cdb114-4b58-441c-870e-7bfe75d36eac">
+          <font face="Arial" GUID="1d57c2be-339e-4ca8-8ce6-9719ea1e805b">μπορούμε να αναγνωρίζουμε παράνομες πρακτικές όταν χρησιμοποιούνται σε βάρος μας,</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="e6314c34-f3ba-4a14-accf-90617839f20e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="1ee2f7be-7cee-4ced-b8c5-be677fffa9c8">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="14225c24-ebf0-4130-8a64-6d38fac10416" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="6f3241a8-37e2-4d13-8766-bd4dbee7cfa5">
+        <div align="left" GUID="03929efb-f9a1-422c-9b60-90e372eefdfa">
+          <font face="Arial" GUID="5d153638-56a0-4627-90c7-9d7108b20542">τα χέρια μας είναι καθαρά και μπορούμε να χρησιμοποιούμε το Δίκαιο Ανταγωνισμού για να εκθέτουμε άλλες εταιρείες που το παραβαίνουν, </font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="5ee70e41-742e-4edc-af2e-5a3a51bf425f" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="0193e713-c350-4d4b-80cf-1347b8614b7c">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="6c8bbce6-71e2-42f7-ab50-bdb97693ab42" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="1018a6a5-7027-42b2-b739-fe0b703b7602">
+        <div align="left" GUID="8b21e647-190b-4085-adda-7b83193780b0">
+          <font face="Arial" GUID="63c59a8e-6be9-49d1-a2d6-a86e37cdc6d4">οι πελάτες μας θα μας εμπιστεύονται, </font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="e8a06a96-a176-4484-aa0f-5379da9cd026" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="f48ecabf-a4d9-477e-9cae-9214c1d26d0a">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="923bba94-dbee-49e7-b2b3-584544025556" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="3cb8c592-e55f-41a7-8639-ff041a9412ae">
+        <div align="left" GUID="27614d5f-9898-45a2-b880-271790c74c49">
+          <font face="Arial" GUID="3fc2e823-6119-4c94-8bf3-0b022e57fb29">οι ανταγωνιστές μας θα μας σέβονται, και</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="fe5c6d0c-7cbf-4337-8387-60a9a1b6c0ec" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="e968a137-fefd-4874-b063-92dae336f26d" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="84ce0f5c-e859-4165-8014-bc12593ede99">
+        <div align="left" GUID="d009511c-8321-41b5-9745-5616faeec128">
+          <font face="Arial" GUID="9424f7e9-4b37-46bf-8d0a-2a6d1de36f41">οι αρχές ανταγωνισμού θα είναι πιο επιεικείς, εάν κατά λάθος παραβούμε το Δίκαιο Ανταγωνισμού.</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="cadead1d-df5b-440d-b516-7e6088b1f15f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="57078d9a-e3a8-4a6e-916e-3643fd8c59fe" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="be00e1ab-7aee-4e2d-bb44-f79197d34d96">Και μια τελευταία λέξη...</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page16" IsActive="true" GUID="53e0a49e-1784-45aa-afc4-5b4864b561f6">
+      <IncludedInTOC GUID="e9fc0c42-ad36-499a-9106-240f2f55800a">true</IncludedInTOC>
+      <Title GUID="ad182eb0-c3d0-4c27-85d0-ae147e58cb2c">Τελευταία λέξη</Title>
+      <PageElements GUID="d1ce6935-e7d4-4cde-86fa-e8ec0ba88909">
+        <PageElement GUID="265f0df1-074d-4a1d-b59e-c5aa653fce5d">
+          <Graphic GUID="932b07eb-20fd-4e92-b901-57ea178fb5ca"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/939615f4-d0d5-4f20-b3b3-aa46b5871766.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="dae6d569-4a51-42bd-8a09-cd355a353222">
+          <TextBox GUID="9ff370ce-2565-468b-b585-a571de9bcddc"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="e760472f-ac50-4628-ad80-f7afca8118fe">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="24d7eb81-4b4f-4a94-a092-86075209baaf" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="447f809f-2966-4a8c-98d4-54a74613f7db">Το Δίκαιο Ανταγωνισμού βασίζεται στην ιδέα του θεμιτού ανταγωνισμού.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="a0a51cba-d450-4db8-9600-0dff6213b940" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="139b5f18-2a59-42ea-92df-63e7cac271c8">Εάν κάποια στιγμή μπερδευτείτε με αυτά που διαβάζετε ή δεν μπορείτε να απαντήσετε μια ερώτηση, θυμηθείτε αυτήν την απλή ιδέα και θα βοηθηθείτε. </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page17" IsActive="true" GUID="42fe6b90-8b51-4301-91a3-c629ae1631bf">
+      <IncludedInTOC GUID="317f11eb-6d35-46fd-84e0-5ac71c47a218">true</IncludedInTOC>
+      <Title GUID="12a81dc9-53ad-4108-9698-7d03d13abe5e">Συγχαρητήρια </Title>
+      <PageElements GUID="8ea09676-a607-4ec3-beb9-c15e507e0564">
+        <PageElement GUID="b543bcd9-4869-438f-97c2-6cfc539a6458">
+          <Graphic GUID="cb9499a8-a16b-4699-9ae8-bd38bc88e160"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/d3bd0a95-82f6-438b-86ab-962103b96b1b.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="7e5eb416-762f-4d8b-9943-6a5b24bf10a9">
+          <Graphic GUID="cfe4e207-2d28-4c75-b77e-ef182f812183"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/df61170d-ab86-4518-95d8-956a91912b1f.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="4677082a-1073-4d55-85e5-8180f0e09080">
+          <TextBox GUID="aea6af06-8be6-487d-9b5d-88c7cd0b53a8"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="5f1b894f-c8f9-4a0f-9aca-9d014378a836">
+    <div style="PADDING-RIGHT: 0cm; PADDING-LEFT: 0cm" GUID="f81ec008-2b69-40e1-a227-f60c32e310c4" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="e42328d6-102b-4c7f-b65a-bc1e4946235c">Μόλις ολοκληρώσατε το μάθημα «Εισαγωγή στη Συμμόρφωση με το Δίκαιο του Ανταγωνισμού». <br GUID="e9eb80bd-8014-4c33-b2c7-5bcefd41c55a"><br GUID="b16b29c2-7ffe-4769-bf7d-919be601dc10">Η «Σύντομη Ανακεφαλαίωση της Εισαγωγής στη Συμμόρφωση με το Δίκαιο του Ανταγωνισμού» περιέχει μια περίληψη όσων έχετε μάθει. <br GUID="ecdab866-51dd-4165-8139-3e877ec90d5a"><br GUID="12a9078c-eb6e-451f-8287-491e55a32259">Όταν διαβάσετε τη Σύντομη Ανακεφαλαίωση, κάντε κλικ στο κουμπί «Έξοδος» παραπάνω για να τερματίσετε αυτό το μάθημα.  <br GUID="611375fa-0251-4300-8d55-26f69f786ef6"><br GUID="b67cde8a-b13e-4f8d-b48c-a6609429654c">Τώρα θα πρέπει να είστε έτοιμοι να συμπληρώσετε το τεστ σχετικά με την Εισαγωγή στη Συμμόρφωση με το Δίκαιο του Ανταγωνισμού. </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="c6566375-f52e-4244-9bd2-bf4db735da16">
+          <EndLesson GUID="5b5b7ead-a89c-4c9d-a867-76a16943df9f"> <![CDATA[]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

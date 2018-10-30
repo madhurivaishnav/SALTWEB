@@ -1,0 +1,45 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfUserCourseComplete]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfUserCourseComplete   Script Date: 08/12/2009 8:25:58 AM ******/
+
+/*
+Summary:	Returns 1 if the given user has a current course status of complete (2) for the given course
+
+Called By:	dbo.prcReport_Warning.PRC
+dbo.prcReport_WarningGrandTotal.PRC
+
+Author:		Mark Donald
+Created:	8 Dec 2009
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+
+*/
+
+CREATE FUNCTION [udfUserCourseComplete]
+(
+@userID int,
+@courseID int
+)
+RETURNS bit AS
+BEGIN
+DECLARE @course_status int
+SELECT
+TOP 1 @course_status = CourseStatusID
+FROM
+tblUserCourseStatus
+WHERE
+CourseID = @CourseID
+AND UserID = @UserID
+ORDER BY
+DateCreated DESC
+RETURN CASE WHEN isnull(@course_status, 0) = 2 THEN 1 ELSE 0 END
+END
+' 
+END
+GO

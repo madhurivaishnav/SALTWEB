@@ -1,0 +1,40 @@
+		<link href="{SystemFolder}/HtmlViewer.css" type="text/css" rel="stylesheet">
+		<script language="javascript" type="text/javascript">
+		<!--
+			function ReportViewer_SelectPage(reportViewerID, pageNumList)
+			{
+				var pageNum;
+				
+				pageNum = pageNumList.selectedIndex+1;
+				ReportViewer_GotoPage(reportViewerID, pageNum);
+					
+			}
+			
+			function ReportViewer_GotoPage(reportViewerID, pageNum)
+			{
+				__doPostBack(reportViewerID, "PageNum:" + pageNum );
+			}
+			
+			function ReportViewer_Export(reportViewerID, toolbarPosition, parameters)
+			{
+				var url;
+				
+				var format;
+				var oFormat;
+				oFormat = document.getElementById(reportViewerID + "_ExportFormat_" + toolbarPosition);
+				if (oFormat.selectedIndex==0)
+				{
+					alert("Please select a export format!");
+					return false;
+				}
+				else
+				{
+					format = oFormat[oFormat.selectedIndex].value;
+				
+					url = "{SystemFolder}/ReportExport.aspx?" + parameters + "&rs:Format=" + format;
+					
+					window.open(url,"_blank");
+				}
+			}
+		//-->
+		</script>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>20</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Quiz - Module 5</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>10</numrandom>
+<passinggrade>80</passinggrade>
+<cancelfail>a005_results_failed.html</cancelfail>
+<passdone>a005_results_passed.html</passdone>
+<prevpage>a005_quiz_quiz_first_page.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>a005_quiz_module_5_q5_01.html</name>
+<question>
+<id>127336</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0061</var>
+<text>Who is NOT an officer of a business?</text>
+<correctans>Anyone who influences the business's reputation</correctans>
+<choices>Anyone who has the capacity to significantly alter the corporation's financial standing|Anyone who is appointed as an officer of an unincorporated association|Anyone who influences the business's reputation|Anyone who makes decisions that affect a substantial part of the business</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>a005_quiz_module_5_q5_02.html</name>
+<question>
+<id>127324</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0062</var>
+<text>Complete the sentence. You are likely to be considered an officer if you are\u2026</text>
+<correctans>\u2026 a company director, company secretary or executive officer</correctans>
+<choices>\u2026 a company secretary, WHS representative or union representative|\u2026 a worker of any description|\u2026 executive officer, secretarial staff or WHS representative|\u2026 a company director, company secretary or executive officer</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>a005_quiz_module_5_q5_03.html</name>
+<question>
+<id>127312</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0063</var>
+<text>In what Act is an officer of a PCBU defined?</text>
+<correctans>Corporations Act </correctans>
+<choices>Fair Work Act|Work Health and Safety Act|Corporations Act |All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>a005_quiz_module_5_q5_04.html</name>
+<question>
+<id>127300</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0064</var>
+<text>Complete the sentence. At minimum, officers of a PCBU must take reasonable steps to\u2026</text>
+<correctans>\u2026 acquire and keep up-to-date knowledge of work health and safety matters</correctans>
+<choices>\u2026 acquire and keep up-to-date knowledge of work health and safety matters|\u2026 delegate their due diligence obligations|\u2026 exercise maximum skill|\u2026 take all possible measures</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>a005_quiz_module_5_q5_05.html</name>
+<question>
+<id>127288</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0065</var>
+<text>What steps an officer must take to fulfil his or her due diligence obligation depends on what factors?</text>
+<correctans>All of the above</correctans>
+<choices>Position, responsibilities and authority of the officer and what is reasonable in the circumstances|What duties the PCBU owes|Nature of risks to health and safety posed by the particular business or undertaking|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>a005_quiz_module_5_q5_06.html</name>
+<question>
+<id>127276</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQuestion_0066</var>
+<text>How can an officer exercise due diligence?</text>
+<correctans>By gaining an understanding of the nature of the PCBU\u2019s business operations and the associated risks</correctans>
+<choices>By keeping up-to-date with the news|By checking whether competitors have appropriate processes about hazards and incidents|By ensuring that workers implement processes to ensure the PCBU complies with its obligations under the Act|By gaining an understanding of the nature of the PCBU\u2019s business operations and the associated risks</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>a005_quiz_module_5_q5_07.html</name>
+<question>
+<id>127264</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQuestion_0067</var>
+<text>In order for an officer to defend a claim by showing that they exercised due diligence to prevent a breach, the officer will need to show what?</text>
+<correctans>That the organisation has an effective work health and safety system</correctans>
+<choices>That the business is financially viable|That the organisation has an effective work health and safety system|That the officer is a very careful person|That the officer regrets the breach</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>a005_quiz_module_5_q5_08.html</name>
+<question>
+<id>127252</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQuestion_0068</var>
+<text>What is NOT part of an effective WHS safety system?</text>
+<correctans>Regular efficiency audits</correctans>
+<choices>Hazard analysis and risk management systems|Documented internal reporting systems|Regular efficiency audits|Education and awareness programs for workers</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>a005_quiz_module_5_q5_09.html</name>
+<question>
+<id>127240</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQuestion_0069</var>
+<text>In addition to demonstrating due diligence, what else does an officer need to show?</text>
+<correctans>All of the above</correctans>
+<choices>That he or she has a good understanding of the hazards and risks associated with the operations |That he or she has a good understanding of the PCBU's approach to managing the hazards and risks|That he or she has directed adequate resources to WHS initiatives|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>a005_quiz_module_5_q5_10.html</name>
+<question>
+<id>127228</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQuestion_0070</var>
+<text>Complete the sentence. Breach of due diligence under the WHS law is \u2026</text>
+<correctans>\u2026 a criminal offence</correctans>
+<choices>\u2026 a criminal offence|\u2026 punishable only by a small fine|\u2026 a public nuisance|\u2026 not an offence</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>10</index>
+<name>a005_quiz_module_5_q5_11.html</name>
+<question>
+<id>127216</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 11</name>
+<var>VarQuestion_0071</var>
+<text>If a company breaches its WHS duties, an officer may be held personally liable unless the officer can show that he or she\u2026</text>
+<correctans>\u2026 exercised all due diligence to prevent the breach</correctans>
+<choices>\u2026 was not at work when the breach occurred|\u2026 did not cause the breach|\u2026 was not injured by the breach|\u2026 exercised all due diligence to prevent the breach</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>11</index>
+<name>a005_quiz_module_5_q5_12.html</name>
+<question>
+<id>127208</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 12</name>
+<var>VarQuestion_0072</var>
+<text>An officer owes a duty to exercise due diligence to ensure the PCBU complies with all its duties and obligations under the WHS Act. True or false?</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>12</index>
+<name>a005_quiz_module_5_q5_13.html</name>
+<question>
+<id>127196</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 13</name>
+<var>VarQuestion_0073</var>
+<text>Complete the sentence. If a PCBU breaches their H&amp;S duty and is reckless to the risk of death, then\u2026</text>
+<correctans>\u2026 they have committed a Category 1 offence; the most serious type of offence under WHS law</correctans>
+<choices>\u2026 they have committed a Category 1 offence; the most serious type of offence under WHS law|\u2026 they have committed a Category 3 offence; a relatively minor offence under WHS law|\u2026 the PCBU's officers can face only severe monetary penalties|\u2026 they will not be penalised unless an individual actually dies as a result of the breach</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>13</index>
+<name>a005_quiz_module_5_q5_14.html</name>
+<question>
+<id>127184</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 14</name>
+<var>VarQuestion_0074</var>
+<text>Complete the sentence. PCBUs commit a Category 2 offence if\u2026</text>
+<correctans>\u2026 they fail to comply with their health and safety duty, and they expose an individual to risk of death, serious injury or serious illness</correctans>
+<choices>\u2026 they fail to comply with a health and safety duty which they owe|\u2026 an individual is exposed to a risk of death, serious injury or serious illness, then they can be found guilty of a Category 2 offence if they were reckless in their conduct|\u2026 officers fail to exercise due diligence|\u2026 they fail to comply with their health and safety duty, and they expose an individual to risk of death, serious injury or serious illness</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>14</index>
+<name>a005_quiz_module_5_q5_15.html</name>
+<question>
+<id>127172</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 15</name>
+<var>VarQuestion_0075</var>
+<text>Complete the sentence. Category 3 offences...</text>
+<correctans>\u2026 involve a failure to comply with a health and safety duty</correctans>
+<choices>\u2026 are more serious than other categories of offences|\u2026 can only be committed by small, privately-owned organisations|\u2026 involve a failure to comply with a health and safety duty that exposes an individual to the risk of serious injury, illness or death|\u2026 involve a failure to comply with a health and safety duty</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

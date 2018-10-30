@@ -1,0 +1,29 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblQuizQuestion]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblQuizQuestion](
+	[QuizQuestionID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[QuizID] [int] NOT NULL,
+	[ToolbookPageID] [varchar](50) NOT NULL,
+	[Question] [nvarchar](1000) NOT NULL,
+ CONSTRAINT [PK_tblQuestion] PRIMARY KEY CLUSTERED 
+(
+	[QuizQuestionID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+SET ANSI_PADDING OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblQuizQuestion_tblQuiz]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblQuizQuestion]'))
+ALTER TABLE [dbo].[tblQuizQuestion]  WITH CHECK ADD  CONSTRAINT [FK_tblQuizQuestion_tblQuiz] FOREIGN KEY([QuizID])
+REFERENCES [dbo].[tblQuiz] ([QuizID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblQuizQuestion_tblQuiz]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblQuizQuestion]'))
+ALTER TABLE [dbo].[tblQuizQuestion] CHECK CONSTRAINT [FK_tblQuizQuestion_tblQuiz]
+GO

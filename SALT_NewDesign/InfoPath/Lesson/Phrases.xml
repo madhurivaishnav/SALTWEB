@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Phrases.xslt"?>
+<Phrases xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<ContentType>lesson</ContentType>
+	<Instruction><div xmlns="http://www.w3.org/1999/xhtml"><strong><font size="4">Standard Text</font></strong></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="3"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">Click the link below to insert the standard text.</div></Instruction>
+	<Phrase ID="TEXT1">
+		<Title>Start Lesson</Title>
+		<Text>	<div xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" color="black"><span style="FONT-SIZE: 10pt">This lesson discusses <strong>[insert]</strong>.<br/><br/>During the lesson, we will help you to apply your knowledge by asking you questions about scenarios. These questions will not be scored. Please read each scenario carefully and keep it in mind as you work through the lesson. Use the feedback provide to consolidate what you have learned during this lesson.</span></font></div>
+				<div xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" color="black"><span style="FONT-SIZE: 10pt"><br/>These questions are not scored and your response is not recorded. Use the feedback provided to consolidate what you have learned during this lesson.<br/><br/>Click on the <strong>Quick Facts</strong> menu button above to view a summary of points covered in the lesson.<br/></span></font></div>
+				<div xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" color="black"><span style="FONT-SIZE: 10pt"><br/>To get started, click on the Next button below on the right, or select a topic from the Table of Contents. You can return to this page at any time by clicking on the Home menu button above.<br/></span></font></div>
+				<div xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" color="black"><span style="FONT-SIZE: 10pt"><br/>Click on the Quick Facts menu button above for a summary of points covered in the lesson. <br/></span></font></div>
+				<div xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" color="black"><span style="FONT-SIZE: 10pt"><br/>To complete your Quiz for this lesson, first click on the Exit menu button above to exit the lesson and return to your Salt™ home page. From there, you can select the Quiz you wish to complete.<br/></span></font></div>
+		</Text>
+	</Phrase>
+<Phrase ID="Text2">
+									<Title>Some text</Title>
+									<Text>some <strong xmlns="http://www.w3.org/1999/xhtml">text</strong> here</Text>
+								</Phrase><Phrase ID="Text3">
+									<Title>End Lesson</Title>
+									<Text><div xmlns="http://www.w3.org/1999/xhtml">Congratulations! You have completed your lesson.</div>
+<div xmlns="http://www.w3.org/1999/xhtml">Click the <strong>End Lesson</strong> button below to exit the lesson</div></Text>
+								</Phrase></Phrases>

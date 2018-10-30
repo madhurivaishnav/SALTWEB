@@ -1,0 +1,67 @@
+SET ANSI_NULLS OFF
+GO
+SET QUOTED_IDENTIFIER OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetQuizIDByToolbookIDAndModuleID]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfGetQuizIDByToolbookIDAndModuleID    Script Date: 20/04/2004 8:25:57 AM ******/
+
+
+/*
+Summary:
+user Defined Function that returns a quiz id given a toolbook id and module id
+only Works for a quiz
+Returns:
+scaler - toolbook id - int
+
+Called By:
+
+Calls:
+
+Remarks:
+
+
+Author:
+Peter Kneale
+Date Created: 18 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+**/
+CREATE Function [udfGetQuizIDByToolbookIDAndModuleID]
+(
+@toolbookID 	Varchar(50),		-- Toolbook ID used to determine quiz id
+@moduleID	Integer			-- Module ID that quiz must belong to
+)
+
+Returns Integer
+
+Begin
+-- Declarations
+Declare @retVal Integer
+
+-- Get Quiz ID by toolbookID and moduleID
+Set @retVal =
+(
+Select Top 1
+QuizID
+From
+tblQuiz
+Where
+ToolbookID = ltrim(rtrim(@toolBookID))
+And
+ModuleID = @moduleID
+And
+Active=1
+)
+
+Return @retVal
+
+End
+' 
+END
+GO

@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" productVersion="11.0.6357" name="urn:Lesson:Salt:Bdw" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="21f5e72d-975b-4c6e-be1e-ac340e29374a">
+  <Summary ID="bdwpr01" GUID="d14e2873-359d-4052-a557-174f1553fba0">
+    <ContentType GUID="2c23dc50-4dd0-498d-845d-2a9cbba98f8a">lesson</ContentType>
+    <UploadType GUID="f912cbf4-e728-4905-8c05-c91abc907cfd">update</UploadType>
+    <Title GUID="bd3cf855-6bc4-4b99-8174-1c1716bf9607">Introduction to Privacy</Title>
+    <CreatedBy GUID="aff8de57-553f-4946-a3b2-835b0e89e6a0">LTG Casual</CreatedBy>
+    <CreatedDate GUID="e7548379-ae50-4c25-bd14-97c4d86cc15a">2005-03-23T09:47:52</CreatedDate>
+    <LastModifiedBy GUID="144d78be-44da-419e-aa66-4a86881e8072">LTG Casual</LastModifiedBy>
+    <LastModifiedDate GUID="ba0efc85-ad9d-44ce-b733-52aa3b827df1">2005-11-16T10:30:16</LastModifiedDate>
+  </Summary>
+  <Players GUID="053b9084-eda0-407f-bef6-904b3784db31">
+  </Players>
+  <Pages PageFilter="0" GUID="52ec10d0-2fcb-425f-9610-3ef7ef48b4f1">
+    <Page ID="Page1" IsActive="true" GUID="e359f8e6-b787-4b66-a855-22b871330a63">
+      <IncludedInTOC GUID="199f8364-868a-47ac-9d8c-82974aacb5b5">false</IncludedInTOC>
+      <Title GUID="e878aaac-21fe-4238-9287-0c94d911f5b9">Introduction to Privacy</Title>
+      <PageElements GUID="6da5d851-5549-4b07-9c9c-27cd44cd422c">
+        <PageElement GUID="d7f6095d-0147-4da5-9801-307cdcc1158b">
+          <TextBox GUID="c7f49cfa-c734-4591-bde4-58ad99f2a3f5"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="20288ba4-eb4c-4f66-95fe-08660c04251f">
+    <div GUID="096102e3-c709-43a0-890f-b3d56d44ecd4" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="9b8e5d28-7002-40ed-8bf6-98376370f85e">
+        <span style="FONT-SIZE: 10pt" GUID="ffef5f4d-7fdb-421e-8ee7-c137263162fa">In this lesson you will move through a number of information screens which will teach you about <strong GUID="d1668ad1-d015-4ce1-adf0-112b190e947c">Privacy</strong>.<br GUID="14b5f314-4079-49cd-8e22-ccae508ddc87"><br GUID="6ed7c926-5b72-4a90-89de-c305a116608a">You will also be presented with scenario pages, where a situation will be described involving a number of fictitious characters. You will be asked questions which will test your understanding of<strong GUID="432950ef-1b67-4c1a-9441-ab8ddd69ae65"> Privacy</strong>.</span>
+      </font>
+    </div>
+    <div GUID="cdaed28d-ddd0-4375-a3e1-c6f197eb070d" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="91da4ada-c95a-442a-9529-33f4d78ce61e">
+        <span style="FONT-SIZE: 10pt" GUID="8bd337f9-24ff-4e08-ada4-412fadc4ff52">
+          <br GUID="a4b8496a-f57c-491d-b38d-6360d363e75f">These questions are not scored and your response is not recorded. Use the feedback provided to consolidate what you have learned during this lesson.<br GUID="ac0cd29e-911f-4f91-b305-8f32d4ec7a8e"><br GUID="b9341d53-4bdd-444a-a605-f8283837edd2">Click on the <strong GUID="651c5312-1221-4493-8179-ac48e8ab65bb">Quick Facts</strong> menu button above to view a summary of points covered in the lesson.<br GUID="bf76e93f-fb55-4e87-b9c1-29967b900919"></span>
+      </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="aed439aa-e651-4bbf-bdd5-dd9f6ea6ab45">
+          <TOC GUID="2912d27e-f267-4576-a6b0-c9fa6e3ecbe8"> <![CDATA[<div class="TableOfContents_Main">
+  <div class="TableOfContentsTitle">Table of Contents</div>
+  <ul class="TableOfContentsList">
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page2')">Learning objectives</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page3')">What does the Privacy Act do?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page4')">Who does the Privacy Act apply to? Who must comply?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page5')">What information does the Privacy Act cover?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page6')">Who enforces the Privacy Act?</A>
+  </ul>
+</div>]]></TOC>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="f7c1f4b0-b7bc-4f94-8149-e3424436a641">
+      <IncludedInTOC GUID="3bd9dab7-c119-4d0b-a830-0e48259ffbac">true</IncludedInTOC>
+      <Title GUID="c31644af-4d98-4d51-8dba-b0f31c6e5925">Learning objectives</Title>
+      <PageElements GUID="98f8d810-92fe-45ab-8bfa-7239f06ee4f1">
+        <PageElement GUID="5964deb5-f890-4a4c-8295-dda46425873e">
+          <Graphic GUID="5bd82145-30d0-4597-a2d6-f1750d13f547"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/0a16b2d0-0ab9-41d4-865a-be48b859630a.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="fa3e42c8-20f0-4f76-a9eb-eae9bbd4bce3">
+          <TextBox GUID="29f48e23-6b16-4b9d-9889-7b29fbc15e47"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="a6e32867-d05f-4119-9c6f-9f14e06ad7ac">
+    <div GUID="25811e87-173c-430d-b392-294f0814e26f" xmlns="http://www.w3.org/1999/xhtml">This module should take about <strong GUID="894dbba9-681b-4909-a515-a02365d2df2a">5 minutes.</strong></div>
+    <div GUID="0d84208d-21a5-4d49-b2f7-da52caa13b9b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="8003642a-043a-4eda-a3f5-e79243c2f2fd" xmlns="http://www.w3.org/1999/xhtml">You will be given a brief introduction to the Privacy Act.</div>
+    <div GUID="12418b63-4a40-4ec0-aacd-f3e959193ab2" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ba92eb18-2298-4645-848b-b7955188c65a" xmlns="http://www.w3.org/1999/xhtml">Privacy training will help you do your job and may also help you as an everyday consumer.</div>
+    <div GUID="50807a4f-7208-49aa-a4e3-6fa17d1d5fb4" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ea4843e3-ee3c-4d1b-b60d-657d2db2da9e" xmlns="http://www.w3.org/1999/xhtml">At the end of this module you should have a clear understanding of:</div>
+    <div GUID="297efb05-f2f1-4cb0-94b0-e0142a269cbf" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="998125b0-9069-460b-bfd5-c96a56992f00" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="6b205d49-376f-4bbe-9c8c-58450440d3d6">what the Privacy Act is about</li>
+      <li GUID="b50a9729-74fb-440d-ab0a-e2008cb1bd6c">who it applies to</li>
+      <li GUID="32720a6e-b86c-4d52-9f03-e12ad8182b7c">why it is important to your organisation</li>
+      <li GUID="0c18e831-36b9-4213-9fc1-0357849090dd">the role of the Privacy Commissioner</li>
+      <li GUID="9c44458b-7802-4935-944c-2e4f054b0f65">what happens if your organisation breaches the Privacy Act</li>
+    </ul>
+    <div GUID="c04408e1-11e8-45fa-b05f-3166ff816984" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="8cc33687-4847-4c8e-8aa7-4126ccabb2b8" xmlns="http://www.w3.org/1999/xhtml">When you are ready click on the next button below to start training.</div>
+    <div GUID="c9624723-1219-41f2-b661-979f09d74726" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="843e741a-cb44-4a96-b874-9b32a054d373" xmlns="http://www.w3.org/1999/xhtml"> </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="231c0447-7ae4-415f-a183-9635b6a6e635">
+      <IncludedInTOC GUID="5f8f554d-bdf6-4414-beda-00e47c5acf9b">true</IncludedInTOC>
+      <Title GUID="690cbc79-15e5-4e7a-b0c5-d7e23a8389ee">What does the Privacy Act do?</Title>
+      <PageElements GUID="41d00505-3641-4f1b-9d76-d1e2fe5c5c39">
+        <PageElement GUID="ddd18db6-019c-4a94-8309-00e509975477">
+          <Graphic GUID="f40260c4-557e-4a96-af1f-6e48bf3cd0f2"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/5285407e-7c12-434f-9429-3bac992204d7.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="1eacc7ec-237d-486c-b52f-6c097def0806">
+          <TextBox GUID="76023b07-ff21-41e7-947e-06c2a303bb16"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="e2222310-5c78-4377-9ed2-e333e245d67d">
+    <div GUID="4be7e7e5-3321-4992-8b14-c748f58ccd93" xmlns="http://www.w3.org/1999/xhtml">The Privacy Act sets out rules for handling "personal information", that is, information or opinions about individuals. </div>
+    <div GUID="f7d1a336-334c-4f85-920f-9f3ddc750253" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="67e2e433-d05b-4bbe-9370-47ef89c3e059" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="c50a8b03-34b2-41ae-8f76-c88fc115304c" xmlns="http://www.w3.org/1999/xhtml">This training program only covers the NPPs. It is therefore intended for use by organisations which have chosen not to establish or be bound by a privacy code at this time.</div>
+    <div GUID="bedb1caa-e437-48d5-b29d-5ecf5f51679a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="0e769101-a2c2-4fb6-b9f9-fc31a01b942e" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="7d7ea753-3ea6-46a0-a23f-24f9721fce56">Is the Privacy Act Effective Now?</strong>
+    </div>
+    <div GUID="a51eb174-571d-45c9-bec2-9e63fe211819" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="e933e4f6-97cb-416e-a2ed-c881e6e5d3d2" xmlns="http://www.w3.org/1999/xhtml">The Privacy Act has been part of Australian law since 1988. Major changes which affect you and your organisation were made to the Privacy Act in 2000. These changes started on 21 December 2001.</div>
+    <div GUID="a77793a9-3f53-4bff-bc28-aea7161ec589" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="5dfce928-f073-4ab9-95d3-437c0b68d26c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="dc71e73d-5707-415f-85da-81e7e26cdc53">
+      <IncludedInTOC GUID="be98190f-d73a-4d55-aa99-800dc5eda9ba">true</IncludedInTOC>
+      <Title GUID="a23d19f6-b04f-4de2-a761-762234f28324">Who does the Privacy Act apply to? Who must comply?</Title>
+      <PageElements GUID="006a4691-a240-4138-8e32-7121a0ff5d80">
+        <PageElement GUID="c4d5237b-4663-4236-9083-8bbe2d39aeae">
+          <Graphic GUID="38c37fe1-ae50-4b3d-bf65-f55ff224e8fc"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/83e991a0-1b69-4196-b014-8ae49faadc73.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="c38f7f2b-13ac-445a-b7ed-ab94f95f1dcc">
+          <TextBox GUID="4c7bfc5d-f5d7-459a-b8ac-2af892a23181"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="014c3d2a-2b5d-4b97-aaa2-f8a9c09cbec9">
+    <div GUID="381024d7-e555-4053-87ce-fd75dba5b1cb" xmlns="http://www.w3.org/1999/xhtml">The Privacy Act places obligations on organisations.</div>
+    <div GUID="5007c3a6-cbce-4713-ae1d-ad44d0a53a2d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="4138c345-b961-4acf-a3a7-e0124d0e9b03" xmlns="http://www.w3.org/1999/xhtml">Anything done by you as an employee in the course of your work is treated as if it were done by your employer. So it is important to your organisation that you know your privacy obligations and comply with them.</div>
+    <div GUID="f45418d9-dacb-47f6-a4a8-a12d4319dd13" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="5b8cc797-0f6f-4ffc-ae7c-650f9035d8d6" xmlns="http://www.w3.org/1999/xhtml">In this program, references to 'you' and 'your' mean both your organisation and you as an individual employee at work. </div>
+    <div GUID="7a5a9c82-afe2-40bd-ba1d-2f1bbe3be4a9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="554b3454-0060-444b-9818-f2448e49980a" xmlns="http://www.w3.org/1999/xhtml">You should not do anything with personal information acquired at work except what your organisation has authorised you to do.</div>
+    <div GUID="46fa201d-15dc-4259-a0f9-b16628064c13" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="4d71a6d9-a597-4355-aca8-4de53009c659" xmlns="http://www.w3.org/1999/xhtml"> </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="941f9d9a-fca9-4ed5-b937-d7cde22243fe">
+      <IncludedInTOC GUID="1bd0ec11-9c3a-4a3f-98de-a7cbe70e3e44">true</IncludedInTOC>
+      <Title GUID="cadda93f-cb37-40f0-918f-4648b6170583">What information does the Privacy Act cover?</Title>
+      <PageElements GUID="5d17e046-e565-4469-b91a-47fd317be514">
+        <PageElement GUID="a11041f1-beff-46a8-abb5-b8d4a4f0fe66">
+          <Graphic GUID="a02f7d72-79de-4421-a98d-66029ebef4cf"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/89aef932-1c00-42f9-a6e8-bcd3cd0bf23e.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="6a7a83e7-2f5e-40ac-98f0-837edea52e92">
+          <TextBox GUID="72af96a8-886a-4ae8-93e7-d27f339e784b"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="906c137d-2c9b-47ef-8f66-7482bea0ca06">
+    <div GUID="2ae49bce-16d4-4b4f-80f4-5498d161d010" xmlns="http://www.w3.org/1999/xhtml">The NPPs apply to "personal information" held or collected by an "organisation" for inclusion in a "record".</div>
+    <div GUID="87206263-a9f0-4764-8c0b-2b5f6c57bec3" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="4b635e24-5898-490c-8c12-395c56959a8f" xmlns="http://www.w3.org/1999/xhtml">"Personal information" is information or an opinion about an individual whose identity is apparent or can reasonably be ascertained from that information or opinion. </div>
+    <div GUID="b5b1c61d-e5d1-4278-9c80-a65715f63400" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="b3ffb94a-0080-4091-9f4f-714ce0b7c8d1" xmlns="http://www.w3.org/1999/xhtml">The NPPs apply to "personal information" held or collected by an "organisation" for inclusion in a "record".</div>
+    <div GUID="597c3f7c-a437-4461-9b3b-a83b1cdd7e04" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="19f3d6df-c32a-4ec6-8c5e-4270d9742272" xmlns="http://www.w3.org/1999/xhtml">"Personal information" is information or an opinion about an individual whose identity is apparent or can reasonably be ascertained from that information or opinion. </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="0e4a1956-9708-433c-9a68-92f28bed83fc">
+          <ExtraInfo GUID="94dfbef4-7e6e-4ce9-85c8-ff177e2eb044"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Click here to view some examples of Personal Information</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('904601bd-84f3-49f9-a2d3-69f7351f30e5');">Examples of Personal Information</A>
+      <div ID="Content_904601bd-84f3-49f9-a2d3-69f7351f30e5" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="0a02b512-c93d-4da4-bad5-160d51032ab2">
+                <div GUID="960e046a-697a-45d7-98fd-a8489c06bd42" xmlns="http://www.w3.org/1999/xhtml">customer (individuals) mailing list with names and addresses</div>
+                <div GUID="ab412057-a31b-4138-bc4f-912d8425aad0" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="c74f1f75-0d69-49c6-ab79-0adb9a651864" xmlns="http://www.w3.org/1999/xhtml">photographs of individuals</div>
+                <div GUID="780f80c5-c7b3-4865-902d-8b639647ab8a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="bbf4ed81-53e8-4f2a-a5e6-9c84058c02f7" xmlns="http://www.w3.org/1999/xhtml">marketing database of names and addresses</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('904601bd-84f3-49f9-a2d3-69f7351f30e5');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="b1823ccd-e82a-4035-8a5f-e8348d348ac4">
+          <TextBox GUID="e0d3c1d6-a3c6-4dd3-99df-92762507772d"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="40091774-1501-4f42-83e4-6ee0499edaef">
+    <div GUID="53982b45-d597-4c05-8d32-0e1f45c41676" xmlns="http://www.w3.org/1999/xhtml">An "organisation" means an individual, body corporate, partnership, any unincorporated association or trust with an annual turnover of more than $3 million. An "organisation" also includes any body corporate that has a related body corporate with an annual turnover of more than $3 million.</div>
+    <div GUID="d35563c5-a2fb-4dd1-a69a-05591a40e505" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="50617132-98d5-4a58-a0ee-2ea9da8436f1" xmlns="http://www.w3.org/1999/xhtml">A "record" is a document, record in a database (however kept), photograph or other pictorial representation of a person.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="063713b3-f904-4e43-a819-3dcb299a9d51">
+      <IncludedInTOC GUID="d2e5c89d-747f-4c4e-8b8e-e20a3d3c4757">true</IncludedInTOC>
+      <Title GUID="3f6e6fda-fe84-453f-98a2-e336e16dbe53">Who enforces the Privacy Act?</Title>
+      <PageElements GUID="74308d7e-6194-4953-a44e-8f68d7f1be32">
+        <PageElement GUID="34a58a87-07f4-4148-bf8e-1d1825e7f88b">
+          <Graphic GUID="4f22baec-b44a-46d2-a250-71555eb625f9"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/33e5f5d1-61f1-4827-81f9-7e3201ec988a.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="76252983-c345-4d62-8ae3-2c0758942a42">
+          <TextBox GUID="52a3fb95-0a33-4305-a387-971e51f59455"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="3a60785c-3899-428a-8654-0b3d4d768d79">
+    <div GUID="1a188666-0bbf-43c9-b5da-0ba671a25653" xmlns="http://www.w3.org/1999/xhtml">The Federal Privacy Commissioner is appointed under the Privacy Act to enforce the Act and to provide advice and guidance about privacy issues to organisations and the general public. </div>
+    <div GUID="b993d9d1-977c-46fb-870f-069bef3bca88" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ace54ff5-ace2-47a6-91e0-effb14722307" xmlns="http://www.w3.org/1999/xhtml">There is a wide range of information available from the Office of the Privacy Commissioner.</div>
+    <div GUID="6dc4d44e-fbdd-4585-87be-a31840798f48" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="f12729fa-8603-493f-a0af-3d8e38779444" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="597d7116-07f2-47ff-86a8-915b0bb0a42a">Enquiries: 1300 363 992</strong>
+    </div>
+    <div GUID="735b666e-f83a-4209-91b2-50d0079df983" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="30a60a39-2f67-46cd-aa46-faef89ff0d5f">
+      </strong> </div>
+    <div GUID="0b9896a7-3f1e-4eaa-84b5-c2d053114656" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.privacy.gov.au" GUID="402de404-bf00-4b5d-9e0c-7412726bb459">Click here to go to the Privacy Commissioner's Website</a>
+    </div>
+    <div GUID="d1b0a65a-1d40-4649-a65b-135c34ed1f60" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="7b96c831-c982-4c4b-9f6e-6a9f112e527b" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="82fe2b57-fc2d-448a-ac00-7164e380560a">What happens if your organisation breaches the Privacy Act?</strong>
+    </div>
+    <div GUID="57970855-9944-4538-8554-e9e570f5df43" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="45bd17f9-47f9-4d4d-8081-27b5cef9ead4" xmlns="http://www.w3.org/1999/xhtml">If an individual thinks your organisation has breached the NPPs they can complain to the Commissioner. Remember, anything done by you as an employee in the course of your work is treated as if it was done by your employer. So your breach of the NPPs is a breach by your employer.</div>
+    <div GUID="754da412-1a09-419e-9780-4538a127a5f7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="bd4a1039-dfbd-46e2-97c7-a17faa0f94e4" xmlns="http://www.w3.org/1999/xhtml">The Commissioner can investigate the complaint and make a determination. The Commissioner can order your organisation to apologise, publish a correction, or do a range of other things including pay compensation to people who suffer loss because of its breach. The Commissioner can seek to enforce these orders in the Federal Court.</div>
+    <div GUID="858ec54e-970d-43c0-a3fa-e2baa5e900fe" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="7745dfb9-8ea8-49b0-a76a-1969a7a46fac" xmlns="http://www.w3.org/1999/xhtml">The Commissioner is also likely to publicly "name-and-shame" any organisation found guilty of a breach. This could result in adverse publicity for your organisation.<br GUID="b1d80693-feec-45a3-b715-7578de3f7611"></div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="52b0a6e7-4771-493d-8d66-7a133edd698d">
+      <IncludedInTOC GUID="cef422b4-8b52-4ddd-8ecf-e68b392b7fc5">false</IncludedInTOC>
+      <Title GUID="c4ddeef2-1124-4ab5-81d1-b2174a473048">End of lesson</Title>
+      <PageElements GUID="339ee019-8aa8-4c7f-bdb6-741a644d8044">
+        <PageElement GUID="9895fa54-abfc-423a-9f8a-1dd8be3f3d50">
+          <Graphic GUID="207c38f0-c418-46cd-962e-7e961605d2bc"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/cb986dec-dcb0-4aa0-bfc5-ad9d3a2ccd49.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="371d9a6e-b907-4175-8c8d-1abe82667ac8">
+          <TextBox GUID="e4d2cd64-5a65-4106-8565-a444eee88ef5"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="c8c8d4b4-4c90-490a-bc83-14bdb07d9d0d">
+    <div GUID="401b1943-1ec0-4490-a89e-3dc898da8c6d" xmlns="http://www.w3.org/1999/xhtml">Congratulations! You have completed your lesson.</div>
+    <div GUID="1997b648-f945-4b8b-8e51-e5072a8e1c22" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="e380234f-ecaa-492a-955d-440f165ba02c" xmlns="http://www.w3.org/1999/xhtml">Click the <strong GUID="b357e1cd-2cff-48f0-b1ce-e8547607a8e6">End Lesson</strong> button to exit the lesson.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="9ebb3226-40d4-4b56-a501-44c22a36de44">
+          <EndLesson GUID="05549c94-d851-4362-952f-db375b967d62"> <![CDATA[<div class="EndLesson_Main">
+  <input type="button" class="Navigation_Button_Submit" value="End Lesson" onClick="__doPostBack('Lesson_End','')">
+</div>]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

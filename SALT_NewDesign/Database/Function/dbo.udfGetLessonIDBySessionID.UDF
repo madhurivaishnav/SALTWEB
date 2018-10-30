@@ -1,0 +1,72 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetLessonIDBySessionID]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfGetLessonIDBySessionID    Script Date: 20/04/2004 8:25:57 AM ******/
+
+
+
+
+
+/*
+Summary:
+user Defined Function that returns a lesson id given a Session id
+only Works for a lesson
+Returns:
+scaler - lesson id - int
+
+Called By:
+dbo.prcBookMark_GetBookMarkBySessionID
+dbo.prcLessonPageAudit_GetPagesVisited
+dbo.prcLessonPageAudit_GetPagesVisitedBySessionID
+dbo.prcLessonSession_EndLesson
+dbo.prcLessonPageAudit_InsertPageVisited
+
+Calls:
+
+Remarks:
+
+
+Author:
+Stephen Kennedy-Clark
+Date Created: 3 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+print dbo.udfGetLessonIDByToolbookID(''toolBookID-1'')
+-- select * from tblLesson
+
+**/
+CREATE    FUNCTION [udfGetLessonIDBySessionID]
+(
+@sessionID varchar(50) -- The session ID - GUID
+)
+RETURNS INT --< UserID >--
+Begin
+------------------------------------------
+-- get Lesson id for this Session
+------------------------------------------
+
+DECLARE @retVal int
+set @retVal =
+(
+(
+SELECT TOP 1
+LessonID
+FROM
+tblLessonSession
+WHERE
+LessonSessionID = ltrim(rtrim(@sessionID))
+)
+)
+RETURN @retVal
+End
+' 
+END
+GO

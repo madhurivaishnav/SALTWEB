@@ -1,0 +1,24 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfUser_GetAdministratorsOnBehalfOfEmailAddress]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'CREATE function [udfUser_GetAdministratorsOnBehalfOfEmailAddress]
+(
+@UserID	int
+)
+Returns varchar(100)
+AS
+BEGIN
+
+
+DECLARE @Email VARCHAR(100)
+SELECT @Email = dbo.udfGetEmailOnBehalfOf(0) -- udfGetEmailOnBehalfOf ignores the OrgID so don''t bother sending a correct OrgID
+
+
+return @Email
+END
+' 
+END
+GO

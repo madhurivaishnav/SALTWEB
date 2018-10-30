@@ -1,0 +1,10 @@
+C:\Projects\DatabaseScriptCompiler\bin\Debug\DatabaseScriptCompiler.exe
+C:\Projects\DatabaseScriptCompiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\DatabaseScriptCompiler\obj\Debug\DatabaseScriptCompiler.exe
+C:\Projects\DatabaseScriptCompiler\obj\Debug\DatabaseScriptCompiler.pdb
+C:\Projects\DatabaseScriptCompiler\bin\Debug\DatabaseScriptCompiler.pdb
+C:\Projects\SALT\DatabaseScriptCompiler\obj\Debug\DatabaseScriptCompiler.exe
+C:\Projects\SALT\DatabaseScriptCompiler\obj\Debug\DatabaseScriptCompiler.pdb
+C:\Projects\SALT\DatabaseScriptCompiler\bin\Debug\DatabaseScriptCompiler.exe
+C:\Projects\SALT\DatabaseScriptCompiler\bin\Debug\DatabaseScriptCompiler.pdb
+C:\Projects\SALT\DatabaseScriptCompiler\obj\Debug\ResolveAssemblyReference.cache

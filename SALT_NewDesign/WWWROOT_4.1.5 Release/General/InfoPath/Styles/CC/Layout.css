@@ -1,0 +1,151 @@
+body
+{
+    background-color:Gray;
+}
+
+table
+{
+    font-family:Verdana;
+	 /* Default font size used throught the application unless overridden by other styles */
+    font-size: 12px;
+}
+
+a
+{
+	color: #333333;
+}
+a:link
+{
+	
+}
+a:visited
+{
+}
+a:hover
+{
+    color: #000099;
+}
+a:active
+{
+}
+
+.allContent
+{
+    background-image:url(/general/images/watermarklight.jpg);
+    background-repeat:no-repeat;
+    width:100%;
+    overflow:auto;
+    height:490px;
+    vertical-align:top;
+    
+}
+
+.PageHeader
+{
+    width:100%;
+    border:solid 1px #000000;
+    background-color: #006666;
+    
+}
+
+.pageHeaderTitle
+{
+    background-image:url(/General/Images/header/cc_logo.gif);
+    background-repeat:no-repeat;
+    color:#FFFFFF;
+    text-align:right;
+    font-size:20px;
+    font-weight:bold;
+    height:60px;
+    padding-top:18px;
+    padding-right:20px;
+}
+.PageTitle
+{
+    font-size:16px;
+    font-weight:bold;
+    color:#cc6633;
+}
+
+.PageCount
+{
+    font-size:10pt;
+    background-color:#99cc99;
+}
+
+
+/***********************/
+/* Main styles         */
+/***********************/
+.Main_Table
+{
+    height:60%;
+    width:80%;
+    border:solid 1px #000000;
+    background-color:#ffffff;
+    
+}
+
+.Main_Table_Row
+{
+    vertical-align:top;
+}
+.Main_Table_Row_Spacer
+{
+    height:0px;
+}
+.MainTable_Navigation
+{
+    border:solid 1px #000000;
+    background-color: #006666;
+    color:#000000;
+    height:25px;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+/****************************/
+/* Navigation Button styles */
+/****************************/
+
+
+.Navigation_Button_Next,
+.Navigation_Button_Previous,
+.Navigation_Button_Submit,
+.Navigation_Button_General
+{
+    width:100px;
+    color:Black;
+    font-size:14px;
+}
+.Navigation_Button_Next
+{
+    background-color: #a9a9a9;
+}
+.Navigation_Button_Previous
+{
+    background-color: #a9a9a9;
+}
+.Navigation_Button_Submit
+{
+    width:130px;
+    border:solid 1px #000000;
+    background-color:Red;
+}
+.Navigation_Button_General
+{
+    border:solid 1px #000000;
+    background-color: #a9a9a9;
+    text-align:center;
+}
+
+.Navigation_Button_General a
+{
+  	color:Black;
+	text-decoration: none;
+}
+.Navigation_Button_General_Invisible
+{
+    display:none;
+}
+

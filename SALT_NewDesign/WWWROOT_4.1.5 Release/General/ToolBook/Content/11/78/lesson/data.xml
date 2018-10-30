@@ -1,0 +1,2333 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Lesson:Salt:Bdw" productVersion="11.0.6565" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="cs" GUID="4e9e8edc-d47b-47d7-92d6-ca075d545a40">
+  <Summary ID="Impergreless5" GUID="276b5566-4b46-49ed-800d-793e483c4754">
+    <ContentType GUID="618dd647-fdee-44f8-aef3-3f32613a980c">lesson</ContentType>
+    <UploadType GUID="2d78f44d-dce0-470e-9229-594fb4751d95">update</UploadType>
+    <Title GUID="0ecbe07c-f022-4f2d-94d0-f33a8931b6bb">Συμφωνίες Συνεργασίας</Title>
+    <CreatedBy GUID="364faa89-e401-4a5a-bd48-ea1ba1c45bd4">904917</CreatedBy>
+    <CreatedDate GUID="dfbbbe7a-f818-434d-9748-cabd5bab66a8">2006-12-19T13:56:38</CreatedDate>
+    <LastModifiedBy GUID="c62cc67c-1933-4608-8d0c-4b6f6588af88">907893</LastModifiedBy>
+    <LastModifiedDate GUID="48c0e404-fba7-4043-8396-fc9a22eb79b7">2007-01-15T11:49:55</LastModifiedDate>
+  </Summary>
+  <Players GUID="e2027550-8586-4de6-98f2-91c5665324dc">
+    <Player ID="Player1" GUID="dcf76a27-28fa-4bc2-8345-4cc4c8a6f50e">
+      <Name GUID="511d0ded-317c-48c1-ad04-0a0a1b129846">Zyder Limited</Name>
+      <Picture GUID="75be2642-5da5-4ee2-af44-0376721eddf3">
+        <Image GUID="3e75c194-7feb-4476-a853-89d0abb50498">Images/71fbe2f9-2397-40f9-b3c7-e5e27e5ee5cf.gif</Image>
+        <AltText GUID="6f6e2784-8867-4431-820d-ec88d506cccd">
+        </AltText>
+        <Align GUID="8646d665-5197-45a9-b19b-4985a60e5509">Left</Align>
+      </Picture>
+      <Description GUID="024da9d4-d3e5-4e1e-88c1-75fdfc980209">
+        <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" xmlns="http://www.w3.org/1999/xhtml" GUID="9a64eb7c-4948-4066-92c9-e04283e0a5ca">
+          <font face="Arial" GUID="5d443e85-a9cb-4699-95b8-fa4778d951c1">Η<strong GUID="c9c4f7c6-4751-43b2-94f3-d15a8af3ff5d"></strong><strong GUID="0cdd1292-6990-4ba4-be40-fd9328c421f1">Zyder Limited</strong> είναι μια βρετανική εταιρεία που παράγει τα χαρτάκια Sign για στριφτά τσιγάρα, τα οποία πουλάει σε σουπερμάρκετ και άλλα σημεία λιανικής πώλησης.  Έχει ένα εργοστάσιο όπου τα χαρτάκια συσκευάζονται.  Ο Brian Davids είναι ο Γενικός Διευθυντής της.</font>
+        </div>
+      </Description>
+    </Player>
+    <Player ID="Player2" GUID="513513c6-429b-4a39-a5c7-37eedb1f2228">
+      <Name GUID="e1039889-2b4e-4e94-982b-60c4a72403b1">Peri Limited</Name>
+      <Picture GUID="295fce82-076b-4a3d-82c7-085cbaf5f2ec">
+        <Image GUID="93673c4a-7878-4542-8d08-3acafb4496ed">Images/f840bcb1-75ab-443f-88f6-8ba1c2b26e53.gif</Image>
+        <AltText GUID="ca518496-7e6b-4658-b20d-9cb869e73af6">
+        </AltText>
+        <Align GUID="4388e579-c122-4640-b292-97458c1eaaa6">Left</Align>
+      </Picture>
+      <Description GUID="32f3887b-21a3-4fdc-88bc-d508a3c7cacb">
+        <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" xmlns="http://www.w3.org/1999/xhtml" GUID="a4076cbd-9e14-4871-a384-fd93e18ac6a9">
+          <font face="Arial" GUID="24805abc-33a7-4b19-97b1-b4f542a55ded">Η<strong GUID="45d751cb-b302-4acf-a1b9-6b65e9cb3436"></strong><strong GUID="ca543e59-f46d-49c8-ab6b-5e8987815487">Peri </strong><strong GUID="fdd38054-04cf-4512-8826-c2a15c790be8">Limited</strong> είναι επίσης βρετανική εταιρεία.  Παράγει τα χαρτάκια Legend, τα οποία πωλεί σε σουπερμάρκετ και άλλα σημεία λιανικής πώλησης.  Έχει επίσης ένα εργοστάσιο όπου συσκευάζονται τα χαρτάκια της.  Ο Peter Pearson είναι ο Πρόεδρός της.</font>
+        </div>
+      </Description>
+    </Player>
+  </Players>
+  <Pages PageFilter="0" GUID="97ea5a47-8657-4fd3-b7f0-abf2dfc9b9aa">
+    <Page ID="Page1" IsActive="true" GUID="6d04c486-d8cd-400f-a331-754877bb8555">
+      <IncludedInTOC GUID="d08dc723-e598-4087-814f-252be709bc0f">true</IncludedInTOC>
+      <Title GUID="231eca90-81b8-4cdf-8af5-a6b229cc2c54">Στόχοι εκμάθησης</Title>
+      <PageElements GUID="86c93f6f-4ea4-40c0-a0f1-a00414e42ddf">
+        <PageElement GUID="ccb9e41d-6e87-40ca-8125-0ecfb8529f36">
+          <Graphic GUID="57ad33f9-598f-4344-94ff-1584be84f06e"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/47307ebc-d3ca-4be9-80d7-7b9bfff104ae.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="2b19fe22-5c7a-4fa4-a8ad-70d54a184f24">
+          <Graphic GUID="79fe2f5a-dfa8-48da-bda1-da60310f68b3"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/77d0a708-096b-44ec-9641-c4c5ea8410e8.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="6b93b123-56ea-4698-86f9-d7ab418a8ebc">
+          <TextBox GUID="afeab800-d644-4582-91a2-43d0e43e72c3"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="89e22cb9-c097-4966-917f-7ba2db2e5e23">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="73354b55-0d56-4762-9d23-9a83ee238e26" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="99ad6f16-9c69-43c8-a9aa-70e220830af0">Αυτή η Ενότητα θα πρέπει να διαρκέσει περίπου <span GUID="01699bdb-ae89-40b6-87ca-8d23908c7d12"><strong GUID="a06b0d4e-82db-473c-9490-ba7e1dbd69d0">15 λεπτά</strong></span>.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="b6395ad0-981c-4535-9e3e-53e63862f4a6" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="927314e0-7009-4f65-ad3b-4606b11b5488">Θα μάθετε για ορισμένα είδη συμφωνιών συνεργασίας, δηλαδή για συμφωνίες όπου οι εταιρείες αγοράζουν μαζί (κοινή προμήθεια), πωλούν μαζί (κοινή πώληση) ή παράγουν μαζί (κοινή παραγωγή).</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="1f399610-1c9c-4f7d-8557-157a15e4a97e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="8cd31035-f293-43e4-805a-b480ff2f8fa5">Στο τέλος του μαθήματος θα πρέπει να έχετε σαφή εικόνα των παρακάτω:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="9f1b130f-774f-4142-9b67-50046d031b44" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="5a5453b3-eba9-4fd9-af0b-31faee12b3a4">
+        <div align="left" GUID="215c2556-1951-4536-a3d2-914eb1e6b9e3">
+          <font face="Arial" GUID="d548bcd3-4408-4d14-9667-f6d2c58c3731">τι είναι οι συμφωνίες κοινής προμήθειας και πώς αντιμετωπίζονται από το Δίκαιο Ανταγωνισμού,</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="4595d1f0-2427-414d-968f-c7c2c058caf5" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="39a3c364-3107-48f7-818b-e36e8256c0eb">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="4b16010e-e54c-4369-a425-d5ef1c73817c" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="e249e93f-da19-4244-bc16-fd40aaba9adf">
+        <div align="left" GUID="db9a0419-c9d8-4625-92b2-a6726e3b8bcd">
+          <font face="Arial" GUID="38c2698e-61d3-4a0f-a9c7-3813b066f60a">τι είναι οι συμφωνίες κοινής πώλησης και πώς αντιμετωπίζονται από το Δίκαιο Ανταγωνισμού, και</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="78bf2ce6-53b3-4014-ab5e-2e2b3354bdcc" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="e593e3ce-d1ab-4ed0-9f25-cca9c4338ee9" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="8225e33d-40e7-4557-8fdb-92566b7366b9">
+        <div align="left" GUID="22e0de42-5d35-4966-bd30-e9e9ade9dbbd">
+          <font face="Arial" GUID="e8004c7d-423d-47f4-8b63-9da45b7204d2">τι είναι οι συμφωνίες κοινής παραγωγής και πώς αντιμετωπίζονται από το Δίκαιο Ανταγωνισμού.</font>
+        </div>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="871bc994-cba4-4f3f-bcc5-a7bca5d11358">
+      <IncludedInTOC GUID="48156b2f-1ef0-475a-98e2-5a9c3f004547">true</IncludedInTOC>
+      <Title GUID="ad060079-daae-476f-8b22-094a9e69582f">Συμφωνίες κοινής προμήθειας (αγοράς)</Title>
+      <PageElements GUID="ef7b1967-bf88-4a84-89d4-8a058d88e741">
+        <PageElement GUID="f82fc10b-acec-47b4-9167-eba81a696a7a">
+          <Graphic GUID="e91ac76c-e8b1-41eb-8625-9321ced59da0"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/32df6ed2-2db7-4c01-af26-d21a4757c8c6.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="67ab0418-4a39-48d9-862c-2c4dae04b8b5">
+          <TextBox GUID="230fbd43-2764-4d7e-a531-bd834b03ac7d"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="88d209e0-b5e6-432d-ac12-2966a5a324c2">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="64c46ac4-5bc5-4566-8267-4dc3639983f2" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="d878fc12-3179-428f-b29a-00efe0f7915b">
+        <strong GUID="288db5f2-cd40-434c-9c9c-564c3c1cdcb0">
+          <font face="Arial" GUID="1422253c-7c32-4061-911b-04a4c4e3ae7a">Τι είναι η συμφωνία κοινής προμήθειας (αγοράς);</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="46cd2381-021a-4d6e-b759-09393d474d70" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="10fe0191-d72e-47c4-9aea-b1749b4ea9a8">Κοινή προμήθεια υφίσταται όταν δύο (ή περισσότερες) εταιρείες, που μπορεί να είναι ανταγωνίστριες, συμφωνούν να προμηθεύονται αγαθά ή υπηρεσίες από έναν προμηθευτή.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="07c74e1c-a354-4dcd-8293-3369f78f84f2" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="d0f21b58-1f73-4564-908a-6feb08bd2ae6">Μπορούν να συστήσουν μια κοινοπραξία, μέσω της οποίας να πραγματοποιήσουν την προμήθεια, ή μπορούν να συμφωνήσουν στο πλαίσιο σύμβασης ή ακόμα και ανεπίσημα ότι θα προμηθεύονται από κοινού.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="3298439c-cf26-4414-89af-388c2f7ac8a0" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="135a765a-4504-413c-baed-a59563879b59">
+        <strong GUID="2b6c34f1-3fb0-45bf-9370-b4b250050cda">
+          <font face="Arial" GUID="23070d93-6fc9-4ebe-ad3e-edc62e51bfa1">Γιατί οι εταιρείες προμηθεύονται από κοινού;</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="5ecdcaf8-6e04-47aa-9152-4f62fabd37cb" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="e2e75a4e-8109-469e-a982-d8736c086591">Το κίνητρο για τις συμφωνίες κοινής προμήθειας είναι συνήθως η εξασφάλιση καλύτερης έκπτωσης. Οι εταιρείες αγοράζουν μαζί μεγαλύτερες ποσότητες από ό,τι θα αγόραζαν από μόνες τους και έτσι μπορούν να πετυχαίνουν χαμηλότερη τιμή από ό,τι εάν αγόραζαν μόνες τους.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="53132276-5f44-484e-8521-3e083fe4e99e">
+      <IncludedInTOC GUID="122e512b-02b6-488c-89df-da068294b598">true</IncludedInTOC>
+      <Title GUID="ea5b6a7c-ba0e-441e-971c-3d38cecefc55">Συμφωνίες κοινής προμήθειας (συνέχεια)</Title>
+      <PageElements GUID="d071b5c0-fe18-4070-b377-946266b9e8cd">
+        <PageElement GUID="9f2635df-69d0-44da-86e4-17d70d0ddba9">
+          <Graphic GUID="5ee9641f-9fd7-4a74-b433-03e1ac162bd2"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/5c9781cf-38cf-4202-8b29-ae48953a464e.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="90aa9499-7f19-42af-bf72-04fa1c5132dd">
+          <TextBox GUID="3054c49a-0cd3-430e-873c-2d93b50afc5a"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="212280a3-ab0c-4663-9531-8244d9121a81">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="5b016da2-3328-45ef-9fd2-73355bdb58e5" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="e8d8d129-7d81-487b-b7b1-d60ae11fcccc">
+        <strong GUID="3b6aa0f8-5ad1-4e70-b287-631d335c04fe">
+          <font face="Arial" GUID="4cb98474-f6ea-4e06-9cf7-a695eb39763a">Αξιολόγηση εάν οι συμφωνίες κοινής προμήθειας επιτρέπονται από το Δίκαιο Ανταγωνισμού</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="261d2a83-e06e-4265-af47-da73ffa3d009" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="73264eac-7267-4f33-b5c4-6db2109842d8">Οι συμφωνίες κοινής προμήθειας μπορούν να επιτρέπουν σε μικρές και μεσαίες εταιρείες να ανταγωνίζονται με πιο ίσους όρους την αγοραστική ισχύ των μεγάλων εταιρειών, και αυτό μπορεί να είναι καλό για τον ανταγωνισμό.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="bfc1e7d2-ba8e-412c-9c04-501d92c15502" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="390be2fc-bf3f-4095-baf4-d9d9bef8119b">Ωστόσο, είναι πάντα απαραίτητη η αξιολόγηση μιας συμφωνίας κοινής προμήθειας στο πλαίσιο των εκάστοτε περιστάσεων. Αυτό σημαίνει ότι πρέπει κανείς να λαμβάνει υπόψη τις σχετικές αγορές.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="28695261-001a-4d03-ba32-f4113c58f60a" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="259ccb1a-a7f5-4c71-ab23-8cdb169703c4">Δύο αγορές θα πρέπει να ληφθούν υπόψη:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="0116b7da-9863-4538-b65c-768f98059dd4" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="3008dca5-42f3-4809-89f5-3ec4a89cf811">
+        <div align="left" GUID="d5836936-e52c-412f-bfb8-7ccabe6197d4">
+          <font face="Arial" GUID="8f371c4b-1f1b-48b9-87a5-983dc8f006ca">η αγορά προμήθειας - η αγορά των πρώτων υλών ή των συστατικών ή υπηρεσιών τις οποίες αγοράζουν από κοινού οι αγοραστές, και</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="8b467cd6-775a-437f-820c-2dd8e6ea0082" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="92c03f6c-4e4d-4b34-ab80-b99aeccc1c0c" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="feb95e75-6a61-44d9-b811-50ad746668ef">
+        <div align="left" GUID="4d8f4846-aa63-4fb3-a503-64b5cbc242cb">
+          <font face="Arial" GUID="e4db17f2-c649-466e-a097-1239467bc7d8">η αγορά πώλησης - η αγορά στην οποία οι από κοινού αγοραστές πωλούν τα αγαθά ή τις υπηρεσίες που παράγουν χρησιμοποιώντας τις πρώτες ύλες ή τα συστατικά.</font>
+        </div>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="10843622-f291-47fc-8821-147d0fcba880">
+          <ExtraInfo GUID="5efba67e-bf70-4bf5-9100-20cd23424e09"> <![CDATA[<div class="ExtraInfo_Main">
+  <table cellpadding="0" cellspacing="0" border="0" class="ExtraInfoExtraVisible">
+    <tr>
+      <td width="2%" class="" style="padding-left:5px;cursor:hand;">
+        <img class="" src="/General/Images/InfoPath/CC_Example.gif" name="EX_&quot;d4935912-3b5f-4ab0-9218-db140cc54eeb" ID="EX_d4935912-3b5f-4ab0-9218-db140cc54eeb" onClick="TogglePopup('d4935912-3b5f-4ab0-9218-db140cc54eeb');" onmouseover="this.src=activeExample;" onmouseout="this.src=Example;">
+      </td>
+      <td class="" align="left" style="padding-left:5px;vertical-align:top;">
+        <div class="">ΣΕΝΑΡΙΟ</div>
+      </td>
+    </tr>
+  </table>
+  <div ID="Content_d4935912-3b5f-4ab0-9218-db140cc54eeb" class="ExtraInfo_Hide">
+    <table>
+      <tr>
+        <td class="TextGraphic_Description">
+          <Description GUID="c4dd33ea-57b1-40d6-bc50-81a1b92b523c">
+            <div GUID="92a04f39-ae8f-4d1e-bca6-d28c9627b72e" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="9a58be61-5701-4c75-b780-5cbd0bd97891">
+                <strong GUID="a95ccb5a-b251-4bee-afa4-8d564f5dc607">
+                  <font face="Arial" GUID="3cabba4f-a461-41c5-9e43-e5d084c4f6d9">ΣΕΝΑΡΙΟ</font>
+                </strong>
+              </span>
+            </div>
+            <div GUID="b904dd63-4bbe-4305-ae74-14f4d3a56ac4" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="f0671735-94d4-4cf5-a82c-ba0ed52429f8">
+                <span style="LAYOUT-GRID-MODE: line" GUID="072beaa4-1e9d-419f-b65a-a424b8babff2">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="db8ad497-ab44-4bc4-a5bf-069b977e084c">Η Εταιρεία</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="5c8d6555-e225-4d58-aa84-a59a9d2dcff6">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="965c9898-13f1-4536-8cf6-77247333b854">A</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="d1b99547-1112-4e6c-aca0-6326fcb3759c">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="cc027fc5-9cec-45ed-9e4d-a1acfe927fa0">και η Εταιρεία</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="b5bec65b-b3b2-49f1-b4d3-eaa795dcb5dd">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="b490139b-97e2-47cf-9a12-b130683f1892">B</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="3419f168-b14b-4722-b812-0745efabcd3b">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="c6eea530-0cf8-40e7-9f39-d2f519a3a4cb">παράγουν τσιγάρα, τα οποία πωλούν σε χονδρεμπόρους και λιανοπωλητές</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="6d8ee5e4-8cfe-4bb1-8527-412fa5b1e80c">. </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="57f57831-7479-4e8d-914a-a7aab4c7d781">Δεν καλλιεργούν οι ίδιες καπνό, αλλά τον αγοράζουν από καπνοπαραγωγούς</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="51d462a9-e134-4ff1-9f51-d2ac7be7c9a9">.</span>
+              </font>
+            </div>
+            <div GUID="f5a52220-324e-42bf-a953-1f3a50218b40" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="25855199-7269-4a60-90c9-635438136842">
+                <font face="Arial" GUID="36539081-ee4a-415f-9c92-b20b12420361">
+                </font>
+              </span> </div>
+            <div GUID="ac2c55a1-f163-43c9-bced-7d02150703e3" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="1f1d805c-9f28-43f9-8b19-0be043c8c8e4">
+                <span style="LAYOUT-GRID-MODE: line" GUID="5390a1f1-2083-434d-a010-2996cf81c5c1">Αποφασίζουν να συνάψουν μια συμφωνία κοινής προμήθειας καπνού για να μπορούν να κάνουν μεγαλύτερες αγορές και να πετυχαίνουν υψηλότερες εκπτώσεις</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="853617c9-75c8-4764-bcee-7f6d3dfd9a29">.</span>
+              </font>
+            </div>
+            <div GUID="816259fa-de15-4311-877b-56daec5c99f0" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="0a49830e-562f-40b4-a062-52ed3f9adb21">
+                <font face="Arial" GUID="4408843e-7258-4c93-8595-ab0e29de0511">
+                </font>
+              </span> </div>
+            <div GUID="53fe99af-64e0-4b13-9d16-62ae77d6db15" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="b36689f4-eb00-490b-9dbc-f7f736fce789">
+                <span style="LAYOUT-GRID-MODE: line" GUID="a1c44656-2af7-4c70-a209-b594dfd11e58">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="62bc07cf-c6c9-4318-ba14-eeb5870165ff">
+                  <strong GUID="dc20a76d-a7c8-4d86-ab17-2f22c9a30de7">ΑΝΑΛΥΣΗ</strong>
+                </span>
+              </font>
+            </div>
+            <div GUID="6dbbeacd-7f71-4a86-b9fb-453a61472183" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="64f0b446-d709-4dd7-8e8d-a869ff734d4a">
+                <span style="LAYOUT-GRID-MODE: line" GUID="76d3cadb-c8fe-4859-9d0f-53012696ad76">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="61d2ba35-64e8-4d96-bfe2-fe88eabf30fc">Για την αξιολόγηση της συμφωνίας κοινής προμήθειας</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="64d0a8c4-39d3-48d6-961c-00574b63bf7e">:</span>
+              </font>
+            </div>
+            <div GUID="6a05d822-6ab1-4093-8c9d-3c2cab17f6d1" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="73030ca6-529e-4785-aeee-0f26fdb0bcce">
+                <font face="Arial" GUID="2b5f67a0-cf15-45f6-be5b-967a9bfd51ad">
+                </font>
+              </span> </div>
+            <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="ab032b0c-7148-4056-bfdf-354c4149fe14" xmlns="http://www.w3.org/1999/xhtml">
+              <li GUID="0549bb03-366a-42d7-a432-792368daee0f">
+                <font face="Arial" GUID="4c58297b-e23e-4a87-aedb-c34aad18c2d3">
+                  <span style="LAYOUT-GRID-MODE: line" GUID="cbf9e5a9-b420-486b-8b90-03a3b2efd706">
+                  </span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="89de8b45-49ee-4e6a-bbfa-48d788a8d5bb">η αγορά προμήθειας είναι η αγορά για την προμήθεια καπνού από τους καπνοπαραγωγούς, και</span>
+                </font>
+              </li>
+            </ul>
+            <div GUID="d87d03e8-e754-4e6c-9c61-6ec7ffea1d5b" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="0befef85-10e1-4329-b204-fe89e2003263">
+                <font face="Arial" GUID="a9ed0e89-e78b-48a9-b0f1-63d570d8ca0c">
+                </font>
+              </span> </div>
+            <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d3466ced-6453-419f-8fe4-c4322fd02bfa" xmlns="http://www.w3.org/1999/xhtml">
+              <li GUID="dfd815ae-ea3f-4074-8402-7ad3c6bfcd25">
+                <font face="Arial" GUID="785c9f31-6eab-4a8d-a00e-aa87086bd3e7">
+                  <span style="LAYOUT-GRID-MODE: line" GUID="516b555e-a9df-457a-836e-bd00b76d8dbe">
+                  </span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="817f626f-f837-42f3-8d79-ed9d4a739f81">η αγορά πώλησης είναι η αγορά για την πώληση καπνού στους χονδρεμπόρους και λιανοπωλητές</span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="fadb1bf8-2293-4144-aca3-ae3f967a19ed">.</span>
+                </font>
+              </li>
+            </ul>
+          </Description>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img class="" style="position:absolute;left:488px;top:368px;;cursor:hand;" src="/General/Images/InfoPath/CC_Close.gif" onClick="TogglePopup('d4935912-3b5f-4ab0-9218-db140cc54eeb');" onmouseover="this.src=activeCloseImg;" onmouseout="this.src=closeImg;">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="47812b57-c05d-47b8-a76e-43bc1b5f88e6">
+      <IncludedInTOC GUID="9c95b08f-156c-4e4c-a99c-43ec6b675fc9">true</IncludedInTOC>
+      <Title GUID="0258fbcf-23cd-4814-9d3a-12186f9418cf">Πότε οι συμφωνίες κοινής προμήθειας είναι νόμιμες;</Title>
+      <PageElements GUID="e4ae5693-ff3d-432e-ab1a-8f25a120b5bc">
+        <PageElement GUID="4ef5c9cd-646a-4d88-985c-ff4c1ff6e0aa">
+          <Graphic GUID="ca02df0c-0f0d-4506-80b7-a4881cdc1ddb"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/7413815e-cde4-4450-84ec-3163f88760cc.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="010f6a50-6a54-4c95-b3bc-bafdb824c304">
+          <TextBox GUID="4a33cb38-17bb-4191-90d7-db77b572450c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="d812703d-54ff-4ae4-83a9-a1a6b0d0ad71">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="eb3eef86-71be-4476-9959-5868fd9b5986" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="b3bd715d-f1bb-4a74-b33e-bce0c01bf62f">Εάν οι εταιρείες δεν ανταγωνίζονται η μία την άλλη στην αγορά πώλησης, η συμφωνία κοινής προμήθειάς τους δεν παραβαίνει κατά κανόνα το Δίκαιο Ανταγωνισμού, εκτός εάν έχουν ισχυρή αγοραστική δύναμη, η οποία θα μπορούσε να ζημιώσει τους προμηθευτές τους.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="a5810d26-1142-4f41-9d1b-6324b594aa2f" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="7239742f-0517-436a-a884-c7cc273c7394">Οι συμφωνίες κοινής προμήθειας παραβαίνουν σχεδόν πάντα το Δίκαιο Ανταγωνισμού, εάν ο πραγματικός σκοπός τους είναι η κάλυψη της συμμετοχής των εταιρειών σε σύμπραξη (καρτέλ) που αφορά για παράδειγμα τον καθορισμό τιμών.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="4f0f1e9c-58e7-41fd-8060-8da4520a656b" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="d9fdd989-f961-4a71-bc88-fd02b9e94364">Πολλές συμφωνίες κοινής προμήθειας δεν εμπίπτουν σε καμία από αυτές τις κατηγορίες. Σε αυτές τις περιπτώσεις είναι απαραίτητη η αξιολόγηση της ισχύος των από κοινού αγοραστών στην αγορά προμήθειας και την αγορά πώλησης.  Αυτό γίνεται λαμβάνοντας υπόψη:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c7fd3fea-35bd-4750-a8ed-202d9ea1faaa" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="5937dc3f-3379-4bd1-830f-da65f3d2470e">
+        <div align="left" GUID="96068359-406c-4b27-8c2d-acbd7bef48a5">
+          <font face="Arial" GUID="b3979d64-17a6-428d-b8a3-02c989932a5a">το ποσοστό της αγοράς προμήθειας, το οποίο αντιπροσωπεύουν οι προμήθειες τους, και</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="17674c55-b7ad-44b0-bc15-2608d4671b15" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="0a37387b-7079-442e-9605-cea05faa2e51" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="2870c643-c92e-42a8-abad-2823d804fd2b">
+        <div align="left" GUID="f4515d07-ea25-4bbb-b0a8-44b5b8334da5">
+          <font face="Arial" GUID="3a88a7fc-f335-445b-8be6-7568631e75fc">το ποσοστότου μεριδίου αγοράς τους στην αγορά πώλησης.</font>
+        </div>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="6b0f4e24-1114-401b-9a5b-7a5792811ae3">
+      <IncludedInTOC GUID="1e2d39b6-be34-4922-9c9b-c0cd33d89562">true</IncludedInTOC>
+      <Title GUID="5eb45c6b-bd6e-44f7-937f-cf0b825ebf4e">Πότε οι συμφωνίες κοινής προμήθειας είναι νόμιμες; (συνέχεια)</Title>
+      <PageElements GUID="8db6ab09-2961-4e28-a1a4-4a83bf9cd834">
+        <PageElement GUID="f3d52ae1-a15b-4372-b6ab-102e35f271f7">
+          <Graphic GUID="cd136948-a49a-46a6-913f-aeef59ad5fa9"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/36a6d5ec-d2ba-49c0-9578-286da74aade9.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="39f12429-001b-4b12-a773-160da4e5badd">
+          <TextBox GUID="08e38b3f-edb6-4e74-b172-f8e8c4a7d6d9"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="03fab894-54f7-4073-8f74-0ede0687c979">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="1488b3c3-9a75-4127-a68a-bd3a3ab1b172" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="5bcef8bc-e4ad-4a86-b6a8-0b841bef4e2e">Εάν τα μερίδια που αντιπροσωπεύουν οι από κοινού αγοραστές στην αγορά προμήθειας και στην αγορά πώλησης είναι σχετικά μικρά, π.χ. κάτω του 15%, η συμφωνία κοινής προμήθειας είναι απίθανο να παραβαίνει το Δίκαιο Ανταγωνισμού.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="1e488c09-3563-47bd-8508-3ace9d3a3335" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="87b67d2d-5b9a-4e10-893f-0339170d2fe1">Εάν και τα δύο ποσοστά είναι σημαντικά, π.χ. ξεπερνούν το 15%, απαιτείται περαιτέρω ανάλυση των επιπτώσεων της συμφωνίας κοινής προμήθειας στον ανταγωνισμό.  Οι σχετικοί παράγοντες αφορούν τον αριθμό των ανταγωνιστών, τους οποίους έχουν οι από κοινού αγοραστές στην αγορά προμήθειας και στην αγορά πώλησης, και το βαθμό στον οποίο η αγοραστική τους δύναμη μπορεί να εξισορροπείται από την ισχύ των προμηθευτών τους.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="9cf873a1-3c30-4a2e-bc0e-e16f3226276e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="9c2f5a55-18bf-4438-951a-7ba5c227ad88">Γενικά, όταν οι από κοινού αγοραστές έχουν ισχυρή παρουσία (π.χ. σημαντικά άνω του 15%) στην αγορά προμήθειας ή την αγορά πώλησης, τότε η συμφωνία είναι πιθανόν να παραβαίνει το Δίκαιο Ανταγωνισμού.  Αυτό συμβαίνει γιατί οι από κοινού αγοραστές έχουν τέτοια ισχύ στην αγορά προμήθειας ή/και την αγορά πώλησης που η κοινή συμφωνία τους νοθεύει τον ανταγωνισμό και καθιστά δύσκολο για τους αντιπάλους τους τον ανταγωνισμό επί ίσοις όροις.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="e0f016e9-09a6-4b29-85f6-600ceab63b5a" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="cb9fe513-c764-4340-88cf-61d14387d570">Θα πρέπει πάντα να αναζητείτε νομικές συμβουλές πριν συνάψετε οποιαδήποτε συμφωνία κοινής προμήθειας.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="ee196efd-6ffe-4c9a-abe3-e1fdad13e979">
+      <IncludedInTOC GUID="5341f9ad-8d44-4f51-882a-2dde2f6ffcf2">true</IncludedInTOC>
+      <Title GUID="4342cda0-00f1-4935-8f1f-e15849ef4324">Μπορεί ποτέ να επιτρέπεται μια συμφωνία κοινής προμήθειας που περιορίζει τον ανταγωνισμό;</Title>
+      <PageElements GUID="1595d1c9-6985-46aa-aee7-0b1f5118b6fa">
+        <PageElement GUID="5685e030-d376-44e2-b823-6acb80b99b25">
+          <Graphic GUID="e78e06ae-a759-4012-82f0-05af178a9851"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/1117d858-b84a-4c47-aabd-3d3f74f197ae.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="c19d5dea-f59c-443c-962e-60442aafcc51">
+          <TextBox GUID="730ee531-9025-48bc-b3eb-2ca4a3754a53"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7c157da8-75f8-40ff-af7f-94c9e01307bc">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="2bb7834a-6e96-427b-9f82-101a4a4bd259" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="c9de4265-ee29-4443-b9f0-998239a2058f">
+        <strong GUID="12ff04ad-7ebc-45a7-8e59-6f53ecfb6f88">
+          <font face="Arial" GUID="ad2763be-9bad-4c45-99c0-df5ea63f45bf">Καταναλωτικό όφελος</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="e458da97-ac4d-4a5f-9df2-2a802a7cc4d9" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="6436b6b8-02e6-414f-adab-822edb568be1">Η κοινή προμήθεια μπορεί να οδηγήσει σε εξοικονόμηση σε παραγγελίες και μεταφορές.  Το Δίκαιο Ανταγωνισμού αναγνωρίζει ότι σε ορισμένες περιπτώσεις, εάν η εξοικονόμηση κόστους περνάει στον καταναλωτή, π.χ. με τη μορφή χαμηλότερων τιμών, το όφελος του καταναλωτή μπορεί να αντισταθμίζει τα μειονεκτήματα των συμφωνιών κοινής προμήθειας που περιορίζουν τον ανταγωνισμό (στα οποία θα μπορούσαν να συγκαταλέγονται η δημιουργία υπερβολικής αγοραστικής δύναμης ή η μείωση του ανταγωνισμού στις αγορές πώλησης).  Υπό αυτές τις συνθήκες, μια συμφωνία κοινής αγοράς μπορεί να επιτρέπεται σύμφωνα με το Δίκαιο Ανταγωνισμού.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="178709df-9c03-4e0f-a72f-6a2d3edad048" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="02d64447-ed5e-4efd-88f5-08e29df40715">
+        <strong GUID="9a8c0b76-78a9-4290-a85f-507290997279">
+          <font face="Arial" GUID="12da6153-abbb-492d-986f-1230a43f7b13">Εξεύρεση ισορροπίας μεταξύ των πλεονεκτημάτων υπέρ του καταναλωτή και των μειονεκτημάτων που περιορίζουν τον ανταγωνισμό </font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="adc380ec-df36-4e84-87f6-07a8002e51e9" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="922e47c7-fb4b-44ae-a817-7594a3e6c772">Εάν μια συμφωνία κοινής προμήθειας έχει ορισμένα οφέλη για τους καταναλωτές, αλλά και επιβάλλει στους από κοινού αγοραστές περιορισμούς στον ανταγωνισμό, οι οποίοι δεν αποσκοπούν απαραίτητα σε οικονομικά οφέλη, η συμφωνία δεν είναι αποδεκτή.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="41774be0-b659-4f44-a588-d816862d7b86" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="7f7ca718-ca91-4c25-b789-77bb0491d40a">Για παράδειγμα, οι από κοινού αγοραστές μπορεί να υποχρεούνται να κάνουν αγορές αποκλειστικά μέσω της συμφωνίας. Αυτός είναι ένας περιορισμός του ανταγωνισμού, ο οποίος, εάν δεν απαιτείται για τη δημιουργία οικονομικών ωφελειών από τη συμφωνία (π.χ. επειδή η εξοικονόμηση κόστους θα εξακολουθούσε να υπάρχει μέσω ενός χαμηλότερου ποσοστού κοινών αγορών ακόμα και αν οι από κοινού αγοραστές έκαναν ορισμένες πρόσθετες μονομερείς αγορές), καθιστά τη συμφωνία παράνομη.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="f018024d-add6-4b5a-97b3-67402feae0b1">
+      <IncludedInTOC GUID="bf82089c-308a-4fee-8fd8-6e47164c0ff4">true</IncludedInTOC>
+      <Title GUID="674baa35-7dd2-43b1-937a-af1423f1d8ac">Μπορεί ποτέ να επιτρέπεται μια συμφωνία κοινής προμήθειας που περιορίζει τον ανταγωνισμό;</Title>
+      <PageElements GUID="7c8b7f04-8384-4fd9-ad68-fe2374ba9dfa">
+        <PageElement GUID="67f9f517-2cce-458e-8fbc-f096a684e08b">
+          <Graphic GUID="06901bc6-3904-4e84-a675-2939ca4b4076"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/9993fe9f-8e5e-48f7-82cd-652a4c3062cf.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="b173199d-2a5f-4d1c-8982-6fe85d6e999e">
+          <TextBox GUID="5d4582e9-ab39-4695-b54b-7e28c25308a5"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="0220967d-7875-4559-b47a-bd7ac54c3425">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="d76bf8e5-0c1c-43a2-996a-024b3438ca5d" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="ac629034-a6f0-4994-af9f-d6024fd29ee2">Εάν η συμφωνία κοινής προμήθειας επιτρέπει στους κοινούς αγοραστές να εξαλείφουν τον ανταγωνισμό είτε στην αγορά προμήθειας είτε στην αγορά πώλησης, αυτό είναι ανεπίτρεπτο σύμφωνα με το Δίκαιο Ανταγωνισμού.  Βραχυπρόθεσμα οι καταναλωτές μπορεί να επωφελούνται, αλλά μακροπρόθεσμα θα ζημιωθούν εάν εξοντώνονται οι ανταγωνιστές ή προμηθευτές.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="cd256493-1c27-4929-9275-b63e3441d024" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="f20f2940-ede5-41ec-996e-79bbb7937228">Η εξάλειψη του ανταγωνισμού μπορεί να συμβεί όταν οι κοινοί αγοραστές έχουν τόσο ισχυρή θέση στην αγορά προμήθειας ή στην αγορά πώλησης που οι ανταγωνιστές ή προμηθευτές τους αναγκάζονται να αποσυρθούν.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="6050fe96-985d-4587-849e-ccb0a0c440dc">
+          <ExtraInfo GUID="ec6b6231-016e-489a-91a0-9b0c45d4b294"> <![CDATA[<div class="ExtraInfo_Main">
+  <table cellpadding="0" cellspacing="0" border="0" class="ExtraInfoExtraVisible">
+    <tr>
+      <td width="2%" class="" style="padding-left:5px;cursor:hand;">
+        <img class="" src="/General/Images/InfoPath/CC_Example.gif" name="EX_&quot;54c2fdfd-eb2d-44ec-b057-77b185058303" ID="EX_54c2fdfd-eb2d-44ec-b057-77b185058303" onClick="TogglePopup('54c2fdfd-eb2d-44ec-b057-77b185058303');" onmouseover="this.src=activeExample;" onmouseout="this.src=Example;">
+      </td>
+      <td class="" align="left" style="padding-left:5px;vertical-align:top;">
+        <div class="">ΣΕΝΑΡΙΟ 1</div>
+      </td>
+    </tr>
+  </table>
+  <div ID="Content_54c2fdfd-eb2d-44ec-b057-77b185058303" class="ExtraInfo_Hide">
+    <table>
+      <tr>
+        <td class="TextGraphic_Description">
+          <Description GUID="2addb298-e3c7-42a2-8489-c4ec76e2ca1f">
+            <div GUID="a25d16dd-e97e-4d1d-99e9-564f8c762a8b" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="89d39ccd-d9a1-41c0-82b9-670dcdcad4e7">
+                <strong GUID="2fe52c5a-c554-4042-acbf-033e090daadf">
+                  <font face="Arial" GUID="58b355c8-b1fe-4767-a888-9d0710b9af99">ΣΕΝΑΡΙΟ 1</font>
+                </strong>
+              </span>
+            </div>
+            <div GUID="b2e64ef8-9c98-41cd-bce8-90a1560a2fb2" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="8170ca7b-6ace-4a8e-af78-01b49ad3ac2c">
+                <span style="LAYOUT-GRID-MODE: line" GUID="8410f646-5cd7-48d8-bfa0-d10e8946234d">150 </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="aafb3861-1233-4e0d-9a3a-c91794724f66">ανεξάρτητα τοπικά παντοπωλεία συμφωνούν να συστήσουν έναν οργανισμό κοινής προμήθειας τσιγάρων</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="5892eb36-a3e2-4822-af54-39d6ed25c1d4">. </span>
+              </font>
+              <font face="Arial" GUID="c1f6af99-3743-4abb-8c06-305c859c653d">
+                <span style="LAYOUT-GRID-MODE: line" GUID="2be7b7df-f6f0-44b2-936a-c0819e95905c">Κάθε παντοπωλείο πρέπει να αγοράζει μια ελάχιστη ποσότητα τσιγάρων μέσω του οργανισμού</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="6dc70730-d2e8-41f0-99a9-00c8a4c19264">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="e57f4c01-aa78-4941-8f9e-1c3bd135b75e">Η ελάχιστη ποσότητα αντιπροσωπεύει το </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="51307b72-b8e6-4ace-b84d-9f7ca578ae69">50% </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="742f9f7c-1b65-4906-921e-c1196eb1d191">των δαπανών κάθε λιανοπωλητή σε τσιγάρα</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="ddb7b673-b7bb-49c6-817d-5ed3133b95a4">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="ab8da6f8-70d4-45c3-84ac-c5345c76b6d5">Τα παντοπωλεία είναι ελεύθερα να αγοράζουν μεγαλύτερες ποσότητες μέσω του οργανισμού και μπορούν επίσης να αγοράζουν ανεξάρτητα, εκτός του οργανισμού</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="5f61b938-86d4-4182-b69c-dfab30947eb9">. </span>
+              </font>
+              <font face="Arial" GUID="79ccc3fa-32fb-4753-bf50-4e0d942da39d">
+                <span style="LAYOUT-GRID-MODE: line" GUID="9a5e2dc3-f826-4505-8747-6e4c5428bc10">Το συνολικό μερίδιο αγοράς τους είναι</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="029197ee-4564-433f-a6f0-54d7f066a4d6"> 20% </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="1da9a1a5-a4d4-4b4d-8a3c-1b2ee2ce1237">τόσο στην αγορά προμήθειας όσο και στην αγορά πώλησης</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="b36ca0ad-fa77-4ea9-9b53-a15a396e5a4a">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="2aa8ea66-6ab0-418c-8ab3-2837c3c669a8">Έχουν δύο κύριους ανταγωνιστές, τον </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="1fbf0a95-3d45-4b3e-8f11-62b3ab84388c">A</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="9de25378-fcf7-4616-af5c-e01b0ce129a1">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="5d96196a-cd24-4b8d-9cd5-793d2961d037">και τον </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="19c2d0aa-305a-4bba-97e4-a2bd91b19618">B</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="95688ebb-7e44-4564-b45f-dc8ee75f1802">, </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="749388ae-8f52-4b2e-8481-c52f2d2c4710">που είναι μεγάλες αλυσίδες σουπερμάρκετ</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="acaf34d7-8b5b-42f2-a001-1330255a58b4">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="9d8ca9dc-93d8-4046-83af-b6972672c4ac">Ο </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="09fef0c7-d28e-4a0c-9d84-0c02eb63a8cc">A</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="d83c6865-92a8-4da3-b46e-cccc726cef77">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="1ccd849e-b44f-4181-8766-7d804b7eeae8">έχει μερίδιο αγοράς και στις δύο αγορές </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="c740bbf3-c1d6-4027-96a2-1b2ab830750e">25%.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="aad23d48-5dfa-464f-ad2c-adf94a8ddfc2">Ο Β έχει μερίδιο αγοράς και στις δύο αγορές </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="4454a772-64f1-4efe-9c1e-3c027f9d0bc4">35%.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="61c2d05a-208c-4b1c-a307-77af4f315057">Τα ανεξάρτητα τοπικά παντοπωλεία εξοικονομούν αγοράζοντας από κοινού μεγαλύτερες ποσότητες τσιγάρων και συνδυάζοντας τις αγοραστικές τους διαδικασίες</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="27886351-10e8-4129-94ed-65e00a2c4b75">.</span>
+              </font>
+            </div>
+            <div GUID="8bd3ac00-225e-4aae-a162-e5490ca83488" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="bb2b230a-4864-45ec-b9fb-9c3081b93ba1">
+                <font face="Arial" GUID="43caa15d-6277-4133-a84a-0ce0024cce70">
+                </font>
+              </span> </div>
+            <div GUID="aed32a2f-2e38-40f7-86af-f52f464f8bf8" xmlns="http://www.w3.org/1999/xhtml">
+              <strong GUID="c4501c7c-3d58-41ac-8a92-5a9c7c78b926">
+                <font face="Arial" GUID="9ebcb914-efbd-4646-8420-a1bf47a6b073">ΑΝΑΛΥΣΗ</font>
+              </strong>
+            </div>
+            <div GUID="ae99ca3f-3684-4cf4-8738-ce6c00116f56" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="792d5147-b83f-4448-b2c9-73097289f6da">
+                <span style="LAYOUT-GRID-MODE: line" GUID="804097d9-e40d-4e86-878e-003aa0e9d3d8">Οι κοινοί αγοραστές είναι πιθανόν να πληρώνουν την ίδια τιμή για τα τσιγάρα που αγοράζουν από κοινού</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="a9879f45-59b8-4ba9-bc96-27cbcd2844a0">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="c7e1b8d8-833a-4fd5-9e82-8ac626bc0b83">Αυτό είναι πιθανόν να μειώσει τον ανταγωνισμό των τιμών μεταξύ τους στην αγορά πώλησης επειδή το κόστος τους θα είναι το ίδιο</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="36c7fccd-6896-4884-9432-d83c00ac46de">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="6717f441-6c99-43e0-b1ea-4aac6b399a29">Έχουν σχετικά σημαντική συνολική θέση στην αγορά προμήθειας και την αγορά πώλησης</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="c852cd6e-61d1-4d9b-a2eb-e6316d972a92"> (</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="84d14ce3-f380-440d-a4b4-d6f4cb37d015">άνω του</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="43bfc0ab-2bec-464c-b3dc-dc2015746362"> 15%).  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="2b532f7c-8a2d-4ab4-bdc4-e5550bf61d2c">Επίσης όμως ανταγωνίζονται και στις δύο αγορές δύο μεγάλες επιχειρήσεις και ο οργανισμός κοινής προμήθειας τους επιτρέπει να ανταγωνίζονται πιο αποτελεσματικά και με πιο ίσους όρους την αγοραστική δύναμη αυτών των μεγάλων ανταγωνιστών</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="9f3535b2-c43f-486d-a0de-b13bfc1af0e1">.</span>
+              </font>
+            </div>
+            <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="justify" GUID="d956fcf9-cd2e-4da9-a291-995218515b53" xmlns="http://www.w3.org/1999/xhtml">
+              <font style="FONT-SIZE: 11pt" face="Arial" GUID="96146b88-1e82-4741-996d-ed99ddec2db3">
+                <font size="2" GUID="fc4b97a1-8c70-47eb-aa4a-207569bb1008">
+                  <span style="LAYOUT-GRID-MODE: line" GUID="488e3cce-4f2b-4fc2-ba03-1195da25bd1a"> </span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="7bd84b98-8909-4d52-a745-c0bca42f5609">Για αυτούς τους λόγους η συμφωνία είναι πιθανόν να γίνει αποδεκτή</span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="f5c05d93-92ba-4710-a04e-82a7f3b4b4c9">.</span>
+                </font>
+              </font>
+            </div>
+          </Description>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img class="" style="position:absolute;left:488px;top:368px;;cursor:hand;" src="/General/Images/InfoPath/CC_Close.gif" onClick="TogglePopup('54c2fdfd-eb2d-44ec-b057-77b185058303');" onmouseover="this.src=activeCloseImg;" onmouseout="this.src=closeImg;">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="51c3ea1e-a1de-492b-a92a-f588c2b7d00e">
+          <ExtraInfo GUID="2b9b4ecf-746a-472a-8a12-0daac7be41a3"> <![CDATA[<div class="ExtraInfo_Main">
+  <table cellpadding="0" cellspacing="0" border="0" class="ExtraInfoExtraVisible">
+    <tr>
+      <td width="2%" class="" style="padding-left:5px;cursor:hand;">
+        <img class="" src="/General/Images/InfoPath/CC_Example.gif" name="EX_&quot;06b5b4aa-8409-4bc8-bcda-39ddf9327438" ID="EX_06b5b4aa-8409-4bc8-bcda-39ddf9327438" onClick="TogglePopup('06b5b4aa-8409-4bc8-bcda-39ddf9327438');" onmouseover="this.src=activeExample;" onmouseout="this.src=Example;">
+      </td>
+      <td class="" align="left" style="padding-left:5px;vertical-align:top;">
+        <div class="">ΣΕΝΑΡΙΟ 2</div>
+      </td>
+    </tr>
+  </table>
+  <div ID="Content_06b5b4aa-8409-4bc8-bcda-39ddf9327438" class="ExtraInfo_Hide">
+    <table>
+      <tr>
+        <td class="TextGraphic_Description">
+          <Description GUID="a6a4c2ea-889b-46f1-b8e1-f170a49bed62">
+            <div GUID="b6b862dd-fe68-4032-b3f9-8c5f2adc1ab9" xmlns="http://www.w3.org/1999/xhtml">
+              <strong GUID="b36b2d44-4eeb-4e50-9a8f-07dd587f9ac7">
+                <font face="Arial" GUID="d611d5c2-0a4e-429b-8400-3c2540fdb7d5">
+                  <span style="LAYOUT-GRID-MODE: line" GUID="d6c5ecdc-83b0-4662-8542-ed9dacd47e7c">ΣΕΝΑΡΙΟ</span>
+                  <span style="LAYOUT-GRID-MODE: line" GUID="4ae00831-617a-44aa-b033-cd10248302e4"> 2</span>
+                </font>
+              </strong>
+            </div>
+            <div GUID="72188b03-4ec0-4750-b675-3d5d5263e20c" xmlns="http://www.w3.org/1999/xhtml">
+              <strong GUID="369e70d6-0367-4e34-905f-51e0da58f649">
+                <span style="LAYOUT-GRID-MODE: line" GUID="26481b68-f0a2-4622-848a-27e051e68ffe">
+                  <font face="Arial" GUID="c99c614f-877a-4b26-884f-f59255485c8d">
+                  </font>
+                </span>
+              </strong> </div>
+            <div GUID="568a721b-ff3c-48ae-8a9b-c4191c26e07c" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="216aecab-c0b4-4b2b-b9cb-0d2b2e9c1b83">
+                <strong GUID="425cb779-c14d-4882-9040-b974832e1682">
+                  <span style="LAYOUT-GRID-MODE: line" GUID="cb65d133-564c-4925-a32c-06600f0608ea">
+                  </span>
+                </strong>
+                <span style="LAYOUT-GRID-MODE: line" GUID="e0bade38-6bb2-450a-8be2-5abc3fe1bbc4">Υπάρχουν τρεις αλυσίδες σουπερμάρκετ που δεσπόζουν στην αγορά λιανικής πώλησης τροφίμων στην περιοχή του Ευρύτερου Λονδίνου: η </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="41c3741d-b851-4bc3-ac65-784d98d077a7">A</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="198557e8-bafb-495c-bf94-518feb6fdea3">, </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="7f12be89-8b73-4727-ac75-3bf246e8de75">η </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="3748f613-9ce6-4fdd-9c89-ab0a7baf4313">B</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="4876a448-cfaf-4709-bc14-852cdb82e0fd">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="d2061ca7-ec69-4b12-afb2-5c23f4b9344c">και η Γ</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="f48199ea-9154-4530-bdc5-26a5d47dbbc3">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="f8e12ffe-58c0-4157-8c75-584800a1c0bb">Οι δύο από αυτές</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="66399874-02f4-4454-b12e-7b9b00e52ffe">, </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="74869cb0-f3ea-42eb-a5c6-0accbfd1a827">η </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="e9fa74cd-1c97-4a47-93b6-1bab1d49f866">A</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="7fe85126-9637-4f13-8745-8c14874b2e97">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="d487154d-8730-4646-947f-d1e90a12483e">και η </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="810ce571-d357-49c8-a3e9-cec06e5b6dc3">B</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="523dab76-dfd8-43a2-b898-dba83ce7d8ed">, </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="926b2473-22e1-481e-93b0-fc3f12d1d229">συμφωνούν να συστήσουν έναν οργανισμό κοινής προμήθειας προϊόντων καπνού, όπως τσιγάρα, καπνός για στριφτά και χαρτάκια, από έναν χονδρέμπορο</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="7889237e-4ff4-4867-8a99-00400bbcab3c">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="88845e2c-e10f-42f2-8cc8-6aded99cbde3">Το συνολικό μερίδιο αγοράς τους είναι </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="0b3f8651-09f9-4255-bf87-27fd0a7335da">60% </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="4d50623d-0029-4012-a3ae-fc89bb071384">τόσο στην αγορά προμήθειας όσο και στην αγορά πώλησης</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="1cd9afb6-34f7-4265-87f4-cf699489e2fa">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="017bb166-4eaf-41fb-bbc2-9245b0e6f918">Η Γ έχει μερίδιο αγοράς και στις δύο αγορές </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="e2cbbd6b-98c2-4bed-ae76-c00deacd03dc">20%.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="b0ba4da0-72f5-4697-83cc-a1b054203276">Η </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="a8aa3580-9a22-419d-9450-6dd5add5e8e0">A</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="48f5379b-e529-47e3-be40-f182f0fbb76b">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="7d00ed7b-012e-4f7d-b3db-e0b438fbaf13">και η </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="5dda0ea0-5111-485b-8749-5620e1092678">B</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="fc5d2a81-50e1-4918-a6ab-98f195d2781f">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="4d554ecd-5ce0-4aa4-8bbf-a170a3fb9e98">εξοικονομούν από την κοινή αγορά προϊόντων καπνού και από το συνδυασμό των αγοραστικών τους διαδικασιών, πράγμα που επιτρέπει μεγαλύτερες εκπτώσεις</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="196b95c1-05eb-4cbd-8445-72bbe586420b">.</span>
+              </font>
+            </div>
+            <div GUID="8c56d072-36af-4024-973f-24e3842b16c1" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="25e8c41c-6717-48ed-a433-cbbf63bab2cb">
+                <font face="Arial" GUID="086e9e5c-833d-4bc0-ac22-7b9b62c03b41">
+                </font>
+              </span> </div>
+            <div GUID="12056766-7291-4cdb-818d-3733d40cced1" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="22b40c56-87f9-46c6-a6f6-f6aaca3c3f4f">
+                <span style="LAYOUT-GRID-MODE: line" GUID="bedf3235-226a-4fdd-a79c-83822f14d954">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="4d7a8d33-f424-4d6b-88be-89ef9acd8bd3">
+                  <strong GUID="cc592fa3-265b-45ff-bc4e-e9cb2a88965b">ΑΝΑΛΥΣΗ</strong>
+                </span>
+              </font>
+            </div>
+            <div GUID="09eda1a9-7810-4c42-9a74-f8f0de6517c1" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="5364797f-8377-4e97-9b71-55a6fe3efbc1">
+                <strong GUID="83aec5af-8210-4cf9-bda3-db9c389a2bcc">
+                  <font face="Arial" GUID="168b4724-3052-4dc0-acfc-1de98912b4d4">
+                  </font>
+                </strong>
+              </span> </div>
+            <div GUID="5d6216a1-597d-4f91-a26d-e4640250cdff" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="eeb256d5-06b0-4a95-89c8-38e5e07a393b">
+                <span style="LAYOUT-GRID-MODE: line" GUID="8d2f172c-c4b6-472f-a060-ca63698014f4">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="04ce73c5-99e0-4985-b26c-32bc3ff05aa4">Όπως και πριν, επειδή οι από κοινού αγοραστές θα πληρώνουν πιθανόν την ίδια τιμή για τα προϊόντα καπνού που αγοράζουν από κοινού, αυτό θα μειώσει τον ανταγωνισμό των τιμών μεταξύ τους στη αγορά πώλησης επειδή το κόστος τους είναι το ίδιο</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="7f981f08-3371-4bcf-af9c-c661b90132ce">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="4b7f2369-9ea9-4025-8c1b-c8dbbeec4dbf">Σε αυτό το Σενάριο όμως οι από κοινού αγοραστές έχουν πολύ ισχυρό συγκεντρωτικό μερίδιο αγοράς </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="bf4500ec-f2c1-48be-9274-4bc0687282af">(60%) </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="604d603d-7849-4f77-aebb-fc31ebfedac5">στην αγορά προμήθειας και την αγορά πώλησης, άρα αυτή η συμφωνία κοινής προμήθειας δεν αποσκοπεί στον ανταγωνισμό επί ίσοις όροις με πολύ μεγαλύτερους ανταγωνιστές, εφόσον είναι ήδη πολύ ισχυροί</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="ea567992-7edf-4d5e-8c84-fd0b3db19135">.</span>
+              </font>
+            </div>
+            <div GUID="5df799f0-afa6-4ed1-8427-3af2bb8c591d" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="a425b177-0fbe-482c-82db-66edf39b295f">
+                <font face="Arial" GUID="35a707e5-7a35-454c-90b8-fc486f2a7aa3">
+                </font>
+              </span> </div>
+            <div GUID="fef7811a-ff00-4529-826d-aad6c6d16518" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="0a945f1e-92fe-471e-b149-79a189fdbc67">
+                <span style="LAYOUT-GRID-MODE: line" GUID="9b7b0e42-caf9-4be8-a7b8-f316ebf3b41e">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="c829e4b4-39e2-45ea-8832-c89af797a3cc">Για αυτούς τους λόγους η συμφωνία είναι <em GUID="0e3775b0-a698-40d9-acc7-f89c633cda84">απίθανο</em> να θεωρηθεί επιτρεπτή, εφόσον η συνολική ισχύ τους είναι τόσο μεγάλη που θα νοθέυσει τον ανταγωνισμό, θα θέσει τους ανταγωνιστές τους σε σημαντικά μειονεκτική ανταγωνιστική θέση και ενδεχομένως θα έχει αρνητικές επιπτώσεις για τους προμηθευτές</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="8683ad3a-1433-48bc-90d3-119207e0f257">.</span>
+              </font>
+            </div>
+            <div GUID="fbedfdcc-80a8-459f-9451-aa66c5d37f7e" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="FONT-SIZE: 11pt; LAYOUT-GRID-MODE: line" GUID="9a8310bf-2a14-4863-8f3a-73938972ffcb">
+              </span> </div>
+          </Description>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img class="" style="position:absolute;left:488px;top:368px;;cursor:hand;" src="/General/Images/InfoPath/CC_Close.gif" onClick="TogglePopup('06b5b4aa-8409-4bc8-bcda-39ddf9327438');" onmouseover="this.src=activeCloseImg;" onmouseout="this.src=closeImg;">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="f219d76e-ed19-4f74-a592-2cfac48e8697">
+      <IncludedInTOC GUID="51491f31-b737-4dd9-b714-5a31c1fe8fab">true</IncludedInTOC>
+      <Title GUID="9255c114-b7df-4516-acc8-486e49917948">Συμφωνίες κοινής πώλησης</Title>
+      <PageElements GUID="e873d770-fb9e-4647-8005-aef6cc7de892">
+        <PageElement GUID="a708fc0c-603f-4d58-bb72-09437a260c2c">
+          <Graphic GUID="4023ef0e-f2b7-4e52-83d1-2842f4751ed5"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/d1e23e08-e2c5-4706-894d-049634ec8842.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="a6d75c4e-d9e5-43c1-b780-acb438665b17">
+          <TextBox GUID="db12cc09-8162-4d71-b5cd-dff35ac54f27"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="47c4308f-f7f7-46ba-93c5-2e55858344d8">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="80d7d598-dd29-416e-a973-3f07e28dc387" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="619a0e09-6b32-49b6-b25e-f207958314ac">
+        <strong GUID="534c0e5f-f3e8-4f20-93ea-686ad5871a05">
+          <font face="Arial" GUID="4414c0f7-67a8-4301-9260-ad0344057ddc">Τι είναι η συμφωνία κοινής πώλησης;</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="37041d9a-e533-4282-9d62-68a96b625520" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="aa64abb8-b6d5-462e-ab7d-b2a9a22c1f83">Κοινή πώληση υφίσταται όταν δύο (ή περισσότερες) εταιρείες, που μπορεί να είναι ανταγωνίστριες, αποφασίζουν να ενώσουν τις προσπάθειες τους για να πωλούν αγαθά ή υπηρεσίες σε πελάτες.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="4ef6306d-d71f-44be-a093-4d088f218c83" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="9c7fe460-3bdd-4b15-b0a6-82862c5d3b5e">Μπορούν να χορηγούν σε άλλη εταιρεία το δικαίωμα να πωλεί τα προϊόντα τους, μπορούν να χορηγούν αυτό το δικαίωμα σε μία ή περισσότερες εταιρείες από τις εταιρείες που συμμετέχουν στη συμφωνία τους, ή μπορούν να δημιουργήσουν μια κοινοπραξία για να πραγματοποιούν τις κοινές πωλήσεις τους.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="d43a154b-f68d-497a-94b3-e45aa6f0111e" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="c0b9cc84-cd4d-4bd1-af2c-3a17c2ec1067">
+        <strong GUID="1d4708e4-9dc5-45f5-a15b-5f89fb1bf052">
+          <font face="Arial" GUID="e66e7cb5-0b4a-45fe-aec8-019b37a51a59">Γιατί οι εταιρείες επιθυμούν να πωλούν από κοινού;</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="56916719-254b-4aee-b214-08ba59e57a9f" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="d049baa5-3896-4b67-97fb-410ee2cfb578">Το κίνητρο για τις κοινές πωλήσεις είναι συνήθως η μείωση του κόστους μάρκετινγκ και πωλήσεων. Οι εταιρείες μπορούν να μοιράζονται σημεία πωλήσεων και να διαιρούν μεταξύ τους το κόστος εμπορίας των προϊόντων τους.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="c95f4784-44b1-453c-b8cf-4a855ca02e5b" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="1c682fc4-9c4f-47cb-96c3-116922236f5f">
+        <strong GUID="8a1dab69-f54f-42dd-9ee2-c5788c419219">
+          <font face="Arial" GUID="5637458b-ae42-4726-a5c6-0dc45c3311ef">Ποιες είναι οι επιπτώσεις των συμφωνιών κοινής πώλησης σύμφωνα με το Δίκαιο Ανταγωνισμού;</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="1839736e-d6c9-4f59-87c3-f7697aeb3944" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="01d48e0a-b6bf-4a24-95f9-cc3e0711715e">Οι συμφωνίες κοινής πώλησης συνήθως παραβαίνουν το Δίκαιο Ανταγωνισμού.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="f97c7904-9dee-4153-b381-33ce1e9bda8b" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="b80234bf-e290-4ce2-be30-d72051e57d59">Αυτό συμβαίνει επειδή μειώνουν τον ανταγωνισμό μεταξύ των εταιρειών που αποφασίζουν να πωλούν μαζί, οδηγώντας συνήθως σε υψηλότερες τιμές και μικρότερη επιλογή για τον αγοραστή/καταναλωτή.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page9" IsActive="true" GUID="254f55a4-fcf7-4351-b992-3607f896d2df">
+      <IncludedInTOC GUID="d7bc81ed-0a6a-452e-ba2c-d56a8a31c9cc">true</IncludedInTOC>
+      <Title GUID="cff4d833-2bb0-452a-b986-a9f7953c944e">Συμφωνίες κοινής πώλησης (συνέχεια)</Title>
+      <PageElements GUID="40630c36-7fde-4a71-ac8e-9e705606e559">
+        <PageElement GUID="a523df57-d4ef-47f9-a8fd-64e2d13938e6">
+          <Graphic GUID="f1e93046-e655-4c17-8688-364f7fbd5105"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/e3de63ee-4e93-4c02-aeb9-69fd40418557.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="94a698cc-492e-4f6b-88f0-6a4c9de54b78">
+          <TextBox GUID="f5e1facb-2b9c-41c7-b0da-cbcdd6f365b6"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="39419524-ce44-4da5-a0b4-69ec1ee8c433">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="a37a5bdd-3f3e-4905-b4ea-38d9ea0d5e47" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="6f2f1c90-78d2-410a-96e9-961429dd2cdb">
+        <strong GUID="5d2b6d9d-777a-40cf-a866-ae0d6394477f">
+          <font face="Arial" GUID="44f4c8e0-8297-4592-afa0-580e8410c2dc">Πώς οι συμφωνίες κοινής πώλησης μειώνουν των ανταγωνισμό μεταξύ των κοινών πωλητών;</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="46b80f7a-1197-4721-8cda-e43771adea7e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="46ff76ab-f2b1-4a4b-8127-57f9cdfdbd86">Ο ανταγωνισμός μεταξύ των από κοινού πωλητών μειώνεται ή εξαλείφεται γιατί, με το συντονισμό των πωλήσεών τους, μειώνουν ουσιαστικά τα κίνητρα ανταγωνισμού. Έχουν κοινό συμφέρον να συνεργάζονται κι έτσι, ακόμα και αν δεν υποχρεούνται να πωλούν αποκλειστικά μέσω της κοινής συμφωνίας, δεν ανταγωνίζονται ενεργά ο ένας τον άλλο.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="9aa0d30d-9f69-4f0d-a26e-8b0b86b2f52a" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="fd05b97b-b803-4bf1-a004-1bd968c12c9d">Αυτό μπορεί να οδηγήσει σε υψηλότερες τιμές και μειωμένη επιλογή για τον πελάτη. Ως αποτέλεσμα της συμφωνίας κοινής πώλησης, οι πελάτες που μπορούσαν πριν να επιλέγουν μεταξύ των δύο από κοινού πωλητών δεν έχουν πλέον αυτήν την επιλογή.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page10" IsActive="true" GUID="0bbcc9d5-476c-4fed-ba30-2a58ad26b8b2">
+      <IncludedInTOC GUID="57c855fb-b974-47a9-a1c1-7377a1723fe9">true</IncludedInTOC>
+      <Title GUID="a890d227-38e0-46dd-9138-a1a4ff5d230a">Πότε οι συμφωνίες κοινής πώλησης είναι νόμιμες; </Title>
+      <PageElements GUID="c0acfc64-ec2f-48cc-82f0-bf87189b51bc">
+        <PageElement GUID="4af96c76-ba50-427e-8ea7-17c5c5eaab48">
+          <Graphic GUID="a05424eb-2c16-4bfb-bda2-25c00e77bf92"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/b0095aaf-1c6a-4aa8-8240-0771c4e8d4a6.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="556fb276-d640-4c8a-832a-f0077ea6c22e">
+          <TextBox GUID="3d460464-7ebe-428a-8c71-c1582919da35"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="d462aa04-7310-439d-b2c3-1c62416f029b">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 3.75pt; LAYOUT-GRID-MODE: char" GUID="0a958dd3-8df7-474d-94ba-5076b30083e9" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="1eafe18d-2d4d-45a3-ab14-d9c3c1e883fd">
+        <font face="Arial" GUID="0eedc60c-b2eb-43bf-b2ff-451836fee7ab">Οι συμφωνίες κοινής πώλησης μπορούν να είναι νόμιμες σύμφωνα με το Δίκαιο Ανταγωνισμού υπό ορισμένες συνθήκες:</font>
+      </span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 3.75pt; LAYOUT-GRID-MODE: char" GUID="9e1977a6-624a-48ee-a876-834e5df75848" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="6b71d372-fffb-4cdf-a049-d09c6a12bac8">
+        <span GUID="c4747731-bdd7-4ace-a6d7-59a316277fb8">
+        </span>
+        <span GUID="2875c19c-dbaa-4841-a3dc-51457102b8a1">
+        </span>
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="a377a690-daa4-4f0c-8e32-cbd2e2028d1c" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="e5a12ce7-60f6-46ab-8dee-b274b317af7e">
+        <font face="Arial" GUID="4ea7cfb0-b769-407c-bfed-ad581b7b8951">
+          <span GUID="2f48db2b-2fe4-4f7e-a115-7c2e1e903d2b">εάν οι εταιρείες είναι μικροί παίκτες, οι οποίοι δεν μπορούν να κάνουν πωλήσεις από μόνοι τους σε αγορές εξαγωγών ή την ΕΕ, ή</span>
+          <span GUID="150d5f32-46ff-4ad5-be69-5c3d708b2587">
+          </span>
+        </font>
+      </li>
+    </ul>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="a068539d-e9de-4c31-8bb3-1d63733bebc6" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="e4c074e0-4294-43f1-b800-b2c69222866e">
+        <font face="Arial" GUID="359aa634-9388-485c-a392-39bd78bf9654">
+          <span GUID="d196b9f6-a4ff-41f8-b01a-22b18eb29828">εάν οι εταιρείες δεν είναι ανταγωνίστριες ή ανήκουν σε διαφορετικούς κλάδους και αποφασίζουν να πωλούν από κοινού, για παράδειγμα για να κερδίσουν μια παραγγελία ή να εκτελέσουν ένα σχέδιο.</span> </font>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" GUID="dcbfcde8-6f04-4d08-8e5b-84bebe803e32" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="f0a45de5-ca48-4f3b-85bf-8811ffb03cfb">
+      </font> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char" GUID="f8a271ec-0364-42e2-b2eb-e484217c1d21" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="c2ec67bd-f33f-4f49-bf77-a0277c8a453e">
+        <span GUID="49395918-eb84-4051-b8e8-f263708b0613">
+          <em GUID="b7f88e41-b480-4810-b1cc-a7013795f62b">
+            <font face="Arial" GUID="bff1261a-c2e6-41d5-a0f5-214cbcb39794">Είναι  ποτέ δυνατόν να επιτραπει μια συμφωνία κοινής πώλησης που περιορίζει τον ανταγωνισμό;</font>
+          </em>
+        </span>
+      </strong>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char" GUID="574d4dff-76f8-414f-b896-0d94ca061423" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="8e0aa822-d4fc-4fa5-bd42-75421525296f">
+        <strong GUID="f9503b60-19e9-4c61-9696-c7089d89d202">
+          <span GUID="b27aee73-7dc9-4de2-b900-bb623994a57c">
+            <em GUID="78b2cc9d-b920-4c55-baf0-6f7573f90afe">
+            </em>
+          </span>
+        </strong>
+        <span GUID="b7b9aab0-be0e-4b88-aac7-d73f3d36ff63">
+        </span>
+      </font> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char" GUID="9e9ee491-799f-45f2-833b-7f020e298c8f" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="7836cdd3-4837-442e-bc77-f6bbf17062bf">
+        <font face="Arial" GUID="19e2bbec-a3c5-442d-a9a3-bb2fb6cdab67">Εάν μια συμφωνία κοινής πώλησης οδηγεί σε εξοικονόμηση κόστους πάνω και πέραν της εξοικονόμησης που προκύπτει από την έλλειψη ανταγωνισμού (π.χ. υπάρχει εξοικονόμηση όχι μόνο σε επίπεδο μειωμένων εξόδων διαφήμισης (τα οποία αποτελούν συνηθισμένο κόστος του ανταγωνισμού) αλλά και από την ενοποίηση και τον ορθολογισμό των επιμέρους ομάδων πωλήσεών τους) έτσι ώστε συνολικά να είναι επωφελής για τον ανταγωνισμό, τότε μπορεί να επιτρέπεται σύμφωνα με το Δίκαιο Ανταγωνισμού.</font>
+      </span>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="0fb52cca-7af6-4d34-bfe2-7f9076b467ba">
+          <ExtraInfo GUID="3089a81f-a1e8-4fe6-ab0e-f4b6b1f12fad"> <![CDATA[<div class="ExtraInfo_Main">
+  <table cellpadding="0" cellspacing="0" border="0" class="ExtraInfoExtraVisible">
+    <tr>
+      <td width="2%" class="" style="padding-left:5px;cursor:hand;">
+        <img class="" src="/General/Images/InfoPath/CC_Example.gif" name="EX_&quot;cdbf77aa-66de-495f-869b-ff4f23ee9d97" ID="EX_cdbf77aa-66de-495f-869b-ff4f23ee9d97" onClick="TogglePopup('cdbf77aa-66de-495f-869b-ff4f23ee9d97');" onmouseover="this.src=activeExample;" onmouseout="this.src=Example;">
+      </td>
+      <td class="" align="left" style="padding-left:5px;vertical-align:top;">
+        <div class="">ΣΕΝΑΡΙΟ</div>
+      </td>
+    </tr>
+  </table>
+  <div ID="Content_cdbf77aa-66de-495f-869b-ff4f23ee9d97" class="ExtraInfo_Hide">
+    <table>
+      <tr>
+        <td class="TextGraphic_Description">
+          <Description GUID="1839a666-ae87-44e1-8f14-96d61afdb5ad">
+            <div GUID="c9607a18-c45b-4802-bc27-00064ce78625" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="6d38197f-7306-4d1c-acb0-3cc9ac674ff0">
+                <strong GUID="25622ff1-5acd-4e55-a525-74fe7fb19c42">
+                  <font face="Arial" GUID="90531379-212b-45aa-b64f-341cbda04381">ΣΕΝΑΡΙΟ</font>
+                </strong>
+              </span>
+            </div>
+            <div GUID="2f5bf8c0-413e-4ea8-84e9-eb656cb49e58" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="967b191a-9fb2-484a-be6a-4903cb5cf70f">
+                <strong GUID="ebc9f398-8ec1-46c1-b7d5-2c9e53bcb2f1">
+                  <font face="Arial" GUID="055dbf02-2eb7-4dab-abc0-fcd801cdaa29">
+                  </font>
+                </strong>
+              </span> </div>
+            <div GUID="9ebaf17a-3bc7-4b43-bdcb-5eff579ab256" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="3c39e313-205c-42f2-a404-13da3ddd2ace">
+                <span style="LAYOUT-GRID-MODE: line" GUID="f4a1c998-b37f-45d5-8976-5799f33c1dfb">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="8b4ec2a1-e607-4265-90ba-3be1a3b30f57">Οι τρεις μεγαλύτεροι γάλλοι παραγωγοί λιπασμάτων, οι οποίοι αντιπροσώπευαν περισσότερο από τα δύο τρίτα της συνολικής γαλλικής παραγωγής, συνέστησαν μια εταιρεία για να πωλούν τα λιπάσματά τους στη Γερμανία</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="70d97919-510a-47e0-9997-0ac96d7b6e07">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="75aea452-38a9-44e7-8f24-6cfbab2b216c">Οι γαλλικές εξαγωγές στη Γερμανία αντιπροσώπευαν μεγάλος μέρος όλων των γερμανικών πωλήσεων</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="ecafabc4-1cca-4dbe-994b-0ce726406172">.</span>
+              </font>
+            </div>
+            <div GUID="0ba1e852-b942-47aa-906d-66b4bbd1ddfa" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="5e9e3ffa-791d-4f55-b777-913af0f5aa49">
+                <font face="Arial" GUID="cd12f4c4-5125-40b5-8749-ee978901948d">
+                </font>
+              </span> </div>
+            <div GUID="a6300c0a-4fc3-4303-ba96-49166f705e51" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="09cde50a-b49d-41fa-9906-16360f1bbad6">
+                <span style="LAYOUT-GRID-MODE: line" GUID="fa06a28c-b1a8-4a6c-913d-37cda37be621">Παρόλο που οι γάλλοι παραγωγοί δεν είχαν συμφωνήσει ρητά να πωλούν όλες τις εξαγωγές τους στη Γερμανία μέσω της εταιρείας, το έκαναν για αρκετά χρόνια</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="379b9009-0c94-4464-b234-2750aae64170">.</span>
+              </font>
+            </div>
+            <div GUID="8f713416-2c0b-4a15-8799-48f1ce83ab8e" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="3cffe125-c590-4bb0-b278-5517cf451a0b">
+                <font face="Arial" GUID="f67efbf2-3141-437c-81b9-9b30d0ebc122">
+                </font>
+              </span> </div>
+            <div GUID="346cff9f-4717-4f2a-818d-30942cc03c1a" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="00420146-cb54-401a-83bf-b4a53d410985">
+                <span style="LAYOUT-GRID-MODE: line" GUID="c5164fd2-dc7b-44eb-8e73-3a2d5b6e4fb6">
+                  <strong GUID="d2bd62de-c44b-4213-942a-9e8d161a5df1">ΑΝΑΛΥΣΗ</strong>
+                </span>
+              </font>
+            </div>
+            <div GUID="5dc8226d-2ff2-45a1-8252-48c06d2e5b3b" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="94431094-d07c-4e0f-a59d-083d4be1ce02">
+                <strong GUID="cf4cbbfb-a46b-455e-8460-9d3001dc6957">
+                  <font face="Arial" GUID="b5b4dc37-a672-43f5-9461-29710c95da0b">
+                  </font>
+                </strong>
+              </span> </div>
+            <div GUID="c3ee6c7b-a9bd-4d68-bc49-d4cce09d76ff" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="8c79e634-387f-4956-9a9c-8908ac001ad4">
+                <span style="LAYOUT-GRID-MODE: line" GUID="13d47533-9f12-42b3-8df8-6c2b370b7e5e">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="ebddcba1-26dd-4adc-8165-7b024f3d91f0">Το αποτέλεσμα αυτής της συμφωνίας κοινής πώλησης ήταν ο περιορισμός του ανταγωνισμού μεταξύ των τριών γάλλων παραγωγών σχετικά με τις εξαγωγές λιπασμάτων στη Γερμανία</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="f63b1d59-f3fa-4a8b-a9ad-b69b1d9bd52a">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="17d644e0-78ec-406e-821e-7ee95d8e8948">Επίσης μειώθηκε η επιλογή των αγοραστών στη Γερμανία γιατί δεν μπορούσαν να αγοράζουν από τους γάλλους παραγωγούς ξεχωριστά</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="c9de5484-57cf-4f5a-b5de-0f07d0e23400">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="fe0a3e48-4581-49ec-a0cc-b485c3666db1">Έτσι οι τιμές ήταν ενιαίες, οι εκπτώσεις ήταν οι ίδιες και οι πωλήσεις είχαν τους ίδιους όρους για καθένα από τα προϊόντα των γάλλων παραγωγών στη Γερμανία, γεγονός που οδήγησε σε υψηλότερες τιμές</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="b24e3a42-1d20-45d0-87ac-b91cd1e665d9">.</span>
+              </font>
+            </div>
+            <div GUID="17596877-8744-4fb5-872d-44046ea90b29" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="ee1af4ee-cca0-4ec6-bd2a-052656ebb90b">
+                <span style="LAYOUT-GRID-MODE: line" GUID="1e5dc08d-dab9-41cc-abee-cb4c18961fa6">
+                </span>
+              </font> </div>
+            <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 5pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="justify" GUID="2db10560-2ae3-472a-a6d8-7b5fa4910467" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="7a974b3f-8dc8-4931-b7fb-c7dcdde015e8">Η Ευρωπαϊκή Επιτροπή θεώρησε τη συμφωνία απαράδεκτη και παράνομη γιατί τα οφέλη που προέκυψαν από τη συμφωνία κοινής πώλησης δεν αντιστάθμιζαν τους συνακόλουθους περιορισμούς του ανταγωνισμού.  Η Ευρωπαϊκή Επιτροπή κατέληξε στο συμπέρασμα ότι υπήρξε παράβαση του Δικαίου του Ανταγωνισμού και επέβαλλε πρόστιμο στους γάλλους παραγωγούς.</font>
+            </div>
+          </Description>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img class="" style="position:absolute;left:488px;top:368px;;cursor:hand;" src="/General/Images/InfoPath/CC_Close.gif" onClick="TogglePopup('cdbf77aa-66de-495f-869b-ff4f23ee9d97');" onmouseover="this.src=activeCloseImg;" onmouseout="this.src=closeImg;">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page11" IsActive="true" GUID="e8cbb2c6-93a0-4389-b051-7fa79c7ea28d">
+      <IncludedInTOC GUID="b3572b6c-270f-4733-8458-4dcbc49e24a7">true</IncludedInTOC>
+      <Title GUID="610e51b1-8c63-4822-b6f8-40e8cc678ca0">Πότε οι συμφωνίες κοινής πώλησης είναι νόμιμες; </Title>
+      <PageElements GUID="857334ec-7994-4d49-8964-7c149d702aae">
+        <PageElement GUID="981b43e3-e367-422d-9615-0f41c18740d5">
+          <Graphic GUID="bc4c1a75-ba54-4e81-9c7f-9cda3086a658"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/4c82b9c4-9847-4443-9415-fc8a766b9cbe.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="b0a0ffbf-d732-4966-bad5-2a558a6dfefd">
+          <TextBox GUID="57f5b9aa-200a-45e2-a364-f431d0aa3381"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="895e0065-2a57-4343-a753-b7574c67a560">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char" GUID="92dd16d3-778b-4b32-b468-2cd6604e6c4a" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="8f844f0b-e1f5-4b19-9f66-89a3b7b9a869">
+        <font face="Arial" GUID="ab397f56-78cc-4b03-adaf-a0662b4099b1">Για παράδειγμα, εάν μια συμφωνία κοινής πώλησης απαιτείται για να έχουν οι κοινοί πωλητές τη δυνατότητα να εισέλθουν σε μια νέα αγορά, στην οποία δεν θα μπορούσαν να εισέλθουν ανεξάρτητα, τότε μπορεί να επιτρέπεται.</font>
+      </span>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char" GUID="b056f2bb-b74d-42ee-9f3b-cb0f46855ac9" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="ac038f4c-0a1c-4db6-9e83-b458e4183ddb">
+        <font face="Arial" GUID="80fedd81-c8ed-4bcc-b1df-a84078b77cd2">
+        </font>
+      </span> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt; LAYOUT-GRID-MODE: char" GUID="b3f000ef-c405-4c62-8e88-f19976deff30" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="FONT-SIZE: 10pt" GUID="4ea9e0c1-cdce-4ba0-8da2-0c8747e49c9d">
+        <font face="Arial" GUID="5e34b2d0-5fc3-458b-b13f-62965e195aa4">Από την άλλη μεριά, μια συμφωνία κοινής πώλησης μεταξύ ανταγωνιστών δεν θα είναι αποδεκτή, ακόμα κι αν οι ανταγωνιστές είναι μικροί, εάν η εξοικονόμηση κόστους περιορίζεται απλά στην εξάλειψη των συνηθισμένων δαπανών του ανταγωνισμού και δεν υπάρχουν ευρύτερες συνέργειες.Οι συμφωνίες κοινής πώλησης από τις μεγαλύτερες εταιρείες μιας αγοράς είναι πολύ πιθανόν να μην γίνουν αποδεκτές, γιατί τέτοιες συμφωνίες μειώνουν τον ανταγωνισμό σε απαράδεκτο βαθμό.  Θα πρέπει πάντα να αναζητείτε νομικές συμβουλές πριν συνάψετε οποιαδήποτε συμφωνία κοινής πώλησης.</font>
+      </span>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page12" IsActive="true" GUID="0c3c0edb-abaa-43f6-9859-3b10e038d5b2">
+      <IncludedInTOC GUID="1ee9f30a-abea-4cb0-869f-dd6ad880d425">true</IncludedInTOC>
+      <Title GUID="3b1061b9-2573-46db-9fe5-66db277ba72d">Συμφωνίες κοινής παραγωγής</Title>
+      <PageElements GUID="9110d12d-6c27-4594-aa5e-7848010f5d6d">
+        <PageElement GUID="6c3c3416-00aa-4cfb-a605-713834f73faa">
+          <Graphic GUID="cd9d2c63-46be-4dce-aa89-eb4142160a23"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/e4731ee1-d842-41b3-8c06-bbf545686023.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="0ab363a2-615c-420e-b772-59a716264432">
+          <TextBox GUID="085ede52-6f4d-4b57-9ad0-08871e8317fb"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="bfc60071-58d4-49f4-81fb-1c36b6e6f7ed">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="f22e8810-cc62-4ab2-bd8d-2a741acdb249" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="f7d64ef5-5c18-4131-9e40-9a62a5620b58">
+        <strong GUID="e858617f-69b3-4bca-87a5-5ae7e6c034dd">
+          <font face="Arial" GUID="31bbd0f4-4c2f-4448-810d-2ad78e15fc1f">Τι είναι η συμφωνία κοινής παραγωγής;</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="f97bac2d-a80d-439e-973e-4ea3bdf3139f" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="3051b747-278b-4da3-83bc-d9d3e14b270f">Η συμφωνία κοινής παραγωγής είναι μια συμφωνία με την οποία δύο ή περισσότερες εταιρείες, που μπορεί να είναι ανταγωνίστριες, συμφωνούν να ενώσουν το σύνολο ή μέρος των διαδικασιών/πόρων παραγωγής τους.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="4c92c223-d2a5-4432-aa5f-2d30d4d13997" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="0350b1f4-36b7-4590-98c6-f3639f5e2352">
+        <strong GUID="0842df19-5f95-44d6-9d0a-ad907953b59d">
+          <font face="Arial" GUID="06988531-8592-478e-a49b-776809487327">Συμφωνίες κοινής παραγωγής που δεν παραβαίνουν το Δίκαιο Ανταγωνισμού</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="edc7d8b2-710a-4f83-8a46-f96eb559fe34" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="fd6e1d86-4d05-4617-bb23-32525d7d8a90">Ορισμένες συμφωνίες κοινής παραγωγής δεν παραβαίνουν το Δίκαιο Ανταγωνισμού.  Πρόκειται για συμφωνίες:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="75ac95ff-7093-4ad8-8626-e56959506a2c" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="9249e0b9-ad07-4201-bd63-b4d3d26c296d">
+        <div align="left" GUID="fd51ccc7-ccae-44c4-8ae3-71be33273bb7">
+          <font face="Arial" GUID="dd0d708f-d523-4ad3-841c-7e05915d2c57">μεταξύ εταιρειών που δεν ανταγωνίζονται η μία την άλλη,</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="adf6f2b9-1327-45e6-9569-c5ab8b8bd885" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="134eacef-5295-4cfc-95d0-2a83ab3ea79d">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="fa14481f-447e-459b-8c3d-9ec5253b8c90" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="1aa960f1-297b-427f-a22a-58d38fc4edbe">
+        <div align="left" GUID="60f36d1d-9a41-4710-80d1-6d45ae0ef2f3">
+          <font face="Arial" GUID="6c88cafe-370e-4fdc-95e4-833c3defabdf">μεταξύ εταιρειών που ανταγωνίζονται η μία την άλλη σε αγορές πέραν της αγοράς για τα εκάστοτε προϊόντα, υπό την προϋπόθεση ότι η συνεργασία είναι απαραίτητη για να μπορέσουν να εισέλθουν σε μια νέα αγορά ή για να κυκλοφορήσουν ένα νέο προϊόν, ή</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="1e9624c2-6ede-44a4-87c8-82db05c00d25" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="666bd48f-5566-4f3b-8f8d-3fdae4e118c2">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="7ba10c7e-e81f-47eb-9ae4-b675048c349f" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="78ad901e-199e-4f2f-97ac-f40df1bdb75e">
+        <div align="left" GUID="afa90004-e544-4d18-a05a-cfdd96083bf7">
+          <font face="Arial" GUID="c73974e4-31de-4fd0-a3cc-b51d7be76861">στη βάση  των οποίων η κοινή παραγωγή αντιπροσωπεύει μόνο ένα μικρό μέρος του συνολικού κόστους παραγωγής για κάθε εταιρεία.</font>
+        </div>
+      </li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page13" IsActive="true" GUID="945af32d-1c96-48aa-8058-7ca1f71298ad">
+      <IncludedInTOC GUID="015a48b2-f272-472e-baa8-a018f4d9ba11">true</IncludedInTOC>
+      <Title GUID="5c99e207-8833-44f8-a255-486885453113">Συμφωνίες κοινής παραγωγής (συνέχεια)</Title>
+      <PageElements GUID="77da7442-b441-40ac-b7cc-30dc3452161a">
+        <PageElement GUID="59e68534-17ae-49a6-9423-0409783efe1f">
+          <Graphic GUID="90a73e1f-84ed-4e0b-b97c-c29c97187aa0"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/8fb98395-74ee-4816-ae07-bafe0ee79510.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="a132e4e9-2a93-4079-9954-823375d3a6bb">
+          <TextBox GUID="373d31de-1bcc-4124-bf04-0926c81f7292"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="04b92480-61b6-4267-b40f-dc36ea73c36a">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="cebaf739-7d38-4cdf-a88d-8a1181a89f95" xmlns="http://www.w3.org/1999/xhtml">
+      <i GUID="aa882099-c438-494c-bf27-73c3ec4dfc50">
+        <strong GUID="dc5ba702-8c65-4f7d-9a62-63f8d9712316">
+          <font face="Arial" GUID="daca7c08-5bb0-49cb-8d0e-b7f31f4e2e12">Πώς οι συμφωνίες κοινής παραγωγής παραβαίνουν το Δίκαιο Ανταγωνισμού;</font>
+        </strong>
+      </i>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="9010f1e8-100f-4d3c-85af-182a3df008cf" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="65ecd3ea-4180-4815-9e7a-00d77840e8cc">Εάν οι εταιρείες είναι επίσης ανταγωνίστριες, μια συμφωνία κοινής παραγωγής μπορεί να μειώσει σημαντικά τον ανταγωνισμό μεταξύ τους γιατί θα έχουν μάλλον παρόμοιες βάσεις κόστους, παρόμοια προϊόντα και παρόμοια σχέδια ανάπτυξης προϊόντων.  Αυτή η μείωση του ανταγωνισμού μπορεί να οδηγήσει σε υψηλότερες τιμές και μειωμένη επιλογή για τους αγοραστές/καταναλωτές.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="db7d1c81-a75d-4615-b4ab-deb3518b7327" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="8e1eac3b-70b3-4eab-a73f-d29511f5109a">Πιο συγκεκριμένα, θα ανακύψουν προβλήματα ανταγωνισμού εάν η συμφωνία κοινής παραγωγής:</font>
+    </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="eb7088b8-0c47-4939-aba0-dbc9ba504f75" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="fe1ec408-0a77-4b4c-98fe-3b5c8de39d52">
+        <div align="left" GUID="e4b8ec73-8882-4acb-858f-e6261f68b25a">
+          <font face="Arial" GUID="9d44802b-0b61-4d97-a47d-80b22f6a94e4">ορίζει τις τιμές πώλησης των προϊόντων που παράγουν από κοινού οι εταιρείες,</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="b6e6e614-841d-4379-8ae0-3d363f6050c0" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="2b5341ef-2de8-4345-bea3-49438e314ece">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="3069de33-fc81-48ce-baad-30bd0e4ea2fe" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="17635dfc-20c8-4f91-bccc-9a6c7e84ddba">
+        <div align="left" GUID="c59f4e4a-3377-4639-a294-35348387beff">
+          <font face="Arial" GUID="3a7c8411-ebdb-4548-b687-bd9b077fde06">περιορίζει τον όγκο παραγωγής ή</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="00d47134-0e5c-4158-beb7-fbbf3b3c791c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="f7e09d0c-589e-4e3a-92d1-04156b6eca2b">
+      </font> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="7a15fb75-d8d1-4780-abae-2eeb59428ae1" xmlns="http://www.w3.org/1999/xhtml">
+      <li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" GUID="9d250116-4821-4839-9b2b-25b91e873deb">
+        <div align="left" GUID="5d6cd408-cd82-460e-a92f-fa880f1bb165">
+          <font face="Arial" GUID="9e25b351-cf26-4250-9031-262ebadc5f4d">διαμερίζει αγορές ή πελάτες.</font>
+        </div>
+      </li>
+    </ul>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; MARGIN-BOTTOM: 0pt" align="left" GUID="5d95a5f1-d671-4098-a45e-3c8f4e62ca24" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="5e78fb06-6cae-4657-8a82-29f520091b4a">
+      </font> </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="44b13f4b-a2c0-4d04-a081-ce226b8369f4" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="73af6eef-621c-4988-ad64-40a4bcd062e9">Έτσι οι συμφωνίες κοινής παραγωγής απαιτούν συνήθως προσεκτική αξιολόγηση.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="135a7e70-edcb-4cb7-a90f-347b079f476c" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="ed172d17-f1a3-4c20-af2e-dcd3388862df">Αυτό σημαίνει εξέταση της θέσης των εταιρειών στην αγορά καθώς και των επιπτώσεων της συμφωνίας κοινής παραγωγής στις αντίστοιχες βάσεις κόστους τους, και γενικά αξιολόγηση των επιπτώσεων της συνεργασίας τους στον ανταγωνισμό.  Εδώ δεν υπάρχουν απλοί κανόνες.  Θα πρέπει πάντα να αναζητείτε νομικές συμβουλές πριν συνάψετε οποιαδήποτε συμφωνία κοινής παραγωγής.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page14" IsActive="true" GUID="5820ad8d-45c4-41ad-8893-d3f777f88b26">
+      <IncludedInTOC GUID="1405ccfa-ec50-4fc7-bef2-762fc50dcce6">true</IncludedInTOC>
+      <Title GUID="29ab89d4-f490-4ae0-8b08-40257bf21d65">Συμφωνίες κοινής παραγωγής (συνέχεια)</Title>
+      <PageElements GUID="ff13bdaf-ae06-4d42-a55b-ab8554ae2117">
+        <PageElement GUID="d1b083bf-a13f-45b1-b55c-0df3e987ed48">
+          <Graphic GUID="410f46d3-fa38-48ae-8766-d54250d8b9e3"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/c2030077-dd88-490c-beef-99a6f22b31f5.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="311b28fa-cda3-4a21-b7b0-81ef7add17e4">
+          <TextBox GUID="bb3b24b7-6a44-4005-abd9-da595412606c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7cd5de6f-13d7-4bfa-9b0e-7758388e10c2">
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="9e69b32b-a380-496f-bdba-9251690ed096" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="3efdaddc-a283-4316-b4bc-f28dfac3589c">Λαμβάνοντας υπόψη τα παραπάνω, οι συμφωνίες κοινής παραγωγής μεταξύ εταιρειών που έχουν συγκεντρωτικό μερίδιο αγοράς κάτω του 20% επιτρέπονται συνήθως σύμφωνα με το Δίκαιο Ανταγωνισμού (υπό την προϋπόθεση ότι δεν ορίζουν τιμές πώλησης, δεν περιορίζουν τον όγκο παραγωγής ούτε κατανέμουν αγορές ή πελάτες μεταξύ των κοινών παραγωγών).</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="64db5698-9f36-4f4e-8680-6c5b7b65d1de" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="4f6b04fa-7483-4794-9763-81911b367c5f">Όπως και με άλλα είδη συμφωνιών συνεργασίας μεταξύ ανταγωνιστών, όταν μια συμφωνία κοινής παραγωγής οδηγεί σε οφέλη για τον καταναλωτή, τα οποία συνολικά αντισταθμίζουν τις αρνητικές επιπτώσεις των περιορισμών του ανταγωνισμού, τότε η συμφωνία μπορεί να επιτρέπεται σύμφωνα με το Δίκαιο Ανταγωνισμού.</font>
+    </div>
+    <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="517f0d22-af0a-4b0f-9fe3-8978beee7050" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="7accb699-443f-4251-82e8-40a4299ed07d">Ωστόσο, αυτό δεν ισχύει όταν η συμφωνία περιέχει περιορισμούς που δεν είναι απαραίτητοι για τη δημιουργία οφέλους για τον καταναλωτή ή εάν επιτρέπει στις εταιρείες να εξαλείφουν τον ανταγωνισμό σχετικά με τα εκάστοτε προϊόντα.  Θα πρέπει να αναζητείτε νομικές συμβουλές πριν συνάψετε οποιαδήποτε συμφωνία κοινής παραγωγής.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page15" IsActive="true" GUID="cc7583b1-0101-455d-93a4-716802c3f6e2">
+      <IncludedInTOC GUID="64692146-7e09-4fed-943f-cdbbcaaaff31">true</IncludedInTOC>
+      <Title GUID="3d57ad92-bcf6-4f74-8a0f-10645f342d80">Γνωρίστε τους πρωταγωνιστές</Title>
+      <PageElements GUID="d273623e-cc78-4552-aaa9-020d8124fb9d">
+        <PageElement GUID="819180c8-53db-4ab7-b6cc-339146b9ffa1">
+          <Graphic GUID="0c90fc46-233e-47fd-bd9c-0add18acb3ab"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/181a3498-1c6e-4592-aee6-718337284cab.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="728f1664-d378-42ef-b52c-97a7e0454697">
+          <MeetThePlayer ID="Player1" GUID="23a31685-698a-4240-8ee1-1b5c84fe8f22"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/71fbe2f9-2397-40f9-b3c7-e5e27e5ee5cf.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">Zyder Limited</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="024da9d4-d3e5-4e1e-88c1-75fdfc980209">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="9a64eb7c-4948-4066-92c9-e04283e0a5ca" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="5d443e85-a9cb-4699-95b8-fa4778d951c1">Η<strong GUID="c9c4f7c6-4751-43b2-94f3-d15a8af3ff5d"></strong><strong GUID="0cdd1292-6990-4ba4-be40-fd9328c421f1">Zyder Limited</strong> είναι μια βρετανική εταιρεία που παράγει τα χαρτάκια Sign για στριφτά τσιγάρα, τα οποία πουλάει σε σουπερμάρκετ και άλλα σημεία λιανικής πώλησης.  Έχει ένα εργοστάσιο όπου τα χαρτάκια συσκευάζονται.  Ο Brian Davids είναι ο Γενικός Διευθυντής της.</font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+        <PageElement GUID="7328cd35-9d52-43c3-b0d9-ebcdd276c1f4">
+          <MeetThePlayer ID="Player2" GUID="4110aeb0-bb83-44cf-86c3-9d0f24998310"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/f840bcb1-75ab-443f-88f6-8ba1c2b26e53.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">Peri Limited</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="32f3887b-21a3-4fdc-88bc-d508a3c7cacb">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="a4076cbd-9e14-4871-a384-fd93e18ac6a9" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="24805abc-33a7-4b19-97b1-b4f542a55ded">Η<strong GUID="45d751cb-b302-4acf-a1b9-6b65e9cb3436"></strong><strong GUID="ca543e59-f46d-49c8-ab6b-5e8987815487">Peri </strong><strong GUID="fdd38054-04cf-4512-8826-c2a15c790be8">Limited</strong> είναι επίσης βρετανική εταιρεία.  Παράγει τα χαρτάκια Legend, τα οποία πωλεί σε σουπερμάρκετ και άλλα σημεία λιανικής πώλησης.  Έχει επίσης ένα εργοστάσιο όπου συσκευάζονται τα χαρτάκια της.  Ο Peter Pearson είναι ο Πρόεδρός της.</font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page16" IsActive="true" GUID="a7453519-93ef-47ad-ac0a-4371052d29c7">
+      <IncludedInTOC GUID="a7f1d3ef-2869-43b2-9e6a-cfeb5b03a4d0">true</IncludedInTOC>
+      <Title GUID="781fc7b4-6576-465c-87ff-5756ec4c3c4a">Σενάριο 1</Title>
+      <PageElements GUID="8da531cd-521f-433c-ad5d-4b53827f6f6c">
+        <PageElement GUID="d35ff917-fb40-4656-88c7-126246b7c93f">
+          <TextBox GUID="36627e03-a6c0-455f-8d00-bb5d0563d798"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="52f4a439-6322-4f71-b226-3e2e75d6f05a">
+    <div GUID="bcc39787-a25f-4b38-92de-91d42bc25215" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="be30d243-490c-4a4c-8a48-4da32dfbe110">
+        <span style="LAYOUT-GRID-MODE: line" GUID="01ba1dc0-f2a5-4d02-a1be-6ebc57f76657">Η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="8fa34628-76cb-421e-a274-bbe4d41c283e">Zyder</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="c17dcaa3-7b69-44d9-9f91-7f3db743f15c">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e43cda83-c53d-410b-b65f-9ea7c26a26c4">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="8549d1ba-fdb6-4b25-a8ea-6f50acf1ed16">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="1289ee36-c85f-4d9c-8e49-51c378a055f1">αγοράζει χαρτόνι συσκευασίας από την </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="b584f2c6-6b70-4bad-a4af-08bc9c803bee">Fast</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="c822130e-a270-4ef8-a5f7-5ea2ac5d19fa">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="70a15e9d-fbc1-4e54-ae1b-42beb000fdbb">Pack</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="88d94d15-5545-43c3-85e4-6e17334a7961">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="72289214-38d2-4dfa-a3cb-dfffcf2dbd59">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="343626e5-aac5-4528-b4d3-9fe5abb5406d">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="dcee683f-c37d-4c56-8118-f53253fd7bae">Η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="389db095-a5ac-4b10-8475-8127bf73772e">Peri</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="3397f5f7-937e-45fa-96ec-0534a5251510">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="598c0b56-1e01-4a3a-99a4-4a7ec4ed969b">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="587440aa-e589-4b89-8417-2356c691ba62">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="dd6eecbd-e323-405a-a8b9-778aca535225">προμηθεύεται χαρτόνι συσκευασίας από την </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="1f75f2fd-37a8-4653-84ac-95a8e0fd33fe">Swift</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="86a1b66d-2f05-4a25-934e-f97c98eb1388">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f5c3439c-df74-4f91-819d-3962284d4d90">Pack</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="514ce3c7-c5a6-43fc-b5b3-df6cb9f3cdb6">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="8d3ea533-7eb5-4e38-9b10-e62940812539">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e0fbf3dc-780f-4d3a-95f9-98084cad155e">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="d5de598a-71bc-4085-94a5-1166b805591a">Και οι δύο εταιρείες επιθυμούν να μειώσουν το κόστος τους</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="4ac07d27-e7d0-404e-998c-5b876799ded4">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="241f32db-beb2-42dc-8ee5-0136abeb6128">Η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="4153c859-4c4e-406f-ba6c-b79780d348df">Quick</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="c8e33106-379e-4738-ac93-969e380604b2">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="10412bc6-da10-4a84-b08d-356710900c6b">Pack</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="28c82ae1-6a77-4cdd-9d3a-7d322ced192b">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="a47601eb-7f11-400c-bad9-aa44dc9e178b">προσφέρει έκπτωση </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="7dfb1c8c-80cf-4851-b569-f16b523889cc">15% </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="319a1bfa-841f-4d5c-9e7c-4103452a126f">για αγορές άνω των </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="38ab6f50-8a19-4d7b-bba7-e22a94e968a1">10 </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="c0ebe599-cfac-47b1-ac17-7c68d9af3f15">τόνων τον μήνα, κι έτσι αποφασίζουν να αγοράσουν από κοινού για να πετύχουν την έκπτωση</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="d7819de9-24c3-4035-943c-12802a4117f3">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="01d794ff-aa6c-4703-b333-e4c79932843d">Τα οφέλη θα μετακυλήσουν στους πελάτες τους, οι οποίοι παραπονούνται ότι τα εισαγόμενα χαρτάκια είναι φθηνότερα</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="ec82456e-29a5-4581-91c2-a20948ceac38">.</span>
+      </font>
+    </div>
+    <div GUID="c715bf7c-49db-4f45-96c2-f10aa16e18c3" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="LAYOUT-GRID-MODE: line" GUID="d86fa58d-9165-49d9-8495-32e01c5a2b23">
+        <font face="Arial" GUID="76e56046-11fa-4e83-b388-7edcb587a794">
+        </font>
+      </span> </div>
+    <div GUID="a3db562c-04f9-4c60-9358-9108253c1fb5" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="406d5cf6-4491-4056-b630-4e0970f6099f">
+        <span style="LAYOUT-GRID-MODE: line" GUID="c967b165-66f0-47f6-8f40-8c144cf4fa6a">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="30f7a878-1e1a-477f-893c-53e2f2a5e079">Μαζί</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="c8cbb27d-8fe7-4651-bee5-587cbd0e2236">, </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="06825090-4f80-4ec1-b437-48e4fbc524cd">η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="ce3cb691-fdfb-403d-a663-f60e2fd47bc0">Zyder</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="75d91f4a-2e80-4861-b354-787afb76222d">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="653b26f2-0160-43db-94ee-cdd83b07ee7a">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="b50cd7c1-5b7a-442f-bb4b-6f5cfa47d9a9">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="09bbb5fe-5a64-4e87-baeb-6a34cb69cc71">και η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f53772f9-9e7f-4d40-8e8e-82eca3e9e453">Peri</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="2cb24a51-f253-43a7-b34c-ade559262efe">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e8dfb95e-5b37-4490-a820-fa97e68d37cb">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="86dd8d71-a366-4bce-ac23-30da519448a8">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="44bb2745-cad0-41cd-a646-9f5227778a1b">θα αγοράσουν το </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="2ac0972b-8844-46ab-8af6-b5a57935fa32">10% </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e865b7f4-2681-4e18-822a-79cd9a8ee3c0">του συνολικού διαθέσιμου όγκου αυτού του είδους χαρτονιού στο Ηνωμένο Βασίλειο</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="914598cf-d805-4b28-ad78-ae63534b7a5f">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="c492c380-3cad-4e60-8cb1-fcdd0931ae30">Η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="07501f68-993f-4ba4-8a2d-395e06419e1f">Quick</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="4887bec0-e05d-49bb-be45-dd279847ac6d">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="71703d84-e31c-4976-8fe0-591f54988797">Pack</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="35ccc2cf-078c-4754-bd2a-1f248dc17683">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="5c612729-c5af-4ad2-8d6b-c19463323a49">είναι μία από τους τρεις κατασκευαστές χαρτονιού και έχει ισχυρή θέση στην αγορά της</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="b129b797-08a5-422a-9cb4-3999ce1453dd">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="9a0355d3-6186-4370-a549-296f7645f593">Στην αγορά για τα χαρτάκια</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="7719412d-c0cf-4668-ab05-f6b1585dac93">, </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="06280522-2597-4f07-867c-03808b57d447">το συγκεντρωτικό μερίδιο αγοράς της </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f53f8b25-94a0-4efc-b5a9-d352d8814362">Zyder</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="0eebaeb3-3b24-47ba-a3fa-51a6ad3b3395">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="db1b1726-eed0-4ed9-a43d-d2890bc6f85c">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="375f4dfd-37f6-435d-9e73-9154aea07b98">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="7a103115-a274-4db6-8833-d467e39fd0f1">και της </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="ee9d4f2e-f6bb-4de4-9855-1eff4bb10b86">Peri</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="b45b9004-587e-4d4d-bf14-2cc57c8be2cf">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="740b5875-cd95-4003-9235-505673c8a7e3">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="087a9076-54b2-4499-8b20-2ed691ee594a"> είναι </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="7c8f182d-f9bd-46cd-8fc8-ab7bfa8c2293">30%.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f8b25701-ea18-48b5-862c-fad84d7113e4">Έχουν δύο κύριους ανταγωνιστές, εκ των οποίων ο καθένας έχει μερίδιο αγοράς</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="51614a8d-4861-4758-bb30-141f199f7752"> 35%.</span>
+      </font>
+    </div>
+    <div GUID="b15a8fa4-d75b-43ae-89cb-7cb01fe6bb7b" xmlns="http://www.w3.org/1999/xhtml">
+      <span style="LAYOUT-GRID-MODE: line" GUID="1a2be993-28ba-4f11-8398-5c5392f81fb1">
+        <font face="Arial" GUID="4f3e2a1d-a5e4-46fc-8845-bbb82c443d8f">
+        </font>
+      </span> </div>
+    <div GUID="eca2ff4f-5f74-4ae2-91cb-cb58021d8d10" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="50358d25-cd6e-4996-8e76-99331c3fa6b2">
+        <span style="LAYOUT-GRID-MODE: line" GUID="9038a676-38a7-4c96-a1f0-2fa6b638c0a2">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="1cbb70c4-9608-4208-967c-86f1cde239c6">Ο </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="89927401-3465-444b-85e4-1fba7b5efb52">Brian</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="7fcd33d6-8742-4285-a8c9-54d4ba3e2aa4">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="17ee5982-e773-4391-acce-975083bdd631">Davids</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="6ddfb2c7-6258-4135-9dd1-e3c6518e007c">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="572954f7-1bee-4826-b6d5-05a37b9be8bb">τηλεφωνεί στον </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="393923a9-f78d-4dcf-ba96-ffb3d97fee9e">Peter</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="ccdd657e-3c1a-40c8-9ed2-a02921d24367">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="47bd8656-5a06-4242-8c3a-1a84b9be52b5">Pearson</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="21e090b2-dc99-43e6-ab32-307b7062a19f">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="b4054a89-ce76-4aef-9422-c7cdcdcdfe94">για να προτείνει να αγοράζουν οι εταιρείες αποκλειστικά από την </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="c2ac8119-78b4-4687-956c-23473c20191c">Quick</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="0941e97e-0226-43bd-8cf3-3bc1e4a9ff99">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="b33599c5-ada8-4f28-81fe-b67d29a4be51">Pack</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="27667317-5d18-4112-8216-c0afd3762b84">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="9438edd6-b509-43d7-87cb-2381aae15285">Ο </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="a3f35a46-cb43-4971-9953-79afa8c0ca6d">Peter</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="43218ec4-7c41-4b59-a57c-bf9a869852b9">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="6356893d-d469-47a8-8075-122343aff9d2">Pearson</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="12ce9523-7b78-4d2c-b14e-4a340dcb7fef">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="00cf66e2-33fb-47e5-a994-77c8c9215840">ξέρει ότι η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="1ee2a2d6-ff92-4495-8bf5-3d105b7296e9">Quick</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="014367fb-1703-49ac-bde3-4c7c79eac8d0">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="21ac6a95-10fd-43f3-a37c-707b24861732">Pack</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="a464cbe2-d0db-408b-87b0-4112422a4dc5">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="78ac5f13-3d63-4bf2-b1f8-71579996872d">δεν θα προσφέρει μεγαλύτερη έκπτωση από </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="9fe23eaa-701a-4c1d-93e8-9e362757e4e2">15% </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="b47b3d0e-6db6-4313-ac92-2beeeeaea6cd">και είναι σίγουρος ότι η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="6417bb57-6845-4612-93c1-f27d3ebc72ec">Zyder</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f0400192-b0a4-4287-b67c-2fa87f1f9791">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="12cab04d-b3ae-4cb9-a2dd-fcc85853b263">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="ca27424c-c64a-4531-b053-1ab632945145">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="0453dacc-2cc6-4233-965a-285eafced017">και η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="a5d9cece-52ab-4739-a2be-f29766c20555">Peri</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="2b4300ba-8335-4382-9bd5-02e5777fe4a6">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="2d44f4c8-2039-44e0-b11b-9dff8e0177f0">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="73da4dfd-7789-4005-8f91-2688aa017719">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="01f63d94-05da-4fa3-a3cd-48b96daf72e4">θα ξεπερνούν το στόχο των </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="d4515857-a44d-42eb-a84e-d587116b2d2a">10 </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="77b5b4bd-7d85-4e42-8fbe-1ec4dd288008">τόνων τον μήνα χωρίς να πρέπει να αγοράζουν αποκλειστικά από την </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="43eee1e9-468d-40d3-b402-aeaa6d61e851">Quick</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="5c3ea384-47da-47b4-99ac-6b94381a095a">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="5a385d65-0575-40db-b9b7-8445576859db">Pack</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="111178b2-17a6-4a9c-862a-04e887aacc69">.</span>
+      </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="f10f271c-47b4-497c-a47a-d9fc96eb6626">
+          <MultiChoiceQA GUID="fbcf3675-d8d2-49c0-963d-86a41ef4f405"> <![CDATA[<table border="0" style="position:absolute;bottom:2px;height:400px;" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="bottom">
+      <div>
+        <div class="MultiChoiceQA_Question">
+          <Question GUID="c85012bf-4e12-4aba-917f-cffff50f8681">
+            <strong GUID="8610b645-953e-4a73-854f-af2649369699" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="0d1b07a3-32a4-4a3d-bb9b-ae3168809876">
+                <span style="LAYOUT-GRID-MODE: line" GUID="977600e2-8278-4e00-bc91-fba88cf50959">ΘΑ ΠΡΕΠΕΙ Ο </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="ff93d904-40b1-4a12-b9ab-5c65c4618720">PETER</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="8efdc05b-2c44-43f9-83e2-0d0f7af5f157">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="3f7cf2e4-8d72-49af-b8e8-2db889358a48">PEARSON</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="9be0e21c-4615-424b-83e6-f5df1cd4d06d">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="f9b4b204-9047-40cf-b6aa-245314214f69">ΝΑ ΣΥΜΦΩΝΗΣΕΙ ΜΕ ΤΗΝ ΠΡΟΤΑΣΗ ΑΠΟΚΛΕΙΣΤΙΚΗΣ ΠΡΟΜΗΘΕΙΑΣ;</span>
+              </font>
+            </strong>
+          </Question>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" style="cursor:hand" name="Qc85012bf-4e12-4aba-917f-cffff50f8681" ID="Ae184436f-f7d3-4b11-a8b8-264fb6662b6a" src="/General/Images/InfoPath/CC_OptA.gif" onClick="ShowAnswer('e184436f-f7d3-4b11-a8b8-264fb6662b6a','false');" onmouseover="this.src=activeOptA;" onmouseout="this.src=optA;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="f7108bce-06e6-459b-bf3f-553bb7541193">
+                    <span style="LAYOUT-GRID-MODE: line" GUID="207e5784-ae35-4506-8e04-fd832a009489" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="779ed9d7-bf86-4944-8e55-d676b1082b86">Ναι</font>
+                    </span>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="e184436f-f7d3-4b11-a8b8-264fb6662b6a">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="2bd20596-480d-458a-a6a7-74487b28bce3">
+                    <div GUID="8e6aa00b-e335-4c32-a2bb-5ce32636b31e" xmlns="http://www.w3.org/1999/xhtml">
+                      <strong GUID="b9c764d8-29a7-4b8f-8e58-dfc0740f2c53">
+                        <font face="Arial" GUID="96be7c33-7d91-47f5-ad7f-b3f85845ac77">
+                          <span style="LAYOUT-GRID-MODE: line" GUID="18a07400-2444-4bb1-8dca-88469be0f174">Λάθος</span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="a2e7b335-7502-455e-8073-924d0449e172">!</span>
+                        </font>
+                      </strong>
+                    </div>
+                    <div GUID="ef4f2041-d2f0-4a45-aefe-0ea0ab0a4e22" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="154c54fb-4b9b-4a7a-aa2f-7e742cebd4cc">
+                        <strong GUID="9b1fbb0a-d1f1-4f8b-bcf0-65ccb8497c7a">
+                          <span style="LAYOUT-GRID-MODE: line" GUID="509d960e-8670-4503-be89-82a7e1f91a73">
+                          </span>
+                        </strong>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="984e7ebc-765d-4028-af27-b6b29e3db068">Η σωστή απάντηση ήταν η </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="86c94a82-c3e8-43a2-b43b-0496ec316f48">(</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="6b2a4c0f-2a48-4e40-b994-1ecfc17e6489">γ</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="06bfe452-c107-44da-b502-4eeaba0999a3">).  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="bd156d85-fdb6-4453-938e-a87b90c265d4">Πρόκειται για συμφωνία κοινής προμήθειας</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="cd46ce09-b03f-476b-b792-14af2ea5cfd0">.</span>
+                      </font>
+                    </div>
+                    <div GUID="82bb04f3-2916-4088-a045-09a7de6b5b12" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="bb95f2bf-fe54-4311-98fb-31482853d21d">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="8eecb025-c693-4d46-9f9e-7fa1917cdbb5">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="6c13304f-f86b-4cdb-9487-1288ec9e3610">Οι εταιρείες ανταγωνίζονται η μία την άλλη στην αγορά πώλησης, άρα πρέπει να εξετάσουμε την ισχύ τους στην αγορά προμήθειας και στην αγορά πώλησης</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="63d25ebb-46e8-41a0-ae3f-d015ccb183c1">.</span>
+                      </font>
+                    </div>
+                    <div GUID="e311c2a8-82be-4d06-a102-173453667028" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="1b3f14ab-6c3c-4aed-a2de-7f85e34c123f">
+                        <font face="Arial" GUID="9bbc1582-0d64-4267-bff0-7829b651f04e">
+                          <span style="LAYOUT-GRID-MODE: line" GUID="b39f9582-25de-43d4-a72a-8962e62de946">Στην αγορά πώλησης έχουν δύο ανταγωνιστές, καθένας εκ των οποίων έχει μερίδιο αγοράς </span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="9afd3ffe-4407-4941-917d-c2cbe3111c4b">35%.  </span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="29025f96-c4b6-44ca-95c1-10cc5ce67d5f">Στην αγορά προμήθειας, τα μέρη είναι μικροί αγοραστές χαρτονιού συσκευασίας που αντιπροσωπεύουν ποσοστό μικρότερο του</span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="16002fe7-22a2-45b8-8831-a3c784c2399c"> 10% </span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="b62bb8b2-0b1f-41dd-86cb-87ab9c1f8bfa">των συνολικών αγορών</span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="d0545aec-f522-44fa-b12b-61c7065903d9">.  </span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="7947c22b-af97-45c1-a5e3-b85636219c11">Είναι απίθανο να αποκτήσουν οποιαδήποτε ουσιαστική αγοραστική δύναμη υπό αυτές τις συνθήκες</span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="09027ba1-04ad-45b0-8d21-cd3ab078c24b">.  </span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="337acb34-d458-4d89-ac3c-c18ba4e76d0b">Επιπλέον, η συνεργασία για την αγορά δευτερεύουσας πρώτης ύλης είναι απίθανο να οδηγήσει σε ευρύτερη συνεργασία μεταξύ τους για την πώληση των δικών τους προϊόντων (χαρτάκια)</span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="5b1f9a91-7e95-4cea-bfd1-37c4a1aa986b">.  </span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="7765a175-4599-4492-8693-393d468e5131">Ωστόσο, παραμένει το ερώτημα εάν είναι απολύτως απαραίτητη η δέσμευση αποκλειστικής προμήθειας για την εξασφάλιση των πλεονεκτημάτων, τα οποία παρέχει η κοινή προμήθεια</span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="12778c8a-4ace-4468-8185-8ebed968353c">.  </span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="557324ea-0ce1-4122-8402-76138f7b7cf0">Συνιστάται πάντα η αναζήτηση νομικών συμβουλών, όταν εξετάζεται οποιοδήποτε είδος συμφωνίας κοινής προμήθειας με ανταγωνιστή, όπως και οποιοδήποτε είδος συνεργασίας με ανταγωνιστή</span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="a6000f38-528b-4a70-8c1b-90d513778ca0">.</span>
+                        </font>
+                      </span>
+                    </div>
+                    <div GUID="d1e53d03-06ae-47ab-b30b-aa85d0ebe49f" xmlns="http://www.w3.org/1999/xhtml">
+                      <span style="LAYOUT-GRID-MODE: line" GUID="85868365-0e4f-4b74-8f0c-a7151a84be4f">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d454da4a-e6e1-470f-b40f-f0584a058b9b">
+                        </span>
+                      </span>
+                      <font face="Arial" GUID="69968403-2a04-4f42-ab2f-d411f338bd04">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="b5e037e3-2241-494a-ab89-00fedd369a70">Ο </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="572f0434-18dc-46c3-be65-347c600df2a9">Peter</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d750efa8-b218-47f3-8bed-ffd54ca4e719">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="3ab7eb36-1372-4d94-8db4-682a6e7d0325">Pearson</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d7eab89c-151f-4243-8c45-5ab84641f7d7">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="0340b6fc-49e2-42e4-9373-303b46ec2c5f">δεν θα πρέπει να συμφωνήσει με αυτήν την πρόταση ή να προσπαθήσει να αποφασίσει ο ίδιος εάν είναι αποδεκτή σύμφωνα με το Δίκαιο Ανταγωνισμού, αλλά θα πρέπει να αναζητήσει νομικές συμβουλές</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="c34d6c7f-7701-4c7c-bb51-58c4885810d3">.</span>
+                      </font>
+                    </div>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('e184436f-f7d3-4b11-a8b8-264fb6662b6a');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" style="cursor:hand" name="Qc85012bf-4e12-4aba-917f-cffff50f8681" ID="A7a6432cb-9d4c-45db-90cf-83ba942e96da" src="/General/Images/InfoPath/CC_OptB.gif" onClick="ShowAnswer('7a6432cb-9d4c-45db-90cf-83ba942e96da','false');" onmouseover="this.src=activeOptB;" onmouseout="this.src=optB;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="cdb848ee-458c-44ff-b451-c13524239288">
+                    <span style="LAYOUT-GRID-MODE: line" GUID="10fa96cb-7a0b-4f60-a1f3-7ec5262e37b7" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="5072bfdd-ff84-4e9b-9bb3-23f614f01bfb">Όχι</font>
+                    </span>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="7a6432cb-9d4c-45db-90cf-83ba942e96da">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="43d372ac-6615-46fe-8a81-7f6b2ce000a4">
+                    <div GUID="91d08092-494e-40c3-b1f7-e541133f805e" xmlns="http://www.w3.org/1999/xhtml">
+                      <strong GUID="7e457ab6-4845-44fe-b813-05b89ea7ddee">
+                        <font face="Arial" GUID="6e8a93d0-1c4e-44a3-8658-ac597e4e24aa">
+                          <span style="LAYOUT-GRID-MODE: line" GUID="aec632b5-25f7-4047-91e1-13a6fe5854fa">Λάθος</span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="d0a9262e-d9e0-46b6-ae7d-68382e23e77e">!</span>
+                        </font>
+                      </strong>
+                    </div>
+                    <div GUID="94ef3c50-d932-4b4a-9659-9905ef6465db" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="fa6e5506-4767-44e7-968f-af7fdc13d1d6">
+                        <strong GUID="46eac48e-5a4e-45f7-a321-038e2594d2ac">
+                          <span style="LAYOUT-GRID-MODE: line" GUID="e66ee8fc-02a6-4653-9be2-4b850dd9a634">
+                          </span>
+                        </strong>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="fe3afe94-60f8-4637-9473-026edd3678a3">Η σωστή απάντηση ήταν η </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="965a9df2-2a6d-47fd-965e-6311cfaf84d5">(</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="88ef747e-7276-41d9-b32b-27a5b16c85e2">γ</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="2b53caea-9d1b-4c74-83e6-1badb0327332">).</span>
+                      </font>
+                    </div>
+                    <div GUID="dd4ac38d-570c-475f-9394-fe9e25694347" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="902b0758-663f-42a3-8025-2cdb657ebd5a">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="4c7f415e-80a9-4dce-8db9-183007c7ac55">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="7784c920-69aa-4837-bfee-00d82d8b868a">Πρόκειται για συμφωνία κοινής προμήθειας</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="76362ada-e416-4f2e-add8-bdd77375b713">.</span>
+                      </font>
+                    </div>
+                    <div GUID="bbbe9476-f944-46b7-a8f6-ed341510f089" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="f2f94cb1-77a4-4ae2-94f1-950f4a442832">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="94e2d0de-e8f8-462f-8c7b-4b3fb7eedef5">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="e1d54755-3df5-4a83-a5e9-20e39690ff52">Οι εταιρείες ανταγωνίζονται η μία την άλλη στην αγορά πώλησης, άρα πρέπει να εξετάσουμε την ισχύ τους στην αγορά προμήθειας και στην αγορά πώλησης</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="3dd26eca-40ec-4dd0-a695-e66158204d45">.</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="e6a9592a-d03b-44da-bcfb-53679b8ea282">  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="6c9029cf-c061-4153-9778-073f2026774a">Στην αγορά πώλησης έχουν δύο ανταγωνιστές, καθένας εκ των οποίων έχει μερίδιο αγοράς </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="139cb898-cc61-49fa-a299-e8479f7ed5df">35%.  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="971796b5-4568-4f7c-a0bd-705b7b676337">Στην αγορά προμήθειας, τα μέρη είναι μικροί αγοραστές χαρτονιού συσκευασίας που αντιπροσωπεύουν ποσοστό μικρότερο του </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="06d0844d-8270-49f7-8491-a095bf770f67">10%</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="b9c93085-279c-4e73-b399-81c2cd1b0beb">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="64e1f349-c2b2-4783-9e0e-ad7cc906c215">των συνολικών αγορών</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="b7ab514e-587b-475e-a878-768eb0c01c88">.</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="27304710-38a8-4852-bd70-9543eb32ffbb">  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="13a27102-eace-4061-abaf-169efbe93f0a">Είναι απίθανο να αποκτήσουν οποιαδήποτε ουσιαστική αγοραστική δύναμη υπό αυτές τις συνθήκες</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="3f6e2aaa-c113-4c42-9f80-f751acb2eafb">.  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="9275c8d1-9999-41e4-a710-4361e97b1dd4">Επιπλέον, η συνεργασία για την αγορά δευτερεύουσας πρώτης ύλης είναι απίθανο να οδηγήσει σε ευρύτερη συνεργασία μεταξύ τους για την πώληση των δικών τους προϊόντων (χαρτάκια)</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="8291cde7-5ce6-4be3-9386-5a461434a51a">.</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d10f1255-95ba-4477-8cd8-bb2acc962696">  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="f4c72121-b1df-4f88-b197-eb5745dbef3b">Ωστόσο, παραμένει το ερώτημα εάν είναι απολύτως απαραίτητη η δέσμευση αποκλειστικής προμήθειας για την εξασφάλιση των πλεονεκτημάτων, τα οποία παρέχει η κοινή προμήθεια</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="1a0c2877-dadb-4859-be5f-1d5d5ed8330a">.</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="c0c91d33-2e5e-46c3-b2ae-3676ad2bcbe4">  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="ab5ab475-89e3-4cb6-b245-7ff954d38d29">Συνιστάται πάντα η αναζήτηση νομικών συμβουλών, όταν εξετάζεται οποιοδήποτε είδος συμφωνίας κοινής προμήθειας με ανταγωνιστή, όπως και οποιοδήποτε είδος συνεργασίας με ανταγωνιστή</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="57536e03-eb95-4e88-9904-10ba928432f8">.</span>
+                      </font>
+                    </div>
+                    <div GUID="7e502e57-e664-4d46-879c-e9ce75605fda" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="454e4217-38d9-4897-b107-45fdc946c694">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d7c38b22-7ce6-473e-ad54-152dfb35e8c4">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="06d6d823-a6b6-4d34-8eb9-6098ff2a0def">Ο </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="404283b9-5683-4506-9e7a-e58ca7b63e07">Peter</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="b1cc664d-a2d9-44f5-ac15-eda5d7330302">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d6119573-e542-46a3-8ce6-25519887a0e8">Pearson</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="1ecd9158-b795-45b4-8a1b-154d33ade59e">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="9c7468a8-c6bb-4b08-b4a9-5d820d439ac7">δεν θα πρέπει να συμφωνήσει με αυτήν την πρόταση ή να προσπαθήσει να αποφασίσει ο ίδιος εάν είναι αποδεκτή σύμφωνα με το Δίκαιο Ανταγωνισμού, αλλά θα πρέπει να αναζητήσει νομικές συμβουλές</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="73ca1040-cd52-4508-bdda-4d00b0aae10d">.</span>
+                      </font>
+                    </div>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('7a6432cb-9d4c-45db-90cf-83ba942e96da');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" style="cursor:hand" name="Qc85012bf-4e12-4aba-917f-cffff50f8681" ID="A87772bf7-e908-4055-b64a-a82f87e9953f" src="/General/Images/InfoPath/CC_OptC.gif" onClick="ShowAnswer('87772bf7-e908-4055-b64a-a82f87e9953f','true');" onmouseover="this.src=activeOptC;" onmouseout="this.src=optC;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="60a5909c-4572-455e-87ec-e480bb769aa8">
+                    <span style="LAYOUT-GRID-MODE: line" GUID="c86208aa-5a27-4861-ae2e-ad0334ef3d1c" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="9ec645cc-2155-46b7-9a32-3c050d4166e6">Θα πρέπει να αναζητήσει νομικές συμβουλές</font>
+                    </span>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="87772bf7-e908-4055-b64a-a82f87e9953f">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="33518ba7-e9ff-46e3-b580-088b7647bd0d">
+                    <div GUID="8e20c0a5-fa76-4e56-8c6b-e3c6de30f46a" xmlns="http://www.w3.org/1999/xhtml">
+                      <strong GUID="8c3642df-26c4-4e06-a28c-cc478c7f0229">
+                        <font face="Arial" GUID="7617ad64-c21c-48b4-8002-6799fcdf151b">
+                          <span style="LAYOUT-GRID-MODE: line" GUID="8b57c82c-8226-40f5-8b5f-896a062de001">Σωστό</span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="502f5fb4-fa53-42cc-a538-83dec2da5cc8">!</span>
+                        </font>
+                      </strong>
+                    </div>
+                    <div GUID="e7e3d957-da93-4754-9ddf-93ad3e7e8010" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="aed8ef08-9243-440b-a1b6-4e59100dadfc">
+                        <strong GUID="03ba4b9a-8fa9-4784-8b71-262c9d0a2902">
+                          <span style="LAYOUT-GRID-MODE: line" GUID="d040947e-3b0b-4dc4-a114-815c2da4398b">
+                          </span>
+                        </strong>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="91492260-9c16-4f83-b74c-d63d7bf6cd82">Πρόκειται για συμφωνία κοινής προμήθειας</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="9d5045a2-b30c-4401-9733-0ccced8223be">.</span>
+                      </font>
+                    </div>
+                    <div GUID="108a27c9-3891-4cdb-b53a-8034029083a5" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="e236e441-ac98-4754-b936-084d7afa2788">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="512c9083-9088-4388-9b07-7948190a88a2">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="127d9243-1917-4838-b2e2-648d1ef582d5">Οι εταιρείες ανταγωνίζονται η μία την άλλη στην αγορά πώλησης, άρα πρέπει να εξετάσουμε την ισχύ τους στην αγορά προμήθειας και στην αγορά πώλησης</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="1277bb0f-51c3-4f4e-b2f0-cbc1ec0ff5aa">.</span>
+                      </font>
+                    </div>
+                    <div GUID="60eb206d-cdaa-42a9-a36c-42b9a478efda" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="dbf48b66-3410-418f-839a-a355fb6516cd">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="9256bb2b-0875-479f-b606-6b7f77c67507">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="91177608-f430-4725-a42c-db080457827a">Στην αγορά πώλησης έχουν δύο ανταγωνιστές, καθένας εκ των οποίων έχει μερίδιο αγοράς </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="f459a5ef-0cb7-4c3e-ae06-0bee80f4d8db">35%.  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="de109886-16c7-4ada-9c1c-3d0854f8c0c8">Στην αγορά προμήθειας, τα μέρη είναι μικροί αγοραστές χαρτονιού συσκευασίας που αντιπροσωπεύουν ποσοστό μικρότερο του </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="7c32c47a-642e-4a2b-9ccf-02857d942b47">10%</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="a87ba717-ae61-45d4-a0fe-b34a94186bf6">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d564da2a-1925-4c83-a1d8-cfe474186354">των συνολικών αγορών</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="aec37403-2531-4304-8837-9a56771f6ff4">.</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d9fb6f04-8312-454b-9a34-78e0b84e2f62">  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="4bfc905d-3dca-4f00-9390-176720af438e">Είναι απίθανο να αποκτήσουν οποιαδήποτε ουσιαστική αγοραστική δύναμη υπό αυτές τις συνθήκες</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="b3496c4b-efd4-4293-8156-4894355f7bdf">.</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="6b0966ea-48b8-4a0b-ae30-1d5523471edb">  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="1f3461b4-65a5-4065-a74f-fa45397b21bf">Επιπλέον, η συνεργασία για την αγορά δευτερεύουσας πρώτης ύλης είναι απίθανο να οδηγήσει σε ευρύτερη συνεργασία μεταξύ τους για την πώληση των δικών τους προϊόντων (χαρτάκια)</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="1e97763b-b2e4-48f9-b40e-59a17e9ee9b2">.</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="1968115c-a0ab-4524-8230-a23dacf4a16a">  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="222e31fd-f78d-4ace-a3fd-b557dda729b1">Ωστόσο, παραμένει το ερώτημα εάν είναι απολύτως απαραίτητη η δέσμευση αποκλειστικής προμήθειας για την εξασφάλιση των πλεονεκτημάτων, τα οποία παρέχει η κοινή προμήθεια</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="9f5cb07a-cf89-4612-af6b-689de448820d">.</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="5f73a879-0ded-4301-b7b1-539eb3ecf25f">  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="0b4d320d-2b62-4279-a5cb-8c33fbd9985e">Συνιστάται πάντα η αναζήτηση νομικών συμβουλών, όταν εξετάζεται οποιοδήποτε είδος συμφωνίας κοινής προμήθειας με ανταγωνιστή, όπως και οποιοδήποτε είδος συνεργασίας με ανταγωνιστή</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="097e9862-442c-4cdd-839b-14af79001216">.</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="ead014e9-c7fb-4493-a32c-0e283f6c3c06">  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="4c55f409-f1f2-4aec-9c2c-9de872aed0e1">Ο </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="7ed1e1cf-bf6d-44ef-882a-ddc0df1e7400">Peter</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="c9f1736a-73a1-418d-8622-7a729329f20c">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="1d39c7e0-bc6f-4c73-8e15-1e240f299210">Pearson</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="03825dfe-f6b0-4156-a227-5cfff71075bb">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="78d04a8b-8721-4e3e-a5ef-634f8003406c">δεν θα πρέπει να συμφωνήσει με αυτήν την πρόταση ή να προσπαθήσει να αποφασίσει ο ίδιος εάν είναι αποδεκτή σύμφωνα με το Δίκαιο Ανταγωνισμού, αλλά θα πρέπει να αναζητήσει νομικές συμβουλές</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="1e8b23f3-52ae-4661-b85b-50b08726adcb">.</span>
+                      </font>
+                    </div>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('87772bf7-e908-4055-b64a-a82f87e9953f');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>]]></MultiChoiceQA>
+        </PageElement>
+        <PageElement GUID="4578ee39-44f5-4c33-a1fb-e260bbb9b830">
+          <ExtraInfo GUID="f458a852-7d7e-4d75-9660-d2caf3365693"> <![CDATA[<div class="ExtraInfo_Main">
+  <table cellpadding="0" cellspacing="0" border="0" class="ExtraInfoExtraVisible">
+    <tr>
+      <td width="2%" class="" style="padding-left:5px;cursor:hand;">
+        <img class="" src="/General/Images/InfoPath/CC_Example.gif" name="EX_&quot;a00c0b34-b431-4fcf-8c3a-30b11046df19" ID="EX_a00c0b34-b431-4fcf-8c3a-30b11046df19" onClick="TogglePopup('a00c0b34-b431-4fcf-8c3a-30b11046df19');" onmouseover="this.src=activeExample;" onmouseout="this.src=Example;">
+      </td>
+      <td class="" align="left" style="padding-left:5px;vertical-align:top;">
+        <div class="">Υποδείξεις και Συμβουλές </div>
+      </td>
+    </tr>
+  </table>
+  <div ID="Content_a00c0b34-b431-4fcf-8c3a-30b11046df19" class="ExtraInfo_Hide">
+    <table>
+      <tr>
+        <td class="TextGraphic_Description">
+          <Description GUID="37cf1379-c749-4612-874f-43fe3e2894fe">
+            <div GUID="a2c17c5e-62b5-4ff8-b11e-2b9d651ce0ab" xmlns="http://www.w3.org/1999/xhtml">
+              <span style="LAYOUT-GRID-MODE: line" GUID="e0e52636-c003-4efd-9a7d-0de2933eebce">
+                <strong GUID="9915a5eb-e4c8-40f0-b07f-58504aa7685a">
+                  <font face="Arial" GUID="5a362c70-14a0-42fb-9b9c-2a32f1a888da">Υποδείξεις και Συμβουλές </font>
+                </strong>
+              </span>
+            </div>
+            <div GUID="7360852f-c4bd-4038-9c3e-de6ed1bee412" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="d6d85de1-3717-4b0f-948d-2f755600cf1e">
+                <span style="LAYOUT-GRID-MODE: line" GUID="5fe00a60-4769-4c95-bc0b-35031d2eb6fb">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="d10325d3-0d4f-4cc9-95ed-7d013ee73b32">Να αναζητείτε πάντα νομικές συμβουλές σε σχέση με οποιαδήποτε πρόταση για συμφωνία συνεργασίας με ανταγωνιστή, όπως οι προτεινόμενες συμφωνίες κοινής προμήθειας</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="1cd7a999-ae6a-4d1c-8c7f-4e87ff7f2c78">.  </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="049a0d8d-e346-40b3-9452-eb83edcd9ca0">Χρειάζεται πάντα προσεκτική ανάλυση προκειμένου να ελέγχεται εάν οι προτάσεις είναι αποδεκτές σύμφωνα με το Δίκαιο Ανταγωνισμού, εάν χρειάζονται τροποποίηση προκειμένου να γίνουν αποδεκτές ή εάν είναι ιδιαίτερα απίθανο να γίνουν αποδεκτές</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="d11fe90a-5530-4b03-83bb-c6095021a0d6">.</span>
+              </font>
+            </div>
+          </Description>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img class="" style="position:absolute;left:488px;top:368px;;cursor:hand;" src="/General/Images/InfoPath/CC_Close.gif" onClick="TogglePopup('a00c0b34-b431-4fcf-8c3a-30b11046df19');" onmouseover="this.src=activeCloseImg;" onmouseout="this.src=closeImg;">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="cafc59ba-08c6-4504-ac3f-3c567485aa08">
+          <MeetThePlayer ID="Player1" GUID="f681ca13-a1ac-43ec-82f7-baa769c1d449"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/71fbe2f9-2397-40f9-b3c7-e5e27e5ee5cf.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">Zyder Limited</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="024da9d4-d3e5-4e1e-88c1-75fdfc980209">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="9a64eb7c-4948-4066-92c9-e04283e0a5ca" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="5d443e85-a9cb-4699-95b8-fa4778d951c1">Η<strong GUID="c9c4f7c6-4751-43b2-94f3-d15a8af3ff5d"></strong><strong GUID="0cdd1292-6990-4ba4-be40-fd9328c421f1">Zyder Limited</strong> είναι μια βρετανική εταιρεία που παράγει τα χαρτάκια Sign για στριφτά τσιγάρα, τα οποία πουλάει σε σουπερμάρκετ και άλλα σημεία λιανικής πώλησης.  Έχει ένα εργοστάσιο όπου τα χαρτάκια συσκευάζονται.  Ο Brian Davids είναι ο Γενικός Διευθυντής της.</font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+        <PageElement GUID="d19e6d0f-1a5b-4365-9920-9ad1e9f25f30">
+          <MeetThePlayer ID="Player2" GUID="0cb76bfe-e843-43ed-baf1-ca96aae3ed91"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/f840bcb1-75ab-443f-88f6-8ba1c2b26e53.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">Peri Limited</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="32f3887b-21a3-4fdc-88bc-d508a3c7cacb">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="a4076cbd-9e14-4871-a384-fd93e18ac6a9" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="24805abc-33a7-4b19-97b1-b4f542a55ded">Η<strong GUID="45d751cb-b302-4acf-a1b9-6b65e9cb3436"></strong><strong GUID="ca543e59-f46d-49c8-ab6b-5e8987815487">Peri </strong><strong GUID="fdd38054-04cf-4512-8826-c2a15c790be8">Limited</strong> είναι επίσης βρετανική εταιρεία.  Παράγει τα χαρτάκια Legend, τα οποία πωλεί σε σουπερμάρκετ και άλλα σημεία λιανικής πώλησης.  Έχει επίσης ένα εργοστάσιο όπου συσκευάζονται τα χαρτάκια της.  Ο Peter Pearson είναι ο Πρόεδρός της.</font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page17" IsActive="true" GUID="b3f2f4dd-32e6-4a47-8fa2-39541e4ca9c4">
+      <IncludedInTOC GUID="ac86cf05-3277-4b69-a7f6-615f134b2e6b">true</IncludedInTOC>
+      <Title GUID="5cf697a3-2858-408e-9c3d-5b5a0f4e15ae">Σενάριο 2</Title>
+      <PageElements GUID="b0ec53f3-9bcd-4183-9e3b-47fee6b37023">
+        <PageElement GUID="a40d6575-d68c-4407-bb4e-d4c3c4d7b862">
+          <TextBox GUID="1230890c-f902-4d79-b5c8-af5e93dd5163"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="4199526e-dfb1-4f45-a3c7-9fd6a49e570f">
+    <div GUID="99dfb45d-2935-46fd-b2aa-2baa964f84b4" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="bb14f75c-5551-4d82-ace7-b62652121e67">
+        <span style="LAYOUT-GRID-MODE: line" GUID="3fd16ddf-ca41-47a2-b2b5-3abe2358f34b">Η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="58d3c7fe-5693-40b9-b072-7c9324f2ee11">Zyder</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="892f3dd2-1282-4a38-8429-64b461632abf">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f62fe61f-9351-4a6e-8fd7-86ba03c0f4ca">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="3abc24d7-d57f-458c-ac9d-3a1c86816d90"> και η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="959d0666-3785-4ea2-bfab-ce588c074255">Peri</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="202e9fee-fc04-4a7c-addb-f0fc8284446f">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f8aa8fb6-8d5f-4b91-abd5-beb521f5cc80">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="a4edca14-5dfb-448b-ac95-8c66387256f1">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e7d2be46-be47-4f5b-9716-cc9f84ceee58">εξάγουν και οι δύο τα προϊόντα τους στη Γερμανία, μια πολύ επικερδή αγορά και για τις δύο εταιρείες</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="84a731d2-4078-4e76-b6db-f3a4ae59405d">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="691cd1ad-c66b-4ac2-8669-e19312dff197">Το μερίδιο αγοράς της </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="c3ba31bb-0f60-4f5d-9d62-a6af15312f50">Zyder</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="96c06208-d124-4778-9d0d-17e09f1f2108">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="830611cf-15c4-4845-8778-ed506a61b417">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="0d962491-db87-4743-8b2b-2721229c08b1">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e0dfffda-6ba2-49ce-8c63-7fa152d0791f">στην αγορά για τα χαρτάκια στριφτών τσιγάρων στη Γερμανία είναι </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="063cf781-a168-489a-a679-9ef19fc30c0c">30% </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="3cce87ae-de79-45e4-8481-3f7d8d293f09">και το μερίδιο αγοράς της </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="88e65434-6bf0-4402-8e2d-818ea8d0b089">Peri</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="357c6c19-a704-4f04-ba8b-fcbeeef53d95">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="1cd27527-4137-476a-a6c1-9a77a83461a8">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="9ecee3ce-eceb-430a-85bc-88149e31160f"> είναι ακόμα μεγαλύτερο και ανέρχεται σε</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="c8ceed2a-a1ff-4eb1-957f-955edf5a8f23"> 35%.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f4d3c022-ae43-4c52-83ce-90582f36ff06">Έχουν διάφορους ανταγωνιστές, αλλά κανένας δεν έχει μερίδιο αγοράς άνω του</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="961fff9b-cfcc-469e-8ebf-519f8a34d35e"> 5%.</span>
+      </font>
+    </div>
+    <div GUID="616d3b35-b866-4f50-a23b-0df1ed990298" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="cc07975b-f835-42f0-b5cd-e5b7751adb61">
+        <span style="LAYOUT-GRID-MODE: line" GUID="5f355ab0-8b9e-4932-9c2a-cc90795dcb92">
+        </span>
+      </font> </div>
+    <div GUID="5d9feeee-a4cf-452a-9949-54e4cda747ae" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="1f203d7c-78b5-40ae-ae92-c6278749e71e">
+        <span style="LAYOUT-GRID-MODE: line" GUID="ec069707-b569-43eb-8b09-c37b1cafff2f">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="4d440e9e-5711-4374-bd70-8422fd887def">Ο </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="d630a78d-10a1-4e80-aeb3-030d72fcf5f9">Brian</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="2b0a8cc6-850e-4e05-a29c-a88dd8bb590c">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f7cc3182-3fc3-4e70-bcb2-67ba2dd3173a">Davids</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="cd8d21fc-d559-4f96-83d8-a38d8280d50c">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="d72420e7-3ed3-4a53-9742-a95f90410c56">ανησυχεί για τον ανταγωνισμό που δέχεται από την </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="7d94825e-aec5-4b2f-976c-c202328b2aac">Peri</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="b53b2125-e718-42f7-a100-457d8ad2ff57">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="4b043e9e-a450-48b3-a469-b3d9b5521a08">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="ec9c0432-4ca8-4faf-98fb-54ee2d49f914">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="5de750f2-5ed3-4158-a2c9-e5088f40cd4f">στη Γερμανία</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f085fb69-2234-4f40-affb-3cf86a2798e7">, </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="e14ef67c-97f6-441a-bb9f-e80fc0b0af2e">καθώς πιστεύει ότι το μερίδιο αγοράς της </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="bbc684f1-0b69-4377-a3cc-32b048197e35">Zyder</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="d59002c1-9f8c-41ad-8e1a-58bda20a906e">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="d3008ee1-2634-4612-816a-23352ec1c0ba">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="817d50c4-d600-4e41-be60-01046e33fcb4"> συρρικνώνεται λόγω της σημαντικής αύξησης της ζήτησης για το προϊόν της </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="4db9e147-082f-40cc-86f9-97e42b44ddfe">Peri</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="3e1cee6d-7bb7-4388-93ba-6e450e79f880">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="56a1c8de-1f52-43c5-a11d-4a14a88dfc71">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="2ef18852-c9a8-4667-8907-bf8e860d668f">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="9b4f8025-037b-4689-800e-b6de3c0742b7">Ξέρει ότι η </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="36ca70e7-698f-496a-83f2-4358c49375fb">Peri</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="1ec58a20-35e0-4c11-9819-adf37734e920">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="4d2ef43f-8840-45e9-9212-b61f8553e55d">Limited</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="022db062-42e2-49b3-af79-aba85f1da773">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="75acd71f-e77c-47a7-9b36-2cf72c9080e5">επιθυμεί να κάνει τις γερμανικές πωλήσεις της πιο επικερδείς, κι έτσι σε ένα παιχνίδι γκολφ προτείνει στον </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="a5885c29-0a5d-4781-9396-7349b5b930b2">Peter</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="54369e8a-f117-486f-815a-9fdb2556733d">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="790c8307-b19e-48fa-81ae-f336d52d7804">Pearson</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="8b1eb361-99bb-4474-a5e3-7dc9c45eab0b">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="78d9ea0c-ed45-4c7a-bec3-e54e3aaf438d">τη σύναψη συμφωνίας κοινής πώλησης μεταξύ των δύο εταιρειών στη Γερμανία</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="f4c5b52e-737f-40e9-8f3e-7fbabe7e7972">.</span>
+      </font>
+    </div>
+    <div GUID="0d3a6268-5300-4ff4-9827-b02bf9e0d15e" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="e9d5d958-b6b7-4b6b-8900-a7b33e372921">
+        <span style="LAYOUT-GRID-MODE: line" GUID="7ed90714-f5af-4497-b7b2-b8c4297f4097">
+        </span>
+      </font> </div>
+    <div GUID="452761b9-a716-45d1-a4d3-bd1cdec44063" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="46313a23-9add-48d4-8c52-141d269139cd">
+        <span style="LAYOUT-GRID-MODE: line" GUID="792e5239-ef4c-4102-b83a-7fad78af4468">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="1ef00a51-154e-4048-aa3b-7ae876b87605">Προτείνει τη σύσταση κοινοπραξίας στη Γερμανία για την εμπορία και πώληση των προϊόντων τους</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="a0e7e10b-839f-4662-8e5f-61ee9846d29a">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="5070f889-f53b-4448-9d50-e9a8cec58ee1">Εξηγεί ότι αυτό θα επιτρέψει στις δύο εταιρείες να εξοικονομήσουν σημαντικά σε επίπεδο εμπορίας και πωλήσεων και θα τους επιτρέψει να μεγιστοποιήσουν την κερδοφορία τους</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="0f3c43d8-68db-404b-a0f3-77c14e8ba067">.  </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="5b0ef5cf-a369-4235-aab7-e61ff813b796">Ο </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="7d251a6f-6ca0-4476-bcc4-cc6f639c1188">Peter</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="9b781289-b5c9-44bb-8b03-bd453422dea5">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="44389997-a9e4-4a02-ae21-c358f034bb7e">Pearson</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="21752a3c-4846-429b-9ded-51bd2900a6a3">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="cbb963a9-4099-483b-b62c-6ea0ad85b261">λέει ότι θέλει να σκεφτεί αυτήν την ελκυστική πρόταση και ότι θα επικοινωνήσει με τον </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="b9501fe5-96b2-4878-839d-e0af6ec7f1ee">Brian</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="c1e0d106-61da-49e6-bd6b-a5ffa18d177e">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="d6cbb6ff-3888-451c-8b4e-b87b9b4cff79">Davids</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="5bdac9c8-8e89-40d3-9122-b5503ab30c10">
+        </span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="33302693-b175-44b9-8b62-7457dd7ca688">τη Δευτέρα</span>
+        <span style="LAYOUT-GRID-MODE: line" GUID="198898c1-4796-49e0-9624-38a49005beae">.</span>
+      </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="7ebb05ba-97f9-4a69-8172-b84ecd892f52">
+          <MultiChoiceQA GUID="5d09ff0c-18c8-4d57-8496-69cf94a2d0b2"> <![CDATA[<table border="0" style="position:absolute;bottom:2px;height:400px;" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="bottom">
+      <div>
+        <div class="MultiChoiceQA_Question">
+          <Question GUID="b3e30606-9d22-4eef-8c6e-7e1b7a41addc">
+            <strong GUID="a9479c01-a53b-41da-8b67-df85e087fd27" xmlns="http://www.w3.org/1999/xhtml">
+              <font face="Arial" GUID="c3a46972-60e1-4382-998a-51fa2a2d38c5">
+                <span style="LAYOUT-GRID-MODE: line" GUID="9fe76fd3-6411-4a54-953b-aceb7c050fe2">ΘΑ ΠΡΕΠΕΙ Ο </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="8c290591-e6c4-4f0f-abbb-83ae693253c8">PETER</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="1d6d7665-8618-4544-9dc1-b3d63cad8662">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="b5415251-8915-44b8-986d-dc3eab02e881">PEARSON</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="c0fa4463-beb4-4961-8816-34308fc555f5">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="40dcb5ec-9391-4552-b6ea-b1c3d12d6b9b">ΝΑ ΣΥΜΦΩΝΗΣΕΙ ΜΕ ΤΗΝ ΠΡΟΤΑΣΗ ΤΟΥ </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="96696f01-026a-406d-a586-bfd68c6f2f7b">BRIAN</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="8991c42c-18dd-4406-924b-b73cc8914c63">
+                </span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="0aac625b-4567-4827-a65a-f9cf997fe55d">DAVID</span>
+                <span style="LAYOUT-GRID-MODE: line" GUID="b58f39e0-54ec-4ae3-8dda-16747815791c"> ΓΙΑ ΚΟΙΝΕΣ ΠΩΛΗΣΕΙΣ;</span>
+              </font>
+            </strong>
+          </Question>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" style="cursor:hand" name="Qb3e30606-9d22-4eef-8c6e-7e1b7a41addc" ID="A65c68164-8446-4f1f-b9d4-38eff23a650c" src="/General/Images/InfoPath/CC_OptA.gif" onClick="ShowAnswer('65c68164-8446-4f1f-b9d4-38eff23a650c','false');" onmouseover="this.src=activeOptA;" onmouseout="this.src=optA;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="e65feb00-7a14-45c7-8c2b-59df3fbce7a1">
+                    <span style="LAYOUT-GRID-MODE: line" GUID="6b4d892f-4210-4b58-ba6c-573375d5634b" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="eaba8187-e294-4f37-b0c6-ee0a1176316f">Ναι</font>
+                    </span>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="65c68164-8446-4f1f-b9d4-38eff23a650c">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="d2177e3a-ae3c-4e19-93fe-21adaaa9bd4d">
+                    <div GUID="1f6b291a-d4fa-405b-b1ba-778dbce6a0b8" xmlns="http://www.w3.org/1999/xhtml">
+                      <strong GUID="6000f2a3-95c0-4223-8431-15e9ebdc600a">
+                        <font face="Arial" GUID="b3d42749-c4e7-4ce5-b2a8-dd4aef5af83b">
+                          <span style="LAYOUT-GRID-MODE: line" GUID="596152d0-7ad8-4903-8d00-68f41c40aef1">Λάθος</span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="1febdab6-2711-4b41-a6ae-bf3abc2214d5">!</span>
+                        </font>
+                      </strong>
+                    </div>
+                    <div GUID="f565450b-ed2d-48e2-8b78-3f76b7efd915" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="d43494bf-79a4-454e-90e2-082b733368f9">
+                        <strong GUID="b1479630-af28-44f5-a506-65c08631276c">
+                          <span style="LAYOUT-GRID-MODE: line" GUID="e6639824-4975-48c3-9fcb-6e790ac27c0d">
+                          </span>
+                        </strong>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="2cac4974-c6a8-427a-a4c7-98ec2e094a69">Η σωστή απάντηση ήταν η </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="770c9f7f-1b3e-4415-9ff5-d8ee804556b4">(</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="86afcc38-b25d-41fc-8f07-396c3ee2c0fa">γ</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="4c9fb5dc-a299-44d2-b555-a3aa97ba1b35">).</span>
+                      </font>
+                    </div>
+                    <div GUID="d0763c6a-91ee-4970-9250-aa314c52a812" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="28b88801-529c-4691-b801-3abb8225b249">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="e743dcd3-f7cf-4c1a-9d88-e32da0898a4e">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="74c878b6-8196-4390-b295-42495068391d">Οι συμφωνίες κοινής πώλησης μεταξύ ανταγωνιστών είναι πολύ πιθανόν να παραβαίνουν το Δίκαιο Ανταγωνισμού γιατί μειώνουν τον ανταγωνισμό μεταξύ των εμπλεκόμενων εταιρειών, οδηγώντας συνήθως σε υψηλότερες τιμές και λιγότερες επιλογές για τους αγοραστές</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="684337c7-f65c-44ad-89e4-ac1e6347e8b6">.</span>
+                      </font>
+                    </div>
+                    <div GUID="91cf0dee-7d35-496f-9bef-133ecde04284" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="07362ea6-26e5-42d3-8bbc-ff3a7f49c910">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="ee2de3e6-5ffa-401f-926b-d0eb3fa923ba">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d4cf42e4-761e-49cc-9619-c986dca23b92">Στη συγκεκριμένη περίπτωση, η </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="8d766ffa-81ea-4858-8821-851445cb13fb">Zyder Limited </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="bc1111b7-3f6e-4700-8916-d589d23523b5">και η </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="c4dcaac2-8ce0-4be7-8154-6da1b8d4b374">Peri Limited </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="495c2221-3d4c-412c-832a-0740977627ef">έχουν πολύ σημαντικά μερίδια αγοράς στη γερμανική αγορά για χαρτάκια</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="dcd9c053-b922-4576-baf1-b409a9c4ee26">.  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="4983b0f7-a509-4f87-8a59-816719938ace">Κατά συνέπεια, οποιαδήποτε συμφωνία κοινής πώλησης μεταξύ τους θα παρέβαινε το Δίκαιο Ανταγωνισμού γιατί θα ενίσχυε πολύ πιθανόν τη θέση τους ακόμα περισσότερο</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="7fe39721-21f1-41f3-aa63-b55f04391063">.</span>
+                      </font>
+                    </div>
+                    <div GUID="83ee1fd2-bf59-4589-ac9a-c76c4dadbd90" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="16f638e4-7983-4a23-9f1e-2b650e78f14e">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="62ccd415-88c7-424b-8c68-69817a3bc560">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="c55ffbb7-3aee-4f89-b9b0-a2b687218974">Γενικά</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="a727a64f-b3af-41cf-bc4d-4a9e82b05981">,</span>
+                      </font>
+                    </div>
+                    <div GUID="6459de36-e9cd-420a-a5d4-fd20f37edaab" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="236e2fdd-64d7-4f00-bb9f-34f9c5fddb0a">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="cd1fa3f0-2581-4e1c-966f-c45d3a55a298">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="92f4ddc7-93bd-4df0-a54e-2cf2ec0b6092">ο </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="2c75308b-63ac-4828-885f-dc5a9e021c22">Peter</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="9d0354f1-30a8-4541-862b-0c0e46976ab8">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="c0cbd7c1-e6eb-4db4-914d-b43b550ff474">Pearson</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="4f129a29-3640-495f-82e8-32fa92d2c82f">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="f3c7421b-5f66-4c20-af28-abaa189caa76">θα πρέπει να αναζητήσει νομικές συμβουλές πριν προβεί σε αυτήν τη συμφωνία, όπως άλλωστε και για οποιαδήποτε άλλη μορφή συνεργασίας με ανταγωνιστή</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="8b2d8f9c-e77a-4860-b88c-897c4ab02e6f">.  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="2fe360fb-ec8f-4ef6-a299-191162e9411b">Θα πρέπει επίσης να σταματήσει να συζητά για την εμπορική στρατηγική της </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="8ae79fed-1d83-4e91-b49d-71e1be75856b">Zyder</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="6f8cf252-8700-4ae8-8cf0-485845cfc527">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="a88ad8bd-5618-4857-bcdd-61ade67d4e6f">όταν παίζει γκολφ με τον </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="bf464d37-c626-466e-b6ed-80e3e6fdea85">Brian</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="bb955da9-df81-4fb2-bf89-446b4048e456">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="62f67dce-f2e2-46e2-bd5b-ec0b8d98ba04">Davids</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="b83444b1-d0c3-49a0-a053-abcdeaade846">!</span>
+                      </font>
+                    </div>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('65c68164-8446-4f1f-b9d4-38eff23a650c');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" style="cursor:hand" name="Qb3e30606-9d22-4eef-8c6e-7e1b7a41addc" ID="A6872f8e1-b628-402e-a3ee-7a63e8f46011" src="/General/Images/InfoPath/CC_OptB.gif" onClick="ShowAnswer('6872f8e1-b628-402e-a3ee-7a63e8f46011','true');" onmouseover="this.src=activeOptB;" onmouseout="this.src=optB;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="4d909b46-278b-4c47-b7f0-557b6fe74958">
+                    <span style="LAYOUT-GRID-MODE: line" GUID="74e90a9a-e3aa-4394-ac97-2bab18c1e658" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="ef80bd9f-e361-4e91-9571-d6fbc9f022fa">Όχι</font>
+                    </span>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="6872f8e1-b628-402e-a3ee-7a63e8f46011">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="bb62ddd2-b7ac-44c2-8daa-4d06286730ca">
+                    <div GUID="ae90ee24-0efd-4a0b-b9cb-311349078013" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="c273c674-615d-4a9f-8e01-650392256a1d">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d1a52574-cefc-43ca-afe9-fd8ff1e97ab7">
+                          <strong GUID="209478fe-6269-4819-9bbe-a4f0cdad0bf2">Σωστό</strong>
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="9d2986f8-aecb-4c8e-8194-6ad88ea1d2c4">, </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="2200653f-5d57-41d6-8ea8-e6091ed90117">αλλά η καλύτερη απάντηση είναι η</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="c9c827a6-7b4b-4734-9182-74c07f4040e5"> (</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="229aad97-1fb5-4c61-bb51-53f879c8fbce">γ</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="f6aa9443-fd52-4665-9800-4d58c8a619e1">) </span>
+                      </font>
+                    </div>
+                    <div GUID="c78a9c76-d060-450e-bc71-b3c4584b725b" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="c9d8b995-d2c4-4c5e-9b12-b6f0df98af8c">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="89ff2f1b-1c71-48c9-83e5-f4e4b208c662">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="c0f8a71d-de52-4ec0-a172-aea4272d6a30">Οι συμφωνίες κοινής πώλησης μεταξύ ανταγωνιστών είναι πολύ πιθανόν να παραβαίνουν το Δίκαιο Ανταγωνισμού γιατί μειώνουν τον ανταγωνισμό μεταξύ των εμπλεκόμενων εταιρειών, οδηγώντας συνήθως σε υψηλότερες τιμές και λιγότερες επιλογές για τους αγοραστές</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="013dd342-cfe3-477a-9461-6d31c91c31ed">.</span>
+                      </font>
+                    </div>
+                    <div GUID="ad255d5a-415d-4ff8-9eea-c2b0b2d0eaef" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="05f06585-9ffc-4ea3-b7a5-ef7e1a46ec17">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="7c7c5464-cfe7-44ef-a1d9-645cc40cd55c">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="7d8da6d0-eef8-41f7-b6cf-e00e7bc61343">Στη συγκεκριμένη περίπτωση, η </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="fb736591-a31c-41e3-9880-e3692fd6466e">Zyder Limited </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="1c84f0f6-0039-423d-ae41-b77cf6b2b3d4">και η </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d2fda284-4302-46b6-9e03-d61afc00bbe0">Peri Limited </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="16dabf99-1d37-4812-bea7-80d9328fadce">έχουν πολύ σημαντικά μερίδια αγοράς στη γερμανική αγορά για χαρτάκια</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="726d6bb7-431d-49ac-863d-a3bfe0131d7a">.  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="5fa461cc-fbec-4709-a3b6-82f2b7cb1a51">Κατά συνέπεια, οποιαδήποτε συμφωνία κοινής πώλησης μεταξύ τους θα παρέβαινε το Δίκαιο Ανταγωνισμού γιατί θα ενίσχυε πολύ πιθανόν τη θέση τους ακόμα περισσότερο</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d13a8fe8-e0db-4763-b487-4a6eacd42437">.  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="fc4fbe7c-f739-4b14-9a21-827a2535f40f">Γενικά, ο </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="9813dda3-4836-4030-bcc3-ad20203431f3">Peter Pearson </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="196e5642-5f4d-429b-9d11-ec8ec6ba1738">θα πρέπει να αναζητήσει νομικές συμβουλές πριν προβεί σε αυτήν τη συμφωνία, όπως άλλωστε και για οποιαδήποτε άλλη μορφή συνεργασίας με ανταγωνιστή</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="b81ff68a-958c-4864-988a-db42a3cd3900">.  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="1f80f061-045f-470c-938f-544ae0b2b838">Θα πρέπει επίσης να σταματήσει να συζητά για την εμπορική στρατηγική της </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="45cf3760-72bf-4659-9572-615a0e975304">Zyder </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="e32e2e9a-8d9b-4cc5-a9b9-dc1ac4cc39ce">όταν παίζει γκολφ με τον </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="24aef9c2-46fd-4644-a13a-bbd6f6cff722">Brian Davids!</span>
+                      </font>
+                    </div>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('6872f8e1-b628-402e-a3ee-7a63e8f46011');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div class="MultiChoiceQA_Answer">
+          <div>
+            <table border="0" rowspacing="1" rowpadding="1" cellpadding="0" cellspacing="0" class="MultiChoiceQA_AnswerTextRadioTABLE">
+              <tr>
+                <td class="MultiChoiceQA_AnswerTextRadioTD">
+                  <img class="" style="cursor:hand" name="Qb3e30606-9d22-4eef-8c6e-7e1b7a41addc" ID="A8c06e361-301a-4546-a9db-dd3ae2690add" src="/General/Images/InfoPath/CC_OptC.gif" onClick="ShowAnswer('8c06e361-301a-4546-a9db-dd3ae2690add','true');" onmouseover="this.src=activeOptC;" onmouseout="this.src=optC;">
+                </td>
+                <td class="MultiChoiceQA_AnswerTextRadioTD2">
+                  <AnswerText GUID="7ca35ede-b567-47ce-b7f7-d79b994f2ddd">
+                    <span style="LAYOUT-GRID-MODE: line" GUID="b7b98eb0-bb11-498f-9154-12cd9a49c9ad" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="65443d3a-ab55-4db2-a4c9-c21b915bddfa">Θα πρέπει να αναζητήσει νομικές συμβουλές</font>
+                    </span>
+                  </AnswerText>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="8c06e361-301a-4546-a9db-dd3ae2690add">
+            <table border="0" align="center" height="100%" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td id="tblShowMsg" valign="top">
+                  <Feedback GUID="bf98b167-fa31-4997-8351-747389dfa8fc">
+                    <div GUID="61290ba8-acaa-4216-9c71-fee9a99c5a22" xmlns="http://www.w3.org/1999/xhtml">
+                      <strong GUID="3cd85352-191d-45f3-b5e3-ace8eb16ad4f">
+                        <font face="Arial" GUID="d9e5bab0-a331-450e-938b-e98bad96e09e">
+                          <span style="LAYOUT-GRID-MODE: line" GUID="d7f28359-e6e9-4235-a694-0b975e54e643">Σωστό</span>
+                          <span style="LAYOUT-GRID-MODE: line" GUID="ce7a7010-49c6-4084-bc0c-f14679ec0c0a">!</span>
+                        </font>
+                      </strong>
+                    </div>
+                    <div GUID="d4ed3a93-3145-4408-b6f0-82ce6dab935d" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="c13ed64e-e861-410f-840a-3a121798d214">
+                        <strong GUID="c8a062ee-fbd6-43b8-bec5-d0df81f9a996">
+                          <span style="LAYOUT-GRID-MODE: line" GUID="921ba2ac-ae32-466e-84d5-10ec314afa8b">
+                          </span>
+                        </strong>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="14764469-ebb2-4607-857c-2d6a8304be6f">Οι συμφωνίες κοινής πώλησης μεταξύ ανταγωνιστών είναι πολύ πιθανόν να παραβαίνουν το Δίκαιο Ανταγωνισμού γιατί μειώνουν τον ανταγωνισμό μεταξύ των εμπλεκόμενων εταιρειών, οδηγώντας συνήθως σε υψηλότερες τιμές και λιγότερες επιλογές για τους αγοραστές</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="bd3a91d7-6061-4f79-a1e2-f69f6ee286a9">.</span>
+                      </font>
+                    </div>
+                    <div GUID="0634effc-1d61-4390-a9e6-3580124ab781" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="e94ee777-039b-4312-b8d7-110d9124691b">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="d986392b-1cfb-4022-867e-3b7238373f17">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="8ee40a66-d057-47d1-b11b-f7da2943d7c4">Στη συγκεκριμένη περίπτωση, η </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="473060a1-dfb1-4d8f-8b83-3bfd5e6908d9">Zyder</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="5e1995ac-790e-4b5d-8868-f117099d5515">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="83b0b291-53e2-4f77-bb43-d222f996314a">Limited</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="40deac3d-538c-482b-a557-832cd0285875">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="c344a165-caf7-490b-acad-9ae52f74f66a">και η </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="453e4686-b5de-462b-8450-6b956e145284">Peri</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="7049afd6-6e6d-4af7-9864-8c5aa7d4b2ae">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="c7bfd9c2-85ba-4ac7-8fe9-eeb7f1f150ea">Limited</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="a7e10d19-e413-4ba4-a919-717e895a93b4">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="ac20562e-e8a0-4605-8170-d8160314b014">έχουν πολύ σημαντικά μερίδια αγοράς στη γερμανική αγορά για χαρτάκια</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="83ca98fe-8577-4999-be78-53a97f54180d">.</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="82b9ebeb-70b9-4cf3-a78b-eba79763bf88">  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="8319e642-c9a9-4a7c-baec-0d859160dd24">Κατά συνέπεια, οποιαδήποτε συμφωνία κοινής πώλησης μεταξύ τους θα παρέβαινε το Δίκαιο Ανταγωνισμού γιατί θα ενίσχυε πολύ πιθανόν τη θέση τους ακόμα περισσότερο</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="3affbc4e-707f-464f-a943-c6be3ca0be1e">.</span>
+                      </font>
+                    </div>
+                    <div GUID="8b2d2d6b-201f-4807-9bfa-07dc21cb71be" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="915be276-bd4a-476e-a585-1cc7e0a525ae">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="4d3f4b97-b2db-4aa5-afd4-dacbe8912c5c">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="70365207-bb83-46ec-9dfd-1205d8dbf662">Γενικά</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="9e631a44-b9a4-4f06-ad09-8fe5f6b8708d">,</span>
+                      </font>
+                    </div>
+                    <div GUID="ba0f6d3c-56e4-49b5-ae69-b217e1ea9353" xmlns="http://www.w3.org/1999/xhtml">
+                      <font face="Arial" GUID="915a94e9-3ae1-4948-85ee-2c19b98fc71f">
+                        <span style="LAYOUT-GRID-MODE: line" GUID="c3a65951-14fe-48f7-9506-8d823332765a">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="cf367009-e58c-432a-8d86-31044ede8fb4">ο </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="a2787994-e402-4f52-9015-db7dfca3ea08">Peter</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="fc89cd60-95c5-4fdb-ac95-5f9b32966012">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="51ff9838-74ca-45c3-b95d-289a1458f55c">Pearson</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="25dfa9b9-8dfd-4898-9060-247e25d84da7">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="f737282d-78dc-455e-b5d3-ad632130b3a6">θα πρέπει να αναζητήσει νομικές συμβουλές πριν προβεί σε αυτήν τη συμφωνία, όπως άλλωστε και για οποιαδήποτε άλλη μορφή συνεργασίας με ανταγωνιστή</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="602d2fed-b0f0-4230-bd94-c7f4fb2b38f2">.  </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="8d45d7ef-6d6d-43ac-9990-e8609a29caff">Θα πρέπει επίσης να σταματήσει να συζητά για την εμπορική στρατηγική της </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="2347eeee-84eb-4bef-b0fe-79d51a303470">Zyder</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="344b4c38-2591-4beb-9008-3792b29ea81f">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="58b18da6-5c27-48cc-bf7e-90aa35d0e313">όταν παίζει γκολφ με τον </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="59522c1d-bd67-453e-99ca-b935d83ae01c">Brian</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="0e11b23b-eba3-4c04-9d27-d91da74db589">
+                        </span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="89932d0e-d668-479a-a957-6732efd9df8f">Davids</span>
+                        <span style="LAYOUT-GRID-MODE: line" GUID="f30800e9-4fb0-4077-bc24-4cf1f8943272">!</span>
+                      </font>
+                    </div>
+                  </Feedback>
+                </td>
+              </tr>
+              <tr>
+                <td height="2%">
+                  <div id="divClose" style="cursor:hand;position:relative;vertical-align:bottom;padding-right:2px;" align="right">
+                    <A onClick="HideShowMessage('8c06e361-301a-4546-a9db-dd3ae2690add');">
+                      <img src="/General/Images/InfoPath/CCClose_Button.gif" border="0" alt="Close">
+                    </A>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>]]></MultiChoiceQA>
+        </PageElement>
+        <PageElement GUID="29c6bb1c-e826-47b0-9de5-5eb7ac295e14">
+          <MeetThePlayer ID="Player1" GUID="2eb03382-e6e6-4fcc-87ad-4ccd44bdd7fa"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/71fbe2f9-2397-40f9-b3c7-e5e27e5ee5cf.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">Zyder Limited</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="024da9d4-d3e5-4e1e-88c1-75fdfc980209">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="9a64eb7c-4948-4066-92c9-e04283e0a5ca" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="5d443e85-a9cb-4699-95b8-fa4778d951c1">Η<strong GUID="c9c4f7c6-4751-43b2-94f3-d15a8af3ff5d"></strong><strong GUID="0cdd1292-6990-4ba4-be40-fd9328c421f1">Zyder Limited</strong> είναι μια βρετανική εταιρεία που παράγει τα χαρτάκια Sign για στριφτά τσιγάρα, τα οποία πουλάει σε σουπερμάρκετ και άλλα σημεία λιανικής πώλησης.  Έχει ένα εργοστάσιο όπου τα χαρτάκια συσκευάζονται.  Ο Brian Davids είναι ο Γενικός Διευθυντής της.</font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+        <PageElement GUID="f907da36-f1bf-4afc-b677-ed3751a89efe">
+          <MeetThePlayer ID="Player2" GUID="177764f6-6c3d-4b08-90f2-f6f1c1644c83"> <![CDATA[<table cellpadding="0" cellspacing="0" border="1" class="MeetThePlayer_Main">
+  <tr>
+    <td class="MeetThePlayer_Image">
+      <img src="Images/f840bcb1-75ab-443f-88f6-8ba1c2b26e53.gif" alt="" align="texttop">
+    </td>
+    <td valign="top">
+      <div class="MeetThePlayer_Name">Peri Limited</div>
+      <div class="MeetThePlayer_Desc">
+        <Description GUID="32f3887b-21a3-4fdc-88bc-d508a3c7cacb">
+          <div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 10pt; LAYOUT-GRID-MODE: line; LINE-HEIGHT: 116%" align="left" GUID="a4076cbd-9e14-4871-a384-fd93e18ac6a9" xmlns="http://www.w3.org/1999/xhtml">
+            <font face="Arial" GUID="24805abc-33a7-4b19-97b1-b4f542a55ded">Η<strong GUID="45d751cb-b302-4acf-a1b9-6b65e9cb3436"></strong><strong GUID="ca543e59-f46d-49c8-ab6b-5e8987815487">Peri </strong><strong GUID="fdd38054-04cf-4512-8826-c2a15c790be8">Limited</strong> είναι επίσης βρετανική εταιρεία.  Παράγει τα χαρτάκια Legend, τα οποία πωλεί σε σουπερμάρκετ και άλλα σημεία λιανικής πώλησης.  Έχει επίσης ένα εργοστάσιο όπου συσκευάζονται τα χαρτάκια της.  Ο Peter Pearson είναι ο Πρόεδρός της.</font>
+          </div>
+        </Description>
+      </div>
+    </td>
+  </tr>
+</table>]]></MeetThePlayer>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page18" IsActive="true" GUID="1b54ec87-d2a7-4fff-a430-45982771db5f">
+      <IncludedInTOC GUID="13f8cbb3-4dec-4eb5-b56c-80420f03b8c4">true</IncludedInTOC>
+      <Title GUID="99de9808-03a0-469f-aba8-23054ccf1e51">Συγχαρητήρια</Title>
+      <PageElements GUID="039fd3be-62df-4dd5-8e02-5c3db69f86b0">
+        <PageElement GUID="4d761304-601d-4b46-b826-f0bf5ca8fa17">
+          <Graphic GUID="b27703fa-4e71-4133-892c-9af3891e985c"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/35e28460-5ccc-48c9-ab23-fc04bdeb61ca.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="048a82c6-2cb6-4cad-8d0d-7546666db688">
+          <Graphic GUID="248d3627-19d3-489c-a36c-9257d34c4f92"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/8cf4ea13-0f46-476f-a2a6-d35bd89ea271.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="503fea69-8b84-41f6-9daa-8fc2e77abe80">
+          <TextBox GUID="8300d834-caa3-46d5-8ea1-995e2fa6f89b"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7d3e50ae-a52d-41ca-a2ad-8cefde80b24e">
+    <div style="PADDING-RIGHT: 0cm; PADDING-LEFT: 0cm" GUID="0893f621-ded6-4e41-bf37-567d16236c8f" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="28b1bbf5-ce96-48ed-9a41-632cc22997c9">Μόλις ολοκληρώσατε το μάθημα «Εισαγωγή στη Συμμόρφωση με το Δίκαιο του Ανταγωνισμού». <br GUID="6d175391-c1c4-45af-872f-b4254077b0fc"><br GUID="bf5ddc75-5ea0-48eb-9fdd-7b65e25697f3">Η «Σύντομη Ανακεφαλαίωση της Εισαγωγής στη Συμμόρφωση με το Δίκαιο του Ανταγωνισμού» περιέχει μια περίληψη όσων έχετε μάθει. <br GUID="dae20b86-99dd-4aa8-86a7-d99b7a3e9f17"><br GUID="37701f6c-34fb-4456-a84b-0579a8e2cdc3">Όταν διαβάσετε τη Σύντομη Ανακεφαλαίωση, κάντε κλικ στο κουμπί «Έξοδος» παραπάνω για να τερματίσετε αυτό το μάθημα.  <br GUID="72242abc-232c-4234-8929-36220fcdd0b9"><br GUID="b2d5ef74-e912-431f-a4df-6241f1f1f254">Τώρα θα πρέπει να είστε έτοιμοι να συμπληρώσετε το τεστ σχετικά με την Εισαγωγή στη Συμμόρφωση με το Δίκαιο του Ανταγωνισμού. </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="12d5bf32-f7ec-4fb1-a46c-5fa7f46bbf66">
+          <EndLesson GUID="781bd34c-afcf-445a-ad30-03d46d933ca3"> <![CDATA[]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

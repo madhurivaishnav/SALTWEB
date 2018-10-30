@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<UnitTests xmlns="http://tempuri.org/TestData.xsd">
+	<!-- TestFixture-->
+	<BusinessServicesTest>
+		<!-- Tested Class -->
+		<User_cs>
+			<!-- New Record -->
+			<Record>
+				<FirstName>Administrator</FirstName>
+				<LastName>Application</LastName>
+				<UserName>saltadmin</UserName>
+				<Password>p@$$w0rd</Password>
+				<Email>ProductSupport@bdw.com</Email>
+				<UserTypeID>1</UserTypeID>
+				<Active>1</Active>
+				<CreatedBy>1</CreatedBy>
+				<DateCreated>2005-05-01T14:52:57.510</DateCreated>
+				<DateUpdated>2005-05-01T14:52:57.510</DateUpdated>
+				<LastLogin>2005-08-16T13:02:04.470</LastLogin>
+			</Record>
+			<Record>
+				<FirstName>PMP</FirstName>
+				<LastName>Administrator</LastName>
+				<UserName>PMPAdmin</UserName>
+				<Password>sweetsahoes</Password>
+				<Email>kate.connellan@pmplimited.com.au</Email>
+				<ExternalID>1</ExternalID>
+				<OrganisationID>1</OrganisationID>
+				<UnitID>1</UnitID>
+				<UserTypeID>2</UserTypeID>
+				<Active>1</Active>
+				<CreatedBy>1</CreatedBy>
+				<DateCreated>2005-05-02T11:13:44.217</DateCreated>
+				<UpdatedBy>2</UpdatedBy>
+				<DateUpdated>2005-06-27T12:31:22.623</DateUpdated>
+				<LastLogin>2005-06-29T11:06:45.420</LastLogin>
+			</Record>
+			<!-- record after update -->
+			<UpdatedRecord>
+				<FirstName>Peter</FirstName>
+				<LastName>Kneale</LastName>
+				<UserName>pkneale</UserName>
+				<Password>pknealepkneale</Password>
+				<Email>Peter.Kneale@bdw.com</Email>
+				<ExternalID>8234</ExternalID>
+				<OrganisationID>2</OrganisationID>
+				<UnitID>2</UnitID>
+				<UserTypeID>2</UserTypeID>
+				<Active>1</Active>
+			</UpdatedRecord>
+		</User_cs>
+	</BusinessServicesTest>
+</UnitTests>

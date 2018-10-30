@@ -1,0 +1,16 @@
+if exists (select * from master.dbo.syslogins where name = N'salt_user')
+exec sp_droplogin N'salt_user'
+GO
+
+if not exists (select * from master.dbo.syslogins where loginname = N'salt_user')
+BEGIN
+	declare @logindb nvarchar(132), @loginlang nvarchar(132) 
+	select @logindb = N'SALT', @loginlang = N'us_english'
+	if @logindb is null or not exists (select * from master.dbo.sysdatabases where name = @logindb)
+		select @logindb = N'master'
+	if @loginlang is null or (not exists (select * from master.dbo.syslanguages where name = @loginlang) and @loginlang <> N'us_english')
+		select @loginlang = @@language
+	exec sp_addlogin N'salt_user', null, @logindb, @loginlang
+END
+GO
+

@@ -1,0 +1,59 @@
+SET ANSI_NULLS OFF
+GO
+SET QUOTED_IDENTIFIER OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetQuizIDBySessionID]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfGetQuizIDBySessionID    Script Date: 20/04/2004 8:25:57 AM ******/
+
+/*
+Summary:
+user Defined Function that returns a Quiz id given a Session id
+Returns:
+integer
+
+Called By:
+ToolbookListener.aspx
+
+Calls:
+
+Remarks:
+
+
+Author:	Peter Kneale
+Date Created: 3 Feb 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1	GB		9/2/04			Coding standards
+
+**/
+
+CREATE  Function [udfGetQuizIDBySessionID]
+(
+@sessionID Varchar(50) --Session ID used to determine the Quiz ID
+)
+Returns Integer
+
+Begin
+-- Declarations
+Declare @retVal Integer --Quiz ID to be returned
+
+-- Get Quiz ID from Session
+Set @retVal =
+(
+Select Top 1
+QuizID
+From
+tblQuizSession
+Where
+QuizSessionID = ltrim(rtrim(@sessionID))
+)
+
+Return @retVal
+
+End
+' 
+END
+GO

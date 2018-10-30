@@ -1,0 +1,385 @@
+SET ANSI_NULLS OFF
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReport_HistoricAdminSummary]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/****** Object:  User Defined Function dbo.udfReport_HistoricAdminSummary    Script Date: 20/04/2004 8:25:58 AM ******/
+
+
+/*Summary:
+Get the Current or historic user module status  based on the search criteria
+
+See the remarks below.
+
+Returns: table
+
+Called By: Current historic Admin Report
+Calls:
+
+Remarks:
+
+1. Get User and course List based on search criteria
+1.1 Get Unit List
+1.1.1 If unit ids are passed in, convert the CSV format to a table
+1.1.2 If no unit is selected, get a list of of all units that the admin user has permission to access
+1.2 Get User list Based on the first name and last name in the search cirteria
+1.3 Get Course list Based on the selected course in the search criteria and Used can select multiple Courses
+2. Get the User Quiz and Lesson status up to the effective date
+2.1 If there is no effective date is passed in, get the current module status
+2.2 If there is effective date, get the module status up to the effective date
+3.  Get a list of the user''s quiz and lesson historic status
+
+Author: Jack Liu
+Date Created: 1 Mar 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date				Description
+#1.1	Usman Tjiudri	10/11/2005	Performance tuning:
+- use temp-table to populate Unit Pathway
+- join the temp-table to populate tblResult
+instead of using udfGetUnitPathway function in the join.
+#2.0	Serguei Chkaroupine 28/02/06 -New insert statement for histric admin report
+- it will insert all lessons that match current quizmodule pair
+- Current admin report performance fix. Added WHERE statement to
+most of the insert statements.
+
+select * from dbo.udfReport_HistoricAdminSummary(3, '''', ''1,2,3,4'','''','''',''20040222'',4)
+
+--------------------
+
+**/
+--instead of using udfGetUnitPathway function in the join.
+
+--select * from dbo.udfReport_HistoricAdminSummary(3, '''', ''1,2,3,4'','''','''',''20040222'',4)
+
+--------------------
+
+
+
+CREATE         Function [dbo].[udfReport_HistoricAdminSummary]
+(
+@organisationID 	Int,
+@unitIDs			Varchar(max),
+@courseIDs			Varchar(8000),
+@userFirstName		nVarchar(50),
+@userLastName		nVarchar(50),
+@effectiveDate 		Datetime,
+@adminUserID		Int,
+@classificationID 	Int
+)
+Returns @tblResult Table
+(
+-- General
+Unit			nVarchar(200),
+[User]			nVarchar(100),
+Course			nVarchar(100),
+Module			nVarchar(100),
+[Sequence]		Int,
+
+-- Quiz Specific
+QuizStatus		Varchar(50),
+QuizScore		Int,
+QuizStatusDate	Datetime,
+
+-- Lesson Specific
+LessonStatus	Varchar(50),
+
+-- Hidden
+UnitID			Int,
+UserID			Int,
+UserName		nVarchar(100),
+ExternalID		nVarchar(50),
+CourseID		Int,
+ModuleID		Int
+)
+As Begin
+Declare @userTypeID Int
+Declare @tblUnit 	Table(UnitID Int)
+Declare @tblUser 	Table(UserID Int)
+Declare @tblCourse 	Table(CourseID Int, Name nVarchar(50))
+Declare @tblUnitPathway Table(UnitID Int, Pathway nVarchar(200)) -- New table
+
+Declare @tblUserQuizStatus Table
+(
+[UserQuizStatusID] [int] Not Null,
+[UserID] [int] Not Null,
+[ModuleID] [int] Not Null,
+[QuizStatusID] [int] Not Null,
+[QuizScore] [int] Null,
+[DateCreated] [datetime] Not Null
+)
+
+Declare @tblUserLessonStatus Table
+(
+[UserLessonStatusID] [int] ,
+[UserID] [int] ,
+[ModuleID] [int] ,
+[LessonStatusID] [int] ,
+[DateCreated] [datetime]
+)
+
+
+/*
+1. Get User and course List based on search criteria
+1.1 Get Unit List
+1.1.1 If unit ids are passed in, convert the CSV format to a table
+1.1.2 If no unit is selected, get a list of of all units that the admin user has permission to access
+1.2 Get User list
+Based on the first name and last name in the search cirteria
+1.3 Get Course list
+Based on the selected course in the search criteria
+Used can select multiple Courses
+*/
+
+If @unitIDs Is Null Set @unitIDs = ''''
+
+If (@unitIDs !='''')
+Begin
+Insert Into @tblUnit (UnitID)
+Select intValue
+From dbo.udfCsvToInt(@unitIDs)
+End
+Else
+Begin
+Select @userTypeID = userTypeID
+From tblUser
+Where userID = @adminUserID
+
+--Get all units in that organisation if user is Salt Admin(1) or Org admin (2)
+If (@userTypeID=1 Or @userTypeID=2)
+Begin
+Insert Into @tblUnit (UnitID)
+Select UnitID
+From tblUnit
+Where OrganisationID = @OrganisationID
+End
+--Get units that the user is admministrator if user is Unit Admin(3)
+Else If (@userTypeID=3)
+Begin
+Insert Into @tblUnit (UnitID)
+Select u.UnitID
+From tblUnit u
+Inner Join tblUnitAdministrator ua On ua.UnitID = u.UnitID And ua.userID = @AdminUserID
+Where u.OrganisationID = @OrganisationID
+End
+End
+
+--FirstName or Last Name specified in search criteria
+If (@userFirstName Is Null) Set @userFirstName = ''''
+If (@userLastName Is Null) Set @userLastName = ''''
+
+Insert Into @tblUser (UserID)
+Select	u.UserID
+From tblUser u
+Inner Join @tblUnit unit On u.UnitID = unit.UnitID
+Left Join tblUserClassification uc On uc.UserID  = u.UserID
+Where u.FirstName Like ''%'' + @userFirstName + ''%''
+And LastName Like ''%'' + @userLastName + ''%''
+And --AND have the Custom Classification option
+--If classification is Any (0), This will find users of any Custom Classification
+( (@classificationID =0) Or (uc.classificationID = @classificationID) )
+And (u.Active=1)
+AND (u.OrganisationID = @OrganisationID)
+
+-- Search criteria contains course id''s
+Insert Into @tblCourse (CourseID, Name)
+Select c.CourseID, c.name
+From dbo.udfCsvToInt(@courseIDs) ca
+Inner Join tblCourse c On ca.intValue = c.CourseID
+
+/*
+2. Get the User Quiz and Lesson status up to the effective date
+2.1 If there is no effective date is passed in, get the current module status
+2.2 If there is effective date, get the module status up to the effective date
+*/
+
+If (@effectiveDate Is Null)
+Begin
+Insert Into @tblUserQuizStatus
+(
+[UserQuizStatusID],
+[UserID],
+[ModuleID],
+[QuizStatusID],
+[QuizScore],
+[DateCreated]
+)
+Select
+[UserQuizStatusID],
+[UserID],
+[ModuleID],
+[QuizStatusID],
+[QuizScore],
+[DateCreated]
+From vwUserQuizStatus
+Where QuizStatusID <> 0
+AND UserID in  (SELECT UserID FROM @tblUser)
+
+Insert Into @tblUserLessonStatus
+(
+[UserLessonStatusID],
+[UserID],
+[ModuleID],
+[LessonStatusID],
+[DateCreated]
+)
+Select
+[UserLessonStatusID],
+[UserID],
+[ModuleID],
+[LessonStatusID],
+[DateCreated]
+From vwUserLessonStatus
+Where LessonStatusID <> 0
+AND UserID in  (SELECT UserID FROM @tblUser)
+End
+
+Else
+
+Begin
+Insert Into @tblUserQuizStatus
+(
+[UserQuizStatusID],
+[UserID],
+[ModuleID],
+[QuizStatusID],
+[QuizScore],
+[DateCreated]
+)
+Select
+[UserQuizStatusID],
+[UserID],
+[ModuleID],
+[QuizStatusID],
+[QuizScore],
+[DateCreated]
+From dbo.udfReport_HistoricUserQuizStatus(@effectiveDate)
+Where QuizStatusID <> 0
+AND UserID in  (SELECT UserID FROM @tblUser)
+
+Insert Into @tblUserLessonStatus
+(
+[UserLessonStatusID],
+[UserID],
+[ModuleID],
+[LessonStatusID],
+[DateCreated]
+)
+Select
+[UserLessonStatusID],
+[UserID],
+[ModuleID],
+[LessonStatusID],
+[DateCreated]
+From dbo.udfReport_HistoricUserLessonStatus(@effectiveDate)
+Where LessonStatusID <> 0
+AND UserID in  (SELECT UserID FROM @tblUser)
+
+
+-- This part fixes migration issue (note this will affect historic admin report only as it does supply effective date)
+-- It will insert userid, moduleid and earliest lesson status for each quiz that does not have lesson record yet
+-- into @tblUserLessonStatus
+Insert Into @tblUserLessonStatus
+(
+[UserLessonStatusID],
+[UserID],
+[ModuleID],
+[LessonStatusID],
+[DateCreated]
+)
+Select
+1,
+uls.[UserID],
+uls.[ModuleID],
+uls.LessonStatusID,
+uls.DateCreated
+From  @tblUserQuizStatus uqs
+INNER JOIN tblUserLessonStatus uls
+ON uqs.UserID = uls.UserID AND uqs.ModuleID = uls.ModuleID
+INNER JOIN
+(
+-- this derived table gets earliest lesson datecreated in a group
+SELECT  UserID, ModuleID, min(DateCreated) as DateCreated
+FROM tblUserLessonStatus
+WHERE UserID in (SELECT UserID FROM @tblUser)
+GROUP BY UserID, ModuleID --, DateCreated
+) as els -- Earliest Lesson Status
+ON els.UserID = uls.UserID AND els.ModuleID = uls.ModuleID AND els.DateCreated = uls.DateCreated
+WHERE NOT EXISTS
+(
+SELECT 1 FROM @tblUserLessonStatus uls
+WHERE uqs.UserID = uls.UserID and uqs.ModuleID = uls.ModuleID
+)
+AND uls.UserID in (SELECT UserID FROM @tblUser)
+
+
+
+End
+
+/* Populate Unit Pathway using temp-table */
+Insert Into @tblUnitPathway
+Select UnitID As [UnitID], dbo.udfGetUnitPathway(UnitID) As [Pathway]
+From @tblUnit
+--Order By tblUnit.UnitID
+-- sp_help udfCsvToInt
+/* 3.  Get the user''s quiz and lesson status details */
+Insert Into @tblResult
+(
+Unit,
+[User],
+Course,
+Module,
+[Sequence],
+QuizStatus,
+QuizStatusDate,	-- These columns have been reordered
+QuizScore,	    -- These columns have been reordered
+LessonStatus,
+UnitID,
+UserID,
+UserName,
+ExternalID,
+CourseID,
+ModuleID
+)
+Select
+-- General
+up.Pathway 						As Unit, -- Unit Name
+u.LastName + '' '' + u.FirstName  As ''User'', -- User Full Name
+c.Name			  				As Course, -- Course Name
+m.Name			  				As Module, -- Module Name
+m.Sequence						As Sequence,
+
+-- Quiz Specific
+qs.Status						As QuizStatus,
+uqs.DateCreated 			    as QuizStatusDate,	-- These columns have been reordered
+uqs.QuizScore 				    as QuizScore,		-- These columns have been reordered
+
+-- Lesson Specific
+ls.status 						As LessonStatus,
+
+-- Hidden
+u.UnitID						As UnitID,
+u.UserID						As UserID,
+u.UserName						As UserName,
+u.ExternalID						As ExternalID,
+c.CourseID						As CourseID,
+m.ModuleID						As ModuleID
+
+From @tblUserQuizStatus uqs
+Inner Join tblQuizStatus qs On qs.QuizStatusID = uqs.QuizStatusID
+Inner Join @tblUser us 	On us.UserID = uqs.UserID
+Inner Join tblUser u On u.UserID = us.UserID
+INNER Join @tblUnitPathway up On up.UnitID = u.UnitID
+INNER Join tblModule m On m.ModuleID = uqs.ModuleID
+INNER Join @tblCourse c On c.CourseID = m.CourseID
+INNER Join @tblUserLessonStatus uls On uls.UserID = u.UserID And uls.ModuleID = m.ModuleID
+INNER Join tblLessonStatus ls On ls.LessonStatusID = uls.LessonStatusID
+
+
+Return
+End
+' 
+END
+GO

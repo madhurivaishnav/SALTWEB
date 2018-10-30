@@ -1,0 +1,86 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblReminderEscalation]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblReminderEscalation](
+	[RemEscId] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[OrgId] [int] NOT NULL,
+	[CourseId] [int] NOT NULL,
+	[DaysToCompleteCourse] [int] NOT NULL,
+	[RemindUsers] [bit] NOT NULL,
+	[NumOfRemNotfy] [int] NOT NULL,
+	[RepeatRem] [int] NOT NULL,
+	[NotifyMgr] [bit] NOT NULL,
+	[IsCumulative] [bit] NOT NULL,
+	[QuizExpiryWarn] [bit] NOT NULL,
+	[DaysQuizExpiry] [int] NOT NULL,
+	[LastNotified] [datetime] NOT NULL,
+	[NotifyMgrDays] [int] NOT NULL,
+	[IndividualNotification] [bit] NOT NULL,
+	[PreExpInitEnrolment] [bit] NULL,
+	[PreExpResitPeriod] [bit] NULL,
+	[PostExpReminder] [bit] NULL,
+	[PostExpInitEnrolment] [bit] NULL,
+	[PostExpResitPeriod] [bit] NULL,
+	[DateEnabled] [datetime] NULL,
+ CONSTRAINT [PK_tblReminderEscalation_1] PRIMARY KEY CLUSTERED 
+(
+	[RemEscId] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  CONSTRAINT [DF_tblReminderEscalation_DaysToCompleteCourse]  DEFAULT ((365)) FOR [DaysToCompleteCourse]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  CONSTRAINT [DF_tblReminderEscalation_RemindUsers]  DEFAULT ((0)) FOR [RemindUsers]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  CONSTRAINT [DF_tblReminderEscalation_NumOfRemNotfy]  DEFAULT ((0)) FOR [NumOfRemNotfy]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  CONSTRAINT [DF_tblReminderEscalation_RepeatRem]  DEFAULT ((365)) FOR [RepeatRem]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  CONSTRAINT [DF_tblReminderEscalation_NotifyMgr]  DEFAULT ((0)) FOR [NotifyMgr]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  CONSTRAINT [DF_tblReminderEscalation_IsCumulative]  DEFAULT ((0)) FOR [IsCumulative]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  CONSTRAINT [DF_tblReminderEscalation_QuizExpiryWarn]  DEFAULT ((0)) FOR [QuizExpiryWarn]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  CONSTRAINT [DF_tblReminderEscalation_DaysQuizExpiry]  DEFAULT ((0)) FOR [DaysQuizExpiry]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  CONSTRAINT [DF_tblReminderEscalation_LastNotified]  DEFAULT ('1 jan 2001') FOR [LastNotified]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  CONSTRAINT [DF_tblReminderEscalation_NotifyMgrDays]  DEFAULT ((1)) FOR [NotifyMgrDays]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  CONSTRAINT [DF_tblReminderEscalation_IndividualNotification]  DEFAULT ((0)) FOR [IndividualNotification]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  DEFAULT ((0)) FOR [PreExpInitEnrolment]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  DEFAULT ((0)) FOR [PreExpResitPeriod]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  DEFAULT ((0)) FOR [PostExpReminder]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  DEFAULT ((0)) FOR [PostExpInitEnrolment]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  DEFAULT ((0)) FOR [PostExpResitPeriod]
+GO
+
+ALTER TABLE [dbo].[tblReminderEscalation] ADD  DEFAULT (NULL) FOR [DateEnabled]
+GO

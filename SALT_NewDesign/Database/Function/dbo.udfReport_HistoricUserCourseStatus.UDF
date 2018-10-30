@@ -1,0 +1,81 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReport_HistoricUserCourseStatus]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/*Summary:
+gets the last historic course results for each user prior to the effective date
+
+Returns:
+Table
+
+Called By:
+Calls:
+
+Remarks:
+
+
+Author:
+Stephen Clark
+Date Created: 21 September 2004
+
+Modification History
+-----------------------------------------------------------
+Author		Date			Description
+
+Mark DOnald	24/07/2009		Added LastCompleted column to select
+
+--------------------
+select * from udfReport_HistoricUserCourseStatus(''September 5 2004'')
+
+**/
+
+CREATE  function [udfReport_HistoricUserCourseStatus]
+(
+@effectiveDate datetime
+)
+Returns table
+as
+-----------------------------------------------------------
+
+return select
+--< Historic User Course Status Clause >---
+tUCS.UserCourseStatusID
+, tUCS.UserID
+, tUCS.CourseID
+, tUCS.CourseStatusID
+, tUCS.ModulesAssigned
+, tUCS.DateCreated
+, (SELECT
+max(DateCreated)
+FROM
+tblUserCourseStatus
+WHERE
+tUCS.CourseStatusID = 1 --incompleted users only
+AND UserID =tUCS.UserID
+AND CourseID =tUCS.CourseID
+AND CourseStatusID = 2
+AND UserCourseStatusID < tUCS.UserCourseStatusID) as  LastCompleted
+From
+tblUserCourseStatus tUCS
+--< only get data on active courses >--
+inner join tblCourse tC
+on tC.CourseID = tUCS.CourseID
+and tC.Active = 1
+--< only get the latest result for each user - prior to the efective date >--
+inner join(
+select
+max(UserCourseStatusID) UserCourseStatusID --UserQuizStatusID is identity
+from
+tblUserCourseStatus
+where
+tblUserCourseStatus.DateCreated < DATEADD(DD, 1, @effectiveDate)
+group by
+UserID,CourseID
+) currentStatus
+on tUCS.UserCourseStatusID = currentStatus.UserCourseStatusID
+--< / Historic User Course Status Clause >---
+' 
+END
+GO

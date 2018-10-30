@@ -1,0 +1,74 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReport_HistoricUserCourseStatusWithinRange]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'/*Summary:
+gets the last historic course results for each user within a date range
+
+Returns:
+Table
+
+Called By:
+Calls:
+
+Remarks:
+
+
+Author:
+Stephen Clark
+Date Created: 28 September 2004
+
+Modification History
+-----------------------------------------------------------
+v#	Author		Date			Description
+#1
+
+
+--------------------
+select * from udfReport_HistoricUserCourseStatusWithinRange(''September 1 2004'', ''September 30 2004'')
+
+**/
+
+Create function [udfReport_HistoricUserCourseStatusWithinRange]
+(
+@effectiveStartDate      datetime = null ,
+@effectiveEndDate    datetime = null
+)
+
+Returns table
+as
+-----------------------------------------------------------
+
+return select
+--< Historic User Course Status Clause >---
+tUCS.UserCourseStatusID
+, tUCS.UserID
+, tUCS.CourseID
+, tUCS.CourseStatusID
+, tUCS.ModulesAssigned
+, tUCS.DateCreated
+From
+tblUserCourseStatus tUCS
+--< only get data on active courses >--
+inner join tblCourse tC
+on tC.CourseID = tUCS.CourseID
+and tC.Active = 1
+--< only get the latest result for each user - prior to the efective date >--
+inner join(
+select
+max(UserCourseStatusID) UserCourseStatusID --UserQuizStatusID is identity
+from
+tblUserCourseStatus
+where
+--< only get data in the date range specified >--
+tblUserCourseStatus.DateCreated BETWEEN @effectiveStartDate and DATEADD(DD, 1, @effectiveEndDate)
+group by
+UserID,CourseID
+) currentStatus
+on tUCS.UserCourseStatusID = currentStatus.UserCourseStatusID
+--< / Historic User Course Status Clause >---
+' 
+END
+GO

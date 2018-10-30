@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="Phrases">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="ContentType"/>
+				<xsd:element ref="Instruction"/>
+				<xsd:element ref="Phrase" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="ContentType" type="requiredString"/>
+	<xsd:element name="Instruction" type="XHTML"/>
+	<xsd:element name="Phrase">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Title"/>
+				<xsd:element ref="Text"/>
+			</xsd:sequence>
+			<xsd:attribute ref="ID"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:attribute name="ID" type="requiredString"/>
+	<xsd:element name="Title" type="requiredString"/>
+	<xsd:element name="Text" type="XHTML"/>
+	<xsd:simpleType name="requiredString">
+		<xsd:restriction base="xsd:string">
+			<xsd:minLength value="1"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="XHTML" mixed="true">
+		<xsd:sequence>
+			<xsd:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/1999/xhtml" processContents="lax"/>
+		</xsd:sequence>
+	</xsd:complexType>
+</xsd:schema>

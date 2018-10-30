@@ -1,0 +1,33 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfGetEmailsinHour]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'-- =============================================
+-- Author:		Hitendra Jagtap
+-- Create date: 14/06/2011
+-- Description:	Gets emails delivered in last 1 hour
+-- =============================================
+CREATE FUNCTION [udfGetEmailsinHour]
+(
+@OrgName nvarchar(50)
+)
+RETURNS int
+AS
+BEGIN
+-- Declare the return variable here
+DECLARE @EmailsinHour int
+
+-- Add the T-SQL statements to compute the return value here
+SET @EmailsinHour = (SELECT COUNT(OrganisationID) FROM dbo.tblEmail
+WHERE OrganisationID = (SELECT OrganisationID FROM tblOrganisation WHERE OrganisationName = @OrgName) AND
+DateCreated BETWEEN DATEADD(hour, -1, GETUTCDATE()) AND GETUTCDATE())
+
+-- Return the result of the function
+RETURN @EmailsinHour
+
+END
+' 
+END
+GO

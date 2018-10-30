@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2003/10/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <rd:GridSpacing>0.25cm</rd:GridSpacing>
+  <PageHeader>
+    <ReportItems>
+      <Rectangle Name="rectangle2">
+        <ZIndex>1</ZIndex>
+        <Top>0.75cm</Top>
+        <ReportItems>
+          <Textbox Name="textbox14">
+            <Style>
+              <Format>F</Format>
+              <FontFamily>Arial Unicode MS</FontFamily>
+              <FontSize>9pt</FontSize>
+              <TextAlign>Left</TextAlign>
+            </Style>
+            <ZIndex>3</ZIndex>
+            <Top>0.25cm</Top>
+            <Height>0.1875in</Height>
+            <Width>6.25cm</Width>
+            <CanGrow>true</CanGrow>
+            <Value>= Parameters!UserLastName.Value &amp; ", " &amp;   Parameters!UserFirstName.Value</Value>
+            <Left>9cm</Left>
+          </Textbox>
+          <Textbox Name="textbox15">
+            <Style>
+              <Format>F</Format>
+              <FontFamily>Arial Unicode MS</FontFamily>
+              <FontSize>9pt</FontSize>
+              <TextAlign>Left</TextAlign>
+            </Style>
+            <ZIndex>2</ZIndex>
+            <Top>0.75cm</Top>
+            <Height>0.47619cm</Height>
+            <Width>6.25cm</Width>
+            <CanGrow>true</CanGrow>
+            <Value>= Format(Globals!ExecutionTime, "dd/MM/yyyy")</Value>
+            <Left>9cm</Left>
+          </Textbox>
+          <Textbox Name="textbox17">
+            <Style>
+              <FontFamily>Arial Unicode MS</FontFamily>
+              <FontSize>9pt</FontSize>
+            </Style>
+            <ZIndex>1</ZIndex>
+            <Top>0.75cm</Top>
+            <Height>0.47619cm</Height>
+            <Width>8.25cm</Width>
+            <CanGrow>true</CanGrow>
+            <Value>=Parameters!rptReportRunAt.Value</Value>
+            <Left>0.25cm</Left>
+          </Textbox>
+          <Textbox Name="textbox18">
+            <Style>
+              <FontFamily>Arial Unicode MS</FontFamily>
+              <FontSize>9pt</FontSize>
+            </Style>
+            <Top>0.25cm</Top>
+            <Height>0.1875in</Height>
+            <Width>8.25cm</Width>
+            <CanGrow>true</CanGrow>
+            <Value>=Parameters!rptReportRunBy.Value</Value>
+            <Left>0.25cm</Left>
+          </Textbox>
+        </ReportItems>
+        <Width>15.75cm</Width>
+        <Style>
+          <BorderColor>
+            <Default>Silver</Default>
+          </BorderColor>
+        </Style>
+        <Left>4.25cm</Left>
+      </Rectangle>
+      <Textbox Name="txtReportName">
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <FontFamily>Arial Unicode MS</FontFamily>
+          <FontSize>18pt</FontSize>
+          <TextAlign>Center</TextAlign>
+          <Color>#909090</Color>
+          <PaddingBottom>2pt</PaddingBottom>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingRight>2pt</PaddingRight>
+        </Style>
+        <Height>0.75cm</Height>
+        <Width>15.25cm</Width>
+        <CanGrow>true</CanGrow>
+        <Value>=Parameters!rptReportTitle.Value</Value>
+        <Left>4.5cm</Left>
+      </Textbox>
+    </ReportItems>
+    <PrintOnLastPage>true</PrintOnLastPage>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <Style />
+    <Height>0.7875in</Height>
+  </PageHeader>
+  <RightMargin>1cm</RightMargin>
+  <Body>
+    <ReportItems>
+      <Table Name="Data">
+        <Style>
+          <BorderColor>
+            <Default>Silver</Default>
+          </BorderColor>
+        </Style>
+        <Header>
+          <TableRows>
+            <TableRow>
+              <Height>0.74127cm</Height>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox140">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>#1a506a</BackgroundColor>
+                        <BorderWidth>
+                          <Top>1pt</Top>
+                        </BorderWidth>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                          <Top>Black</Top>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                          <Top>Solid</Top>
+                        </BorderStyle>
+                        <Color>White</Color>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                        <FontWeight>700</FontWeight>
+                      </Style>
+                      <ZIndex>17</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Parameters!rptUnitPathway.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox141">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>#1a506a</BackgroundColor>
+                        <BorderWidth>
+                          <Top>1pt</Top>
+                        </BorderWidth>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                          <Top>Black</Top>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                          <Top>Solid</Top>
+                        </BorderStyle>
+                        <Color>White</Color>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                        <FontWeight>700</FontWeight>
+                      </Style>
+                      <ZIndex>16</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Parameters!rptCourseName.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox142">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>#1a506a</BackgroundColor>
+                        <BorderWidth>
+                          <Top>1pt</Top>
+                        </BorderWidth>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                          <Top>Black</Top>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                          <Top>Solid</Top>
+                        </BorderStyle>
+                        <Color>White</Color>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                        <FontWeight>700</FontWeight>
+                      </Style>
+                      <ZIndex>15</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Parameters!rptModuleName.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox1">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>#1a506a</BackgroundColor>
+                        <BorderWidth>
+                          <Top>1pt</Top>
+                        </BorderWidth>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                          <Top>Black</Top>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                          <Top>Solid</Top>
+                        </BorderStyle>
+                        <Color>White</Color>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                        <FontWeight>700</FontWeight>
+                      </Style>
+                      <ZIndex>14</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Parameters!rptLessonFrequency.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox144">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>#1a506a</BackgroundColor>
+                        <BorderWidth>
+                          <Top>1pt</Top>
+                        </BorderWidth>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                          <Top>Black</Top>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                          <Top>Solid</Top>
+                        </BorderStyle>
+                        <Color>White</Color>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                        <FontWeight>700</FontWeight>
+                      </Style>
+                      <ZIndex>13</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Parameters!rptQuizFrequency.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox145">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>#1a506a</BackgroundColor>
+                        <BorderWidth>
+                          <Top>1pt</Top>
+                        </BorderWidth>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                          <Top>Black</Top>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                          <Top>Solid</Top>
+                        </BorderStyle>
+                        <Color>White</Color>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                        <FontWeight>700</FontWeight>
+                      </Style>
+                      <ZIndex>12</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Parameters!rptLessonExpiryDate.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox146">
+                      <Style>
+                        <PaddingLeft>4pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>#1a506a</BackgroundColor>
+                        <BorderWidth>
+                          <Top>1pt</Top>
+                        </BorderWidth>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                          <Top>Black</Top>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                          <Top>Solid</Top>
+                        </BorderStyle>
+                        <TextAlign>Left</TextAlign>
+                        <Color>White</Color>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                        <FontWeight>700</FontWeight>
+                      </Style>
+                      <ZIndex>11</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Parameters!rptQuizExpiryDate.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox147">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>#1a506a</BackgroundColor>
+                        <BorderWidth>
+                          <Top>1pt</Top>
+                        </BorderWidth>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                          <Top>Black</Top>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                          <Top>Solid</Top>
+                        </BorderStyle>
+                        <Color>White</Color>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                        <FontWeight>700</FontWeight>
+                      </Style>
+                      <ZIndex>10</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Parameters!rptPassMark.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox148">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>#1a506a</BackgroundColor>
+                        <BorderWidth>
+                          <Top>1pt</Top>
+                        </BorderWidth>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                          <Top>Black</Top>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                          <Top>Solid</Top>
+                        </BorderStyle>
+                        <Color>White</Color>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                        <FontWeight>700</FontWeight>
+                      </Style>
+                      <ZIndex>9</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Parameters!rptDefault.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+            </TableRow>
+          </TableRows>
+          <RepeatOnNewPage>true</RepeatOnNewPage>
+        </Header>
+        <Details>
+          <TableRows>
+            <TableRow>
+              <Height>0.5cm</Height>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="UnitPathway">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>=IIF(previous(Fields!UnitPathway.Value) = Fields!UnitPathway.Value, "Transparent", "AliceBlue")</BackgroundColor>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                      </Style>
+                      <ZIndex>8</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!UnitPathway.Value</Value>
+                      <HideDuplicates>data_UnitComplianceReport</HideDuplicates>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="CourseName">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>=IIF(previous(Fields!UnitPathway.Value) = Fields!UnitPathway.Value AND previous(Fields!CourseName.Value) = Fields!CourseName.Value, "Transparent", "AliceBlue")</BackgroundColor>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                      </Style>
+                      <ZIndex>7</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!CourseName.Value</Value>
+                      <HideDuplicates>data_UnitComplianceReport</HideDuplicates>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="ModuleName">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>AliceBlue</BackgroundColor>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                      </Style>
+                      <ZIndex>6</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!ModuleName.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="LessonFrequency">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>AliceBlue</BackgroundColor>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                      </Style>
+                      <ZIndex>5</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!LessonFrequency.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="QuizFrequency">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>AliceBlue</BackgroundColor>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                      </Style>
+                      <ZIndex>4</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!QuizFrequency.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="LessonExpiryDate">
+                      <Style>
+                        <PaddingLeft>4pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>AliceBlue</BackgroundColor>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                      </Style>
+                      <ZIndex>3</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Format(Fields!LessonExpiryDate.Value, "dd/MM/yyyy")</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="QuizExpiryDate">
+                      <Style>
+                        <PaddingLeft>4pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>AliceBlue</BackgroundColor>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                      </Style>
+                      <ZIndex>2</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Format(Fields!QuizExpiryDate.Value, "dd/MM/yyyy")</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="PassMark">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>AliceBlue</BackgroundColor>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                      </Style>
+                      <ZIndex>1</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!PassMark.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="Default">
+                      <Style>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <FontFamily>Arial Unicode MS</FontFamily>
+                        <BackgroundColor>AliceBlue</BackgroundColor>
+                        <BorderColor>
+                          <Default>Silver</Default>
+                        </BorderColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingRight>2pt</PaddingRight>
+                      </Style>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!Default.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+            </TableRow>
+          </TableRows>
+        </Details>
+        <DataSetName>data_UnitComplianceReport</DataSetName>
+        <Top>0.25cm</Top>
+        <Width>10.72969in</Width>
+        <NoRows>= Parameters!rptNoResultsFound.Value</NoRows>
+        <TableColumns>
+          <TableColumn>
+            <Width>4.5cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>4.75cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>4.75cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>2.25cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>2.25cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>2.25cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>2.25cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>2.25cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>2cm</Width>
+          </TableColumn>
+        </TableColumns>
+      </Table>
+    </ReportItems>
+    <Style />
+    <Height>1.49127cm</Height>
+    <ColumnSpacing>1cm</ColumnSpacing>
+  </Body>
+  <TopMargin>2.5cm</TopMargin>
+  <DataSources>
+    <DataSource Name="Salt">
+      <rd:DataSourceID>c71b01a1-9814-47a7-9139-7bac40ef16f9</rd:DataSourceID>
+      <DataSourceReference>Salt</DataSourceReference>
+    </DataSource>
+  </DataSources>
+  <Code />
+  <Width>10.7401in</Width>
+  <DataSets>
+    <DataSet Name="data_AdminUserDetails">
+      <Fields>
+        <Field Name="UserID">
+          <DataField>UserID</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="FirstName">
+          <DataField>FirstName</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="LastName">
+          <DataField>LastName</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="UserName">
+          <DataField>UserName</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Password">
+          <DataField>Password</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Email">
+          <DataField>Email</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="ExternalID">
+          <DataField>ExternalID</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="OrganisationID">
+          <DataField>OrganisationID</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="UnitID">
+          <DataField>UnitID</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="UserTypeID">
+          <DataField>UserTypeID</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Active">
+          <DataField>Active</DataField>
+          <rd:TypeName>System.Boolean</rd:TypeName>
+        </Field>
+        <Field Name="CreatedBy">
+          <DataField>CreatedBy</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="DateCreated">
+          <DataField>DateCreated</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="UpdatedBy">
+          <DataField>UpdatedBy</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="DateUpdated">
+          <DataField>DateUpdated</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="LastLogin">
+          <DataField>LastLogin</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>Salt</DataSourceName>
+        <CommandType>StoredProcedure</CommandType>
+        <CommandText>prcUser_GetOne</CommandText>
+        <QueryParameters>
+          <QueryParameter Name="@userID">
+            <Value>=Parameters!AdminUserID.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+      </Query>
+    </DataSet>
+    <DataSet Name="data_UnitComplianceReport">
+      <Fields>
+        <Field Name="UnitPathway">
+          <DataField>UnitPathway</DataField>
+        </Field>
+        <Field Name="CourseName">
+          <DataField>CourseName</DataField>
+        </Field>
+        <Field Name="ModuleName">
+          <DataField>ModuleName</DataField>
+        </Field>
+        <Field Name="LessonFrequency">
+          <DataField>LessonFrequency</DataField>
+        </Field>
+        <Field Name="QuizFrequency">
+          <DataField>QuizFrequency</DataField>
+        </Field>
+        <Field Name="LessonExpiryDate">
+          <DataField>LessonExpiryDate</DataField>
+        </Field>
+        <Field Name="QuizExpiryDate">
+          <DataField>QuizExpiryDate</DataField>
+        </Field>
+        <Field Name="PassMark">
+          <DataField>PassMark</DataField>
+        </Field>
+        <Field Name="Default">
+          <DataField>Default</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>Salt</DataSourceName>
+        <CommandType>StoredProcedure</CommandType>
+        <CommandText>prcReport_UnitCompliance</CommandText>
+        <QueryParameters>
+          <QueryParameter Name="@OrganisationID">
+            <Value>=Parameters!OrganisationID.Value</Value>
+          </QueryParameter>
+          <QueryParameter Name="@IncludeInactive">
+            <Value>=Parameters!IncludeInactive.Value</Value>
+          </QueryParameter>
+          <QueryParameter Name="@UnitIDs">
+            <Value>=Parameters!UnitIDs.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+      </Query>
+    </DataSet>
+    <DataSet Name="Language">
+      <Fields>
+        <Field Name="rptUnitPathway">
+          <DataField>rptUnitPathway</DataField>
+        </Field>
+        <Field Name="rptCourseName">
+          <DataField>rptCourseName</DataField>
+        </Field>
+        <Field Name="rptModuleName">
+          <DataField>rptModuleName</DataField>
+        </Field>
+        <Field Name="rptLessonFrequency">
+          <DataField>rptLessonFrequency</DataField>
+        </Field>
+        <Field Name="rptQuizFrequency">
+          <DataField>rptQuizFrequency</DataField>
+        </Field>
+        <Field Name="rptLessonExpiryDate">
+          <DataField>rptLessonExpiryDate</DataField>
+        </Field>
+        <Field Name="rptQuizExpiryDate">
+          <DataField>rptQuizExpiryDate</DataField>
+        </Field>
+        <Field Name="rptPassMark">
+          <DataField>rptPassMark</DataField>
+        </Field>
+        <Field Name="rptReportTitle">
+          <DataField>rptReportTitle</DataField>
+        </Field>
+        <Field Name="rptReportRunAt">
+          <DataField>rptReportRunAt</DataField>
+        </Field>
+        <Field Name="rptReportRunBy">
+          <DataField>rptReportRunBy</DataField>
+        </Field>
+        <Field Name="rptPage">
+          <DataField>rptPage</DataField>
+        </Field>
+        <Field Name="rptOf">
+          <DataField>rptOf</DataField>
+        </Field>
+        <Field Name="rptNoResultsFound">
+          <DataField>rptNoResultsFound</DataField>
+        </Field>
+        <Field Name="rptDefault">
+          <DataField>rptDefault</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>Salt</DataSourceName>
+        <CommandType>StoredProcedure</CommandType>
+        <CommandText>prcLanguage_ReportLabels</CommandText>
+        <QueryParameters>
+          <QueryParameter Name="@LangCode">
+            <Value>=Parameters!langCode.Value</Value>
+          </QueryParameter>
+          <QueryParameter Name="@LangInterfaceName">
+            <Value>=Parameters!langInterfaceName.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+      </Query>
+    </DataSet>
+  </DataSets>
+  <LeftMargin>1cm</LeftMargin>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <PageHeight>21cm</PageHeight>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <PageWidth>29.7cm</PageWidth>
+  <rd:ReportID>9e79f0d8-bd89-4ddf-a5ae-1b333f7f9e8e</rd:ReportID>
+  <PageFooter>
+    <PrintOnLastPage>true</PrintOnLastPage>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <Style />
+    <Height>0.09844in</Height>
+  </PageFooter>
+  <BottomMargin>2.5cm</BottomMargin>
+  <ReportParameters>
+    <ReportParameter Name="OrganisationID">
+      <DataType>Integer</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>4</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>OrganisationID</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="IncludeInactive">
+      <DataType>Integer</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>0</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>IncludeInactive</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="AdminUserID">
+      <DataType>Integer</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>1</Value>
+        </Values>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>AdminUserID</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="UnitIDs">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</Value>
+        </Values>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>UnitIDs</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="UserFirstName">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>data_AdminUserDetails</DataSetName>
+          <ValueField>FirstName</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>UserFirstName</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="UserLastName">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>data_AdminUserDetails</DataSetName>
+          <ValueField>LastName</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>UserLastName</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="langCode">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>fr-FR</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>langCode</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="langInterfaceName">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Report.UnitAdministratorReport</Value>
+        </Values>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>langInterfaceName</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptCourseName">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptCourseName</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptCourseName</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptModuleName">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptModuleName</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptModuleName</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptLessonFrequency">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptLessonFrequency</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptLessonFrequency</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptQuizFrequency">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptQuizFrequency</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptQuizFrequency</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptLessonExpiryDate">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptLessonExpiryDate</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptLessonExpiryDate</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptQuizExpiryDate">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptQuizExpiryDate</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptQuizExpiryDate</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptPassMark">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptPassMark</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptPassMark</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptDefault">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptDefault</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptDefault</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptOf">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptOf</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptOf</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptPage">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptPage</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptPage</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptReportRunAt">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptReportRunAt</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptReportRunAt</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptReportRunBy">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptReportRunBy</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptReportRunBy</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptReportTitle">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptReportTitle</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptReportTitle</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptUnitPathway">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptUnitPathway</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptUnitPathway</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rptNoResultsFound">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>Language</DataSetName>
+          <ValueField>rptNoResultsFound</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rptNoResultsFound</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <Language>en-US</Language>
+</Report>

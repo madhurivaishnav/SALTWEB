@@ -1,0 +1,62 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblTimeZoneDaylightSavingRules]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblTimeZoneDaylightSavingRules](
+	[TimezoneID] [int] NOT NULL,
+	[start_year] [smallint] NULL,
+	[end_year] [smallint] NULL,
+	[offset_mins] [int] NULL,
+	[hours_start] [smallint] NULL,
+	[day_start] [tinyint] NULL,
+	[week_start] [tinyint] NULL,
+	[month_start] [tinyint] NULL,
+	[hours_end] [smallint] NULL,
+	[day_end] [tinyint] NULL,
+	[week_end] [tinyint] NULL,
+	[month_end] [tinyint] NULL,
+	[first_start_date] [datetime] NOT NULL,
+	[last_end_date] [datetime] NOT NULL,
+	[Last_updated] [datetime] NOT NULL,
+	[TimezoneRuleID] [int] IDENTITY(1,1) NOT NULL,
+ CONSTRAINT [PK_tblTimeZoneDaylightSavingRules] PRIMARY KEY CLUSTERED 
+(
+	[TimezoneID] ASC,
+	[first_start_date] ASC,
+	[last_end_date] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblTimeZoneDaylightSavingRules_first_start_date]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblTimeZoneDaylightSavingRules]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblTimeZoneDaylightSavingRules_first_start_date]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblTimeZoneDaylightSavingRules] ADD  CONSTRAINT [DF_tblTimeZoneDaylightSavingRules_first_start_date]  DEFAULT (getutcdate()) FOR [first_start_date]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblTimeZoneDaylightSavingRules_last_end_date]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblTimeZoneDaylightSavingRules]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblTimeZoneDaylightSavingRules_last_end_date]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblTimeZoneDaylightSavingRules] ADD  CONSTRAINT [DF_tblTimeZoneDaylightSavingRules_last_end_date]  DEFAULT (getutcdate()) FOR [last_end_date]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblTimeZoneDaylightSavingRules_Last_updated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblTimeZoneDaylightSavingRules]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblTimeZoneDaylightSavingRules_Last_updated]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblTimeZoneDaylightSavingRules] ADD  CONSTRAINT [DF_tblTimeZoneDaylightSavingRules_Last_updated]  DEFAULT (getutcdate()) FOR [Last_updated]
+END
+
+
+End
+GO

@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" productVersion="11.0.6357" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="0589c99e-e0ab-451c-80bf-154f562ae42a">
+  <Summary ID="bdwpr02q" GUID="88eb8f1d-ab7f-4b09-9748-31f4f6862f20">
+    <ContentType GUID="255447d0-a2b6-4d51-99ed-1c01718f9d1c">quiz</ContentType>
+    <UploadType GUID="9451f87e-5707-4a8d-9643-5fcbaf706d32">update</UploadType>
+    <Title GUID="7b338587-2482-4902-8c2f-b2c6044bb512">The Collection Principle</Title>
+    <CreatedBy GUID="9d0c488b-44e8-4643-9709-7b45ab3c6f13">LTG Casual</CreatedBy>
+    <CreatedDate GUID="5cc392f3-0051-4371-9fba-4be414b68579">2005-03-29T11:49:22</CreatedDate>
+    <LastModifiedBy GUID="cdad822b-b9a2-4b60-bfd5-81ecf519db44">LTG Casual</LastModifiedBy>
+    <LastModifiedDate GUID="c2775c7b-ade7-413c-9f76-f9e9aa5a18f9">2005-11-16T10:45:38</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="9e64a50b-9aea-47ec-894f-25fbfb048807">
+    <Page ID="Intro1" IsActive="true" GUID="7bd48ad6-4f7e-44b9-b4e9-eafe7434c95f">
+      <Title GUID="b5839876-aa3a-4c47-b7f9-d1c7d8a12209">The Collection Principle</Title>
+      <PageElements GUID="7b479039-3570-4abc-8280-a6198f69ba55">
+        <PageElement GUID="c5bb36e5-31db-4195-9311-6a00c72bef25">
+          <Graphic GUID="aaafa99a-3a4a-4f63-aa8c-03eae6dc5a21"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/59a71958-9431-4f4c-b735-b84e30b4131b.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="a89fca9d-5ca3-4d94-ab95-ab843ab06716">
+          <TextBox GUID="7a906abd-b315-4d1f-9ced-7f1308f2c86c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="0861027c-c281-423d-b7be-aaf8c2f1b9c7">
+    <div GUID="c21b031e-1989-465b-ad38-d6fa61cad9a6" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="5f650256-3e61-4482-9509-72a82b39b726">%System_NumberOfQuestions%</strong>  questions about<strong GUID="30fbf95d-c584-46a3-b926-30e411910d1e"> The Collection Principle</strong>.<br GUID="deaf6642-aac3-47e5-986b-a279aa2dd4e4"><br GUID="c28ded42-c172-4726-ab4d-3db86b350581">You may be asked 3 different types of questions: multiple choice, true/false or yes/no. Answer each question by clicking the radio button to the left of the most appropriate response.<br GUID="34973f4d-41d8-40e0-8923-0c82630ba827"><br GUID="54c7e0df-5964-492c-9dab-bc4a3cd581ca">After you answer the last question, you will be given the chance to review and then submit your answers.<br GUID="58ca1247-e9ae-4b5e-825f-09c72757881b"><br GUID="0bd9babb-21b6-406a-860c-4685df65c69f">Please note that if you exit the quiz before clicking the Submit Answers button then your answers will not be saved. <br GUID="3fcdf254-21fb-4691-9ed9-dfd4e963b9e5"><br GUID="8713b752-28c6-4401-879d-d2a9a2686d3a">To move between questions, use the <strong GUID="2448ab5b-21cb-4d16-8995-2412dcce39b7">Previous</strong> and <strong GUID="97ad5d80-6bbe-4847-811b-db565fa30a16">Next</strong> navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="df6e9cba-a565-4b4b-a9f0-8436bb659e51">
+    <Page ID="Q1" IsActive="true" GUID="15eb031f-20c5-422b-9855-8db643bd91dc">
+      <Title GUID="f157812a-6cb0-47af-9904-c26de6051e5d">Question</Title>
+      <PageElements GUID="fcd36f7a-3e67-4833-9e8e-afb0bb3a85d5">
+        <PageElement GUID="e851d76b-0f80-41b6-a692-61562703721e">
+          <Question GUID="ac8c83e5-3019-42b5-aff4-f8097dc461e0"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="370446f7-56ea-4d89-85e3-a7d3a7c2988e">
+      <strong GUID="3ff03cf2-8c15-4684-be25-ae7395182e61" xmlns="http://www.w3.org/1999/xhtml">Collection of personal information from third parties is:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="78ac4f9d-be9e-4099-be26-af58b82f425a">never allowed</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b9ff786a-28ed-442d-b809-e1bfc488e40a">allowed only with the individual's consent</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="64f2f35b-55b8-41a7-b5e3-ce2455d7d68f">not allowed where it is reasonably practicable to collect from individuals</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="552ba79d-77e3-4c99-a5a0-91988d067543">only allowed for sensitive information</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="904cfff0-61c3-4626-ab42-123daeccb620">
+      <Title GUID="c51e72b4-e39c-42a0-83a5-379934fe976b">Question</Title>
+      <PageElements GUID="01700d84-2fd1-44ec-be86-85fbd707b285">
+        <PageElement GUID="f470d4ed-f205-43f2-b5e4-f24a2b85a4a2">
+          <Question GUID="7d266fb1-869c-431a-b7e7-bd676e9da0e1"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1931015a-4ca1-4d79-9aab-db545c4acecc">
+      <strong GUID="91dcffcd-7ac8-494e-8c7f-cc1bfb177b20" xmlns="http://www.w3.org/1999/xhtml">When your organisation collects personal information from third parties:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a4e149c0-9f0a-42b9-80cc-e2e98577f678">it may assume that the third party informed the individuals that their information would be passed onto your organisation</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d95f8644-ae22-4f7e-b980-b68d84fd4b82">it must contact each individual to let them know that your organisation is holding their personal information</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d8624ad7-5540-4ef4-b3d1-f0d83777129c">it is allowed to do whatever it likes with the information because the individuals to whom it relates won't know that your organisation has the information</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a9c922d5-9ff4-4d5a-8ad7-ef3408731c17">it must take reasonable steps to notify the relevant individuals that your organisation has collected their personal information</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="663df238-1f84-4097-a877-4634e518ed48">
+      <Title GUID="05fd98b1-2871-476b-a275-2552949ffab9">Question</Title>
+      <PageElements GUID="ba93bdc0-f90e-492a-9571-0c0df4e9f34e">
+        <PageElement GUID="4d301cde-6da4-4373-a7d9-100ae306facc">
+          <Question GUID="bab348fd-140c-4094-a169-893cd217f942"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="cd2969bc-1fd3-4f8a-ab80-3348b7b737e6">
+      <strong GUID="8e9f1f09-520a-410e-8b7a-a51a6049212b" xmlns="http://www.w3.org/1999/xhtml">Sensitive information, as defined in the Privacy Act, includes information about:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fe5d64c1-d21d-4290-87f8-6b8052197609">employment history</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cd8c4922-23c1-422a-aaca-230609c5d2c6">finances</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b4855da5-3670-4069-a85c-62e597435348">marital status</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a14a83ec-f958-4f25-8a1d-aee525fdabd1">health</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="b3b3df52-ca5c-42ab-b13e-8aa3551775ed">
+      <Title GUID="89dffb05-7549-434e-a448-1ff998932e04">Question</Title>
+      <PageElements GUID="c331da9d-69a4-424e-b153-400f7022a2ec">
+        <PageElement GUID="11799cb3-f789-4014-8632-0320372c728f">
+          <Question GUID="b29720c2-2e3c-48b4-b06a-fd3c5b9d0dff"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="0ccfef37-7584-4729-bc58-d7c28ea47d8e">
+      <strong GUID="803190ee-35c2-4d1b-8b3e-620db5bde75a" xmlns="http://www.w3.org/1999/xhtml">Sensitive information, as defined in the Privacy Act, includes information about:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a86b4b56-1dc0-4ca3-b40a-32eeee6480ca">jury service</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9c594d43-8298-4a51-8481-22d86f5d6768">address on electoral roll</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b17bbf58-d022-4da7-813e-273fc0df82b2">motor vehicle ownership</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0d80b4b2-017c-4a5f-96be-7fc79afe5ee7">criminal records</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="0f741f79-9b4e-4752-87c5-456a03d9b111">
+      <Title GUID="5ed3e8ad-02c9-4079-9b93-3524536f17a8">Question</Title>
+      <PageElements GUID="b674a7bd-7ee4-4cad-9c51-743a22d4b07a">
+        <PageElement GUID="8ca5fb56-d954-416d-92da-91354e2a1c2d">
+          <Question GUID="132582f1-4d0a-49a1-b736-65e9e303fb9f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="5fbca490-653d-4412-8fc5-72835bbbbf0e">
+      <strong GUID="ba3cc667-7e29-4311-b081-d372561e50bb" xmlns="http://www.w3.org/1999/xhtml">Collection of personal information must be:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a9e09062-44e4-40ab-8a85-21560d9c0948">prompt</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="462ea4ff-ed5f-4432-a9fc-3dca1864e293">fair</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="3e325cbe-b7bb-49cf-9596-d5fa94f43d82">
+      <Title GUID="fabb2edc-1eb7-49a4-8697-c16921d5d807">Question</Title>
+      <PageElements GUID="420422aa-463c-498b-9aad-bc7a0ec107c3">
+        <PageElement GUID="e6626f5a-2821-44a4-8380-5a6c9d85a3e9">
+          <Question GUID="3d390b91-b580-4fba-a989-42cfcf22198b"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="f30c0fe3-1645-4f27-a778-8f1e43b042be">added question</Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9adce600-a111-430f-82ed-fb2d9843737d">yes</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1d69e5da-6f69-4801-858b-5d4dd8532fd0">No</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="f81cb881-19b0-44bf-9c04-49f1c3834e4b">
+      <Title GUID="75bf3a9c-56b8-418a-9305-67252c2a2366">Question</Title>
+      <PageElements GUID="36648fd7-e38e-4352-aaa1-b794f6a361f0">
+        <PageElement GUID="192660f9-15b7-454c-9da0-92b92ec610b7">
+          <Question GUID="42a6a2bd-b24d-4142-a407-f837cc40e973"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="2afeaa53-961f-4757-b895-289cf53c5d30">
+      <strong GUID="258c52da-4bec-4515-8c4b-aa5f421abcc0" xmlns="http://www.w3.org/1999/xhtml">Sensitive information may be collected without consent:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a48e925b-0ed3-4675-96c0-50ea62202b42">if seeking consent from the relevant individuals will be extremely costly and time consuming</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c4473098-cfe5-4f4f-aed7-25c8674d0da8">where individuals are not likely to give their consent but your organisation needs the information to run its business</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="84c0caf3-7e2d-4ae7-92c8-562f9c97dbed">in a health emergency</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fbc5f2c2-9ceb-468e-8fa1-ee0444bc8f78">provided that your organisation has not received a ruling from the Privacy Commissioner to the contrary</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="873cd35e-b1a1-466e-b6da-ed9e5ebfbacc">
+      <Title GUID="f97198f5-1a25-4ef1-b26b-6bca7f830708">Question</Title>
+      <PageElements GUID="bd271d1e-7ac8-4862-80d1-f19542660ad9">
+        <PageElement GUID="572865a9-5410-4999-9e9f-a10edf6188f9">
+          <Question GUID="5d9cc338-f8cc-4067-b64c-9d75e7ef584c"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="31827bc5-7704-482f-ab88-2ef5b55508c9">
+      <strong GUID="6028101a-c127-45fe-b6be-54715868dc70" xmlns="http://www.w3.org/1999/xhtml">The Collection Principle applies to all personal information collected by your organisation:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c0114fc1-9ec9-43cb-b950-d50d4ecf662d">both before and after 21 December 2001</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="974bab4a-050f-47a3-8f71-5a8198b1d383">before 21 December 2001</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="79ac3354-1eaa-4b7b-8e10-2942b998c5f2">after 21 December 2001</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7639d16e-54a3-4e9f-b35e-1fb09455f660">after 21 December 2001, but only when that collection is directly from individuals</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="7b10f742-f27b-4ea8-836a-254d71d05518">
+      <Title GUID="b905a151-f0aa-4183-ab25-f62a128a379a">Question</Title>
+      <PageElements GUID="c516dccd-92a2-4c9b-a3b0-a41531698d6b">
+        <PageElement GUID="e539397e-04ee-4976-91b1-8400fc160d00">
+          <Question GUID="1bfbd7cd-dd90-4573-b0fd-363f7311edeb"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="b956907d-dda7-4c64-93af-5422de2b84e2">
+      <strong GUID="d068ad41-8808-48f2-a2e0-07dd996cb04e" xmlns="http://www.w3.org/1999/xhtml">Collection of personal information must be:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ddde8e39-649c-4b5b-a773-e523c36a8a9d">confirmed from two sources</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="40ce4e7d-59a4-412b-8de3-4c072c28838e">checked by two employees</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="84d3d684-5c81-4fc4-a441-72fbe388c085">lawful</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="85ad25bf-de1d-4b05-9133-083a8e07b99b">skilful</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="5053e5e3-2ee4-4dbb-8f14-e775d5a0145b">
+      <Title GUID="2072583a-bce5-4470-ac51-944e179b2b01">Question</Title>
+      <PageElements GUID="06254ec4-6734-47de-99f3-e6ccd3a4f5d2">
+        <PageElement GUID="7be04248-8e56-4f4e-b029-01a0e2035fdd">
+          <Question GUID="cc65d441-3118-4780-be4b-c6afee532c2e"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="412d2fd2-0bdf-4844-9ba9-ecd02e730f32">
+      <strong GUID="683dcc12-bdca-41ed-a2ba-41c60ebd46e1" xmlns="http://www.w3.org/1999/xhtml">Sensitive information, as defined in the Privacy Act, includes information about:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="78713c1c-587a-47ae-ab04-47f849038e8a">employment</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9efc288c-30ea-4f16-a278-bc638c75cca8">education</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f6339f4e-4184-4b3b-ab5f-1e240e428253">sexual practices</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5070f5dc-ab56-4406-90a9-8d0fa3b1bbef">previous marriages</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q11" IsActive="true" GUID="0f77c903-3c14-4e4a-8585-410359598416">
+      <Title GUID="011b5a99-81d3-4677-9cea-6770740cf35a">Question</Title>
+      <PageElements GUID="ef4d39bd-bca1-4efc-ace7-cc7302e24756">
+        <PageElement GUID="8dc4e90c-2d6a-4ecb-9204-b1dbb7da0dad">
+          <Question GUID="d22be8ac-2985-4574-bb78-a468c6b1ca8f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="6d52ab01-043c-4ae5-a40b-802500b22e92">
+      <strong GUID="e9b9188e-ce5f-4faf-a025-2b09d5fb9649" xmlns="http://www.w3.org/1999/xhtml">Covert (secret) collection is always unlawful. True or false?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a0bfc32e-ba11-4006-98cc-0dd29d4b9d92">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1c074987-7094-4914-9ee4-045018aeb53d">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q12" IsActive="true" GUID="df15bb6f-c613-4bc1-b2aa-bba60602bc18">
+      <Title GUID="4c279074-932c-4e4e-b126-051d0da38506">Question</Title>
+      <PageElements GUID="8abd6354-5421-4d00-84ee-019b3874fd31">
+        <PageElement GUID="ca6e99eb-e582-48ba-a0a7-bc3aec3d2655">
+          <Question GUID="034d84fd-0267-4aca-8278-3828c25cf63a"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="30924e66-7e39-47e3-bc78-4a8671153129">
+      <strong GUID="df139532-1d1e-4c1f-9f3c-fc7f58f7c5cb" xmlns="http://www.w3.org/1999/xhtml">Collection of personal information must always be:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="01bb43a7-8452-42b8-8a28-887ca779cf23">necessary for your organisation's business</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c3b6ea69-b597-49f3-9e7c-a953c69c1062">required by law</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cd03ee01-0f06-45bc-a34c-bc0224b4b915">with express consent</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5ce3787b-fb0a-41ad-9593-b02ae68b35dd">by your organisation's employees</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q13" IsActive="true" GUID="0a59240c-cda2-453b-b33b-f995b12e2d22">
+      <Title GUID="b2527e3c-cc54-4185-83bc-c482575d39b8">Question</Title>
+      <PageElements GUID="84622ba3-fffc-4fd5-bee6-424cd2a29372">
+        <PageElement GUID="a72a647a-db5a-44cd-bbce-dbf1ead6faf8">
+          <Question GUID="8ada1cd4-03c1-485e-8150-c06e420a9300"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="43bd3fe5-ab56-4d3b-a7b7-9fc96206bf17">
+      <strong GUID="284608cd-e91e-49fe-84ab-2028438da7ed" xmlns="http://www.w3.org/1999/xhtml">Collection of personal information must be:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6ad20c39-2c31-4493-a139-7de82ffdeb68">not unreasonably intrusive</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="69a8e269-f966-4ab4-9271-009fb2fd2d2d">useful, but not essential</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="edf7cbfe-afa8-446a-9de3-b37c48a99857">directly from individuals</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3034b9b2-bab5-488a-ad31-869378562582">with the express consent of the individuals</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q14" IsActive="true" GUID="78abbecd-84b0-4098-b6a2-afc1a45a13a4">
+      <Title GUID="e36249a9-f9db-4a77-8796-5ab2c198015a">Question</Title>
+      <PageElements GUID="c7ff7c17-93e0-4f16-81c9-df117bb63ae4">
+        <PageElement GUID="c046e3b1-1362-4445-888c-6b0a75c74496">
+          <Question GUID="8bba7bc4-e561-4cd1-bbd4-d398c566b823"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="2408a550-f2be-4621-985f-3ddebc65838a">
+      <strong GUID="86405cb6-adf0-4e78-8bf8-d14cebd865b2" xmlns="http://www.w3.org/1999/xhtml">When an organisation collects information from individuals, they should always be notified of:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1d20107a-b766-426a-8a01-44b975faf263">your organisation's ABN</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a9569128-66c1-4f0a-9bf4-966f2c54a175">how to contact your organisation</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e6af24a5-f4a7-4c14-92fc-48e202fbcd3c">your organisation's annual turnover</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="685210a0-001f-4625-b85e-0fdbd6e48554">your organisation's departments that will have access to the information</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="d6240ec6-49c9-4697-86ad-b293d8a33ce8">
+    <Page ID="Comp1" IsActive="true" GUID="39ea6186-bb63-4dda-8bfd-d83a9efdc14b">
+      <Title GUID="8a77fefb-eb93-43fd-8820-873036b96961">End of quiz</Title>
+      <PageElements GUID="17153ee2-9d07-43aa-bfca-0942d70826a2">
+        <PageElement GUID="88d19937-4bd7-425f-8f8e-588854238c0c">
+          <Graphic GUID="09bc852a-9b5c-49ce-bdc2-1d536c8c3eb9"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/778bfde0-74da-4b15-9b0f-119179c2a430.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="dbefa714-46ce-476e-afe4-0a94dc84a1c5">
+          <TextBox GUID="df3595f0-4177-48b5-944a-36efacd03ed5"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="5c3320d7-f749-4e03-ae5d-4a19fcfb6bc0">
+    <div GUID="36c76918-dacd-4cb2-a270-14b3ddb4f9cd" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="77f68e7e-ddcc-4764-a4d7-6109ca6e4d84"><br GUID="0fbffa2f-dfc6-437f-8c7d-8c7d2d58e1d5">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="3f50ab94-4504-41c0-ab42-ccdb2f659665"><br GUID="f67e3f33-838e-48cd-b409-b2fe5a3d964b">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="e74f2404-2e18-4cd7-a0ee-c24a155f27e7">
+          <SubmitAnswers GUID="be3145e6-c4fd-4b73-99fe-178914218188"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

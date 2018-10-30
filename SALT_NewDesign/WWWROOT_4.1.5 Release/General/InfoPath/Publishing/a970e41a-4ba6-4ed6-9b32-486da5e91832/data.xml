@@ -1,0 +1,990 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" productVersion="11.0.6357" name="urn:Lesson:Salt:Bdw" PIVersion="1.0.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="d924a59c-e9b1-4805-86a6-8ea517b43e23">
+  <Summary ID="bdwpr02" GUID="98b3d151-91a2-4911-9a6a-06da50e8efa4">
+    <ContentType GUID="ccd6f8ec-43e1-42e5-b52e-5577b1f6969f">lesson</ContentType>
+    <UploadType GUID="a0881135-7b19-40c3-b317-3b90ac1429d7">update</UploadType>
+    <Title GUID="2f89d932-9a79-409e-a675-bc43ad7aa0e0">The Collection Principle</Title>
+    <CreatedBy GUID="e8c7963a-90e5-470c-bb43-47b2a4b3df73">LTG Casual</CreatedBy>
+    <CreatedDate GUID="5acf2fe4-42b3-4bfc-9190-301a4d2a3559">2005-03-23T10:21:59</CreatedDate>
+    <LastModifiedBy GUID="391ad9be-50d0-4c0d-b697-b49b8618fc9b">LTG Casual</LastModifiedBy>
+    <LastModifiedDate GUID="efca74e1-92fd-4b07-b147-bb6efb827b3d">2005-11-16T10:40:27</LastModifiedDate>
+  </Summary>
+  <Players GUID="909e96a0-2b6d-454d-9413-c3b16c4133a7">
+  </Players>
+  <Pages PageFilter="0" GUID="48ba1c7d-bf4b-491f-85d8-9b0448e6bcbd">
+    <Page ID="Page1" IsActive="true" GUID="26ce3585-48b0-4bc9-b1d1-22d995bcfa51">
+      <IncludedInTOC GUID="87b1de7d-a34d-4008-a160-d067d080dc29">false</IncludedInTOC>
+      <Title GUID="67294dc6-8eda-45db-b32f-2d4faf52e883">The Collection Principle</Title>
+      <PageElements GUID="5c7738d1-dd4f-492b-9d04-cf0351804235">
+        <PageElement GUID="46c7eb92-b7c1-4adb-989c-d317ba1dbb1e">
+          <TextBox GUID="1961fdac-cfae-46ba-ac25-d3b42784f833"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7aadc66b-1880-4752-97db-c8b8c4fd94a4">
+    <div GUID="176ef124-a719-430d-a8ea-a78f7559a64d" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="08910934-c3d0-4c01-8a49-0b7dae0badb2">
+        <span style="FONT-SIZE: 10pt" GUID="f53b35ba-d43c-4344-b6af-edd69b84ec52">In this lesson you will move through a number of information pages which will teach you about <strong GUID="14330874-8a3c-4ee5-84e7-05f0b9c230dc">The Collection Principle.</strong><br GUID="b1745920-328a-4d30-a72e-98170c26681c"><br GUID="2b8507d9-a506-4ecf-805c-98604021595b">You will also be presented with scenario pages, where a situation will be described involving a number of fictitious characters. You will be asked questions which will test your understanding of <strong GUID="31f4eadc-318f-43da-a5ef-96ddcee120cc">The Collection Principle.</strong></span>
+      </font>
+    </div>
+    <div GUID="61563437-c911-441a-b38f-8bf094f978be" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="808a0a43-128f-45a7-8251-023fb889ef74">
+        <span style="FONT-SIZE: 10pt" GUID="6fdf7cde-c0e7-40df-ad2a-dc1c34e61337">
+          <br GUID="145c5bbf-87d4-4a51-bffa-abf1ee8ca94b">These questions are not scored and your response is not recorded. Use the feedback provided to consolidate what you have learned during this lesson.<br GUID="60ae557e-183d-4199-9e50-9573fe77641c"><br GUID="3d410cf7-85e0-4d48-91bc-22bd54ffda39">Click on the <strong GUID="0c77abaa-66d1-4003-a8cc-71bea1261fb2">Quick Facts</strong> menu button above to view a summary of points covered in the lesson.<br GUID="7b4d20e7-ca9a-4a8b-bd1d-75412c4c00fa"></span>
+      </font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="8f1e978c-cca6-422c-b5ff-c132e9650819">
+          <TOC GUID="db3e5e43-d77c-403c-acc5-65e2ff690f3e"> <![CDATA[<div class="TableOfContents_Main">
+  <div class="TableOfContentsTitle">Table of Contents</div>
+  <ul class="TableOfContentsList">
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page2')">Learning objectives</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page3')">The collection principle</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page4')">Added page</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page5')">So what are the rules about collecting personal information?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page6')">Notice requirements</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page7')">How can you meet the notice requirements?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page8')">Added page</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page9')">Special rules for collecting sensitive information</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page10')">Test your knowledge</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page11')">Scenario 1</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page12')">Scenario 2</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page13')">Scenario 3</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page14')">Scenario 4</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page15')">Scenario 5</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page16')">Scenario 6</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page17')">Scenario 7</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page18')">Scenario 8</A>
+  </ul>
+</div>]]></TOC>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="070716fb-f09d-4d85-bf0f-cabe96f872a5">
+      <IncludedInTOC GUID="f1851f10-169a-4d00-9964-c775f37b6e25">true</IncludedInTOC>
+      <Title GUID="138f302a-a020-4b22-b365-593a357d0a69">Learning objectives</Title>
+      <PageElements GUID="ce4e244b-d8ac-40e9-ab8b-ea9c9ae7c5dd">
+        <PageElement GUID="427739c2-ba0e-4353-b547-8eba1b9f8898">
+          <Graphic GUID="0f3d154d-b255-4bfb-ace3-f624d523a26c"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/3fd75880-f86d-4c04-bbd4-194a694024f6.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="d3680d02-50fc-4684-8542-5b9203dacea4">
+          <TextBox GUID="6009dd0c-d9d6-4514-a2c3-d1de7c21b29a"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="760ef727-d690-406c-bab2-c7dc4c75b5ab">
+    <div GUID="eaff13cc-10e6-4a2e-881a-45d0a7d65622" xmlns="http://www.w3.org/1999/xhtml">This lesson should take about <strong GUID="e376027e-15ec-4466-8c1d-e20c9ef6b1e2">20 minutes</strong>.</div>
+    <div GUID="02110297-5698-4cab-9c70-6ca144adf2ff" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="3c52d735-03c1-4515-aa2e-372d7e35fbc9" xmlns="http://www.w3.org/1999/xhtml">You will learn about the Collection Principle which sets out the rules for the collection of personal information.</div>
+    <div GUID="e656e2fc-2ad9-430e-a138-1a567dd7e51e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="d0845513-7c63-479b-aacb-98a6305d4b48" xmlns="http://www.w3.org/1999/xhtml">At the end of this lesson you should have a good understanding of:</div>
+    <div GUID="470f46d2-98ca-4387-a1dc-8a2b6e6f2bdd" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="0c57a2da-5a4c-43f9-bb8b-6776d0747bdc" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="ae6460d9-d0f2-4b73-9459-63a354943981">when you can collect personal information</li>
+      <li GUID="738e882c-e3cb-4425-9fd8-db9e3c668490">the ways in which you can and cannot collect personal information</li>
+      <li GUID="64a75f73-d9de-4044-bd0d-7ed1f8479d18">what you should tell individuals when collecting information from them</li>
+      <li GUID="3ab1d1bc-eaab-4a0a-b9d2-b55974655c66">what information is specially sensitive and the special rules that apply to it</li>
+    </ul>
+    <div GUID="7a1a2eb9-307f-4ab6-8eb4-71443ecbcc35" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="105e0c08-ea1f-49d9-b439-f34d3abc6196" xmlns="http://www.w3.org/1999/xhtml">When you are ready click on the next button below to start training.</div>
+    <div GUID="cb36fbe4-18eb-4e47-a316-0d59bfb6947e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="2873cfdf-07f6-4dff-9dec-ef36fd38daac" xmlns="http://www.w3.org/1999/xhtml"> </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="bb17d7e8-9178-4d35-a982-b5021c82b76d">
+      <IncludedInTOC GUID="de56178c-1061-4c36-ac76-24c2e7e3f016">true</IncludedInTOC>
+      <Title GUID="bd8a2f1b-ebc0-4356-84b2-88f2042d2d6d">The collection principle</Title>
+      <PageElements GUID="bda6c584-d64a-484e-bb5a-b80900e2796f">
+        <PageElement GUID="37ac21d0-c284-4787-952e-a1ddb9f83790">
+          <Graphic GUID="193b7974-8f7f-4c6e-9cdc-cb88f6421baa"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/6d6916ab-c9e5-4a94-bd03-16652aeca492.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="813bda2c-bf75-433e-9bf1-8cd63323c0da">
+          <TextBox GUID="53e8c5bb-1a9d-4bf0-8b42-373796950938"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="0f0a2732-d442-4325-8188-f4b2f0e6a296">
+    <div GUID="9e32e1c6-51d9-40f2-bf47-6cdc41c84510" xmlns="http://www.w3.org/1999/xhtml">The Collection Principle is very important. It sets out rules for the collection of personal information.</div>
+    <div GUID="65341ef2-3562-44d1-a20d-20e962834569" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="a1ed54a9-0c49-4f41-b07d-d80b382645f3" xmlns="http://www.w3.org/1999/xhtml">Its objective is to ensure that individuals know who is collecting their information and why. This allows individuals to make informed choices about disclosing their personal details and to control who gets that information.</div>
+    <div GUID="39cb615b-dd95-4828-b3d1-3d32f1ebd590" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="29af1e3d-037e-44c7-b637-6ab094ddcaa6" xmlns="http://www.w3.org/1999/xhtml">The Collection Principle applies to all personal information collected by your organisation after 21 December 2001.<br GUID="43c4398b-9440-497c-adb4-c84bf990840e"></div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="fc037c85-d04c-4393-bda8-0f4fb38e7317">
+      <IncludedInTOC GUID="a7ed59fb-117f-449c-b5cd-ab1b5910fd14">true</IncludedInTOC>
+      <Title GUID="57fbb106-67de-4a3a-be39-20ccdba49d75">Added page</Title>
+      <PageElements GUID="c7af25d4-ab86-4d8b-8a80-95360d616e56">
+        <PageElement GUID="fa86e428-f619-4b9f-97fa-b7e76a08e185">
+          <Graphic GUID="3845fa1e-cc19-4c3f-b428-da84015b8de9"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/ed9a575e-cf29-4956-9678-263af59f1c17.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="fd4ca561-dda8-48d1-b461-d517441cc850">
+          <TextBox GUID="287eac35-0c7a-48d3-9af8-e73161797af8"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="09322a94-6909-4b39-b4f2-133a15e58045">
+    <div GUID="28c48cdd-1134-4e81-bed4-a937c4c07766" xmlns="http://www.w3.org/1999/xhtml">You can only collect personal information that is necessary for one or more of your organisation's functions or activities.</div>
+    <div GUID="26c8af0b-1b2b-4144-b7e4-3e937b0246d0" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="f88c73e0-712f-4b77-8540-be0a8eadc9c9" xmlns="http://www.w3.org/1999/xhtml">No-one sets out to collect unnecessary information. But the reasons for asking for something may be forgotten, or change, so it is useful to consider whether every piece of information is actually needed.</div>
+    <div GUID="5840b0bb-31f6-48eb-8d18-a60d5d5af3cb" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="6cae15d8-9a26-4157-996e-f1c285d1b825" xmlns="http://www.w3.org/1999/xhtml">You must only collect personal information by lawful and fair means and not in an unreasonably intrusive way.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="1e2cd90c-b0b5-451b-8872-5010987833ca">
+      <IncludedInTOC GUID="efb6fae8-9057-4b46-b28f-f70abe84efbb">true</IncludedInTOC>
+      <Title GUID="e40522aa-9267-4564-a12d-7d0c601f08cc">So what are the rules about collecting personal information?</Title>
+      <PageElements GUID="ecbda6b6-b2cb-489f-a619-56c88ffde13c">
+        <PageElement GUID="11c861b6-8962-4bbe-94a1-80a17d20af4e">
+          <Graphic GUID="aa8ccc55-18b8-485b-bded-c704cddff3c8"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/79677868-f0f7-43b2-bb71-758f0bab666f.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="a98f88cb-188a-408b-8b9c-4d1e720265c2">
+          <TextBox GUID="39de3eac-c555-4c6d-8233-399f7ac221a7"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="446e08aa-26d8-4545-944c-260b4855528c">
+    <div GUID="93b8f0e2-c2db-4bad-ba0c-61116da16630" xmlns="http://www.w3.org/1999/xhtml">You can only collect personal information that is necessary for one or more of your organisation's functions or activities.</div>
+    <div GUID="bc20ee8b-ca5f-4a0a-be1d-e6f6615095bd" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="fe7de7ce-5825-4674-8f6a-e214aca73afd" xmlns="http://www.w3.org/1999/xhtml">No-one sets out to collect unnecessary information. But the reasons for asking for something may be forgotten, or change, so it is useful to consider whether every piece of information is actually needed.</div>
+    <div GUID="ace1777c-bf25-4b3a-8349-93c123c74128" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="707fd7e6-4e2f-434b-ab6a-3aa601f36e6e" xmlns="http://www.w3.org/1999/xhtml">You must only collect personal information by lawful and fair means and not in an unreasonably intrusive way.</div>
+    <div GUID="a0666f3c-d5ae-44ac-8a6f-8955eab3ead3" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="4fc1edc6-ee46-4b5e-80bb-11f7f081b855" xmlns="http://www.w3.org/1999/xhtml">"Lawful means" are methods that are not prohibited by law. Unlawful means would include telephone intercepts or trespass. Unfair methods would include intimidation or deception. Covert or surreptitious collection would not usually be fair, but it may be allowed under the law in certain circumstances, for instance, in the investigation of wrongdoing.</div>
+    <div GUID="40b8670f-7e00-449b-afd0-b722b403e8eb" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="bc57fc41-8be4-4a38-9d01-a87f5ab4dcd2" xmlns="http://www.w3.org/1999/xhtml">If it is reasonable and practicable to do so, your organisation must collect personal information about an individual only from that individual (rather than from third parties).</div>
+    <div GUID="16f8b931-1e34-4f3d-95f7-2fd5c0ed271f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="c8002a28-9f21-410f-809a-133ebc0a9148" xmlns="http://www.w3.org/1999/xhtml">If you believe that the collection of information from individuals will not be reasonable and practicable and you want to collect this information from a third party, you should check this first with the appropriate person in your organisation.</div>
+    <div GUID="ae687a35-c8f8-47a9-ab6f-6efcf9474f66" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="85fe4615-5aa1-48aa-9ff8-76a7ea6affe5" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.privacy.gov.au/publications/npps01.html#a" GUID="34740123-9248-46dd-a02d-4a5c1275fc1d">Click here to view the full text of the Collection Principle</a>
+      <br GUID="b2a6cdfb-59de-41e8-b00d-f740d4b01ba2">
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="cf40fba8-b717-4f11-8df7-6eb330d196e9">
+      <IncludedInTOC GUID="88998ca9-9741-4f89-890a-f9f9f4ac5776">true</IncludedInTOC>
+      <Title GUID="27f487d3-ca8a-4e73-b1ec-9bea318c76d0">Notice requirements</Title>
+      <PageElements GUID="7e2b78ec-e7c6-4710-954d-563a4993d5e9">
+        <PageElement GUID="f785e7c9-1443-4727-8aee-49983cd432e4">
+          <Graphic GUID="a617e4e3-a427-4430-a50b-b2b9447f2ba9"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/d4f51b97-0dca-4fdc-9397-957220a8c93c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="09bc29ec-4145-4552-921f-a159f1a1ba8b">
+          <TextBox GUID="a733218a-16b7-4c10-b89b-e287b906a970"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7d6d9f82-5765-41ae-bfea-f332c2da2b19">
+    <div GUID="587f58a3-43e4-4d1c-8571-f69774cb938f" xmlns="http://www.w3.org/1999/xhtml">When you collect information from individuals, you must take reasonable steps to make them aware of all of the following information:</div>
+    <div GUID="f7242437-9b14-4451-a04f-f20abede3aff" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="69f483ae-1b13-4673-a241-f25080506d35" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="66550c10-5a9e-443a-951c-aa4eca7b6a66">the name of your organisation and how to contact it</li>
+      <li GUID="eb556dc6-bba4-471f-819f-82d593d66ab1">that individuals are able to access the information held about them</li>
+      <li GUID="08eff0b8-c605-4589-b916-d36cb1584672">the purposes of collection</li>
+      <li GUID="22e340d9-8f02-4b3a-ac3f-cc3ceacefd85">the organisations or types of organisations that your organisation usually gives this information to</li>
+      <li GUID="36183af7-094f-47d3-beea-e05367fd0312">if the information is required by law</li>
+      <li GUID="c8f076f9-197e-4340-b460-84412446918c">the main consequences, if any, for the individual if they do not provide you with the information</li>
+    </ul>
+    <div GUID="6e2f060a-3bf8-45bf-ba89-d3f24678ac65" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="5fc4f7f2-56a3-470b-9f28-ed6bebf7da7f" xmlns="http://www.w3.org/1999/xhtml">If you collect information about an individual from a third party, you must still take reasonable steps to ensure the individual is aware of the information listed above.</div>
+    <div GUID="db05c060-9898-466b-bf93-765aebddfa19" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="efc6a963-c1bc-41ba-b695-5777c63f7fa7" xmlns="http://www.w3.org/1999/xhtml">If you think this will be difficult for any reason or you are not sure how to go about doing this, you should talk to an appropriate person in your organisation.</div>
+    <div GUID="609c3052-cda5-4c02-8c1d-004a3da3413d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="c7f73eff-c1d9-4c15-aac9-a36f6ff1aa26" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="3a9a0dc0-6ba4-4b35-a190-e8998e493aa8">Exception to the Notice Requirements</strong>
+    </div>
+    <div GUID="41ad10e9-1256-4b9b-97e7-3509a0bf3296" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="fb91023f-9e11-4836-80e5-e0d4859a561e" xmlns="http://www.w3.org/1999/xhtml">The notice requirements are varied in the case of related companies.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="5bdc7918-9f87-45f8-b058-95c53ff988c9">
+          <ExtraInfo GUID="8db459aa-73f9-410e-9d3e-3a77abd85d12"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Click here to view a definition of related companies</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('e4a37dc8-f131-479d-baf1-dd13450b39b0');">Two companies are related if:</A>
+      <div ID="Content_e4a37dc8-f131-479d-baf1-dd13450b39b0" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="e69b21f3-b6bb-4d6b-b288-ec9d10d7a0e2">
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="17b740eb-6ad9-47ee-847e-47b1cfa06e80" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="87f78ba6-5dbd-402e-bd0e-20e9b154a68d">one company is a holding company of the other company;</li>
+                  <li GUID="2046fa97-55a3-4fa5-bb3f-7d7ff451ab88">one company is a subsidiary of the other; or</li>
+                  <li GUID="f9844c73-ce9f-4b80-b141-150336a9131e">they are sister companies, that is, they share the same parent company.</li>
+                </ul>
+                <div GUID="27e96c89-cc07-49b2-8a51-ba7a7fc80361" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="c64fc282-ccad-41b3-9b27-73a6a30556e0" xmlns="http://www.w3.org/1999/xhtml">If you have any questions about whether your organisation is related to another company, you should contact the legal department.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('e4a37dc8-f131-479d-baf1-dd13450b39b0');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="87ff760c-e213-45ae-afa4-e1c7ffa7d6c2">
+          <TextBox GUID="2327cb00-b993-43ad-9548-dec2eaa605ce"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="dc9a6b7d-846c-4420-a08a-c4f1cde2734c">
+    <div GUID="5b384cd2-3865-4dac-8880-4cfcc6d8d95f" xmlns="http://www.w3.org/1999/xhtml">If you have any queries about whether your organisation is related to another company, you should contact an appropriate person in your organisation.</div>
+    <div GUID="8d0a3d23-7e8f-4285-8842-2111664d7010" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="51f7d8ea-bf5f-4d8e-9cf6-420abbed1944" xmlns="http://www.w3.org/1999/xhtml">If your organisation collects personal information (excluding sensitive information) from a related company, it does not need to notify individuals of the information listed above where the related company that originally collected the personal information notified the individuals that it may provide their personal information to its related companies.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="66f4071e-e6c3-47c7-809d-dbe8397d47be">
+          <ExtraInfo GUID="940349f4-72ed-4cf5-b93d-60cca1b7afbc"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Click here to view a definition of sensitive information</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('5fcac544-dc67-4c15-b870-f7fc8216ea85');">Sensitive information means any information relating to an individual's:</A>
+      <div ID="Content_5fcac544-dc67-4c15-b870-f7fc8216ea85" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="55801d82-c510-48c5-be9f-83317a4b358b">
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="f7bdd300-c5d3-4396-9a95-7027ba9dcd09" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="f8ff859e-0c4b-4850-8cba-3f1f046eb565">health</li>
+                  <li GUID="c23e8ec9-efe4-40c1-a5af-47a6159d21dd">racial or ethnic origin</li>
+                  <li GUID="7d604df0-cc5d-4f77-96eb-dd71de47f3bd">political opinions</li>
+                  <li GUID="77440873-5aa0-4142-8f39-65092136a7d0">membership of a political association, professional or trade association or trade union</li>
+                  <li GUID="b180343c-d2a6-4d7f-bde3-3243fa437b90">religious beliefs or affiliations</li>
+                  <li GUID="834dc74d-a559-4a93-8e23-b5e6edd2d07b">philosophical beliefs</li>
+                  <li GUID="1cf3420c-1039-4c92-9577-386103564adf">sexual preferences or practices</li>
+                  <li GUID="4557aafd-dabf-4edb-85bc-527f0425b8d5">criminal record<br GUID="028e70a9-1612-4f1a-a405-047953873395"></li>
+                </ul>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('5fcac544-dc67-4c15-b870-f7fc8216ea85');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="70418fab-27bb-43ff-baa4-6f6e36d90f98">
+      <IncludedInTOC GUID="0d559793-37a5-45af-86bd-2f4a2d30b4f2">true</IncludedInTOC>
+      <Title GUID="aa30e2db-6356-4fe1-937d-786aa5877d30">How can you meet the notice requirements?</Title>
+      <PageElements GUID="6345dc59-7b94-4c0a-a581-a0cb4fb6d293">
+        <PageElement GUID="2ebc1dae-c5f9-414e-b345-9039987baf7a">
+          <Graphic GUID="4e2a534f-3395-4e29-a461-7a5ac480d899"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/938e1da4-db96-4cea-a774-b8f0a408f174.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="43c4edca-b9be-489f-bd93-956e1f3e390d">
+          <TextBox GUID="bee6b073-e30b-4757-8f24-6785904ca530"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="09985d75-e0f6-423a-8c6f-e4e04b6c43c8">
+    <div GUID="c3b4ed03-8f81-4bb4-a009-9a2d3ca27f0f" xmlns="http://www.w3.org/1999/xhtml">The Privacy Act allows you to meet the notice requirement in various ways - the important thing is to ensure individuals are made aware of the relevant points.</div>
+    <div GUID="22a2648e-2938-49ba-8826-8bd5d0080f12" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="61085df2-08f1-4b99-a3c6-a01779027ecf" xmlns="http://www.w3.org/1999/xhtml">The most common way of complying with the notice requirement will be by providing a privacy statement whenever information is collected, e.g. in paper or electronic forms.</div>
+    <div GUID="5ce4ae85-4c3b-4c15-a802-b75483d8c48f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="f0e6d627-0cfb-46c7-a4ca-8ecb5550bf2d" xmlns="http://www.w3.org/1999/xhtml">If some of the matters required to be notified are obvious, or if they are already covered elsewhere, it may not be necessary to repeat them.</div>
+    <div GUID="16952f72-d5ba-4ec5-90b7-a7d994d04254" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="5ab3b38a-94c4-4297-abd3-5b1dae7c5214" xmlns="http://www.w3.org/1999/xhtml">Information is often obtained by telephone and it can be difficult to satisfy all of the notice requirements on first contact. The Privacy Act acknowledges this by allowing notice to be given "as soon as practicable" after collection. So, it may be appropriate to notify individuals of some or all of the matters in a mail out following an initial telephone contact. However, you must always keep in mind that the objective is to give individuals the ability to make an informed choice, so they need to be given as much detail as possible before any personal information is collected.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="a96c29ef-16f7-4e0e-84bc-23ee2702f0c0">
+      <IncludedInTOC GUID="e2f89179-68bd-4504-996d-edf99eae1422">true</IncludedInTOC>
+      <Title GUID="930ff394-cb10-42a7-98fa-ea6be6f09263">Added page</Title>
+      <PageElements GUID="1fb5086c-54cd-4d68-a423-47da3bbf9559">
+        <PageElement GUID="ec84ba15-f620-4e3c-8462-cd304492a26e">
+          <Graphic GUID="10cfb6ee-b198-43a7-ae6e-507232f9365f"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/47c58871-6ac4-443e-b620-c5fb14491aba.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="72113ded-7b37-4524-8c45-f04ff7476142">
+          <TextBox GUID="fff1af66-47a3-457e-9bcb-0170bb11cf51"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="faaa2cf9-e2e7-402a-9a1a-8375d1229524">
+    <div GUID="6b6beae9-2c1c-493b-9458-8ac6617e08dd" xmlns="http://www.w3.org/1999/xhtml">The collection of sensitive information is subject to special conditions.</div>
+    <div GUID="9731e9d4-0406-4e46-b689-1c4b6af78cc4" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="c5a73224-5d7d-4015-8115-dbee6317741e" xmlns="http://www.w3.org/1999/xhtml">Sensitive information means any information relating to an individual's:</div>
+    <div GUID="1211f732-558c-4729-a3c0-74c0ae0f4f70" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d3edb233-6804-4af4-bb24-07e7bfc4dbad" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="668685cc-7403-4524-a86f-0bfb4a8cacf5">health</li>
+      <li GUID="bb98df1e-107a-4fc3-a695-b99931be1ca5">racial or ethnic origin</li>
+      <li GUID="6384949a-3c1e-4b56-beee-ab964e6ed29a">political opinions</li>
+      <li GUID="d01cd45d-8303-47c2-871d-61d388fd1fae">membership of a political association, professional or trade association or trade union</li>
+      <li GUID="71821e40-4cd3-43bb-90e5-147f59918815">religious beliefs or affiliations</li>
+      <li GUID="25ac5328-2430-4065-b850-f1f6e1626bb0">philosophical beliefs</li>
+      <li GUID="5501bbb3-cf45-441a-b75c-ed67d694c91e">sexual preferences or practices</li>
+      <li GUID="31976f67-fbeb-4c6f-b60e-16990396cc3c">criminal record</li>
+    </ul>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page9" IsActive="true" GUID="709edb6a-c76c-49a9-8ac0-7a4e5f7bd4ab">
+      <IncludedInTOC GUID="b1c43341-fdbc-4548-a0f4-f9c20dc9268b">true</IncludedInTOC>
+      <Title GUID="83e726ad-5cfb-4f12-bbdf-9d06a293b85b">Special rules for collecting sensitive information</Title>
+      <PageElements GUID="067c18f3-8719-4e5e-9e4a-944146d5fabc">
+        <PageElement GUID="6b33ad78-178c-468e-9406-ab846bcba4d2">
+          <Graphic GUID="77295b5f-7f52-4a0d-a94c-f11b694a7dbd"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/b965d323-485f-4364-82cb-61d6f57f3649.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="38001922-7a21-4184-8c3b-b7289df9a576">
+          <TextBox GUID="20b5ca01-f247-435e-b4d3-ac9e31cf9d6e"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7519a8ce-551f-461e-b863-824f8a81a470">
+    <div GUID="638da2bc-8ce5-4eb9-9fae-9c5bc1c68205" xmlns="http://www.w3.org/1999/xhtml">The collection of sensitive information is subject to special conditions.</div>
+    <div GUID="43b9c6cd-d6f9-4fbd-8d06-57a9399c2a34" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="8f76f7ec-c1ca-4584-be0d-cac13a9e2f52" xmlns="http://www.w3.org/1999/xhtml">Sensitive information means any information relating to an individual's:</div>
+    <div GUID="92295598-02e7-482f-b709-fdcf53276193" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d0d11d4e-cb0c-454a-8e6b-b5b0d8b9a245" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="f823e4fe-5a6b-4777-8a1e-5772afe17570">health</li>
+      <li GUID="e4ca0f42-e68d-48f9-99af-0e8dd3805933">racial or ethnic origin</li>
+      <li GUID="2ef92bad-7fac-4698-8dbe-c285a5d3330a">political opinions</li>
+      <li GUID="5477cc1f-27ea-424f-bdf6-56962e0f23ed">membership of a political association, professional or trade association or trade union</li>
+      <li GUID="9950a707-acc4-496b-a6e3-eb24a280ea80">religious beliefs or affiliations</li>
+      <li GUID="f8e9529e-e7b6-4a05-93ba-d7e2c87092e5">philosophical beliefs</li>
+      <li GUID="b0ad450f-2f9e-4c0e-83df-40845b8a0a4d">sexual preferences or practices</li>
+      <li GUID="db1dedf7-87ba-4a03-ac51-5c560f872a9c">criminal record</li>
+    </ul>
+    <div GUID="58caed91-5842-40c3-ae2d-713b246c4139" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="83683601-0f24-45c0-8398-7d1232baf2db" xmlns="http://www.w3.org/1999/xhtml">Sensitive information can only be collected:</div>
+    <div GUID="9cfbd8b1-fca6-49fb-af8f-ef1b6a8b3f33" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="308b056f-d9ce-492f-8f3b-13f9da437e77" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="4836c97d-ffc3-4191-adaf-ce46caa1592c">if the individual consents</li>
+      <li GUID="9f450883-f070-434e-a12e-fa760dbfb65e">where it is required to be collected by law, or</li>
+      <li GUID="a2586d13-9c09-4a84-87c5-91aaa33279be">in a health emergency.</li>
+    </ul>
+    <div GUID="aff285bc-5088-4d49-b52c-d3aa56499d29" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="715827ef-b451-4584-ac84-2ee2f7a4a52c" xmlns="http://www.w3.org/1999/xhtml">Health information can be collected in some additional circumstances. Health information is subject to specific State law in certain jurisdictions as well as the Privacy Act.</div>
+    <div GUID="18bfb88e-ec36-40fb-8c67-c3b81d4335a9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="a22b4a2c-001e-4c91-acfb-942b0efad189" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://www.privacy.gov.au/publications/npps01.html#j" GUID="22bedf50-8175-48c4-86e6-7c4a554fac76">Click here to view the full text of the Sensitive Information Principle</a>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page10" IsActive="true" GUID="0836be8e-2186-4c13-9cf5-46f8fe12f773">
+      <IncludedInTOC GUID="2b62fc16-d2ba-4afd-bfef-2923f7a9b279">true</IncludedInTOC>
+      <Title GUID="648ca70a-47a8-4ac7-b9a4-41e32033afe9">Test your knowledge</Title>
+      <PageElements GUID="40e3d38c-1edb-4952-9a1e-8185bb8638d5">
+        <PageElement GUID="a9e94c9d-df59-452c-bbd2-38c2d14e0350">
+          <Graphic GUID="697a375f-7a98-4614-82fe-11bb5006d487"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/9ce4dd10-7dbf-4942-889a-34facb6cfd41.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="51ecc406-2996-4427-a6fb-2de1fe461d59">
+          <TextBox GUID="49fac440-e14a-4fce-920d-6a9483f93f0c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="5cff9382-85f8-4de3-ba25-9390cbd9e56e">
+    <div GUID="a1f893bb-b620-4488-8b8e-6d018c3624b5" xmlns="http://www.w3.org/1999/xhtml">Now it's time to get you thinking about how the Collection Principle works in practice.</div>
+    <div GUID="27675a7e-12cf-4ab1-9c28-0cad461633c7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="4ca4466c-e090-4520-81e2-3429d7eb0bf7" xmlns="http://www.w3.org/1999/xhtml">On the next few screens are some imaginary scenarios for you to read.</div>
+    <div GUID="c536aa44-fb3b-4de8-99bb-c30a545b05ae" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="8e950cc7-4d74-4b3b-8393-368d7b4bb6d9" xmlns="http://www.w3.org/1999/xhtml">Then have a go at answering some practice questions. Your answers will not be recorded or scored.</div>
+    <div GUID="c3e5caa2-2a2f-4e23-8bea-3df8eaae9e72" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="a730b0d5-5453-411e-8211-1a5a3e924ffb" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="76d94874-3f86-4bb2-897a-a789b9866d1f">
+        <em GUID="5cf97c33-df6d-484c-966b-e1558a525686">Here goes...</em>
+      </strong>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page11" IsActive="true" GUID="328b09c6-150b-4fe5-aa61-c9aa70929393">
+      <IncludedInTOC GUID="b65972fb-3bfa-4910-b0f6-8a2bc0d4b55f">true</IncludedInTOC>
+      <Title GUID="cd118486-93d7-4211-8f22-e11df30083ac">Scenario 1</Title>
+      <PageElements GUID="0d3f5238-9b0a-457e-965e-8cb3dd1ceb40">
+        <PageElement GUID="0e05cf26-cefb-4a7b-8a9f-feada40cd9be">
+          <Graphic GUID="aaed1004-4802-45f1-9779-5b407bc61041"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/79393abe-8a25-4ce7-a036-1f41ab305cb4.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="1f887ade-bc81-4560-8f35-74cdc8cb6f2c">
+          <TextBox GUID="995b1b71-c8ab-48e9-a3fd-538370af7b3e"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="638d9af0-2786-4d49-8a5d-3c14d13b345f">
+    <div GUID="c1d23dfa-8d82-4d2a-b313-4fb52b3f8562" xmlns="http://www.w3.org/1999/xhtml">Cameron is the marketing director of 'Flying High', a chain of budget travel agencies. A lot of travel advice and travel bookings are done over the phone or via the internet. Cameron has proposed that the company starts recording inquiry calls for training purposes and to obtain information on customer expectations and needs for the purposes of marketing.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="ba01ef8f-6c09-4460-904d-209afcd54ea7">
+          <FreeTextQA GUID="91b5c7f9-622a-4f36-96fc-5bd63fcf4ae7"> <![CDATA[<div class="FreeTextQA_Main">
+  <div class="FreeTextQA_Question">
+    <Question GUID="b179e1d7-0838-41b9-8f60-ce0fc4a67b9b">
+      <strong GUID="226d1b79-0b69-4bcd-9449-467f45623061" xmlns="http://www.w3.org/1999/xhtml">Do you think there is any problem with this? If so what is the problem?</strong>
+    </Question>
+  </div>
+  <div class="FreeTextQA_Input">
+    <input class="FreeTextQA_Input" type="text" ID="b179e1d7-0838-41b9-8f60-ce0fc4a67b9b">
+  </div>
+  <input type="button" class="FreeTextQA_FeedbackButton" value="Show Answer" onClick="GiveFeedback(this,'c6955864-8a41-46d0-b1ea-b61174d85d69');">
+  <div class="FreeTextQA_Feedback" ID="c6955864-8a41-46d0-b1ea-b61174d85d69">
+    <Feedback GUID="c6955864-8a41-46d0-b1ea-b61174d85d69">
+      <div GUID="faadc375-bc03-4ff5-a964-6fda9f9c0722" xmlns="http://www.w3.org/1999/xhtml">If you mentioned that the collection might be unlawful or unfair and that disclosure is required, you are on the right track.</div>
+      <div GUID="e2de0df0-f869-4aa2-b0cd-211aa4b7a972" xmlns="http://www.w3.org/1999/xhtml"> </div>
+      <div GUID="bd9826a5-56d8-4e41-9088-cb7f52956250" xmlns="http://www.w3.org/1999/xhtml">If Flying High is prepared to be open with callers about recording conversations, it can comply with the Collection Principle. But if Flying High does not do this, the collection would be unfair and probably also unlawful under the Telecommunications (Interception) Act.</div>
+      <div GUID="b0aa5d93-cff0-4cf8-868a-dcc833a2403b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+      <div GUID="254041fb-56c7-4fc5-b080-0b68d4d13fc6" xmlns="http://www.w3.org/1999/xhtml">Flying High would also need to comply with the notice requirements as it is creating a record of personal information.</div>
+    </Feedback>
+  </div>
+</div>]]></FreeTextQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page12" IsActive="true" GUID="a76e44f3-0703-4c65-a5d6-fa027bda5f0c">
+      <IncludedInTOC GUID="63169bdc-7fde-4e9d-b9fb-8b43b736e6e6">true</IncludedInTOC>
+      <Title GUID="d20426e5-f7b7-412c-8616-6a5743b9b40e">Scenario 2</Title>
+      <PageElements GUID="b045167b-ff26-40bd-b198-218f006fc05c">
+        <PageElement GUID="3f9ce449-a531-49dc-a485-353eb5468874">
+          <Graphic GUID="e482c167-e9c6-48c0-8eaf-dec0f54711d3"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/1f66d519-2f9e-40f4-a434-9342fc0bba53.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="cad91a18-e127-413d-a687-a8e9cbb08740">
+          <TextBox GUID="78d744c5-c917-4638-9168-2ddd239a2fa2"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="c41294f3-1512-489a-9690-1dd3512b34eb">
+    <div GUID="2fb93e72-bb91-4f4c-9a4c-d5c75515e540" xmlns="http://www.w3.org/1999/xhtml">Stacey is the manager of Zen, a dynamic chain of boutique hotels. To improve customer service, Stacey has decided to place 'guest surveys' in all rooms. The survey forms state that Zen is collecting information for the purpose of improving its customer service. The survey forms ask for information about a guest's level of satisfaction. They also ask for details about a guest's occupation, religious beliefs, wage bracket, age and lifestyle.</div>
+    <div GUID="7cd51529-8ba6-4b0e-8c58-87daa1b81936" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="56a50ca3-ac33-43ad-81e5-af5aa03b1d6b" xmlns="http://www.w3.org/1999/xhtml">The survey is headed "Confidential Survey" and there is no space for a guest's name or contact details. This gives the impression that it is an anonymous survey. However, there is a unique reference number on each survey to allow Zen to match the replies to known clients.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="3bf77050-fd95-49ed-9ae1-3664d5b12e3d">
+          <ExtraInfo GUID="f1337f0d-aad3-4ab3-b057-6fe105d9a06f"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">Click here for a useful tip</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('fb1ad636-6515-4e42-ad71-1e6000819a6c');">Hints and Tips</A>
+      <div ID="Content_fb1ad636-6515-4e42-ad71-1e6000819a6c" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="a3807246-8259-43e5-9515-cef0474afea2">
+                <div GUID="326fa0cf-ab83-41bc-864a-7a6c23b72d6a" xmlns="http://www.w3.org/1999/xhtml">The Survey must contain the following information:</div>
+                <div GUID="83f894c5-4396-4a2f-9dc8-b27ee1fb89af" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="61254c48-82dd-4106-bc62-0ff6eb6b7729" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="c1288c00-3556-4d7f-a83d-1a695a871975">how to contact Zen</li>
+                  <li GUID="f1595446-8f19-4c5f-b903-547bb517eac5">that individuals are able to access the information held about them</li>
+                  <li GUID="eee8f634-ad3d-40d9-80a8-b7cff231da04">the purpose of collection</li>
+                  <li GUID="607a9e64-c19c-45ce-90a9-85d6736e4b1d">the organisations or types of organisations that Zen usually gives this information to</li>
+                  <li GUID="ed5c12d1-d46c-4c3a-af0c-1593ae5e1a58">if the information is required by law</li>
+                  <li GUID="869cb4fa-9eca-4dce-83ef-8a0f70f119b7">the main consequences, if any, for the individual if they don't provide you with the information.<br GUID="177f184f-d867-4285-a2f3-11ab218937da"></li>
+                </ul>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('fb1ad636-6515-4e42-ad71-1e6000819a6c');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="b9f96a2c-b809-4fe4-a087-3bc50e4fe529">
+          <MultiChoiceQA GUID="533afd95-b4ca-4086-8458-513dd6735478"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="db623087-092a-4867-b21d-6cd6de28eb96">
+      <strong GUID="c2fa6c64-5f77-458c-9675-e0653e1c758b" xmlns="http://www.w3.org/1999/xhtml">If Zen implements this idea, which (if any) part of the Collection Principle would they breach?</strong>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qdb623087-092a-4867-b21d-6cd6de28eb96" ID="Ad700a13a-819e-4e85-b814-274436359e74" onClick="ShowAnswer('d700a13a-819e-4e85-b814-274436359e74','true');">
+      <AnswerText GUID="89571bff-78e8-43ce-95f6-325b63b005b9">(a) unlawful collection </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="d700a13a-819e-4e85-b814-274436359e74">
+      <Feedback GUID="24d97862-3adb-46b9-83e8-ab1b5db8ba60">
+        <strong GUID="81a0d95c-2982-4cdd-8510-62f5400d5bf2" xmlns="http://www.w3.org/1999/xhtml">Possibly</strong>. This might also be considered misleading and deceptive conduct in breach of the Trade Practices Act.</Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qdb623087-092a-4867-b21d-6cd6de28eb96" ID="A9d330a9d-6efc-41b5-a39f-976b589c3d1e" onClick="ShowAnswer('9d330a9d-6efc-41b5-a39f-976b589c3d1e','true');">
+      <AnswerText GUID="c47f71a2-f245-4307-ad20-17c64edcafcc">(b) unfair collection </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="9d330a9d-6efc-41b5-a39f-976b589c3d1e">
+      <Feedback GUID="1da3fd7f-9143-4526-8885-947710f50cf1">
+        <strong GUID="414b5a21-b457-46d5-a2cd-cc349a491bc9" xmlns="http://www.w3.org/1999/xhtml">You are correct!</strong> This would be unfair because guests would have been misled and deceived. It may also be a breach of the Trade Practices Act (which prohibits misleading and deceptive conduct).</Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qdb623087-092a-4867-b21d-6cd6de28eb96" ID="A57e51165-1cc4-491b-8b0b-9faccff83a66" onClick="ShowAnswer('57e51165-1cc4-491b-8b0b-9faccff83a66','true');">
+      <AnswerText GUID="73e963fe-d5b1-4752-b54d-3e4ed274c0c6">(c) failure to meet the notice requirements </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="57e51165-1cc4-491b-8b0b-9faccff83a66">
+      <Feedback GUID="31d2646a-b705-4ffe-bc94-33cf2fb21f53">
+        <strong GUID="04f390d8-b268-4c01-8e5b-0feb547d28ad" xmlns="http://www.w3.org/1999/xhtml">You are correct!</strong> The survey form does not cover all the matters required to be notified to individuals.</Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qdb623087-092a-4867-b21d-6cd6de28eb96" ID="Aafc16488-570a-409a-89e3-ec9ee84eaa0a" onClick="ShowAnswer('afc16488-570a-409a-89e3-ec9ee84eaa0a','true');">
+      <AnswerText GUID="5aa4f157-e52b-40c6-af97-ed5a61f10b63">(d) unnecessary collection </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="afc16488-570a-409a-89e3-ec9ee84eaa0a">
+      <Feedback GUID="5cbf635f-5eab-4108-9695-25c970be3ada">
+        <strong GUID="e5a23b2c-2218-41c0-876c-fb19f9bf8b8a" xmlns="http://www.w3.org/1999/xhtml">Possibly.</strong> Details such as a guest's occupation, wage bracket, age and lifestyle might not be necessary for Zen to determine ways to improve its customer service.</Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page13" IsActive="true" GUID="54021036-2848-46cc-a622-6c579d5cb027">
+      <IncludedInTOC GUID="bcc17ba5-897d-4b04-9c79-8bc2756131a0">true</IncludedInTOC>
+      <Title GUID="f8898751-8f4a-40fb-8291-de38822cbcab">Scenario 3</Title>
+      <PageElements GUID="2b267b86-babc-45f5-bb2c-42e05a35a3e6">
+        <PageElement GUID="124c0c62-5bf3-4119-b320-f1a14dc28f47">
+          <Graphic GUID="5cae454a-5d32-4270-ae85-cacc42fe7824"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/6a63d63b-1804-473a-85f1-9d7a13f4efa8.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="2028e539-2f17-44a9-b718-6b9521beda0c">
+          <TextBox GUID="7dfe72ec-6f04-499b-863c-5712e6d28845"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="08d4a5ea-9400-4d54-826d-dee160544e09">
+    <div GUID="2f26d51c-916d-4ae5-9131-37c260b54315" xmlns="http://www.w3.org/1999/xhtml">David and Neeta are business managers for the accounting firm 'Speedy Returns'. During their weekly strategy meeting they brainstorm ideas on new sources of potential clients. Neeta is worried that the Privacy Act will stop them from getting information about potential clients from other organisations.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="8b1fafd6-20fc-4c63-8259-5063caaa8497">
+          <MultiChoiceQA GUID="73e5b95f-a99f-4ce0-93aa-1916560c1964"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="c75c7f1b-33cf-4e54-845a-3d43fee54bc4">
+      <strong GUID="5ea297b9-556c-4cd3-b7d5-2cd41bb70b71" xmlns="http://www.w3.org/1999/xhtml">Which of the following statements is correct?</strong>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qc75c7f1b-33cf-4e54-845a-3d43fee54bc4" ID="A9fb15b06-a146-467e-a72e-0cc54ef945f5" onClick="ShowAnswer('9fb15b06-a146-467e-a72e-0cc54ef945f5','false');">
+      <AnswerText GUID="d4824a47-2b91-469d-9050-cea863cef7d8">(a) Speedy Returns can only obtain leads directly from individuals, such as from responses to advertisements or through Speedy Returns' web site</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="9fb15b06-a146-467e-a72e-0cc54ef945f5">
+      <Feedback GUID="1dbf7dcf-d777-4bd4-86d4-71deb36c1ea7">
+        <div GUID="735787b2-154f-4f61-bef0-0e4df21713b8" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="13dd3a95-620c-4f1e-9b62-160f4a06c2af">You are incorrect.</strong>
+        </div>
+        <div GUID="7aa85103-9b3c-4ca3-bb8f-56b9a85996e1" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="f34a98f2-b942-440c-9860-4d833bda801d" xmlns="http://www.w3.org/1999/xhtml">The Collection Principle only requires collection directly from individuals where it is "reasonable and practicable". It is not intended to stop lead generation although the organisation that originally collected the information must have complied with the notice requirements so that individuals are aware that their details may be passed on to Speedy Returns.</div>
+        <div GUID="b9e0f869-3f23-46f8-a052-90326c74d284" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="ec5318de-b91d-4bb6-aedd-520049ac6eb0" xmlns="http://www.w3.org/1999/xhtml">Speedy Returns will have to take reasonable steps to comply with the notice requirements concerning its collection of information which includes notifying individuals of its name and how to contact it and the purposes of collection. It may be that if the original collecting organisation has disclosed this information already on behalf of Speedy Returns, then Speedy Returns will not need to do so.</div>
+        <div GUID="37ba0174-5baf-4881-a223-bdc471d91d60" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="e1033510-23fd-4108-b9c7-c94893ebafaf" xmlns="http://www.w3.org/1999/xhtml">It can be complicated to work out whether notice requirements have been met so if you want to collect information from third parties, you should consult your legal and compliance manager first.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Qc75c7f1b-33cf-4e54-845a-3d43fee54bc4" ID="A4cf844bb-2ac3-4c77-831d-4c5f6aa85ed7" onClick="ShowAnswer('4cf844bb-2ac3-4c77-831d-4c5f6aa85ed7','true');">
+      <AnswerText GUID="067476b1-c7b6-4b2d-aa31-50a65ade2c3a">(b) Speedy Returns can continue to receive lists of prospects from third parties </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="4cf844bb-2ac3-4c77-831d-4c5f6aa85ed7">
+      <Feedback GUID="7f662ae9-6e90-4b3a-8152-94f1c317ffdc">
+        <div GUID="40921d71-4257-46b0-aca9-73cc4f9c760d" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="07a7ffec-34d9-4b69-91e7-3db25b6a15c5">You are correct</strong>, but only where it is not "reasonable and practicable" to collect information directly from individuals.</div>
+        <div GUID="87fd0d80-73a9-4b94-be80-987bcd81ca97" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="436d4fc5-07fb-43c1-baeb-1afbfab3bc4e" xmlns="http://www.w3.org/1999/xhtml">The Collection Principle is not intended to stop lead generation although the organisation that originally collected the information must have complied with the notice requirements so that individuals are aware that their details may be passed on to Speedy Returns.</div>
+        <div GUID="ee249860-4b15-449e-aec4-3db8904143fa" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="7389fcb9-eaea-4c4e-a311-457e8130f9c2" xmlns="http://www.w3.org/1999/xhtml">If the original collecting organisation did not make individuals aware of the notice requirements as it relates to Speedy Returns, Speedy Returns will have to take reasonable steps to provide individuals with the information required by the notice requirements.</div>
+        <div GUID="d1d3ec11-ed03-47f1-af5c-3b06d36dd6b8" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="2b684883-795b-40eb-9f9f-0418e487b048" xmlns="http://www.w3.org/1999/xhtml">It can be complicated to work out whether notice requirements have been met so if you want to collect information from third parties, you should consult your legal and compliance manager first.</div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page14" IsActive="true" GUID="fdbb6199-dc06-492f-899d-4d1cb3221c17">
+      <IncludedInTOC GUID="e292ca6b-00e3-4fa7-8658-0a5d6ee0fe7d">true</IncludedInTOC>
+      <Title GUID="fd40b6a5-f04b-4b37-88dc-2d9f2cc04de1">Scenario 4</Title>
+      <PageElements GUID="9cab07fc-9a6f-4283-9c9c-fbe9f10fa28b">
+        <PageElement GUID="cb89a662-d08e-4e9b-a3f1-ad50a41989a1">
+          <Graphic GUID="0cea0530-7d35-4395-a556-5c0003edd9cd"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/8e91709d-460a-49b3-843e-41457d05505f.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="fd5a9522-c79f-4d05-ab8f-9ef116ca1d82">
+          <TextBox GUID="9ac58eaa-d748-4779-a404-d33531fe45a6"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="42cede87-d553-4c42-b898-fa8157664867">
+    <div GUID="bcf312a2-414c-4ccd-b8d0-74884b757a33" xmlns="http://www.w3.org/1999/xhtml">Raoul is a legal officer at Hightech, an innovative software company, that tailor makes programs for individual clients. The company has a standard questionnaire which it uses to obtain information about the work practices of individual employees of its clients. Information collected from each employee ranges from the employee's level of education to level of computer literacy. </div>
+    <div GUID="fe64a2ef-2b92-448e-b266-eb63162be83b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="c98abe32-88f7-4321-a38f-43bfba008be4" xmlns="http://www.w3.org/1999/xhtml">Raoul has been asked to draft a privacy notice to include in the standard questionnaire.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="0af0e9c1-ed47-46d4-9f30-3de3841de97d">
+          <MultiChoiceQA GUID="f1414399-42b2-4b4e-bb4c-9842a4a714b3"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="986b3ff4-da0e-4403-b8fa-007cc057ac7d">
+      <strong GUID="34a451bb-ab8e-494a-aead-39e5696c605d" xmlns="http://www.w3.org/1999/xhtml">Which of the following details does the Privacy Act require to be included in the privacy notice?</strong>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q986b3ff4-da0e-4403-b8fa-007cc057ac7d" ID="Aaf100753-2d15-45c8-a4f3-0d397e626165" onClick="ShowAnswer('af100753-2d15-45c8-a4f3-0d397e626165','true');">
+      <AnswerText GUID="4332a5b4-c1e3-40d2-8475-c802b272d8e6">(a) how to contact Hightech </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="af100753-2d15-45c8-a4f3-0d397e626165">
+      <Feedback GUID="4999b451-73fd-4c89-bfef-cc519719feba">
+        <strong GUID="88dd3999-ef9f-4fd1-ab8b-9f18e7937a10" xmlns="http://www.w3.org/1999/xhtml">You are correct!</strong> This is one of the details that individuals must be made aware of when personal information is collected.</Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q986b3ff4-da0e-4403-b8fa-007cc057ac7d" ID="Adfbc0496-b974-4ce4-afed-4ae5f004d021" onClick="ShowAnswer('dfbc0496-b974-4ce4-afed-4ae5f004d021','false');">
+      <AnswerText GUID="c7c863b3-bb48-4e63-866e-bedcb0ee8115">(b) Hightech's Australian Business Number </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="dfbc0496-b974-4ce4-afed-4ae5f004d021">
+      <Feedback GUID="0023b1e5-78f6-4deb-8752-551b19c1667b">
+        <strong GUID="d290d14c-7745-4bed-9bc3-1c81b06e1a4c" xmlns="http://www.w3.org/1999/xhtml">You are incorrect</strong>. This is not required by the Privacy Act, but a company must set out its ACN or ABN with its name on all public documents to comply with the Corporations Act 2001.</Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q986b3ff4-da0e-4403-b8fa-007cc057ac7d" ID="Aac57597c-d322-4564-ac9f-8913313b8b06" onClick="ShowAnswer('ac57597c-d322-4564-ac9f-8913313b8b06','true');">
+      <AnswerText GUID="66a22b8a-2c6c-4bc5-ba7d-fbf79407d89e">(c) the purpose of collection </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="ac57597c-d322-4564-ac9f-8913313b8b06">
+      <Feedback GUID="73af7385-d074-4be1-aebd-579e725d2c22">
+        <strong GUID="2b161489-0a64-4cb2-ab10-fca1e2096008" xmlns="http://www.w3.org/1999/xhtml">You are correct!</strong> This is one of the details that individuals must be made aware of when personal information is collected.</Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q986b3ff4-da0e-4403-b8fa-007cc057ac7d" ID="Af9106bfe-d5bb-494d-b15d-6ce00a8573ae" onClick="ShowAnswer('f9106bfe-d5bb-494d-b15d-6ce00a8573ae','true');">
+      <AnswerText GUID="d69b5913-fc80-4631-8c92-69adbc5b3e86">(d) organisations to whom Hightech usually discloses the information </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="f9106bfe-d5bb-494d-b15d-6ce00a8573ae">
+      <Feedback GUID="e0298e5d-433e-421c-b98c-a6f07842b0f2">
+        <strong GUID="2cb3f3ed-5939-4c09-a80a-6e625371dd8b" xmlns="http://www.w3.org/1999/xhtml">You are correct!</strong> This is one of the details that individuals must be made aware of when personal information is collected.</Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q986b3ff4-da0e-4403-b8fa-007cc057ac7d" ID="A12eff7ff-2784-4628-84ac-564f0e262dec" onClick="ShowAnswer('12eff7ff-2784-4628-84ac-564f0e262dec','true');">
+      <AnswerText GUID="698618af-a30b-4683-ab6d-8b239d2d1693">(e) what line of business Hightech is in </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="12eff7ff-2784-4628-84ac-564f0e262dec">
+      <Feedback GUID="8a064cc2-6a1e-4d9c-805e-eb04a4869c42">This would only need to be included if it is necessary for individuals to understand the purposes for which Hightech is collecting their personal information.</Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page15" IsActive="true" GUID="51623443-752f-4934-a959-955dea793057">
+      <IncludedInTOC GUID="271e6f33-aa4e-4f8b-b206-ec287535bed1">true</IncludedInTOC>
+      <Title GUID="5c6a5b84-9899-45d1-b832-5916e3d17dc5">Scenario 5</Title>
+      <PageElements GUID="94b52561-2b80-4dfa-805c-d79470cc92b0">
+        <PageElement GUID="17495fdf-6c9c-4ccb-89e4-3011bec1cc9a">
+          <Graphic GUID="3e1914f2-f54c-452a-b574-eee6742b79f9"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/22e3d69d-aa09-40b4-a71e-e8c8a523ee78.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="477f382a-d57e-4df0-9036-8aefc5e1fa38">
+          <TextBox GUID="8fed1463-c074-4828-bd4d-e300b3342a3c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="09af53a6-e91d-4b39-bf1e-f0be19815ae2">
+    <div GUID="f74d96c4-d7cf-46a2-8c9d-34eed3662d13" xmlns="http://www.w3.org/1999/xhtml">Raoul sends the draft privacy notice to Christina, head of marketing for feedback.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="e50921c2-5d11-49dc-b943-4e38e9a5e7ac">
+          <FreeTextQA GUID="38ee9915-0515-4557-b3f6-243ebdee2aac"> <![CDATA[<div class="FreeTextQA_Main">
+  <div class="FreeTextQA_Question">
+    <Question GUID="4a8897ce-7019-42a7-860e-c79ff917e373">
+      <strong GUID="ee3a5e2c-e02f-4ad6-b483-c861d32be056" xmlns="http://www.w3.org/1999/xhtml">Is there anything else Christina should include in Hightech's privacy notice on its questionnaire?</strong>
+    </Question>
+  </div>
+  <div class="FreeTextQA_Input">
+    <input class="FreeTextQA_Input" type="text" ID="4a8897ce-7019-42a7-860e-c79ff917e373">
+  </div>
+  <input type="button" class="FreeTextQA_FeedbackButton" value="Show Answer" onClick="GiveFeedback(this,'f8313c1a-32f4-4494-8090-b899ccc2284f');">
+  <div class="FreeTextQA_Feedback" ID="f8313c1a-32f4-4494-8090-b899ccc2284f">
+    <Feedback GUID="f8313c1a-32f4-4494-8090-b899ccc2284f">
+      <div GUID="8b52809c-d11f-4c3c-a774-9dfa2c228e3c" xmlns="http://www.w3.org/1999/xhtml">You are right if you mentioned that Christina should include:</div>
+      <div GUID="e4d9d84b-d24c-445a-9cbd-127bb5523453" xmlns="http://www.w3.org/1999/xhtml"> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="1e56e1f5-caf4-4c05-a602-ee303944596d" xmlns="http://www.w3.org/1999/xhtml">
+        <li GUID="5b9c40f6-554e-4091-a7ec-35fcc5b04d2f">the identity of Hightech as the collecting organisation;</li>
+        <li GUID="25a91add-ccf2-40fe-9d9d-de6e1aca441c">that individuals are able to access information held about them by Hightech;</li>
+        <li GUID="37fd04e7-6c31-482f-82ad-d2975e938db8">whether the information is required to be collected by law; and</li>
+        <li GUID="23ecf6a6-dbed-49d3-bd94-b365ca36304d">the main consequences, if any, for the individual if they do not provide their information.<br GUID="cbd531e5-de66-4fea-a9d1-d43c8ef443ed"></li>
+      </ul>
+    </Feedback>
+  </div>
+</div>]]></FreeTextQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page16" IsActive="true" GUID="bcee7bf9-8393-4ef6-a251-633c7f5d1097">
+      <IncludedInTOC GUID="068d7021-c674-4084-9682-62fd91ef4e8b">true</IncludedInTOC>
+      <Title GUID="64ee94b7-93a9-48ca-9f5a-ff89ee7bb5e5">Scenario 6</Title>
+      <PageElements GUID="89864cb3-461f-43a3-b29a-78633759e172">
+        <PageElement GUID="3f368ec6-052e-4c97-9f4a-ebe1b3e9cbe1">
+          <Graphic GUID="5fc3f8bd-810c-43ac-ba28-6382a86cd689"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/dbb4f0c9-ca11-46f7-8539-b5056f870a14.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="b573573c-1202-435b-9721-058b1909cddb">
+          <TextBox GUID="875c7210-3652-46cb-bec4-6ff82c47a0ee"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="cf5d85a3-8422-4169-8de7-1b106dad9115">
+    <div GUID="d6cf9fd9-99c2-4acb-8c85-cdec4df82dc4" xmlns="http://www.w3.org/1999/xhtml">Dawn is a salesperson for Bricks &amp; Mortar, a supplier of home building materials. Dawn's salary depends on the number of customers she attracts to Bricks and Mortar. Her de-facto, Bruce, who works for a local council, lets her have a list of names and addresses of individuals who have been successful in obtaining development approvals for their homes.</div>
+    <div GUID="3a77418b-9626-4307-ae24-9e8309a64959" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="e9703e75-e1bd-43fe-a1dd-edc364a8172f" xmlns="http://www.w3.org/1999/xhtml">Over a six-month period, without telling them what she knows about them or where she got their names, Dawn gets 15 people to buy building materials from Bricks &amp; Mortar.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="3457e46f-c238-49ed-ae83-db18d83a7b69">
+          <MultiChoiceQA GUID="e8bfd715-dec6-45ec-897f-396711969c33"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="0476f1a5-1105-4f72-bd73-042f3c990cb2">
+      <strong GUID="bdcca0c4-cf66-43e9-b772-b33d091982dd" xmlns="http://www.w3.org/1999/xhtml">Dawn's manager Fiona finds out about this. What should Fiona do?</strong>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q0476f1a5-1105-4f72-bd73-042f3c990cb2" ID="A70165c0c-5211-4b23-853d-98212e677644" onClick="ShowAnswer('70165c0c-5211-4b23-853d-98212e677644','true');">
+      <AnswerText GUID="003b2695-42d9-4112-81f3-d879968b8f3d">(a) sack Dawn </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="70165c0c-5211-4b23-853d-98212e677644">
+      <Feedback GUID="2a568dc7-cce7-4037-b84c-fb8e47c25b58">
+        <div GUID="c3d73b2c-a6f6-4606-a4da-4968d6ab14bd" xmlns="http://www.w3.org/1999/xhtml">The Privacy Act does not require this, but Fiona may want to consider this disciplinary action.</div>
+        <div GUID="3a3c6ed4-bb02-4bc5-9fc0-d7a9c83493ac" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="43f3ef2a-7f3c-4c0c-b387-a16f8d8bc9fe" xmlns="http://www.w3.org/1999/xhtml">Bricks &amp; Mortar is liable for anything Dawn, as an employee, does in the course of her work, unless it is something that she has been specifically instructed not to do. Bricks &amp; Mortar would be liable for breaching the Collection Principle by collecting information by unlawful means and, in the process, failing to meet the notification requirements.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q0476f1a5-1105-4f72-bd73-042f3c990cb2" ID="Abe24d997-65a8-4c8c-a4fe-c85a43c379b0" onClick="ShowAnswer('be24d997-65a8-4c8c-a4fe-c85a43c379b0','false');">
+      <AnswerText GUID="81cfdaa3-ebdb-49d9-ae1b-bc5d7e0f8b33">(b) give her an extra bonus </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="be24d997-65a8-4c8c-a4fe-c85a43c379b0">
+      <Feedback GUID="195461b4-5d01-4d28-aaa1-f07b4faf669d">
+        <div GUID="84e10303-0908-487e-b524-82f6aa843c9d" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="206d973e-d34a-4cf4-be71-8c97df6f6055">Certainly not</strong> - though this may have happened before the Privacy Act.</div>
+        <div GUID="a163d9a0-b9d5-4865-9247-47221843bb8f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="e17782a0-4b96-43db-a2e5-d09f1e26355f" xmlns="http://www.w3.org/1999/xhtml">Bricks &amp; Mortar is liable for anything Dawn, as an employee, does in the course of her work, unless it is something that she has been specifically instructed not to do. Bricks &amp; Mortar would be liable for breaching the Collection Principle by collecting information by unlawful means and, in the process, failing to meet the notification requirements.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q0476f1a5-1105-4f72-bd73-042f3c990cb2" ID="A3cc578fb-e929-4a2f-8641-06d1b29dbe0b" onClick="ShowAnswer('3cc578fb-e929-4a2f-8641-06d1b29dbe0b','true');">
+      <AnswerText GUID="c1806c08-391f-47d7-a10b-b8e7cdffcf42">(c) ensure that the practice stops and that all staff are reminded that this is unlawful </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="3cc578fb-e929-4a2f-8641-06d1b29dbe0b">
+      <Feedback GUID="7f924def-2e04-4fbc-9a44-bcc68917a5d7">
+        <div GUID="1292cc51-5d80-4d3f-ba8d-05fd4afc6f4b" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="26bbc8cb-6fc9-4bfb-aa42-ca88a86e81d4">You are correct!</strong> This is a very serious breach of the Privacy Act.</div>
+        <div GUID="8ba4bbae-9046-48c2-8768-f152de13f2c8" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="cdd52905-0bab-49dd-b300-bea8b36ff5cf" xmlns="http://www.w3.org/1999/xhtml">Bricks &amp; Mortar is liable for anything Dawn, as an employee, does in the course of her work, unless it is something that she has been specifically instructed not to do. Bricks &amp; Mortar would be liable for breaching the Collection Principle by collecting information by unlawful means and, in the process, failing to meet the notification requirements.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q0476f1a5-1105-4f72-bd73-042f3c990cb2" ID="Aa81a9f5e-0ad1-4bad-87fb-2db38fcfbe1e" onClick="ShowAnswer('a81a9f5e-0ad1-4bad-87fb-2db38fcfbe1e','true');">
+      <AnswerText GUID="f23d897f-2384-432b-997e-e08412003395">(d) notify all the clients and apologise </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="a81a9f5e-0ad1-4bad-87fb-2db38fcfbe1e">
+      <Feedback GUID="d8f9dd1f-10b0-409c-a16d-53bdfd1b6ce0">
+        <div GUID="41b87f63-1866-44f9-869b-6915fbac98b3" xmlns="http://www.w3.org/1999/xhtml">The Privacy Act does not require this but Fiona may want to consider it.</div>
+        <div GUID="f0095422-75f0-475c-b414-3f1550ee1f9e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="a00fb910-f4a4-461a-a8fb-5c5bf5e5726e" xmlns="http://www.w3.org/1999/xhtml">Bricks &amp; Mortar is liable for anything Dawn, as an employee, does in the course of her work, unless it is something that she has been specifically instructed not to do. Bricks &amp; Mortar would be liable for breaching the Collection Principle by collecting information by unlawful means and, in the process, failing to meet the notification requirements.</div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page17" IsActive="true" GUID="c31ec2eb-d498-4a47-81ce-29fdcd5b655b">
+      <IncludedInTOC GUID="aa5ec712-ad7e-4e15-9f71-081696512487">true</IncludedInTOC>
+      <Title GUID="bf8de0b1-46be-4210-bdc5-fca4bf108396">Scenario 7</Title>
+      <PageElements GUID="12c30505-5fcb-4cd8-82fb-5afa13f831e9">
+        <PageElement GUID="05620055-b739-4bb6-8467-66ca2c40d111">
+          <Graphic GUID="87642813-d7c0-4e59-93a2-b26508a4cab0"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/b36bcf85-08a9-4ad7-87da-b7051a8601ab.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="58a901b9-e5c7-4182-873f-25d8c4681578">
+          <TextBox GUID="0c0832ee-f236-4293-b8bd-99196ff6ff9d"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="94ff162a-0dc9-47ea-b661-05bd02a9372c">Sophia is the marketing director of a rapidly growing recruitment agency 'Beyond'. Sophia is wondering what notice must be given to clients about the information being collected when they call Beyond. Does Sophia need to make sure that Laura, the receptionist, notifies clients of the information that is required to be disclosed by the Collection Principle when she collects personal information from clients over the phone?</Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="87003ceb-8875-4870-bd85-e745d0004599">
+          <MultiChoiceQA GUID="ebd00452-b55a-4d99-b312-dc544d400acc"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="69549ac4-24a8-4f2d-8dba-737e41f76151">
+      <strong GUID="0dcc9a54-dc46-49fc-9db7-d27437263df8" xmlns="http://www.w3.org/1999/xhtml">Which of the following is the correct answer?</strong>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q69549ac4-24a8-4f2d-8dba-737e41f76151" ID="A4f46c9e9-048f-4124-8ce0-b57a4cc24c68" onClick="ShowAnswer('4f46c9e9-048f-4124-8ce0-b57a4cc24c68','false');">
+      <AnswerText GUID="e82b6415-c71d-4589-aac5-67674c789896">(a) Yes, either Laura, the receptionist or a recorded message must give all these details </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="4f46c9e9-048f-4124-8ce0-b57a4cc24c68">
+      <Feedback GUID="83e2a455-d7a8-4646-b24c-6103fa5d0cd5">
+        <div GUID="8af8092b-2cac-4f16-8f62-ab4be38328c2" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="e3f2dd3d-3add-4186-9683-2c9ba355f35b">You are incorrect</strong>.</div>
+        <div GUID="d5b9880a-58e2-4652-ba5d-2a855ab59fb1" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="6244912f-239e-4d68-93ed-e3c34b69c5ab" xmlns="http://www.w3.org/1999/xhtml">The Privacy Act allows notice to be given as soon as practicable after collection. So, if it is not reasonable to give all of this information over the phone, the remaining information should be provided at the next possible opportunity, such as in a mail out following the initial telephone contact.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q69549ac4-24a8-4f2d-8dba-737e41f76151" ID="A2c366124-bac1-4523-8aa1-630fce9866ea" onClick="ShowAnswer('2c366124-bac1-4523-8aa1-630fce9866ea','true');">
+      <AnswerText GUID="824f2063-76de-466d-b6ac-945485d8d8ac">(b) No, at least some of the details may be given in writing later </AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="2c366124-bac1-4523-8aa1-630fce9866ea">
+      <Feedback GUID="866a6102-77f1-4411-8c6c-195c7c779975">
+        <div GUID="77f9ae90-23be-4ba7-8c01-a858a51bc9d8" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="f9b1cae0-0222-4fe3-8b74-6ca54dbdf224">You are correct!</strong>
+        </div>
+        <div GUID="4172fe29-d995-450f-a512-49318174e2b4" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="372d4d49-42a8-47d4-a2dd-2862fbfb52c9" xmlns="http://www.w3.org/1999/xhtml">The Privacy Act allows notice to be given as soon as practicable after collection. So, it may be appropriate to notify individuals of some of the matters at the next possible opportunity, such as in a mail out following an initial telephone contact if it is not practicable to give out all the information over the phone.</div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page18" IsActive="true" GUID="843f0818-3e62-4a68-908a-4d98abe85059">
+      <IncludedInTOC GUID="41802048-e31f-405d-9c42-f0245eb4cae0">true</IncludedInTOC>
+      <Title GUID="38663c10-b688-44b2-acf3-21b5a32e300e">Scenario 8</Title>
+      <PageElements GUID="b76620b2-0936-4396-8b16-a96f3f4c8a9d">
+        <PageElement GUID="aed34033-a0c7-49de-b9a0-715b5a9f519b">
+          <Graphic GUID="5b7c8c7e-6f56-45f5-b1b8-d83e4da1128a"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/768fdb35-03f0-42ce-b09a-deaf6d33a268.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="a480161c-aa29-449a-a118-354165b6733d">
+          <TextBox GUID="2b8f1466-6c6c-4c06-b0d1-4304154fc47f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="883e5c00-af58-4d13-9232-57facecca81c">
+    <div GUID="7bb13845-609e-4df0-82f6-3381e821c7c7" xmlns="http://www.w3.org/1999/xhtml">Siobhan is the marketing manager for 'Upstart' a medium sized internet service provider. She has just completed her privacy training and is reviewing the procedures Upstart already has in place. </div>
+    <div GUID="fbebd6fe-da6f-48c7-9c69-9f143ee0451f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="5a1d9767-a775-445d-ac82-5d1815e75cd4" xmlns="http://www.w3.org/1999/xhtml">It has occurred to her that when potential customers make inquiries to Upstart's call centres, Upstart's customer service representatives ask for the caller's name, to make their service more personal. If the customer does not want further information forwarded to them or does not wish to make any further inquiries, the customer's name is not recorded.</div>
+    <div GUID="4b417ad6-6859-4094-b486-25267a1928df" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="10903c5f-a8e4-4a1d-afa4-d2a03465972e" xmlns="http://www.w3.org/1999/xhtml">Siobhan thinks it would be a waste of time to make all of the disclosures required under the Privacy Act in this situation.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="a891b943-de1e-4072-a545-545ce96a056b">
+          <MultiChoiceQA GUID="ebd19138-7cf6-49f8-852b-fc3fd67df446"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="7578a1c1-4998-4b7a-8f62-19f6cb2eb594">
+      <strong GUID="1f1e235a-5f3f-45a9-b786-08b2c0f13777" xmlns="http://www.w3.org/1999/xhtml">What advice would you give to Siobhan?</strong>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q7578a1c1-4998-4b7a-8f62-19f6cb2eb594" ID="A4fb17f75-20a9-41cb-9010-770ca999be80" onClick="ShowAnswer('4fb17f75-20a9-41cb-9010-770ca999be80','false');">
+      <AnswerText GUID="5f4b411d-c1f4-47ca-964c-aa9e6b43bea6">(a) Although providing all the disclosure details may be inconvenient, it is required by law.</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="4fb17f75-20a9-41cb-9010-770ca999be80">
+      <Feedback GUID="02849f6c-c22d-4472-abf1-0b2a7337b13f">
+        <div GUID="6ed3e916-b842-4bca-8666-a340311b3d2c" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="18b28091-9816-40f0-83a7-9766c0801f0e">You are incorrect</strong>.</div>
+        <div GUID="9ecd02af-f5ba-4b2a-8270-666fcad59efb" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="7c6cc011-a2aa-458b-b723-88a0db5d859f" xmlns="http://www.w3.org/1999/xhtml">The Privacy Act only applies to personal information that is contained in a record. Unless the customer service representatives are recording identifiable personal information about the caller in some way, such as entering it into a database, the Privacy Act does not apply.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q7578a1c1-4998-4b7a-8f62-19f6cb2eb594" ID="Afb220771-0a42-4766-bbec-5e1e6249a4b5" onClick="ShowAnswer('fb220771-0a42-4766-bbec-5e1e6249a4b5','true');">
+      <AnswerText GUID="cc5e96be-211e-4266-9760-093ce24e8a41">(b) You do not need to provide all the disclosure details as the caller's personal information is not being recorded.</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="fb220771-0a42-4766-bbec-5e1e6249a4b5">
+      <Feedback GUID="5acae659-d613-4326-b082-8a109986c367">
+        <div GUID="73513f73-9806-4cf3-b4bf-bd350b79c957" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="e3febe61-34ab-48f5-98a0-4f8a35e80249">You are correct!</strong>
+        </div>
+        <div GUID="19e51359-7dc3-497d-8dee-8f66da92e86a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="6443562c-ae0b-4e1a-8c7d-f2de7678eef5" xmlns="http://www.w3.org/1999/xhtml">The Privacy Act only applies to personal information that is collected for inclusion or held in a record. Unless the customer service representatives are keeping a record of personal information about the caller, such as entering it into a database or writing the information down, the Privacy Act does not apply.</div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page19" IsActive="true" GUID="d93af75c-26d1-4564-8910-51873f327bd0">
+      <IncludedInTOC GUID="1bfbdecf-afc0-4ebf-84b2-0ad49a6d9db1">false</IncludedInTOC>
+      <Title GUID="6d93891b-f790-44ed-a4db-f5fbf3fbdba4">End of lesson</Title>
+      <PageElements GUID="f51008d2-f25b-4a2e-a86a-fd2f69e6d047">
+        <PageElement GUID="1a5a4a18-6dde-42e3-a80f-662011137bcd">
+          <Graphic GUID="bf6d70be-b312-4243-b92e-31b16ccd059c"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/52d3da6c-b070-4b38-aa63-5407ca0e1ffc.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="f439a6a4-f366-4e04-8289-d7901909e63e">
+          <TextBox GUID="60b8230d-e32c-47d0-947d-4dd00369ffbb"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="a8d1d9dd-99ba-4fe7-a44a-d67b7655a63e">
+    <div GUID="aca74b11-d2d5-431d-bef2-6e49788abb16" xmlns="http://www.w3.org/1999/xhtml">Congratulations! You have completed your lesson.</div>
+    <div GUID="5b455ac9-ed87-4208-9057-0e4eeaab9940" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ecdd4ee0-6267-47ac-b867-28eae15fe1e9" xmlns="http://www.w3.org/1999/xhtml">Click the <strong GUID="1a094f19-cabc-4b53-8a4d-2bdb9bbb436b">End Lesson</strong> button to exit the lesson.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="e6b88f91-a8e0-42a2-bd32-b7c5231c0f92">
+          <EndLesson GUID="e89623f7-f5ce-4ea0-91b5-63d08faf0c39"> <![CDATA[<div class="EndLesson_Main">
+  <input type="button" class="Navigation_Button_Submit" value="End Lesson" onClick="__doPostBack('Lesson_End','')">
+</div>]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

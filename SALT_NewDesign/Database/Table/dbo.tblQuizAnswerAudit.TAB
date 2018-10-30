@@ -1,0 +1,33 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblQuizAnswerAudit]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblQuizAnswerAudit](
+	[QuizSessionID] [uniqueidentifier] NOT NULL,
+	[QuizQuestionID] [int] NOT NULL,
+	[QuizAnswerID] [int] NOT NULL,
+ CONSTRAINT [PK_tblQuizAnswerAudit] PRIMARY KEY CLUSTERED 
+(
+	[QuizSessionID] ASC,
+	[QuizQuestionID] ASC,
+	[QuizAnswerID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON, FILLFACTOR = 90) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblQuizAnswerAudit_tblQuizAnswer]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblQuizAnswerAudit]'))
+ALTER TABLE [dbo].[tblQuizAnswerAudit]  WITH CHECK ADD  CONSTRAINT [FK_tblQuizAnswerAudit_tblQuizAnswer] FOREIGN KEY([QuizAnswerID])
+REFERENCES [dbo].[tblQuizAnswer] ([QuizAnswerID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblQuizAnswerAudit_tblQuizAnswer]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblQuizAnswerAudit]'))
+ALTER TABLE [dbo].[tblQuizAnswerAudit] CHECK CONSTRAINT [FK_tblQuizAnswerAudit_tblQuizAnswer]
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblQuizAnswerAudit_tblQuizQuestionAudit]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblQuizAnswerAudit]'))
+ALTER TABLE [dbo].[tblQuizAnswerAudit]  WITH CHECK ADD  CONSTRAINT [FK_tblQuizAnswerAudit_tblQuizQuestionAudit] FOREIGN KEY([QuizSessionID], [QuizQuestionID])
+REFERENCES [dbo].[tblQuizQuestionAudit] ([QuizSessionID], [QuizQuestionID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblQuizAnswerAudit_tblQuizQuestionAudit]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblQuizAnswerAudit]'))
+ALTER TABLE [dbo].[tblQuizAnswerAudit] CHECK CONSTRAINT [FK_tblQuizAnswerAudit_tblQuizQuestionAudit]
+GO

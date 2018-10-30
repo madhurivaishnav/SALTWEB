@@ -1,0 +1,299 @@
+body
+{
+	background-color: Gray;
+}
+
+table
+{
+	font-family: Arial,Verdana; /* Default font size used throught the application unless overridden by other styles */
+	font-size: 12px;
+}
+
+a
+{
+	color: #4A6163;
+}
+a:link
+{
+}
+a:visited
+{
+}
+a:hover
+{
+	color: #4A6163;
+}
+a:active
+{
+}
+
+.allContent
+{
+	background-image: url(/general/images/watermarklight.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+	overflow: auto;
+	height: 490px;
+	vertical-align: top;
+}
+
+.PageHeader
+{
+	border-right: #000000 1px solid;
+	border-top: #000000 1px solid;
+	border-left: #000000 1px solid;
+	width: 100%;
+	font-family:Arial;
+	font-size:14pt;
+	border-bottom: #000000 1px solid;
+	background-color: #4A4D4A;
+}
+
+.PageHeaderTitleImage
+{
+	background-image: url(/General/Images/header/cc_logoGrey.jpg);
+	background-repeat: no-repeat;
+	background-position: 20;
+	color: #FFFFFF;
+	text-align: right;
+	font-size: 20px;
+	font-weight: bold;
+	height: 60px;
+	padding-top: 20px;
+	padding-right: 20px;
+	vertical-align: middle;
+}
+.PageHeaderTitle
+{
+	background-color: #4A4D4A;
+	width: 25%;
+	padding-right: 20px;
+	text-align: right;
+	font-size: 20px;
+	color: #ffffff;
+}
+.PageTitle
+{
+	padding: 0 0 8 0; /* top right bottom left */
+	display: inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	font-family: Arial, Verdana, Sans-Serif;
+	font-size: 18px;
+	color: #4A6163;
+}
+
+.PageCount
+{
+	font-size: 9pt;
+	color: #ffffff;
+	background-color: #99cc99;
+}
+.PreviewModeWarning
+{
+	top: 9px;
+	position: relative;
+	font-family: Arial;
+	font-size: 9pt;
+	color: black;
+}
+
+/***********************/
+/* Main styles         */
+/***********************/
+.Main_Table
+{
+	border-right: #000000 1px solid;
+	border-top: #000000 1px solid;
+	border-left: #000000 1px solid;
+	width: 800px;
+	border-bottom: #000000 1px solid;
+	position: relative;
+	top: 0px;
+	height: 530px;
+	background-color: #e7e3e7;
+}
+.Main_Table_Top_Row
+{
+	height: 60px;
+	background-color: #4A4D4A;
+}
+.Main_Table_Content_Row
+{
+	vertical-align: top;
+	background-color: #e7e3e7;
+}
+.Main_Table_Row
+{
+	vertical-align: top;
+	background-color: #e7e3e7;
+}
+.Main_Table_Row_Spacer
+{
+	height: 0px;
+}
+.MainTable_Navigation
+{
+	background-color: #e7e3e7;
+	height: 25px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.TopNavBar
+{
+	height: 50px;
+	background-color: #FF9A00;
+}
+.Copyright
+{
+	font-family: Arial;
+	font-size: 8pt;
+	color: #4A6163;
+	position: relative;
+	top: -5px;
+	background-color: #e7e3e7;
+}
+.PageFont
+{
+	top: -5px;
+	position: relative;
+	font-family: Arial;
+	font-size: 9pt;
+	color: white;
+}
+/****************************/
+/* Navigation Button styles */
+/****************************/
+.ButtonHome, .ButtonQuickFacts, .ButtonExit, .ButtonDisclaimer
+{
+	width: 150px;
+	color: #4A6163;
+	border-left: solid 1px #ffffff;
+	padding-top: 3px;
+	background-color: #e7e3e7;
+}
+.ButtonHome
+{
+}
+.ButtonQuickFacts
+{
+}
+.ButtonExit
+{
+}
+.ButtonDisclaimer
+{
+}
+.ButtonQuizNextVisible
+{
+	visibility:visible;
+	position: relative;
+	top:-15px;
+}
+.ButtonQuizNextHidden
+{
+	visibility:hidden;
+	position: relative;
+	top:-15px;
+}
+.Navigation_Button_Exit
+{
+	font-size: 12px;
+	width: 100px;
+	color: black;
+	font-family: Arial, Verdana;
+	position: relative;
+	top: -11px;
+}
+.Navigation_Button_General_Pressed
+{	font-size: 12px;
+	width: 90px;
+	color: black;
+	font-family: Arial, Verdana;
+	position: relative;
+	top: -25px;
+}
+.Navigation_Button_Next, .Navigation_Button_Previous, .Navigation_Button_Submit, .Navigation_Button_General, .Navigation_Button_General_IconVersion
+{
+	font-size: 12px;
+	width: 90px;
+	color: black;
+	font-family: Arial, Verdana;
+	position: relative;
+	top: -25px;
+}
+.Navigation_Button_Next
+{
+	background-color: #a9a9a9;
+}
+.Navigation_Button_Previous
+{
+	background-color: #a9a9a9;
+}
+.Navigation_Button_Submit_Quiz
+{
+	position:absolute;
+	top:375px;
+	left:450px;
+}
+.Navigation_Button_General_Pressed
+{	
+	font-family: Arial;
+	font-size: 11px;
+	color: black;
+	border-right: #000000 1px;
+	border-top: #000000 1px solid;
+	border-left: #000000 1px solid;
+	border-bottom: #000000 1px solid;
+	background-color: #e7e3e7;
+	text-align: center;
+	height: 18px;
+	cursor:hand;
+	width:91px;
+	top: -24px;
+}
+
+.Navigation_Button_General
+{
+	font-family: Arial;
+	font-size: 11px;
+	color: black;
+	border-right: #000000 1px;
+	border-top: #000000 1px solid;
+	border-left: #000000 1px solid;
+	border-bottom: #000000 1px solid;
+	background-color: #e7e3e7;
+	text-align: center;
+	height: 18px;
+	top: -25px;
+}
+
+.Navigation_Button_General a
+{
+	color: black;
+	text-decoration: none;
+}
+.Navigation_Button_General_Invisible
+{
+	display: none;
+}
+
+BR
+{
+	line-height: 5px;
+	background-color: #e7e3e7;
+}
+
+ul
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+	margin-left:15px;
+}
+li
+{
+	list-style-image: url(/General/Images/InfoPath/CC_OrangeBullet.gif);
+	font-family: Arial, Verdana;
+	padding-left:20px;
+}
+
+

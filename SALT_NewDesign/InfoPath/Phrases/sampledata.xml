@@ -1,0 +1,14 @@
+<Phrases xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-20T23-45-49" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<ContentType>lesson</ContentType>
+	<Instruction/>
+	<Phrase ID="">
+		<Title/>
+		<Text/>
+	</Phrase>
+	<xd:SchemaInfo LocalName="Phrases" NamespaceURI="">
+		<xd:Namespaces>
+			<xd:Namespace LocalName="Phrases" NamespaceURI=""/>
+		</xd:Namespaces>
+		<xd:RequiredAnys/>
+	</xd:SchemaInfo>
+</Phrases>

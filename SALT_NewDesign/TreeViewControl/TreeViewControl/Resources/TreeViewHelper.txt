@@ -1,0 +1,70 @@
+		<script language="javascript">
+		<!--
+		function TreeView_ClickCheckBox(treeViewName, checkBox, nodeID)
+		{
+			var selectedNodes = document.forms[0].elements[treeViewName];
+			if (checkBox.checked)
+			{
+				selectedNodes.value = TreeView_AddStrArray(nodeID, selectedNodes.value)
+			}
+			else
+			{
+				selectedNodes.value = TreeView_RemoveStrArray(nodeID, selectedNodes.value)
+			}
+		}
+				
+		function TreeView_ClickRadioButton(treeViewName, nodeID)
+		{
+			var selectedNode = document.forms[0].elements[treeViewName];
+			selectedNode.value =nodeID;
+		}
+		
+		
+		//String array functions
+		//Check a string is in the comma delimited string array
+		//Ex: alert(inStrArray("1","2,1"));		
+		function TreeView_InStrArray(val, vals)
+		{
+			var valArray = vals.split(",");
+			
+			for(var i=0;i<valArray.length;i++)
+			{
+				if (valArray[i]==val)
+					break;
+			}
+			if (i==valArray.length)
+				return false;
+			else
+				return true;	
+		}
+
+		//Remove a string from the comma delimited string array
+		//Ex: alert(removeStrArray("1","2,1"));		
+		function TreeView_RemoveStrArray(val, vals)
+		{
+			var valArray = vals.split(",");
+			var newArray = new Array();
+			
+			for(var i=0, j=0;i<valArray.length;i++)
+			{
+				if (valArray[i]!=val)
+					newArray[j++]=valArray[i];
+			}
+			
+			return 	newArray.join(",");
+		}
+
+		//add a string to  the comma delimited string array
+		//Ex: alert(addStrArray("1","2,1"));		
+		function TreeView_AddStrArray(val, vals)
+		{
+			return (vals.length==0)?val:(vals+","+ val);	
+		}
+		
+		function TreeView_OpenWindow(url)
+		{
+			window.open(url, "TreeView_Help", "width=500, height=480, location=no, menubar=no, status=no, toolbar=no, resizable=yes");
+		}
+		
+		// -->
+		</script>		

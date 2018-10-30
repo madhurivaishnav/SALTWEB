@@ -1,0 +1,1723 @@
+/**************************************
+' Name:			SALT CASCADING STYLE SHEET
+' Author:		Stephen Clark
+' Created:		19 April 2004
+' Description:	Cascading style sheet for BDW version of salt
+' Called By:    All html and aspx pages
+' Calls:        null
+'''''''''''''''''''''''''''''''''''''''''''''
+' Modification History
+'	Modified By: Peter Kneale
+'	Date: 13/8/2004
+'	Reason: Different style sheets are used according to the rules specified in teh web-control
+'	Reference: See style.ascxC:\inetpub\wwwroot\SALT_NewDesign\WWWROOT_4.1.5 Release\General\Css\default.css
+'	Changes Made:
+'	Effect: 
+'''''''''''''''''''''''''''''''''''''''''''''
+' Modification History
+'	Modified By:
+'	Date:
+'	Reason:
+'	Reference:
+'	Changes Made:
+'	Effect:
+'****************************************/
+
+/* #3399cc <- the light blue, colour 1 */
+/* #99cc33 <- the light green, colour 2 */
+/* #CCCC00 <- the kaky green, colour 2 */
+/**/
+
+
+/************************************
+* General Element level styles used
+* thropught the site
+*************************************/
+body, td
+{
+	font-size: 10pt; /* Default font size used throught the application unless overridden by other styles */
+	font-family: Arial, Helvetica, sans-serif; /* default font used throught the application unless overridden by other styles */
+color: #333333;
+}
+
+
+select
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	font-size: 11px; /* Font size used throught the application in all */
+	padding:1 0 1 0; /* top right bottom left */
+	margin: 0 0 0 0; /*top right bottom left */
+}
+
+.QuizHomePageBgColor
+{
+	/*background-color: #E9E6D5;*/
+	background-color: #FFFFFF;
+}
+
+/* feedback to users */
+.SuccessMessage
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */ /* */
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */ /* aligns this object in the middle of the verticle box that it is in */ /* aligns this object in the middle of the verticle box that it is in */
+	color:#00cc00; /* the colour for a success message - Green */
+}
+.WarningMessage
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */ /* */
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */
+	color:#cc3333; /* the colour for a warning message - Red */
+}
+.ValidatorMessage /* Validator Messages */
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */ /* */
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */
+	color:#cc3333; /* the colour for a validator message - Red */
+	white-space:nowrap; /* prevents the line of text from wraping -- don't use for long text */	
+}
+.FeedbackMessage
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */ /* */
+	vertical-align:top; /* aligns text in teh top of the vertical space that it has available (minus anu padding in that box)*/
+	color:#ff8C00;/* the colour for a feedback message - Orange */
+}
+
+.addButton /* Used for all the add buttons throught the site*/
+, .assignButton /* Used for all the add buttons throught the site*/
+, .backButton /* Used for all the cancel buttons throught the site*/
+, .cancelButton /* Used for all the cancel buttons throught the site*/
+, .findButton /* Used for all the find buttons throught the site*/
+, .generateButton /* Used for all the find buttons throught the site*/
+, .moveButton /* Used for all the move buttons throught the site*/
+, .populateButton /* Used for all the save populate throught the site*/
+, .saveButton /* Used for all the save buttons throught the site*/
+, .sendButton /* Used for all the send buttons throught the site*/
+, .searchButton /* Used for all the search buttons throught the site*/
+, .resetButton /* Used for all the reset buttons throught the site*/
+, .uploadButton /* Used for all the reset buttons throught the site*/
+, .runButton /* Used for all the run buttons throught the site*/
+, .previewButton 
+{
+	width:100;  
+	cursor: hand;
+	color:#ffffff;
+	font-size: 11px;
+	font-weight:bold;
+	border-style:solid ;
+	border-width:1px;
+	border-color:#40444d;
+	background-color: #6689CC;
+
+}
+
+.browseButton
+{
+	width:300px;
+	cursor: hand;
+	color:#000000;
+	font-size: 11px;
+	font-weight:normal;
+	border: solid 1px #40444d;
+	background-color: #6689CC;
+	filter:progid:DXImageTransform.Microsoft.Gradient
+      (GradientType=1,StartColorStr='#FFFFFF',EndColorStr='#FFFFFF'); /* this is a hack that takes advantage of a bug ni the way I.E. applies the gradient to make the browses text fields white*/
+}
+
+
+a{
+	color: #6689CC;
+	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+.bg {
+	background-color:#FFFFF0;
+
+}
+
+Table.unitControl /* style applied to all of the instances of the unit controll in the site*/
+{
+	border: solid 1px #cccccc;
+	margin-right: 10px;
+	width:300px;
+}
+
+/* every lable (on the left hand side of reporting and administration)
+ for an input controll */
+.formLabel 
+{
+	font-weight:bold;
+	margin:5 0 0 0;
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */
+	white-space: nowrap;
+}
+
+input
+{
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+textarea
+{
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+	width:350;
+}
+
+.pageTitle /* Title above the page body of every page */
+{
+	margin: 0 0 0 0; /* top right bottom left */
+	padding: 6 0 15 4;/* top right bottom left */
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	color:#909090;
+	font-family:Verdana, Arial, Sans-Serif;
+	font-size:18px;	
+}
+.pageSubTitle /* Sub-Title used on reporting pages */
+{
+	margin: 0 0 5 4; /* top right bottom left */
+	padding: 0 0 5 4;/* top right bottom left */
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	color:#909090;
+	font-family:Verdana, Arial, Sans-Serif;
+	font-size:12px;	
+}
+.ApplicationNameInline
+{
+	color:#333333;
+}
+.TradeMarkInline
+{
+	position:relative;
+	top:-.4em;
+	font-size:xx-small;
+	color:#333333;
+	text-decoration:none;
+}
+
+/************************************
+* Classes Specific to the Home Pages
+*************************************/
+
+.HomePageWelcome /* welcom text at the top of the home page. i.e. Hi Username, Welcom to ... */
+{
+	font-weight:bold;
+	font-size:16px;
+	color:#333333;
+}
+
+Div.HomePageWelcome /* placment of the home page welcome text */
+{
+    vertical-align:top;
+    margin-top:10px;
+	margin-left:10px;
+	text-align:left;
+	vertical-align:top;
+	display:block;
+}
+
+.HomePageCourseCertificate /* congradulations text . i.e. Congradulations you have passed ....  */
+{
+	font-weight:bold;
+	color:#6689CC;	/*color:#99cc33;*/	
+}
+
+Div.HomePageCourseCertificate /* placment of the home page congradulations text */
+{
+    display:block;
+    margin-top:5px;
+	padding-top:5px;
+	margin-left:10px;
+	margin-bottom:2px;
+}
+
+
+Div.HomePageOrgImage /* placment of the home page image */
+{ 
+        float:right; 
+        margin-left:10px; 
+        margin-right:5; 
+        margin-top:5; 
+        display:block; 
+        /*border: 5px solid white; 
+        height: 73px; 
+        overflow: hidden;*/
+} 
+
+Div.HelpLink    /* Help link on every page */
+{
+    float:right;
+	margin-left:10px;
+	margin-right:5;
+	margin-top:5;
+	display:block;
+}
+IMG.HomePageOrgImage /* details of the home page image */
+{
+    /* placeholder */
+}
+
+.HomePageNotes /* the org and course notes text*/
+{
+    /* overide default text behaviour for notes */
+    
+}
+Div.HomePageNotes /* the org and course notes text*/
+{
+	display: block;
+	margin-left:10px;
+	padding:5px;
+}
+
+Div.orgNotes
+{
+    display:block;
+    margin-top:5px;
+	padding-top:5px;
+	margin-left:10px;
+	text-align:justify;
+	text-align:left;
+}
+
+.HomePageStep /* divs holding the steps */
+{
+   font-weight:bold;
+   font-size:16px;
+   margin-right:5px;
+   color:999999;
+   vertical-align:top;
+}
+.HomePageStepText /* divs holding the steps */
+{
+    font-size: 10pt; 
+	font-family: Arial, Helvetica, sans-serif; 
+    font-weight:normal;
+    display:inline-block;
+    vertical-align:top;  
+    color:#000000;	
+}
+
+div.HomePageStep
+{
+    display:block;
+    margin-right:10;
+    margin-left:10;
+	margin-top:5;    
+}
+
+.HomePageCourseTitle
+{
+	margin-top:5px;
+	padding-top:5px;
+	margin-left:3px;
+	margin-bottom:2px;
+	font-weight:bold;
+	font-size:12px;
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */
+}
+
+.HomePageCourseDropDown
+{
+    display: inline-block;
+	padding-top:5px;
+	margin-left:8px;
+	margin-bottom:2px;
+	vertical-align:middle; /* aligns this object in the middle of the verticle box that it is in */	
+}
+
+Div.HomePageCourseDropDown
+{
+}
+
+div.moduleTable
+{
+    display:block;
+    position:static;
+    margin-top:10px;
+    margin-left:10px;    
+}
+
+td.Module
+{
+	font-size:12px;
+	font-weight:bold; /* font weight of module name in module list */
+	padding: 0 6 0 6; /* Spaceing between cells in the module table (top right bottom left)*/	
+	margin: 0 6 0 6; /* Spaceing between cells in the module table (top right bottom left)*/	
+}
+
+Div.KeyTable
+{
+    width:550px;      /* 410 px*/
+	font-size:10px;
+	font-weight:bold;
+    color:999999;
+	display:block;
+    position:static;
+    margin-top:10px;
+    margin-left:10px;
+    padding:5px;
+}
+
+.KeyTableHeader
+{
+    font-size:11px;
+
+    
+}
+.KeyTableColumn
+{
+	width:135px;      /* 100px */
+	/*font-weight:normal;  */
+	
+}
+.KeyTableColumn  img 
+{
+    /*width:12px;*/
+}
+/************************************
+* Welcom message on the reporting and 
+* Administration Home Pages
+*************************************/
+.h2
+{
+	font-weight:bold;
+	font-size:16px;
+	color:#333333;
+	display:block;
+	margin-top:10px;
+	margin-left:10px;	
+}
+
+/************************************
+* Classes specific to the Top Navigation
+* Menu
+*************************************/
+a.topmenu{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.topmenu:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.topmenubg { /* this is the row of navigation buttons*/
+	background-color: #40444d;
+}
+
+TD.topmenu
+{
+	color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+
+}
+
+TD.topmenuNav /* this is the navigation bar button elements*/
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	border-collapse:collapse;
+	color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	padding: 0px 60px 0px 6px;
+	cursor:hand;
+}
+
+TD.topmenuNavOver
+{
+    display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	color:#FFFFFF;
+	background-color:#6689CC;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	padding: 0px 60px 0px 6px;
+	cursor:hand;
+}
+
+Tr.topmenu /* this is the row with the images imediatly above the menu navigation bar */
+{
+	background-color: #40444d;
+	text-align:right;
+}
+
+Table.topmenu
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	margin:0 0 0 0;	
+	padding:0 0 0 0;	
+}
+.NavTitle {
+	background-color:#6689CC;		
+}
+
+td.topMenuImageCellCenter /* in the top menu this is the center cell*/
+{
+	text-align:right;
+	/*background-color: #6689CC;*/
+	height:63;
+}
+
+td.topMenuImageCellRight /* in the top menu this is the righ-most cell*/
+{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 100%;
+	text-align: right;
+	right: 0;
+	width: 100%;
+	height: 63;
+	
+}
+
+td.topMenuImageCellLeft /* in the top menu this is the left-most cell*/
+{
+background-image: url(/General/Images/logo_saltenterprise_sub.png);
+	background-repeat: no-repeat; /*background-attachment:fixed;*/ /*background-position:0 0;*/ /* positions the background image as far up and left as it can go  */
+	width: 250;
+	height: 60;
+}
+
+img.topMenuImageCellLeft /* tansparent image to space out the cell*/
+{
+    position:absolute;
+    display:inline-block;
+    width:250;
+    height:60;
+}
+
+.SectionTitle /* in the top menu this is the class of the text in the righmost cell*/
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	color: #FFFFFF;
+	font-size: 40px;
+	font-family:  Verdana, Arial, Helvetica, sans-serif;	
+	vertical-align:text-bottom;
+	text-align:right;
+	margin-top:10px;
+	padding-right:10px;	
+}
+
+.SectionTitleNoSpace /* in the top menu this is the class of the text in the righmost cell*/
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	color: #FFFFFF;
+	font-size: 40px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;	
+	vertical-align:text-bottom;
+	text-align:right;
+	margin-top:1px;
+	padding-right:1px;	
+}
+
+.TradeMarkLargeInline
+{
+	position:relative;
+	top:-2.2em;
+	color:#FFFFFF;
+	margin-top:10px;
+	padding-right:10px;	
+}
+
+
+
+
+/************************************
+* Classes specific to the left hand menus
+*************************************/
+td.AdminMenuContainer
+, td.ReportMenuContainer
+{
+
+	
+	vertical-align: top;
+    text-align: left;
+    width: 295px;
+    padding-right: 0px;
+    background-color:#40444d;
+	
+}
+
+TR.AdminMenuContainer
+, TR.ReportMenuContainer
+{
+	vertical-align:top; /* aligns text in teh top of the vertical space that it has available (minus anu padding in that box)*/
+	text-align:left;
+	height:100%;
+}
+
+table.AdminMenu    /* the menu in the administration area */
+, table.ReportMenu /* the menu in the reporting area */
+{
+	/*margin-left:5px;	
+	margin-right:15px;	
+	margin-top:10px;	
+	padding-right:5px;	
+	border-right: solid 1px black;   */
+	margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-right: 0px;
+	
+}
+a.AdminMenu		/* the menu in the administration area */
+, a.ReportMenu  /* the menu in the reporting area */
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */	
+	margin: 4px 0px 3px 0px; 	/* spaces the links in the menu away from each other (top|right|bottom|left)  */
+	
+}
+a.ExternalLinkCategory
+{
+    color:#000000;
+}
+
+
+/************************************
+* Classes specific to the footer
+*************************************/
+p.Footer
+{
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:10px;
+}
+a.tablelink
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.tablelink:hover 
+{
+	text-decoration: underline;
+}
+
+.tablerow1 
+{
+	background-color: #F3F9FC;
+	padding: 10px;
+	padding-left:10px;
+}
+.tablerow1Selected
+{
+    background-color: #F3F9FC;
+	padding: 10px;
+	padding-left:10px;
+    font-weight:bold;
+}
+.tablerow2 
+{
+	background-color: #ececec;
+	padding: 10px;
+	padding-left:10px;
+}
+.tablerow2Selected
+{
+    background-color: #ececec;
+	padding: 10px;
+    font-weight:bold;
+    padding-left:10px;
+}
+.tablerow3 
+{
+	background-color: #F2F2F2;
+	padding: 10px;
+	padding-left:10px;
+}
+.tablerow3Selected
+{
+    background-color: #F2F2F2;
+	padding: 10px;
+    font-weight:bold;
+    padding-left:10px;
+}
+.tablerowtop 
+{
+	background-color: #1A506A;
+	font-weight: bold;
+	color: #333333;
+	padding-left:10px;
+	
+	background-color: #cccccc;
+}
+
+.tablerowbot 
+{
+	background-color: #FFFFFF;
+}
+.tableborder 
+{
+	background-color: #cccccc;
+}
+
+
+/* padd the datatables so that the data is not hard against the left */
+TR.tablerowtop td
+{
+    padding-left:10px;
+}
+TR.tablerow1 td
+{
+    padding-left:10px;
+}
+TR.tablerow2 td
+{
+    padding-left:10px;
+}
+TR.tablerow3 td
+{
+    padding-left:10px;
+}
+
+/************************************
+* Classes specific to the Login Page 
+*************************************/
+body.Login
+{
+	
+	background-image: url(/General/Images/salt_login_page_v3b.jpg);
+	background-repeat:no-repeat;
+	background-position: left top;
+	background-attachment:scroll;	
+	background-color:3399cc; /* 8acd3f 3399cc 99cc33*/
+}
+
+
+
+input.Login /* the login text boxes */
+{
+	border-width:thin;	
+	background-color:#FFFFFF;
+	color:#000000;
+	font-size:X-small;
+	width:150;
+}
+.LoginButton /* the submit button on the login page */
+{
+	border-style:outset;
+	border-width:thin;	
+	background-color:#FFFFFF;
+	padding:1 3 1 3;
+	font-weight:bold;
+	font-size:12px;
+}
+.LoginFieldName /* the text next to the username and password text fields*/
+{
+	font-weight:bold;
+	font-size:13px;
+	color: #FFFFFF; /* White */
+	width:100;
+	text-align:center;
+}
+
+
+.Login
+{
+	font-size:small;
+	color: #FFFFFF; /* White */
+	
+}
+a.Login /* links in the footer */
+{
+	color: #FFFFFF; /* White */
+	font-size:12px;
+	text-decoration: underline; /* uererline beneith links in teh footer on this page ?*/
+}
+a.Login:hover
+{
+	/*color:CCCC00;  kakey */
+	color: #ffee44; /* light - green */
+}
+
+.LoginTerms /* the terms and conditions at the base of the login screen*/
+{
+	position:absolute;
+	top:500;
+	font-size:12px;
+	left:30;
+	color: #FFFFFF; /* White */
+	text-decoration:none;
+}
+
+
+.LoginControl /* the table containing the login text boxes and button*/
+{
+	position:absolute;
+	top:153;
+	left:30;
+}
+
+.MarketingText
+{
+	position:absolute;
+	top:144;
+	left:440;	
+	width:300;
+	font-family: Arial , Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:normal;
+	color:#FFFFFF;
+	padding-left:0px;
+	
+}
+
+.TradeMarkInlineInheritColour
+{
+	position:relative;
+	top:-1.1em;
+	font-size:6px;
+	text-decoration:none;
+}
+
+.BDWBrand
+{
+	position:absolute; 
+	top:40;
+	left:30;
+	font-weight:bold;
+}
+
+.ApplicationName
+{
+	position:absolute; 
+	top:150;
+	left:90;
+	font-family: Arial Narrow, Helvetica Narrow, Arial, Helvetica, sans-serif;
+	font-size:150px;
+	font-weight:100;
+	color:#FFFFFF;
+}
+
+.WarningMessageLoginPage
+{
+	display:inline-block; /* alows the object that this style is attached to to be positioned vertically */
+	font-weight:bold;
+	white-space: nowrap;
+	border:solid 0px #cc3333;
+	background-color:none;
+	height:10px;
+	padding: 3 3 3 3;
+	color:#cc3333;
+}
+
+/************************************
+* Classes specific to the certificate
+*************************************/
+
+#CertificateBody
+{
+	width:595px;
+	height:842px;
+	text-align:center;
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+	border: solid 1px #000000;
+}
+
+/* Print */
+@media print {
+#CertificateBody
+{
+	margin: 50px 0px 0px 0px;
+}
+}
+
+#Certificate_LeftImage
+{
+	width:198px;
+	height:842px;
+	padding:0px;
+	margin:0px;
+	float: left;
+}
+
+#Certificate_RightContainer
+{
+	width: 385px;
+	height:842px;
+	padding: 0px;
+	margin: 0px;
+	float: left;
+	position: relative;
+	text-align: left;
+}
+
+#Certificate_RightContent
+{
+	margin-top: 180px;
+	float: left;
+	position: absolute;
+}
+
+#Certificate_ApplicationName
+{
+	width: 360px;
+	height: 100px;
+	text-align:center;
+	margin-left: 19px;
+	float: left;
+}
+
+#Certificate_RightText
+{
+	width: 100%;
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:23px;
+	padding-top: 30px;
+	float: left;
+}
+
+#Certificate_CompanyLogo
+{
+	width: 100%;
+	position: absolute;
+	top: 775px;
+	left: 0px;
+	text-align: right;
+}
+
+
+
+/************************************
+* Classes specific to the About popup
+*************************************/
+td.about
+{
+	padding: 5 15 0 15;
+	margin: 10;
+}
+
+td.Banner
+{
+	background-image:url(/general/images/popup_banner.jpg);
+	background-repeat:no-repeat;
+	height:125;
+}
+/************************************
+* Classes specific to the help page
+*************************************/
+ul.help
+{
+	list-style-type:none;
+}
+ul.help
+{
+	color:#000000;    
+
+}
+H2.help
+{
+	font-size:12pt;
+	text-transform:capitalize;
+}
+H3.help
+{
+	font-size:12pt;
+	margin:20px;
+	text-transform:capitalize;
+}
+H4.help
+{
+	font-size:12pt;
+	font-style:italic;
+	margin:20px;
+	text-transform:capitalize;
+}
+p.help
+{
+    margin:20px;
+    font-size:10pt;
+}
+A.backtotop
+{
+     margin:20px;
+}
+A.helpTitle
+{ 
+    font-size:10pt;
+    margin:20px;
+    text-transform:capitalize;
+}
+
+.HelpTradeMarkInlineInheritColour
+{
+	position:relative;
+	top:-1.1em;
+	font-size:6px;
+	text-decoration:none;
+}
+
+/************************************
+* Classes specific to the Horozontal
+* Bar Charts
+*************************************/
+.BarChartPass /* Green colour that text can be read through */
+{
+    background-color:#99cc33;    
+    border:solid 1px black;
+    text-align:right;
+}
+.BarChartFail  /* Red colour that text can be read through */
+{
+    background-color:#ff0000;    
+    color:white;
+    border:solid 1px black;
+    text-align:right;
+}
+.BarChartRemainder
+{
+    background-color:eeeeee;
+    border:solid 1px black;
+    text-align:left;
+    margin-right:5;
+    padding-right:5;
+}
+.BarChartRemainder
+{ 
+    text-align:left;
+}
+
+/************************************
+* Classes specific to the Tree
+* View Control
+*************************************/
+.TreeView_Control 
+{ 
+    display:inline-block;
+    border-bottom:solid 1px CCCCCC;
+    padding: 0px 5px 0px 5px;
+    width:100%;
+    background-color:#FEFEFE;
+}
+
+.TreeView_Node 
+{ 
+    font-size: 8pt; 
+    font-family: verdana; 
+}
+
+/************************************
+* Classes specific to the Error Log
+*************************************/
+.ErrorRow_High
+{
+    padding-left:10px;
+	background-color: #ff5555;
+    word-wrap:break-word;
+}
+.ErrorRow_Medium
+{
+    background-color: #FFaaAC;
+	padding-left:10px;
+	word-wrap:break-word;
+}
+.ErrorRow_Low
+{
+    font-size:8px;
+    padding-left:10px;
+	background-color: #ffff66;
+    word-wrap:break-word;
+}
+.ErrorRow_Warning
+{
+	padding-left:10px;
+	background-color: #D3FFDC;
+	word-wrap:break-word;
+}
+.ErrorRow_InformationOnly
+{
+    padding-left:10px;
+	background-color: #FFFFFF;
+    word-wrap:break-word;
+}
+
+/************************************
+* Classes specific to the Password popup
+*************************************/
+tr.password
+{
+	padding: 5 15 0 15;
+	margin: 10;
+
+}
+tr.info
+{
+	font-size:small;
+	padding: 5 15 0 15;
+	margin: 10;
+}
+/************************************
+* Classes specific to Quiz Result page
+*************************************/
+.Quiz_Result_Pass
+{
+    background-image:url(/General/Images/Report_Tick.gif);
+    background-repeat:no-repeat;
+}
+.Quiz_Result_Fail
+{
+    background-image:url(/General/Images/Report_Cross.gif);
+    background-repeat:no-repeat;
+}
+
+/************************************
+* Classes specific to Import User page
+*************************************/
+Table.previewUser
+{
+	border-collapse:collapse;
+	font-family: Courier new;
+	width: 100%;
+}
+tr.headerRow
+{
+	background-color: #c0c0c0; 
+	font-size: 0.7em;
+}
+
+/************************************
+* For User Menu
+*************************************/
+#UserMenuNavigation ul
+{
+	list-style: none;
+	/*float: right;*/
+	font-size: 1em;
+	width:100%;
+}
+
+li.UserMenuHeading
+{
+	width: 100%;
+	background-color: #cccccc;
+	font-weight: bold;
+	color: #000;
+	/*float: right;*/
+	/*padding: 13px 0px 13px 5px;*/
+	border-bottom: 2px solid #FFFFFF;
+	padding: 1px 0px 1px 5px;
+}
+
+li.UserMenuLinks
+{
+	width: 100%;
+	background-color: #40444d;
+	margin: 0;
+	padding: 0;
+	/*float: right*/
+	border-bottom: 1px solid #a8a8a8;
+	    height: 35px;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+.UserMenuLinks a
+{
+	
+	display: block;
+	white-space: nowrap;
+	padding-left:20px;
+	color: #FFFFFF;
+	text-decoration: none;
+	
+}
+
+.UserMenuLinks a:links,
+.UserMenuLinks a:visited,
+.UserMenuLinks a:hover,
+.UserMenuLinks a:active
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	height: 35px;
+     line-height: 30px; 
+	background-color: #6689CC;
+}
+
+
+.UserMenuLinks a:hover
+{
+	height: 35px;
+     line-height: 30px; 
+	background-color: #6689CC;
+}
+
+
+
+
+/* NEW MENU */
+#ContentWrapper
+{
+	width: 100%;
+	min-width: 900px;
+	height: 800px;
+	padding-bottom: 50px;
+	position: relative;
+	float: left;
+}
+
+#LeftContentWrapper
+{
+	width: 78%;
+	min-width: 100px;
+	float: left;
+	position: relative;
+}
+
+#RightContentWrapper
+{
+	width: 22%;
+	float: left;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: relative;
+}
+
+#UserMenuNavigation
+{
+	width: 295px;
+	float:right;
+}
+
+.ContentTable
+{
+	padding-bottom: 20px;
+}
+
+
+/************************************
+* For SALT Logo
+*************************************/
+.SaltLogo
+{
+	Border-Width: 0;
+	background-image: url(/General/Images/logo_saltenterprise_sub.gif);
+	background-repeat: no-repeat;
+	height: 63px;
+	width: 220px;
+}
+
+
+
+/********************************
+
+Madhuri Salt redesign Start 
+*********************************/
+
+#menu
+{
+	font-size: 16px;
+	color: #ffffff;
+	width: 100%;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+	cursor: pointer;
+	background-color: #40444d;
+}
+#menu > li
+{
+	list-style: none; /* Top Level */
+	float: left;
+	width: 80px;
+	background-color: #40444d;
+}
+#menu > li > span
+{
+	display: block;
+	/*background: #40444d;
+	padding: 12px 50px 0px 15px;*/
+}
+#menu > li > ul
+{
+	/* Second Level */
+	left: 295px;
+	display: none;
+	background: #40444d;
+	width: 150px;
+	text-align: left;
+	padding: 0px;
+	z-index:100;
+}
+#menu > li > ul > li
+{
+	list-style: none;
+}
+#menu > li:hover > ul
+{
+	display: block;
+	position: absolute;
+}
+#menu > li > ul > li > span
+{
+	display: block;
+	padding: 5px;
+	font-size: .9em;
+	font-weight: normal;
+	border-bottom: solid 1px #a8a8a8;
+	margin: 0 10px 0 10px;
+}
+#menu > li > ul > li:hover > span
+{
+	color: #fff;
+}
+#menu > li > ul > li:hover
+{
+	background-color: #6689CC;
+}
+
+
+/*#cssmenu, #cssmenu ul, #cssmenu ul li, #cssmenu ul li a
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	list-style: none;
+	line-height: 1;
+	display: block;
+	position: relative;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#cssmenu
+{
+	width: 292px;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #ffffff;
+}
+#cssmenu ul ul
+{
+	display: none;
+}
+.align-right
+{
+	float: right;
+}
+#cssmenu > ul > li > a
+{
+	padding: 10px 20px;
+	border-top: 1px solid #fff;
+	cursor: pointer;
+	z-index: 2;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #ffffff; 
+	background: #6789C5;
+	background: -webkit-linear-gradient(#6789C4, #4B6FAE);
+	background: -moz-linear-gradient(#6789C4, #4B6FAE);
+	background: -o-linear-gradient(#6789C4, #4B6FAE);
+	background: -ms-linear-gradient(#6789C4, #4B6FAE);
+	background: linear-gradient(#6789C4, #6789C4); 
+}
+#cssmenu > ul > li > a:hover, #cssmenu > ul > li.active > a, #cssmenu > ul > li.open > a
+{
+	color: #eeeeee;
+	background: #1fa0e4;
+	background: -webkit-linear-gradient(#4B6FAE, #4B6FAE);
+	background: -moz-linear-gradient(#4B6FAE, #4B6FAE);
+	background: -o-linear-gradient(#4B6FAE, #4B6FAE);
+	background: -ms-linear-gradient(#4B6FAE, #4B6FAE);
+	background: linear-gradient(#4B6FAE, #4B6FAE);
+}
+#cssmenu > ul > li.open > a
+{
+	
+	border-bottom: 1px solid #1682ba;
+}
+#cssmenu > ul > li:last-child > a, #cssmenu > ul > li.last > a
+{
+	border-bottom: 1px solid #1682ba;
+}
+.holder
+{
+	width: 0;
+	height: 0;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.holder::after, .holder::before
+{
+	display: block;
+	position: absolute;
+	content: "";
+	width: 6px;
+	height: 6px;
+	right: 20px;
+	z-index: 10;
+	-webkit-transform: rotate(-135deg);
+	-moz-transform: rotate(-135deg);
+	-ms-transform: rotate(-135deg);
+	-o-transform: rotate(-135deg);
+	transform: rotate(-135deg);
+}
+.holder::after
+{
+	top: 5px;
+	border-top: 2px solid #ffffff;
+	border-left: 2px solid #ffffff;
+}
+#cssmenu > ul > li > a:hover > span::after, #cssmenu > ul > li.active > a > span::after, #cssmenu > ul > li.open > a > span::after
+{
+	border-color: #eeeeee;
+}
+.holder::before
+{
+	top: 5px;
+	border-top: 2px solid;
+	border-left: 2px solid;
+	border-top-color: inherit;
+	border-left-color: inherit;
+}
+#cssmenu ul ul li a
+{
+	cursor: pointer; 
+	padding: 7px 20px;
+	z-index: 1;
+	text-decoration: none;
+	font-size: 13px; 
+}
+#cssmenu ul ul li:hover > a, #cssmenu ul ul li.open > a, #cssmenu ul ul li.active > a
+{
+	background: #BDD0EB;
+	color: #ffffff;
+}
+
+.liactive
+{
+	background: #BDD0EB;
+	color: #ffffff;
+}
+.liactive a
+{
+	
+	color: #ffffff;
+}
+.uiactive
+{ 
+	display: block !important;
+}
+#cssmenu ul ul li:first-child > a
+{
+	
+}
+#cssmenu ul ul ul li:first-child > a
+{
+
+}
+#cssmenu ul ul ul li a
+{
+	padding-left: 30px;
+}
+#cssmenu > ul > li > ul > li:last-child > a, #cssmenu > ul > li > ul > li.last > a
+{
+	border-bottom: 0;
+}
+#cssmenu > ul > li > ul > li.open:last-child > a, #cssmenu > ul > li > ul > li.last.open > a
+{
+	border-bottom: 1px solid #32373e;
+}
+#cssmenu > ul > li > ul > li.open:last-child > ul > li:last-child > a
+{
+	border-bottom: 0;
+}
+#cssmenu ul ul li.has-sub > a::after
+{
+	display: block;
+	position: absolute;
+	content: "";
+	width: 5px;
+	height: 5px;
+	right: 20px;
+	z-index: 10;
+	top: 11.5px;
+	border-top: 2px solid #eeeeee;
+	border-left: 2px solid #eeeeee;
+	-webkit-transform: rotate(-135deg);
+	-moz-transform: rotate(-135deg);
+	-ms-transform: rotate(-135deg);
+	-o-transform: rotate(-135deg);
+	transform: rotate(-135deg);
+}
+#cssmenu ul ul li.active > a::after, #cssmenu ul ul li.open > a::after, #cssmenu ul ul li > a:hover::after
+{
+	border-color: #ffffff;
+}
+#cssmenu > ul > li.has-sub > a span {
+    background: url(/General/Images/icon_plus.png) 90% center no-repeat;
+}
+#cssmenu > ul > li.has-sub.active > a span {
+    background: url(/General/Images/icon_minus.png) 90% center no-repeat;
+}
+*/
+/* Base Styles */
+#cssmenu, #cssmenu ul, #cssmenu li, #cssmenu a
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	list-style: none;
+	font-weight: normal;
+	text-decoration: none;
+	line-height: 1;
+	position: relative;
+}
+#cssmenu a
+{
+	line-height: 1.3;
+}
+#cssmenu
+{
+	width: 295px; /*border-bottom: 4px solid #656659; 	-webkit-border-radius: 3px; 	-moz-border-radius: 3px; 	border-radius: 3px;*/
+	min-height: 710px;
+	height: 100%;
+	background-color: #40444d;
+}
+/*#cssmenu > ul > li:first-child {
+	background: #66665e;
+	background: -moz-linear-gradient(#66665e 0%, #45463d 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #66665e), color-stop(100%, #45463d));
+	background: -webkit-linear-gradient(#66665e 0%, #45463d 100%);
+	background: linear-gradient(#66665e 0%, #45463d 100%);
+	border: 1px solid #45463d;
+	-webkit-border-radius: 3px 3px 0 0;
+	-moz-border-radius: 3px 3px 0 0;
+	border-radius: 3px 3px 0 0;
+}
+#cssmenu > ul > li:first-child > a {
+	padding: 15px 10px;
+	
+	border: none;
+	border-top: 1px solid #818176;
+	-webkit-border-radius: 3px 3px 0 0;
+	-moz-border-radius: 3px 3px 0 0;
+	border-radius: 3px 3px 0 0;
+	font-family: 'Ubuntu', sans-serif;
+	text-align: left;
+	font-size: 1.2em;
+	font-weight: 300;
+	text-shadow: 0 -1px 1px #000000;
+}
+#cssmenu > ul > li:first-child > a > span {
+	padding: 0;
+}
+#cssmenu > ul > li:first-child:hover {
+	background: #66665e;
+	background: -moz-linear-gradient(#66665e 0%, #45463d 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #66665e), color-stop(100%, #45463d));
+	background: -webkit-linear-gradient(#66665e 0%, #45463d 100%);
+	background: linear-gradient(#66665e 0%, #45463d 100%);
+}*/
+#cssmenu > ul > li
+{
+	/*background: #818176; 	background: -moz-linear-gradient(#40444d 0%, #45463d 100%); 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #40444d), color-stop(100%, #45463d)); 	background: -webkit-linear-gradient(#40444d 0%, #45463d 100%); 	background: linear-gradient(#40444d 0%, #45463d 100%);*/
+}
+#cssmenu > ul > li:hover
+{
+	background: #66665e;
+	background: -moz-linear-gradient(#66665e 0%, #45463d 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #66665e), color-stop(100%, #45463d));
+	background: -webkit-linear-gradient(#66665e 0%, #45463d 100%);
+	background: linear-gradient(#66665e 0%, #45463d 100%);
+}
+#cssmenu > ul > li > a
+{
+	display: block;
+	color: #ffffff;
+	border-bottom: 1px solid #a8a8a8;
+	border-top: none; /*text-shadow: 0 -1px 1px #751d0c;*/
+}
+#cssmenu > ul > li > a > span
+{
+	display: block;
+	padding: 10px 10px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+#cssmenu > ul > li > a:hover
+{
+	text-decoration: none;
+}
+#cssmenu > ul > li.active
+{
+	border-bottom: none;
+	background: #6689CC; /* #66665e;*/
+}
+#cssmenu > ul > li.has-sub > a span
+{
+	background: url(/General/Images/dropdown-plus.png) 90% center no-repeat;
+}
+#cssmenu > ul > li.has-sub.active > a span
+{
+	background: url(/General/Images/dropdown-minus.png) 90% center no-repeat;
+}
+#cssmenu ul ul
+{
+	display: none;
+	background: #fff;
+	border-right: 1px solid #a2a194;
+	border-left: 1px solid #a2a194;
+}
+#cssmenu ul ul li
+{
+	padding: 0;
+	border-bottom: 1px solid #d4d4d4;
+	border-top: none;
+	background: #f7f7f7;
+	background: -moz-linear-gradient(#f7f7f7 0%, #ececec 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f7f7f7), color-stop(100%, #ececec));
+	background: -webkit-linear-gradient(#f7f7f7 0%, #ececec 100%);
+	background: linear-gradient(#f7f7f7 0%, #ececec 100%);
+}
+#cssmenu ul ul li:last-child
+{
+	border-bottom: none;
+}
+#cssmenu ul ul a
+{
+	padding: 10px 10px 5px 25px;
+	display: block;
+	color: #6689CC;
+}
+#cssmenu ul ul a:before
+{
+	content: '\00BB';
+	position: absolute;
+	left: 10px;
+}
+#cssmenu ul ul a:hover
+{
+	color: #6789C5;
+}
+.liactive a
+{
+	color: #000000 !important;
+	font-weight: bold !important;
+	background-color: #BDD0EB;
+}
+input[type="checkbox"]
+{
+	font-size: 21px;
+	display: inline-block;
+	vertical-align: middle;
+	letter-spacing: 10px;
+	color: #c8d0da;
+	height: 15px;
+	width: 15PX;
+}
+.bottom
+{
+	width: 250px;
+	background-color: #40444d;
+	background-position: left !important;
+}
+input[type="radio"]
+{
+	width: 13px !important;
+	height: 12px !important;
+}
+.Headermenu
+{
+	border-top: solid 1px #fff;
+}
+.headermenuspan
+{
+	float: left;
+	color: #fff;
+	font-weight: bold;
+	font-size: 14px;
+	color: #fff;
+	padding: 9px 60px 0px 15px; background-color:#40444d; height:36px;
+}
+.headermenuspantext
+{
+	float: left;
+	border-right: solid 2px #fff;
+	margin-top: 5px;
+	height: 35px;
+}
+.hamburger
+{
+	float: left;
+	padding: 10px 0 0 25px;
+	height: 35px;
+}
+/*.hamburgerimage
+{
+	border-left: solid 2px #fff;
+}*/
+.Headermenu a
+{
+	color: #fff;
+}
+.tdHelpIndex
+{
+	background-color: #40444d;
+}
+.tdHelpIndex li a
+{
+	color: #fff;
+	line-height: 25px;
+}
+.tdHelpText
+{
+	padding-left: 50px;
+}
+.content
+{
+	height: 45pt;
+	min-height: 45pt;
+	max-height: 45pt;
+}
+
+.ddl
+{
+	border: 0;
+	height: 22px;
+	background-color: #E4E4E5;
+	padding: 3px;
+	-webkit-appearance: none;
+	background-image: url(        '../images/dropdown-arrow.jpg' );
+	background-position: 268px;
+	background-repeat: no-repeat;
+	text-indent: 0.01px; /*In Firefox*/
+	text-overflow: ''; /*In Firefox*/
+	width: 290px;
+	overflow: hidden;
+}
+
+.ddl select
+{
+	border: 0px;
+	width: 330px;
+	background: none;
+	border: 0;
+}
+
+.HomePageNotes
+{
+	text-align:justify;
+	text-align:left;
+	}
+.DataContainer
+{
+	width: 90%;
+    padding-left: 50px;
+    min-width: 700px;
+	}
+/********************************
+
+Madhuri Salt redesign End 
+*********************************/

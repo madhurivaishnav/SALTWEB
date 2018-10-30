@@ -1,0 +1,145 @@
+
+body, td
+{	
+	font-family: Arial, Helvetica, sans-serif !important; 
+}
+a
+{
+	font-family: Arial, Helvetica, sans-serif !important; 
+}
+td, div
+{
+	font-family: Arial, Helvetica, sans-serif !important; 
+} 
+.ReportViewer_ToolbarcCell
+{
+	padding-bottom: 2px;
+	padding-top: 2px;
+	padding-left: 2px;
+	padding-right: 2px;
+	line-height:normal;
+	background-color: #ECE9D8;
+	text-align:left;
+}
+
+.ReportViewer_ContentCell
+{
+	background-color: White;
+	padding-bottom: 8px;
+	padding-top: 8px;
+	padding-left: 8px;
+	padding-right: 8px;
+	border: 1px #ECE9D8 solid;
+	text-align:center;
+}
+
+
+
+.ReportViewer_Toolbar_PageNumberText
+{
+	font-size: 8pt;
+	font-family: Verdana;
+}
+
+.ReportViewer_Toolbar_Select
+{
+	font-size: 8pt;
+	font-family: Verdana;
+}
+
+.ReportViewer_Toolbar_DisabledSelect
+{
+	background-color: #ECE9D8;
+	font-size: 8pt;
+	font-family: Verdana
+}
+
+
+
+
+.ReportViewer_Toolbar_ActiveLink
+{
+	font-size: 8pt;
+	font-family: Verdana;
+	vertical-align:middle;
+	
+}
+
+.ReportViewer_Toolbar_ActiveLink:link
+{
+	color: #3366CC;
+	text-decoration: none
+}
+
+.ReportViewer_Toolbar_ActiveLink:hover
+{
+	color: #FF3300;
+	text-decoration: underline
+}
+
+.ReportViewer_Toolbar_ActiveLink:visited
+{
+	color: #3366CC;
+	text-decoration: none
+}
+
+.ReportViewer_Toolbar_ActiveLink:visited:hover
+{
+	color: #FF3300;
+	text-decoration: underline
+}
+
+.ReportViewer_Toolbar_DisabledLink
+{
+	color: gray;
+	text-decoration: none;
+	cursor: default;
+	font-size: 8pt;
+	font-family: Verdana
+}
+
+.ReportViewer_Toolbar_InterWidget
+{
+	padding-right: 10px
+}
+
+.ReportViewer_Toolbar_ImageWidget
+{
+	height: 16px;
+	width: 16px;
+	margin: 0px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	padding-left: 2px;
+	padding-right: 2px;
+	vertical-align:middle; 
+}
+
+
+.ReportViewer_Toolbar_HoverButton
+{
+	line-height:normal;
+	cursor: hand;
+	background-color: #ddeef7;
+	border: 1px #336699 solid;
+	text-align: center;
+}
+
+.ReportViewer_Toolbar_NormalButton
+{
+	line-height:normal;
+	background-color: transparent;
+	border: 1px #ECE9D8 solid;
+	text-align: center;
+}
+
+.ReportViewer_Toolbar_DisabledButton
+{
+	line-height:normal;
+	cursor: default;
+	background-color: transparent;
+	border: 1px #ECE9D8 solid;
+	text-align: center;
+}
+
+

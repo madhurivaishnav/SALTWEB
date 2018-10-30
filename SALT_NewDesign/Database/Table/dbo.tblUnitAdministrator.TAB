@@ -1,0 +1,54 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblUnitAdministrator]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblUnitAdministrator](
+	[UnitID] [int] NOT NULL,
+	[UserID] [int] NOT NULL,
+	[Propagate] [bit] NOT NULL,
+	[CreatedBy] [int] NOT NULL,
+	[DateCreated] [datetime] NOT NULL,
+ CONSTRAINT [PK_tblUnitAdministrator] PRIMARY KEY CLUSTERED 
+(
+	[UnitID] ASC,
+	[UserID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON, FILLFACTOR = 90) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUnitAdministrator_tblUnit]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUnitAdministrator]'))
+ALTER TABLE [dbo].[tblUnitAdministrator]  WITH CHECK ADD  CONSTRAINT [FK_tblUnitAdministrator_tblUnit] FOREIGN KEY([UnitID])
+REFERENCES [dbo].[tblUnit] ([UnitID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUnitAdministrator_tblUnit]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUnitAdministrator]'))
+ALTER TABLE [dbo].[tblUnitAdministrator] CHECK CONSTRAINT [FK_tblUnitAdministrator_tblUnit]
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUnitAdministrator_tblUser]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUnitAdministrator]'))
+ALTER TABLE [dbo].[tblUnitAdministrator]  WITH CHECK ADD  CONSTRAINT [FK_tblUnitAdministrator_tblUser] FOREIGN KEY([UserID])
+REFERENCES [dbo].[tblUser] ([UserID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblUnitAdministrator_tblUser]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUnitAdministrator]'))
+ALTER TABLE [dbo].[tblUnitAdministrator] CHECK CONSTRAINT [FK_tblUnitAdministrator_tblUser]
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblUnitAdministrator_Propagate]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUnitAdministrator]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblUnitAdministrator_Propagate]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblUnitAdministrator] ADD  CONSTRAINT [DF_tblUnitAdministrator_Propagate]  DEFAULT (0) FOR [Propagate]
+END
+
+
+End
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblUnitAdministrator_DateCreated]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblUnitAdministrator]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblUnitAdministrator_DateCreated]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblUnitAdministrator] ADD  CONSTRAINT [DF_tblUnitAdministrator_DateCreated]  DEFAULT (getutcdate()) FOR [DateCreated]
+END
+
+
+End
+GO

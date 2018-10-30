@@ -1,0 +1,65 @@
+﻿"General"
+{
+"SccProjectName" = "\"$/Dev/SALT v3.0/Source/InfoPath\", HOYDAAAA"
+"SccLocalPath" = ".."
+"SccAuxPath" = ""
+"SccProvider" = "MSSCCI:Microsoft Visual SourceSafe"
+"ProjectIdGuid" = "{D30B2CC3-7289-4C0A-99EB-0D25447F11D0}"
+"NestedProjectID" = "{C7BEA2AB-6704-465F-B031-BBF52566D907}"
+"PreviewDocumentPath" = ""
+"PreviewRoleName" = ""
+"UniqueNamespace" = "2005-02-20T23-45-49"
+"Language" = "CSharp"
+}
+"Configurations"
+{
+    "Debug"
+    {
+    }
+    "Release"
+    {
+    }
+}
+"Files"
+{
+    "PhrasesFormCode.csproj"
+    {
+    "ProjRelPath" = "T"
+    }
+    "manifest.xsf"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "F"
+    }
+    "sampledata.xml"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "view1.xsl"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "template.xml"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "phrases.xsd"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+    "upgrade.xsl"
+    {
+    "ProjRelPath" = "T"
+    "AutoAdded" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}

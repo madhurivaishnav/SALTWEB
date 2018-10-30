@@ -1,0 +1,32 @@
+IF  EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwUserCourseStatus]'))
+DROP VIEW [vwUserCourseStatus]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+IF NOT EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[vwUserCourseStatus]'))
+EXEC dbo.sp_executesql @statement = N'
+
+CREATE VIEW [vwUserCourseStatus]
+AS
+SELECT     tUCS.UserCourseStatusID, tUCS.UserID, tUCS.CourseID, tUCS.CourseStatusID, tUCS.ModulesAssigned, tUCS.DateCreated,
+(SELECT     MAX(DateCreated) AS Expr1
+FROM          dbo.tblUserCourseStatus
+WHERE      (tUCS.CourseStatusID = 1) AND (UserID = tUCS.UserID) AND (CourseID = tUCS.CourseID) AND (CourseStatusID = 2) AND
+(UserCourseStatusID < tUCS.UserCourseStatusID)) AS LastCompleted
+FROM         dbo.tblUserCourseStatus AS tUCS INNER JOIN
+dbo.tblCourse AS tC ON tC.CourseID = tUCS.CourseID AND tC.Active = 1 INNER JOIN
+(SELECT     MAX(UserCourseStatusID) AS UserCourseStatusID
+FROM          dbo.tblUserCourseStatus AS tblUserCourseStatus_1
+GROUP BY UserID, CourseID) AS currentStatus ON tUCS.UserCourseStatusID = currentStatus.UserCourseStatusID
+
+
+
+' 
+GO
+
+

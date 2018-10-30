@@ -1,0 +1,38 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblProfilePeriod]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblProfilePeriod](
+	[ProfilePeriodID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[ProfileID] [int] NOT NULL,
+	[DateStart] [datetime] NULL,
+	[DateEnd] [datetime] NULL,
+	[Points] [numeric](10, 1) NULL,
+	[EndOfPeriodAction] [char](1) NULL,
+	[MonthIncrement] [int] NULL,
+	[FutureDateStart] [datetime] NULL,
+	[FutureDateEnd] [datetime] NULL,
+	[FuturePoints] [numeric](10, 1) NULL,
+	[ApplyToQuiz] [bit] NULL,
+	[ApplyToLesson] [bit] NULL,
+	[ProfilePeriodActive] [bit] NULL,
+ CONSTRAINT [PK_tblProfilePeriod] PRIMARY KEY CLUSTERED 
+(
+	[ProfilePeriodID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+SET ANSI_PADDING OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblProfilePeriod_tblProfile]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblProfilePeriod]'))
+ALTER TABLE [dbo].[tblProfilePeriod]  WITH CHECK ADD  CONSTRAINT [FK_tblProfilePeriod_tblProfile] FOREIGN KEY([ProfileID])
+REFERENCES [dbo].[tblProfile] ([ProfileID])
+GO
+IF  EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_tblProfilePeriod_tblProfile]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblProfilePeriod]'))
+ALTER TABLE [dbo].[tblProfilePeriod] CHECK CONSTRAINT [FK_tblProfilePeriod_tblProfile]
+GO

@@ -1,0 +1,614 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" productVersion="15.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="477da2ed-4ca4-44be-aa09-d7533b33b622">
+  <Summary ID="nzkswp02q" GUID="16205fb2-84d4-4d75-8d65-f5521837f509">
+    <ContentType GUID="2f116020-4c6e-4a4f-be83-2004fb92ffb0">quiz</ContentType>
+    <UploadType GUID="9908e22c-e480-47b8-b0ea-093472d93074">update</UploadType>
+    <Title GUID="4882a53b-71d6-45f4-b14c-a9fd64e41ae7">Workers' rights and obligations</Title>
+    <CreatedBy GUID="d1644772-22fc-494e-9666-2dd0957c781c">LTG Casual</CreatedBy>
+    <CreatedDate GUID="9d64ae0d-1841-4384-b391-fea88a4952b6">2006-06-29T16:22:54</CreatedDate>
+    <LastModifiedBy GUID="b67338f5-fdce-4feb-b0a3-41ff1c63756b">lyndon.lovell</LastModifiedBy>
+    <LastModifiedDate GUID="19bb7fd5-4137-4334-b805-4a142067deda">2016-04-05T14:29:22</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="7084a40d-d1ea-4d2e-94a2-cb11b6fb6512">
+    <Page ID="Intro1" IsActive="true" GUID="ad85fc69-14d7-4a5a-94ce-8460f2519ad4">
+      <Title GUID="57223bd7-143c-498f-9a21-79eeeaa982b1">Workers' rights and obligations</Title>
+      <PageElements GUID="33ae38c5-44a1-498e-81da-4a223de29f82">
+        <PageElement GUID="97ac4611-7619-4abb-8b9a-c2410d4cafe4">
+          <Graphic GUID="351fa181-3f93-4ed6-b1ca-f70cd1a94d92"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/d9f73d4b-7a81-4ec4-acca-14d84989f712.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="54c06f0d-780d-45f5-9e17-b55e3b8a0d8b">
+          <TextBox GUID="dcca065e-8b5c-42e4-8760-8453919bc047"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="25ec7ab8-8fce-41ba-8756-cc176d73d768">
+    <div GUID="8fa9ea40-090f-4fc2-9084-db467eac32f4" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="9b6f164a-396a-4932-885a-527424183e53">%System_NumberOfQuestions%</strong>  questions about the rights and obligations of workers.</div>
+    <div GUID="1b3a8365-d60c-44cb-b4a5-338c4d27c926" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="afa2bba3-300b-443f-ae7a-a7f15e2d6a5a">
+      <font size="2" GUID="d9080cd1-5ce6-4b70-bdd7-edb7a34ba290">You will be asked multiple choice questions. Answer each question by clicking the button to the left of the most appropriate response.</font>
+    </div>
+    <div GUID="af75977b-3a73-49da-8fa4-f0de91d3f117" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="b6fa9807-edab-4890-b10e-ede2177e9cf7">
+        <font size="2" GUID="08e2e149-fc6f-41c4-ac61-b92d4c02fbb2">
+        </font> </div>
+      <div GUID="2a6bc76c-b04e-4652-961e-7ff1c52bf127">
+        <font size="2" GUID="ace45957-df53-4781-85d8-0b017f925602">After you answer the last question, you will be given the chance to review and then submit your answers.</font>
+      </div>
+      <div GUID="ea405c5c-0822-48fa-b5f1-0822b8e41a87">
+        <font size="2" GUID="034fd403-02be-4aa3-a725-a8328e69cfda">
+        </font> </div>
+      <div GUID="9349fb7a-d01f-497c-928c-2f4569e08117">
+        <font size="2" GUID="6097e97e-605a-48f7-a5c3-81bcee766a3e">Please note that if you exit the quiz before clicking the Submit Answers button then your answers will not be saved. </font>
+      </div>
+    </div>
+    <div GUID="703ed454-6458-460e-917d-ef7a8fe52e5f" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="47375b12-6cf0-420a-8d9e-0fdbf39d75e5">To move between questions, use the <font size="4" GUID="bee43f51-ac9a-49c9-8773-410d674449de"><font face="Times New Roman" GUID="a9dc1c53-089d-49ce-bd7a-901d97d7a5d4">◄</font></font>and<font size="4" GUID="8aa45cf4-3d00-422b-bd1e-93020a4bc677"> <font face="Times New Roman" GUID="faaad4a0-bb53-41a5-b6be-9cd437ec289a">►</font></font> navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="ca5543fc-4878-428d-b716-2765c8806a43">
+    <Page ID="Q1" IsActive="true" GUID="595f13fd-4c0d-4e2b-aa2f-ff8c32a7bf53">
+      <Title GUID="c2217e7b-375a-4ecb-80fa-42c5e9104154">Question</Title>
+      <PageElements GUID="29ba6e55-8c9c-4c5f-8a95-943ed3e201e7">
+        <PageElement GUID="5df45b5b-0ab2-4b31-a8f7-7d2e834a3d03">
+          <Question GUID="ae2fe4d5-3ab9-4800-bdb8-0a4edd0fe40c"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="6927df34-f567-4fdd-bf39-59081b0fbd34">
+      <strong GUID="26c292d4-d5ae-4706-b41d-5825dd26fcb5" xmlns="http://www.w3.org/1999/xhtml">Select the best answer. Who is NOT considered a worker?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7ab61461-2791-4138-b67f-a6bd6ff19282">An employee</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fcba7642-94a8-415e-9164-22eef525eefe">A contractor</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="596d66a3-398d-4248-a69b-7c9698087719">A visitor to the workplace</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2c679857-10dd-4869-9882-db741dd9eb5f">A trainee</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="0064bb64-38be-4043-b10b-2b7e9b468895">
+      <Title GUID="1dcfb642-6cee-4e9b-aa01-81644c68ede3">Question</Title>
+      <PageElements GUID="5327ddef-91d9-47c8-9117-207be577f293">
+        <PageElement GUID="7e862c40-1ebd-4f19-9f1e-f858a028cb45">
+          <Question GUID="3aee6809-8a06-489e-a732-2e134a882f56"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="e9f6ab6b-8a99-499c-a7fe-bb73eb1610ac">
+      <strong GUID="a3b3570a-c3e9-48e2-b757-10cdc61d7890" xmlns="http://www.w3.org/1999/xhtml">As an employee or other worker, you have the duty to…</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e0503f7d-a66f-4729-b026-65e04f16631a">… take reasonable care of your own health and safety as well as all others at the workplace</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fa225dc9-e28a-4568-b26e-6e672f1c1017">… always comply with any instruction given to you by a PCBU</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a646c68d-6300-4b81-a080-d68bc072b10d">… take reasonable care of your own health and safety first and only</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8868475c-0347-4cda-89c8-cf88e54a6ca5">… cooperate with union policies and procedures that relate to workplace health and safety</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="83c9743c-f8be-423f-ada6-5128638cb900">
+      <Title GUID="45625af8-a8d8-43f4-8114-d3c5d6c9446e">Question</Title>
+      <PageElements GUID="dae03a11-ebf8-4e0f-9e4a-f16d07959a03">
+        <PageElement GUID="faea3aea-92c8-4d49-9743-ad89af55cd4c">
+          <Question GUID="4c5a1301-285b-4859-a6d1-4acb8de17b31"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="16fb7a68-8131-4588-ae3b-486d7cd87757">
+      <strong GUID="10204a78-8692-4090-9091-752af239a61d" xmlns="http://www.w3.org/1999/xhtml">As an employee, or other type of worker, you can personally be prosecuted if you are involved in a breach of the health and safety laws. True or false?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="400744fb-3194-43f5-b9ab-aa86c8c59e89">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="aa816b81-c9de-4a44-997d-6410c72a16ba">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="de750667-66f4-4e74-98bd-04e657332cca">
+      <Title GUID="1f630124-f11b-40f6-adc3-519c935df83b">Question</Title>
+      <PageElements GUID="eabd6c30-bdae-4f7d-bf84-789d39781751">
+        <PageElement GUID="a1a6e04a-36d3-44ef-9604-79000c56fbac">
+          <Question GUID="8aa84ed8-3eb8-4f30-b921-8800974aa923"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="ec98f6ae-73ae-4bd4-b29a-4f8727f4bcaa">
+      <strong GUID="f251e225-7d9e-45a2-b285-9655058e5888" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="c4417b76-5c72-4cd5-aac9-1d179c3fa9ea">
+          <strong GUID="9c3c570e-5a51-4bf1-a0f5-b38f3eeea857">
+            <strong GUID="3eb77938-60be-472b-ae72-951a1454d9c7">How can you minimise work health and safety breaches?</strong>
+          </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="dcf8491d-4d6a-41f2-afce-6db20f454780">Attend all training available and apply the training in your work practices</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2a4465ca-e4d2-422e-aa36-fa767ad0b53a">Report any risks you see in the workplace and offer suggestions about how to minimise or eliminate risks</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bc71e0a8-c24e-4243-82c1-7b6705decf0d">Actively participate in work health and safety meetings and consultation</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="8eb8ec78-3669-4a50-a249-0da6ee4f2329">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="70d08733-5181-4f16-996b-dc1e0e680152">
+      <Title GUID="313ec302-8974-4458-9089-8c6f2cdb8fc0">Question</Title>
+      <PageElements GUID="4a5d215c-b398-48d4-b261-48d35b004d1c">
+        <PageElement GUID="27b1ae28-484e-41c0-86ff-a5f39d55a1ad">
+          <Question GUID="f72386c9-9315-40b4-b5b8-5a8410c878b6"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="1091024b-176a-440e-b04d-752f965774a4">
+      <strong GUID="0495f4b1-4b92-4982-a270-0b62a595e391" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="f55c6870-679b-4522-ad84-6b00fa6179ca">
+          <strong GUID="3f076207-d5da-4267-bbe6-0203d3eb220f">
+            <strong GUID="50e7361f-c269-4b95-822f-50f33842e008">Jim works as a glass fitter. While at work, he notices some broken glass on the floor. What should he do?</strong>
+          </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0369694e-7045-4e97-bd39-dffddb9500dc">Ignore it and leave it to the cleaner to sweep it up</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="29d0d8aa-7664-4c3d-a1a3-79b9ead2844e">Immediately clean up the broken glass (or tell someone else about it)</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d480bfc1-986b-4f23-b2e7-4cc2ad6d3d8c">Make a mental note to clean it up later if nobody has done so already</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d43a0b0c-70fe-47a4-9a0c-9991790beac7">None of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="2935e219-b501-4979-bde6-0b39d6763255">
+      <Title GUID="8a8e7480-76ce-4a76-b66f-bbc3c2f02431">Question</Title>
+      <PageElements GUID="368334aa-f6d2-435b-87e5-325123fb900f">
+        <PageElement GUID="129fcd2a-6a38-4ddc-82e3-6427762bac67">
+          <Question GUID="576c9e10-e6be-43d3-b7dd-a025b5674f3b"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="2671aed2-a7e0-4dca-aacf-36d19ec884a8">
+      <strong GUID="0521031b-e7f9-4b8b-944a-f35eb5b19d97" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="729c70e8-9429-4a23-abcc-513124fc6f62">
+          <strong GUID="b43d33c4-3171-4386-9f5f-ddc61ea91524">
+            <strong GUID="c5e9bf3e-db96-4555-9702-8f1211f5612f">You notice a potential danger at your workplace. Should you try to reduce , isolate or remove the hazard yourself first?</strong>
+          </strong>
+        </strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fbf32691-3170-4864-b54a-995748eb6e64">Yes, you should always try to eliminate the danger yourself first no matter what it takes</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="67f5fd8d-b300-4b7a-bff5-1ff5d8fc13ed">Not always, if by doing so you endanger your own health and safety you should walk away and wait for someone else to notice it</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="806b4cbb-e6f7-4ecf-b0f2-5b36a9a057e8">Yes, although sometimes it may be better to tell someone about it</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f53c74ad-c693-42ae-a703-a7950b0c1922">Never, the HSW Act clearly states that you should look after your own health and safety first and only</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="f9ac3183-8d53-456c-ba7d-c5b0345f933f">
+      <Title GUID="f69ae916-58ec-41e1-991f-e60ed811ea3a">Question</Title>
+      <PageElements GUID="645d0cfa-f1eb-45ad-a0be-c8e41ce3541a">
+        <PageElement GUID="6e44d50a-34f3-4f3c-9d47-6030a82cb1ee">
+          <Question GUID="f4afc75d-08c5-45b4-88e2-8bdbb9cdf1ca"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="f428853f-9663-4193-93b5-d18702387a6d">
+      <strong GUID="ad40aa31-910a-41b3-8841-6bed9b842b85" xmlns="http://www.w3.org/1999/xhtml">When may you cease or refuse to carry out work?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="03682572-4ffa-4124-9b13-df007f21f0f9">Only if you believe that there is at least a very slight chance that you could be minimally hurt</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="118c3a16-ddf9-4b9b-a60e-fa2b597c5510">Only if you find the work very boring and would rather do something else</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f22dd136-710a-4365-9b01-7f0dc613fe89">Only if you have a reasonable concern that the work would expose you or any other person to a serious risk to your (or the other person's) health or safety</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="1572993c-c78d-442d-87b5-7f3f6681d532">A worker is never allowed to refuse or cease to carry out work</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="c8c253c8-aa24-44bd-93ec-1221dfe9b61c">
+      <Title GUID="7638a529-a4e1-46d2-a624-1656a67c5974">Question</Title>
+      <PageElements GUID="51d7071c-2669-4055-a9e4-d11b911a5622">
+        <PageElement GUID="ba9c2bd3-4179-4f6d-824c-7c013f065d84">
+          <Question GUID="45cfa05e-4285-4c6d-9490-9863d9b9fa2f"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="61e5030a-5254-477e-84b6-f8fcf8a315cc">
+      <strong GUID="168b6b4f-c792-4e6f-8526-dd05e2b5b933" xmlns="http://www.w3.org/1999/xhtml">Complete the sentence. If a worker refuses to carry out work, they must…</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="704de534-0b96-4d74-a981-740aa3a8facc">… notify the PCBU as soon as is practicable and carry out any alternative work if that is safe and appropriate</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a89c8389-c81d-4195-92c6-a1538b4dc905">… notify the PCBU as soon as is practicable and go home for the day</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3aac2457-3710-43dc-905c-7f3d88d677d8">… notify the PCBU within 30 days and carry out alternative work that is safe and appropriate</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ecbfdb52-516a-4b52-9ba5-00391022caa1">… notify the PCBU within 30 days and carry out any alternative work that is requested by the PCBU</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="0c32df6c-887a-48a7-90b1-f245bb80c2d2">
+      <Title GUID="defd074b-b844-42c4-9db4-3381b657b230">Question</Title>
+      <PageElements GUID="7ce458d2-4f7e-46b6-8bcf-9ad6625f0a32">
+        <PageElement GUID="7de08ad3-9c45-446b-b4a1-52f073d46b9a">
+          <Question GUID="fae2dba7-1181-4fce-87e4-a5ae9fc6f33d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="25bc81bf-a06e-4d77-adb8-91d091c44b03">
+      <strong GUID="01efcfac-bb0d-45ab-a6a5-0aea7d28aed1" xmlns="http://www.w3.org/1999/xhtml">What are the major types of prohibited conduct under the HSW Act?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="badc5aa9-9953-4485-87f9-7055f2728bd1">Negligence, coercion and representation</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d10cf782-8945-4770-ba38-9217f0e81259">Representation, negligence and adverse conduct</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5e0ce9df-2e37-4f5d-a1c5-8eda0fe57212">Coercion, misrepresentation, adverse conduct</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bb8406be-6e49-4f1c-9629-bdca18841e1d">Misrepresentation, negligence and intimidation</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="48e430b5-3ac6-4017-bacb-4c57203f4f48">
+      <Title GUID="461a232a-0007-4b57-9d53-29c3ae9a39ae">Question</Title>
+      <PageElements GUID="206002b1-57fb-4d7d-88fa-cdbd714e3edb">
+        <PageElement GUID="0cc30c62-1c22-4e74-a54a-0b18404068f1">
+          <Question GUID="d3bd8c6a-66d4-46c1-a053-7b2d416f3ced"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="0b19fd60-0948-43de-93d8-8f1dd2901594">
+      <strong GUID="7d0b3258-74a4-4ab9-b457-912fad04fbca" xmlns="http://www.w3.org/1999/xhtml">Which of the following is an example of adverse conduct?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="c823613b-6ede-4513-bfba-688875279791">A company decides to implement new working hours</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="937be34c-9e95-456c-bd8f-36a3911e2bdd">A supervisor offers a job to a prospective worker on worse terms than the terms offered to others with the same qualifications</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="798fae5e-e71a-4897-9961-f1a806fe984c">A manager employees someone from outside the company</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4e8672c3-01a3-47e5-84b3-8ea6c3590c4f">An officer decides to install energy saving lights in their office only</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q11" IsActive="true" GUID="09790be2-6285-4dac-bfda-6457748067d8">
+      <Title GUID="ec749ddf-2aa9-4a45-8a83-13c716ebdf38">Question</Title>
+      <PageElements GUID="9920216d-85e9-4d28-b0d2-7d226d21542e">
+        <PageElement GUID="29dc7aa4-d140-4e78-ba59-cedf9ab084aa">
+          <Question GUID="f14f1dc5-9a83-41df-984a-468bef8a63bb"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="f3d2f6bd-6466-4eba-8cc8-3f0f8f18f1c6">
+      <strong GUID="3c837486-be73-46be-b751-8eb9c976df00" xmlns="http://www.w3.org/1999/xhtml">Complete the sentence. Adverse conduct is prohibited where it involves a person who…</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7644ec7b-f3df-4f2e-be95-7fed241fc755">… has raised a concern or complaint about work health and safety</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b52053e2-0915-419a-8881-ac00911a534e">… is a Health and Safety Representative</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d896d089-ee06-41d4-86e6-9df2a1beaea2">… has performed a function under the HSW Act</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="79c8406c-9cf3-42c7-9694-cec8ece69e7a">All of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q12" IsActive="true" GUID="f7b2b749-c5cd-4f08-bf51-18f0e5b57520">
+      <Title GUID="72e56bb3-665a-444f-94bf-7ad639f71a35">Question</Title>
+      <PageElements GUID="1612c8a7-7b0d-4d39-a776-7368399fe723">
+        <PageElement GUID="3ebb7065-3106-432e-a54c-74d942da3c19">
+          <Question GUID="27fc2860-c369-40c7-a54f-a30c2e16b4d7"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="2844323d-5541-4649-8760-7a86d783be62">
+      <strong GUID="00a86cee-30e2-4fe5-865f-4c46fcacfc77" xmlns="http://www.w3.org/1999/xhtml">A PCBU threatens to dismiss an employee if the exercise a power under the HSW Act. is this a type of prohibited conduct?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ee537d54-64bf-415d-a7f7-91408f9ed30f">Yes, it is considered to be misrepresentation</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="de5ba9c7-785c-485f-8c9b-5334e0b74b86">No, it only is considered prohibited conduct if they actually dismiss the employee</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0c8e777b-0f67-4b2a-9f86-64bd5ed37f94">No, it is morally wrong, but not illegal</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="273d063f-e9e2-48fa-a0ae-5e88a29aa754">Yes, it is coercion</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q13" IsActive="true" GUID="1d779f36-b85d-4fde-86f1-d47b2a9f06e3">
+      <Title GUID="8509b6d7-9549-414a-bc81-40127cc53a70">Question</Title>
+      <PageElements GUID="68007a53-95bb-4ca6-8aca-6c90b98de83c">
+        <PageElement GUID="00fd96e9-a8d8-494b-ba83-784ca347b384">
+          <Question GUID="2614bd69-355f-4bef-9466-2dbbb701936e"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="cc11bb98-032c-4c28-aa9d-05bef242500f">
+      <strong GUID="5753c9be-d1f6-441d-be5f-51196ee9f39b" xmlns="http://www.w3.org/1999/xhtml">A PCBU knowingly misleads one of his employees by giving him false information about his rights under the HSW Act. What type of prohibited conduct is this?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9393334f-87a5-4f8b-8e4e-5b14d999bda0">Discrimination</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="572542cd-fdbd-4e65-abc0-bb8d1e72145d">Coercion</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fe37360d-5373-47da-a2cb-95fee382d99e">Deviousness</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="dbe8eba8-a32f-4a4c-83a9-2090a34ff377">Misrepresentation</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q14" IsActive="true" GUID="ea71f811-e348-480c-bac2-ffb39afff81b">
+      <Title GUID="4eb9c9a8-d88b-47a1-8ee6-85d615a19814">Question</Title>
+      <PageElements GUID="446564a5-e95d-4856-9da8-9b46b2774e76">
+        <PageElement GUID="edee0b97-d379-4b56-8406-ee590c3637db">
+          <Question GUID="2e53d2c5-f013-4282-8c5e-c633c8261dd2"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="9dbdcb01-3028-46e4-9b59-155c4013bf46">
+      <strong GUID="89fdbdbc-e8da-4d80-9a8e-7b965a33ad9d" xmlns="http://www.w3.org/1999/xhtml">A manager notices an electrical outlet is faulty. He knows this will expose workers to a risk of serious injury or death but does nothing to resolve the situation. What type of offence is this?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0a436bff-daef-4480-9c0c-332bf639b97e">Offence of reckless conduct</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6c422197-2ad1-4d29-8867-8a799e823d4e">Offence of exposing an individual to risk of death, serious injury, or serious illness</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="412a2cb0-1c41-40a4-923b-0f4595823a2e">Offence of failing to comply with health and safety duty</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f7eb2ab3-a89e-4a73-854f-3ab35540fa95">Both the offence of reckless conduct and the offence of failure to comply with a health and safety duty</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q15" IsActive="true" GUID="4918c85c-1a3e-469f-8f16-35752f878945">
+      <Title GUID="11d95a60-d3a2-4d67-9797-b525d13450a9">Question</Title>
+      <PageElements GUID="bdc69dc8-8647-476e-b24c-0bb2ceaa7576">
+        <PageElement GUID="3f563bfc-a6e3-4e5f-9312-19f918936a2e">
+          <Question GUID="f6063825-edac-4945-b55a-f85bb72efa9e"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="2d553846-8ea9-4479-a215-d993f18dc5f2">
+      <strong GUID="e295058c-bba8-473c-b9d5-98f58297fee4" xmlns="http://www.w3.org/1999/xhtml">A supervisor fails to fulfil her health and safety duty but this failure does not expose the individual to whom the duty is owed to a risk of death or serious injury. What type of offence is this?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="86b4e074-6942-4aa1-acd6-b01a224a5263">The offence of reckless conduct</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6963ac81-0f12-47c7-b10f-34480993274a">The offence of exposing an individual to a risk of death, serious injury, or serious illness</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cfcc1b54-ad16-44fc-b7bd-f8933befef07">The offence of failing to comply with a health and safety duty</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="bee4599e-c4a1-44fc-af41-67dae2c85cca">None of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="0dc4c76c-a4ed-4cb4-b60b-db3ff5bcc678">
+    <Page ID="Comp1" IsActive="true" GUID="dc39e1eb-bff7-4916-bbf4-9fc64e2465ad">
+      <Title GUID="d320a05a-0d1e-47a3-bb80-11bb9ee1db64">End of Quiz</Title>
+      <PageElements GUID="f62565dd-b960-4999-80df-5655bd7241d3">
+        <PageElement GUID="08401049-2cc9-49a9-b912-f7c4f3eca178">
+          <Graphic GUID="21445927-072e-4456-aa2d-5a64f8d2adb2"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/397684aa-5357-4553-8725-456cf7d17ff6.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="7a595412-3756-453d-93ad-7c18abccae8b">
+          <TextBox GUID="6f0dd677-0787-41b8-ae9d-03ce776630cb"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="b106d4ee-311e-4527-b5cf-7dbe510e807e">
+    <div GUID="24ad2161-474d-49e2-8a7f-4ac895cf7707" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="0656acbf-ebe7-4a65-95ed-5c02d3b3ac0c"><br GUID="e59cdaf8-d9c4-47e2-ad15-3291a8e3b0ad">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="b9a4ed10-da16-4ff3-a41d-b23eb0733659"><br GUID="e1b32c1b-004f-4146-959c-9ed09014ac27">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="7956db4e-ae21-4806-a690-6f29457afe7c">
+          <SubmitAnswers GUID="e9185854-2904-496f-a34a-a41545e024d3"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

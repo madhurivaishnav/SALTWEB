@@ -1,0 +1,39 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblLangResource]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblLangResource](
+	[LangResourceID] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[LangResourceName] [varchar](200) NOT NULL,
+	[ResourceType] [varchar](20) NULL,
+	[Comment] [varchar](200) NULL,
+	[UserCreated] [int] NULL,
+	[UserModified] [int] NULL,
+	[UserDeleted] [int] NULL,
+	[DateCreated] [datetime] NULL,
+	[DateModified] [datetime] NULL,
+	[DateDeleted] [datetime] NULL,
+	[RecordLock] [uniqueidentifier] NULL,
+ CONSTRAINT [PK_tblLangResource] PRIMARY KEY CLUSTERED 
+(
+	[LangResourceName] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+END
+GO
+SET ANSI_PADDING OFF
+GO
+IF Not EXISTS (SELECT * FROM sys.default_constraints WHERE object_id = OBJECT_ID(N'[dbo].[DF_tblLangResource_ResourceType]') AND parent_object_id = OBJECT_ID(N'[dbo].[tblLangResource]'))
+Begin
+IF NOT EXISTS (SELECT * FROM dbo.sysobjects WHERE id = OBJECT_ID(N'[DF_tblLangResource_ResourceType]') AND type = 'D')
+BEGIN
+ALTER TABLE [dbo].[tblLangResource] ADD  CONSTRAINT [DF_tblLangResource_ResourceType]  DEFAULT ('') FOR [ResourceType]
+END
+
+
+End
+GO

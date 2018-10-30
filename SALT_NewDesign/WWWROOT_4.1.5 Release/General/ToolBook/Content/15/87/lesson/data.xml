@@ -1,0 +1,740 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Lesson:Salt:Bdw" PIVersion="1.0.0.0" productVersion="11.0.8165" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="fe93aadb-30f5-409b-ac20-0f8707b3f817">
+  <Summary ID="ksrma02" GUID="c3c39431-879b-4da7-a22e-f8735232ba92">
+    <ContentType GUID="d5ad8580-cee2-4526-93b2-6adeff837564">lesson</ContentType>
+    <UploadType GUID="1b457900-3b76-44c6-b772-35ee6273fa75">correction</UploadType>
+    <Title GUID="5bccb13c-ba2b-4fb3-ab62-a5ea3a5f92e0">Resource Consents / Designations</Title>
+    <CreatedBy GUID="a3dc7658-db6d-46fe-aa9a-c311ff39e315">LTG Casual</CreatedBy>
+    <CreatedDate GUID="50878acc-0b58-43d3-ae5a-a3b115dd6b90">2006-10-11T09:11:17</CreatedDate>
+    <LastModifiedBy GUID="eb588adc-5aae-4ecb-ba8d-3e57006ac0fd">ltgltomi</LastModifiedBy>
+    <LastModifiedDate GUID="0fd5689f-46cb-4308-8681-9cf0555ecc70">2010-07-20T10:51:18</LastModifiedDate>
+  </Summary>
+  <Players GUID="412f2403-d268-4f28-b1e1-2bbbf768ed14">
+  </Players>
+  <Pages PageFilter="0" GUID="59b10b61-57df-4620-ab58-378b5c1d7dc8">
+    <Page ID="Page1" IsActive="true" GUID="9bd92ec8-3a24-4319-9ac2-d921c3dbfbb0">
+      <IncludedInTOC GUID="a2bc2e7b-494d-4d48-8de3-d5282c751dee">false</IncludedInTOC>
+      <Title GUID="4d883b3c-83ea-4c00-8671-ba91fbb32583">Resource Consents / Designations</Title>
+      <PageElements GUID="51b23c18-02a2-47eb-b106-7e6df306b7cb">
+        <PageElement GUID="56ece10b-bef6-4036-be1b-88e2db504ffe">
+          <TextBox GUID="48bae51a-9f99-4dd6-8856-c4df0dc45a57"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="e2c02af7-014d-4b56-a2fa-ea4934b5c2d5">
+    <div GUID="042a45c9-5211-4310-92c0-cde3e0913c59" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="5a443bd5-ec37-4619-a2b7-1b2aad9b09c8">
+        <span GUID="11f49abd-12f7-48f6-a036-a4d78f188ea9">In this lesson you will learn about resource consents.</span>
+      </font>
+    </div>
+    <font color="black" GUID="ef3b72cc-7032-4507-bd52-3b71bc198f49" xmlns="http://www.w3.org/1999/xhtml">
+      <span GUID="9c4eb8ca-3166-4d02-9a32-337cbb4fff48">
+        <div GUID="22b90bbb-b21b-4ab5-ab35-e760da67eb30">
+          <br GUID="7b06b07b-8805-4f47-8710-acc252bf2c59">
+          <font face="Arial" GUID="14d0adba-1067-4559-84bc-fc20aa4bd99c">We will help you to apply your knowledge by asking you questions about a scenario. Please read the scenario carefully and keep it in mind as you work through the lesson. </font>
+        </div>
+        <div GUID="6d2611e5-893d-4aa4-b849-84722dc00659">
+          <br GUID="f976b2a4-48f3-49b9-82cb-e23a195991e9">
+          <font face="Arial" GUID="29a312f0-2c72-4eef-a1e6-69b2b9ffc33a">Scenario questions are not scored and your response is not recorded. Use the feedback provided to consolidate what you have learned during this lesson. </font>
+        </div>
+        <div GUID="ecce46eb-9856-4a8d-84e5-907b21aa795b">
+          <br GUID="02e9a37c-d48e-4804-bac9-5c0db4729b48">
+          <font face="Arial" GUID="4f1898ac-bdc7-44bb-9280-937d70a1d611">Click on the <strong GUID="65d7d10d-374c-4ca8-9975-3477a2658ca0">Quick Facts </strong>menu button above to view a summary of the lesson. </font>
+        </div>
+        <div GUID="c5b096f9-1adf-4366-a112-dca3803476ed">
+          <br GUID="a24a77a0-c305-4ad9-9518-19cc3cf205e9">
+          <font face="Arial" GUID="cfce620c-54bd-4e59-9edc-b7dfeb26bd81">Click the <font size="4" GUID="4fca2d63-e322-46ec-80f1-5e0b0ed07ad1">►</font> below to continue, or select a topic from the Table of Contents list.</font>
+        </div>
+      </span>
+    </font>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="9e0e4814-80fb-4b29-9906-8b0d72bb20ad">
+          <TOC GUID="93637915-6af4-4ee8-908e-04ff9f8cc24b"> <![CDATA[<div class="TableOfContents_Main">
+  <div class="TableOfContentsTitle">Table of Contents</div>
+  <ul class="TableOfContentsList">
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page2')">Learning objectives</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page3')">Hypothetical situation</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page4')">What is a resource consent?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page5')">National Policy Statements (NPS)</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page6')">When is a resource consent required?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page7')">Categories of activities</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page8')">Designations</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page9')">Scenario 1</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page10')">When does a consent application need to be notified?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page11')">Decisions on notification</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page12')">The operation of a consent</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page13')">Consent expiry</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page14')">Practical tips for complying with resource consents</A>
+  </ul>
+</div>]]></TOC>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="446b9def-7cd1-46be-97dc-4a93e03af3ee">
+      <IncludedInTOC GUID="d8e6a9b7-7bdb-4985-9c58-d07652f0b27b">true</IncludedInTOC>
+      <Title GUID="f77d5973-ca8b-4f7a-a335-d09434c98e9b">Learning objectives</Title>
+      <PageElements GUID="823e960d-a194-4d4e-bc7e-369194a9b4b0">
+        <PageElement GUID="cfad004b-e606-41b3-918d-2b1dfa984b03">
+          <Graphic GUID="1e1b4b97-8cc2-4937-9d4d-b7e3bec89a12"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/2955aa14-4825-4e2e-8393-a3895d1cb328.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="638962df-2780-44b8-8c2e-749611c47be3">
+          <TextBox GUID="142cbdcd-8a89-40ce-8bac-d948f8f94887"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="7adf0328-edfc-4791-89ad-069f655a5291">
+    <div GUID="48a3ccf9-689d-480e-868e-f43ef5a562bb" xmlns="http://www.w3.org/1999/xhtml">This lesson you will learn about resource consents.</div>
+    <div GUID="9d582861-9bc1-45d5-8faa-8468ccb00f00" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="e2729cc8-dc31-472f-90f7-4feeb91ecd52" xmlns="http://www.w3.org/1999/xhtml">You should complete the lesson in about <strong GUID="309c4a03-1be3-4c61-a66f-3672aa183f04">15 minutes</strong>. </div>
+    <div GUID="4f60c063-ce55-44da-90f4-db081cb9c047" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="c9eaffa6-7495-4d67-9b9b-7483fa9938b5" xmlns="http://www.w3.org/1999/xhtml">At the end of the lesson you should have a clear understanding of: </div>
+    <div GUID="4da3e065-083e-4b76-822d-7614bd98a2e3" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="f0fc332a-c0e7-481b-bfd6-3d7a63a7bbf2" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="2ae467e6-a566-4eb9-830a-95dfec6f54ca">how activities are categorised and which resource consent is required for each</li>
+    </ul>
+    <div GUID="2d17f390-347c-470f-b6bb-4fb4f55b8c02" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="e72cab83-32fb-4b93-8a81-84bd389fb305" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="7a9e021c-0499-4111-8f50-9ed7bf1e7e5a">the process of applying for a resource consent, including the notification process</li>
+    </ul>
+    <div GUID="fdbfa587-41d9-44d7-a8d9-aa093712deeb" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="4e130e7a-3112-4b29-82d0-f29c9af6eeaa" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="419c1a8b-7faf-48b1-95ae-36c70930588f">the operation of the resource consent and how councils monitor their operation</li>
+    </ul>
+    <div GUID="e45fb0b9-9059-4343-97c1-2c8016272121" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c140bfcf-3e36-4f43-a757-8bcbcff50322" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="476d8a72-7e0a-4897-9b8f-6a578b4b9eb8">when resource consents expire and applying to renew them.</li>
+    </ul>
+    <div GUID="76d79720-7d3a-425e-ac8a-53051c322356" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="d7a4ab17-bfe3-48ab-917c-1fd1ade69fbf" xmlns="http://www.w3.org/1999/xhtml">To get started, please click on the <font face="Times New Roman" size="4" GUID="de6edb79-7793-4bc5-9e00-e8419ed97a1f">►</font><strong GUID="1a846598-1187-45c3-b78a-93040af5c845"></strong>button below.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="4bb04fd9-073f-4cc8-8c89-653b98c65047">
+      <IncludedInTOC GUID="1a1800e7-5e9f-4fd3-8d17-703e377f2b45">true</IncludedInTOC>
+      <Title GUID="bbe3d07d-fa59-4d80-91fb-6b096e488f11">Hypothetical situation</Title>
+      <PageElements GUID="197b0bf2-4e09-4a46-8e65-2935ab6835a5">
+        <PageElement GUID="2b454265-7af0-4dda-9391-a43a4d216826">
+          <Graphic GUID="f01f390a-cd43-419f-8228-e58d3bec92c3"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/70b44c9b-79b1-4f00-ba94-2160583275d5.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="c58a3502-415a-4b87-86fa-e518ed438bd2">
+          <TextBox GUID="5ee907a0-d3f0-495a-ae99-1a40e0e691bb"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="bdc55e9b-55b1-4fef-9c9d-22f9e52bafa5">
+    <div GUID="5da8c53d-ec6a-4b8b-a343-887fdd99cf21" xmlns="http://www.w3.org/1999/xhtml">Mr Stone owns a farm on which there are some gravel deposits.  He has been using the gravel to build roads on his property for some time.  He has recently discovered that the gravel deposits are a lot bigger than he first thought.  To earn some extra money, Mr Stone buys a bigger crusher, starts excavating and processing more and more gravel, and begins selling it to his neighbours and to other locals. <br GUID="2081990d-6756-4243-8e81-a7171bcf72ef"> <br GUID="c34b96cf-8e4f-4a2a-8a0d-5b7eac7d5be8">The operation has the following environmental impacts:</div>
+    <div GUID="c5cc1be3-184e-4866-a9de-d33f06fd6d5a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="7fadaa46-4e4c-4a63-ae11-8e3e097c5c7e" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="2eead0f2-9e67-400d-860f-40f4e7b14588">to expand the gravel pit, Mr Stone needed to clear native vegetation </li>
+    </ul>
+    <div GUID="1ba1ddeb-b68a-412f-8d2d-0b1b3001b136" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="087cfe29-7849-44ce-96a7-51c8ca7e39a3" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="bf13ee23-00c0-4d6e-89dd-9d67c5d5c363">the expanded operation requires more trucks coming to and from the site which creates a lot of dust  </li>
+    </ul>
+    <div GUID="e6dc08d8-0ef2-4946-95b9-047d553b5eda" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="1ae31c07-7715-4f5c-94dd-df227eedb444" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="95173bed-e479-45ca-83c8-c7978e6ebba9">Mr Stone needs to use more explosives to obtain more gravel </li>
+    </ul>
+    <div GUID="a35cf552-7c54-46cd-9274-0353aef3625a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c15842b2-d046-40df-be31-d5ccdaa4c2b7" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="b13af6c5-07c4-4e3c-8d27-891e678ccffa">to process the gravel, Mr Stone needs water. </li>
+    </ul>
+    <div GUID="5b7886c4-78be-41c8-aeb6-96baa2822c64" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="a53652aa-a5d4-444d-8ffc-68a93e466dad" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="8c1a028d-ae1e-4882-b545-0d498e667f5b">he set up a pump and takes water from the river on his property  </li>
+    </ul>
+    <div GUID="54ce2c5c-8918-49b2-9dff-984c7c2a951f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="79daab82-f8a7-45a0-b149-b83cdb568293" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="5cde353c-73dd-4366-be21-ea6fabab4936">Mr Stone releases the dirty water back into the river.</li>
+    </ul>
+    <div GUID="6bd8f070-9ad3-4f52-85a7-f4a0f4e90d99" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="5cf0e2e0-752d-4ae3-b1c8-9d3e73b8ac15" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="c8761094-9e23-491e-845a-15ef3b1c07ab">Consider this scenario while reading the next few pages...</strong>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="d5dbc73a-33f1-4464-be5a-2f45306845dc">
+      <IncludedInTOC GUID="4c3f17c2-1b3c-4906-862c-c51b12b61bc2">true</IncludedInTOC>
+      <Title GUID="9eb2caa9-8c70-4cbe-815e-6cbdd68897f8">What is a resource consent?</Title>
+      <PageElements GUID="5db67987-831c-45ed-8902-78090ac22c75">
+        <PageElement GUID="3a2890a0-3e6f-407b-9125-aae9936e9b82">
+          <Graphic GUID="5a4ffa25-b2f2-4ac9-a1e7-a4f0575616f9"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/e4b9d1eb-4ad0-42b4-bc34-993947cc1634.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="141eb6eb-ae69-4186-be30-7b59734873f8">
+          <TextBox GUID="6d06e81c-56e0-40ea-818c-484800aab95b"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="0a09c0d4-a12c-45b2-b1f5-8a1fda907387">
+    <div GUID="018afc7a-c797-40e3-b7fa-bae214c1bb53" xmlns="http://www.w3.org/1999/xhtml">Resource consents allow for work to be done which would otherwise be unlawful because of its impact on the environment. Consents are usually granted subject to conditions which aim to ensure that the environmental impacts of the activity are avoided or mitigated. </div>
+    <div GUID="3bf5038e-fac5-41d8-a53e-0166a9d121e0" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="4f484929-f01f-4502-92c4-91bd8771db59" xmlns="http://www.w3.org/1999/xhtml">District plans and regional plans indicate what activities are permitted, and when a resource consent will be required. They also contain ‘assessment criteria’ that will apply to consent applications in relation to particular activities. Further guidance is contained in National Policy Statements and National Environmental standards.</div>
+    <div GUID="6a491526-7f5b-49a6-97e4-f1383873c20d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="4aac5a4c-3b2b-4dd3-a40a-8ee3f01cf0d3" xmlns="http://www.w3.org/1999/xhtml">
+      <a target="_blank" href="http://content.compliance.bdw.com/ContentFiles/KensingtonSwan/RMA%20Resource%20consents%20and%20designations.pdf" GUID="49ad4f37-8857-4ac4-9e7d-738f5f5342c3">Click here to see a diagram of the National Environmental Standards</a>
+      <br GUID="ada1ac05-073c-44a9-8956-0e3c5e1744c4">
+      <br GUID="c9085b4d-c63a-4b56-843d-a8a3013066fd">Depending on the type of activity dealt with by the resource consent, the consent may be given a different name under the RMA. Land use consents, subdivision consents, coastal permits, water permits and discharge permits are all considered ‘resource consents’.</div>
+    <div GUID="557109f0-5e0f-43ae-ba00-fe2cc521a0f4" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="aa68d940-82a5-48ff-bcdd-166739d61303" xmlns="http://www.w3.org/1999/xhtml">Applications for projects of ‘national significance’ may be called in by the Minister or lodged with the Environmental Protection Authority (‘EPA’).  The EPA will consider the application and make a recommendation to the Minister who will make the decision to grant the resource consent.  The Minister may decide to refer the application to a board of enquiry or to the Environment Court.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="e036c25d-0dd1-4a7f-ab9b-a4311d67284e">
+          <ExtraInfo GUID="4bc5a9ef-18f2-4955-b4b3-5c40f942f393"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('efbd8f80-23ad-4578-9f78-dc0886b5a7ca');">Click here for information on Regional/District Plans</A>
+      <div ID="Content_efbd8f80-23ad-4578-9f78-dc0886b5a7ca" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="92d3e011-5081-425c-8b74-491bf8146911">
+                <div GUID="9931b6d9-7b14-4665-8d08-18a6aaac6643" xmlns="http://www.w3.org/1999/xhtml">There are 12 regional councils in NZ. They have responsibility for rivers, the air, the coast and soil – i.e. resources that are generally not owned by individuals. </div>
+                <div GUID="3f9cf99f-f187-4524-9ead-0b206a4d7e57" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="4cc04c3f-7ec9-4538-b4ce-e9db9fd6ae89" xmlns="http://www.w3.org/1999/xhtml">‘Regional Policy Statements’ identify the key environmental issues for the region and provide overall strategic planning direction. Regional plans contain the methods and rules by which those policies are implemented.  </div>
+                <div GUID="1512f4f9-50fa-40ad-8d78-a9c51f9d6a80" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="d75e7241-9acb-4883-b331-72d59af36e04" xmlns="http://www.w3.org/1999/xhtml">There are 68 city and district councils (also called territorial authorities) in New Zealand.  They make decisions about land use, such as urban development and subdivision.  District plans contain the regulations which implement the district’s policies with respect to land uses, subdivision and other matters which are permitted in the district or are controlled in various other ways. Objectives, policies and desired environmental outcomes will generally be contained within the district plan itself.  </div>
+                <div GUID="441be197-0442-4c9f-bec4-9ffe6ab4a968" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="0408b0ae-e774-46af-851c-2754d04e700d" xmlns="http://www.w3.org/1999/xhtml">If a regional or district plan stipulates that an activity can only be undertaken after obtaining a resource consent then a consent must be obtained for the activity or an offence will have been committed.  </div>
+                <div GUID="0d908ee1-a0da-4bfb-9e22-afe36d71ab8f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="c5e9aa7f-9e45-44bf-add1-eed369cbe451" xmlns="http://www.w3.org/1999/xhtml">Often there will be more than one regional or district plan which applies to a given site and this can lead to confusion. This is because the operative plan will continue to overlap with the proposed plan until such time as the process with respect to the proposed plan (including the appeal process) has been concluded.  This period of overlap can often be for some considerable time and during this time applicants will need to consider the provisions of both the operative plan and any proposed plan change.<br GUID="7abc9d95-accf-46c7-bff8-8d3f84d71f0f"></div>
+                <div GUID="2069dbdd-3a19-4454-a701-91500c1cd574" xmlns="http://www.w3.org/1999/xhtml"> </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('efbd8f80-23ad-4578-9f78-dc0886b5a7ca');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="691e2bda-9834-41ee-a4f9-d76e6a069b40">
+          <TextBox GUID="8207dcba-c654-4e79-b980-a4f4e57f2447"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="14717d14-110f-4f8f-8ea1-e4ce5f96e1ba">
+    <div GUID="8f73530f-d1cb-42e1-aa44-2675e51f405d" xmlns="http://www.w3.org/1999/xhtml">There are few activities which do not require some sort of resource consent. The approach taken by most councils, and the complexity that now surrounds the competing obligations of the RMA, mean that very few new developments occur without the requirement for at least one resource consent.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="a84f864d-83c8-4bb6-9839-956beb1d3f1a">
+      <IncludedInTOC GUID="3482af8f-4f2c-418e-a4e5-e4127544f6c8">true</IncludedInTOC>
+      <Title GUID="32111a50-6ef1-45f2-92f1-02aa86db868e">National Policy Statements (NPS)</Title>
+      <PageElements GUID="e30aa6e3-1d29-4d47-9ab4-4f9416a4e8cc">
+        <PageElement GUID="81fec127-df7d-478e-9a93-852b8ecb26ae">
+          <Graphic GUID="9776b881-5e5d-4af5-a39f-9a9e60c28db7"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/54dbe914-0f4c-4009-8c4d-5127b52b579e.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="cc6c3327-7d39-4196-933b-1fc150771f73">
+          <ExtraInfo GUID="9e6529f5-bd27-4ab8-b3f5-6c1f1a76f2ee"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('a5ed0a86-dc14-44a6-9ae1-1d59af730b8c');">Click here for information on National Policy Statements/National Environmental Standards</A>
+      <div ID="Content_a5ed0a86-dc14-44a6-9ae1-1d59af730b8c" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="aec08a5e-8dd2-4c4c-9b0a-b284781f90bf">
+                <div GUID="48db5446-4959-41b4-9d67-9ff209b8dd5a" xmlns="http://www.w3.org/1999/xhtml">
+                  <strong GUID="b0ffbb9f-1046-4a23-b350-9b765e0fd8dc">National Policy Statements (NPS)</strong>
+                </div>
+                <div GUID="b5f52358-3e7f-4185-a9d5-71bd171ede7e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="98d6b997-249c-4138-90ee-4c609e9520a0" xmlns="http://www.w3.org/1999/xhtml">National Policy Statements are issued by Central Government to prescribe objectives and policies on resource management issues of national significance that are relevant to promoting sustainable management of natural and physical resources. </div>
+                <div GUID="2fd98c16-a330-4d2a-81cb-7ad58c5d8ac7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="271915b7-7841-4f60-a4fb-2726c24fce1c" xmlns="http://www.w3.org/1999/xhtml">Once completed, regional policy statements, regional and district plans must give effect to all NPSs, and any required amendments must be made immediately unless the NPS has a specific timeframe for implementation.</div>
+                <div GUID="e78c7db6-e099-4cd2-8224-7a906fff15e2" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="1c2e07ed-5a66-4119-960d-2f6c0679a28a" xmlns="http://www.w3.org/1999/xhtml">Currently, New Zealand has two implemented NPSs in relation to coastal management (which is mandatory under the RMA) and the electricity transmission.  There are proposed NPSs in relation to renewable electricity generation; freshwater management; flood risk management; and urban design along with a proposed new policy on coastal management. </div>
+                <div GUID="7ac5ef2c-dc38-468c-984e-db896069a209" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="22554811-f601-4fe0-b1cc-c82f17b3a884" xmlns="http://www.w3.org/1999/xhtml">
+                  <strong GUID="d24778e6-95c7-4ccb-9017-b30bb57dc552">National Environmental Standards</strong>
+                </div>
+                <div GUID="89ff4d5a-664f-4d11-b879-9d93b96d2b7f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="7ce0561c-8d3b-41fa-b775-bb3afca70653" xmlns="http://www.w3.org/1999/xhtml">National Environmental Standards provide the opportunity for Central Government to promote consistent standards at both a regional and district level.  A NES can be used to regulate particular activities and/or requiring that consent applications be publicly notified or to directly affected parties.</div>
+                <div GUID="b8b4a2f4-2026-4fb7-92ce-4c076f9c1139" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="3f5f57d3-085b-4171-8a14-adb3cd47e4c2" xmlns="http://www.w3.org/1999/xhtml">Once completed, consent authorities must give effect to all national policy statements when considering an application for a resource consent. </div>
+                <div GUID="90e45bb1-5cba-42be-8a50-f033a6377044" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="4e21647d-95d9-4943-b0ba-42cb639be80c" xmlns="http://www.w3.org/1999/xhtml">NESs can be used to for a range of environmental management issues including the use of land, subdivision, the coastal marine area, beds of lakes and rivers, water, discharges to air, land and water, noise and monitoring.  </div>
+                <div GUID="e2e0cf3f-3549-4917-95a5-464e20c50def" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="86d25c75-ef13-450b-bfd9-dc27c84f35c6" xmlns="http://www.w3.org/1999/xhtml">Currently there are 14 air quality standards and standards for human drinking water sources and telecommunication facilities.  NESs are currently being developed for ecological flows and water levels; electricity transmission; future sea-level rise; measurement of water takes; and on-site wastewater systems.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('a5ed0a86-dc14-44a6-9ae1-1d59af730b8c');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="a3f13a14-1dae-4255-b16a-a7d5578c9ad4">
+      <IncludedInTOC GUID="5e64c7b5-7593-4d16-b513-0817e35c5746">true</IncludedInTOC>
+      <Title GUID="d6a4a717-d2f4-4d22-94ba-5e423dba2249">When is a resource consent required?</Title>
+      <PageElements GUID="44964cc4-ee52-4f33-bbcb-61fd1041e59d">
+        <PageElement GUID="979cb7e6-1a1f-483f-b2e5-54b039ad8cca">
+          <Graphic GUID="2868bc90-a026-4f22-8a7c-04d5d6237d33"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/65951096-0b4a-4a48-af36-f5190e9753fa.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="7bee1f7b-a8cf-415d-bbac-eec496b56fb3">
+          <TextBox GUID="35958ac6-05c4-4ad0-81e0-f8a4ed125c9f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="9a7e121c-c401-4e5c-8eb0-cf80661f7b45">
+    <div GUID="0b21696b-bad5-4ca1-9864-72dafd3d9d6c" xmlns="http://www.w3.org/1999/xhtml">Although the specific requirements will differ depending on requirements of the relevant regional or district plan, generally speaking, a consent  is required for:<br GUID="0a47cb39-fa9e-47ff-b63c-8d54dc2a633b"><br GUID="97ca6cde-46bf-4f5e-b90b-ea2c9f80619f"><strong GUID="e238ceb7-5a4f-4b3a-92f8-94512da69cb3">Projects</strong> – a new project that, as a whole, is likely to have environmental impacts will often require consents following a detailed environmental impact assessment.  <br GUID="ecc8674d-7929-4c75-a2ba-f564b4ffcc8a"><br GUID="ec0fe7f8-490f-426a-81d5-4158bee1731a"><strong GUID="fba1584d-4c13-44c0-ac05-e52e45874330">Construction</strong> - the construction phase of a new project will usually require a land use consent (and subdivision consents if the land is to be sold in separate blocks) from the district or city council and possibly also regional council consents. For example, resource consents may be required under the zoning provisions of the relevant district plan before building and construction can begin.  Regional council consents may also be required if the construction phase requires works in watercourses (streams) or  diversion of stormwater.</div>
+    <div GUID="cc869b20-8473-442a-8caa-91448d97e289" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="6c09c2ef-da4f-4d84-9573-65ae72bbe1d0" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="65e70f8e-48aa-4c12-9a04-2b7ec6ed613f">Operations</strong> – a consent may be required to authorise any discharges during the operation of the premises. For example, any air, noise, land or water pollution is likely to require a discharge consent. If the operation needs to draw water from a river or from groundwater, then a water permit is also likely to be required. <br GUID="e9a1badb-c910-4c98-8705-4a61ac813c9c"><br GUID="3a54bdcc-4798-46c3-b656-4c2268fd9e6b"><strong GUID="8e0250e6-1d99-4b1f-8249-9ea013750717">Changes to projects </strong>– if a project expands, intensifies, is altered in some way, or if there is a change of use of the premises (e.g. if a chemical storage facility were changed to include a temporary transfer facility which increased the scale and frequency of operations), then a new or modified consent may be required.  The additional or different environmental impact arising from the change will need consent. </div>
+    <div GUID="20d58971-aaa1-416f-998d-cba6b208e677" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="e36d3264-85fe-4b3a-9464-fd1ac47e5296" xmlns="http://www.w3.org/1999/xhtml">Resource consents are also required for matters of national significance.  The RMA does not define what ‘national significance’ means.  However, section 142 of the Act provides an outline for the Minister of relevant factors to consider.  These factors include:</div>
+    <div GUID="d7e5b673-1861-41ef-a831-8282f85c6d94" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="23d0c782-29d2-47d7-bd89-da1d216cafac" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="a693803e-624d-480a-a0c5-dd54d5165746">widespread public concern or interest in relation to the effects of the activity on the environment</li>
+      <li GUID="1544c411-1cda-41f5-a844-5d33a0798233">involves significant use of natural or physical resources</li>
+      <li GUID="3664b26f-041e-464e-9730-8245002d3f3d">affects a structure, feature, place or area of national significance or affects or is likely to affect, more than one region or district</li>
+      <li GUID="9ca511b4-dec3-42e8-aaff-3dc97be45e3a">affects New Zealand’s obligations to the Global Environment (for example under the Kyoto Protocol)</li>
+      <li GUID="dda38102-2b50-4344-b191-af122d61db72">results in significant or irreversible changes to the environment</li>
+      <li GUID="268e98a2-6623-4597-ac27-97429bb37487">involves new technology, processes or methods that may affect the environment</li>
+      <li GUID="e3fabf3b-a47b-4311-83d6-df20417871aa">is likely to be significant in relation to Treaty of Waitangi issues</li>
+      <li GUID="fe6998a3-2cf7-4d0d-88f5-e60ffad90466">will assist in fulfilling the Crown’s public health, welfare, security or safety obligations.</li>
+    </ul>
+    <div GUID="f3ef8713-510d-4734-aa41-62e66f5a56af" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="015dc1bb-fb89-4fff-86cc-1de655c67544" xmlns="http://www.w3.org/1999/xhtml">A matter of national significance can either apply directly to the EPA for consideration, or called in by the Minister from a regional or territorial council to be considered by the EPA.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="359d4d58-8bbf-4c90-93c0-9e286b0f37e3">
+      <IncludedInTOC GUID="c8bd051d-db23-4125-a0dc-202a391ab7cf">true</IncludedInTOC>
+      <Title GUID="70ecf21b-64c3-47be-9395-7ea5cfe8267b">Categories of activities</Title>
+      <PageElements GUID="8128d4d6-a8f2-4c9f-9a3b-8d4391f10795">
+        <PageElement GUID="4b683ccf-1cb3-414d-8db1-be04d29e32c8">
+          <Graphic GUID="fc487129-f256-45b5-9cfa-a309bf293f06"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/00bff26f-e8c6-4ec6-82df-bc53132f80a6.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="6c4bbf97-275a-4b1a-9db6-46dfc66934f5">
+          <TextBox GUID="109708b4-de7c-452a-93db-20ac68b188d4"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="37b7f085-4dc0-4e48-9bc4-c752f82ca9d0">
+    <div GUID="b4ba4500-8fcf-487c-9ace-f778b3ee522c" xmlns="http://www.w3.org/1999/xhtml">Under the RMA there are various categories of activity:</div>
+    <div GUID="cdd4b5ae-8b2f-4a0c-89e1-0623cd230a68" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="9995edac-216c-4e11-8477-78119301549d" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="104e9511-3038-4459-bb57-efad2a041f2b">
+        <strong GUID="1c7a888e-ad76-41a4-996e-902b6dee0cda">Permitted Activity </strong>– no resource consent will be needed.</li>
+    </ul>
+    <div GUID="f9807534-951d-4425-b772-d7438f0d9072" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="2063b384-3ada-4c5b-97eb-240d946793e8" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="de39208a-247a-484e-811f-94628a4b72aa">
+        <strong GUID="311d6b0f-567e-46b3-992a-a228528d84fc">Controlled Activity</strong> – a consent will be required and  the council can impose conditions to control and mitigate any adverse effects of the activity. However, the council cannot refuse consent but can impose restrictions or conditions on the type and extent of activity which is proposed. This is the lowest level of RMA control.</li>
+    </ul>
+    <div GUID="3e31de89-250f-4cf3-887f-2bf355b95761" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="97d04bc0-dfb0-4265-8c5c-1b341c30e103" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="644cbc8f-20a8-4609-b84f-f4f00a601805">
+        <strong GUID="f53846fa-c639-475b-8091-f1665a2d016e">Limited Discretionary Activity</strong> – the council can either grant or refuse consent, but the council’s ability to refuse is limited to certain specified aspects (e.g. adequate road access or appropriate scale or intensity of development).</li>
+    </ul>
+    <div GUID="7bd27416-8eaa-4399-a019-cf1271050641" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c541a339-61fa-42b5-83c1-fa94bd6bfa83" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="92352b96-6ce6-40c1-8816-e4383c29d8e8">
+        <strong GUID="cadbf218-584e-4754-b60d-06f803b0722a">Discretionary Activity </strong>– these activities are contemplated as being suitable in the zone, but subject to the suitability of the particular site. The council has an unrestricted discretion to grant or refuse consent.</li>
+    </ul>
+    <div GUID="292b0891-2fc5-4a7c-9109-dfc45f53469d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="61c00e3a-b77e-4f79-989c-26a2fc52359a" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="305c5c5a-381c-4a59-bb7b-dbc1a6ea580b">
+        <strong GUID="7e7e46c2-5544-45b8-9215-a9be84c89d40">Non-Complying Activity</strong> – these are not contemplated as an activity suited to the zone, but they are not prohibited. There is a threshold test which means that applications will only be considered on their merits if the effects of the proposal are no more than minor, and the proposal is not contrary to the objectives and policies of the plan.  </li>
+    </ul>
+    <div GUID="fb0950aa-f8e0-4bb6-bb7e-efb2bba95e4d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="69c52dd2-f005-4f31-8964-ee9bd2d0d667" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="e2090ce6-3142-44fd-92cd-b23865f295aa">
+        <strong GUID="71a68c49-bad9-45a2-aab7-f3ad9c495c17">Prohibited Activity</strong> – no resource consent application can be made in respect of any activity which is listed as a prohibited activity under the district plan. </li>
+    </ul>
+    <div GUID="0602f39b-75e9-4f3f-81ca-749e76f26fd8" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="154dccd4-306a-4907-b4e3-4467dfd9e922" xmlns="http://www.w3.org/1999/xhtml">If a district plan specifies that a particular activity requires consent(s) it is an offence to commence that activity without that consent. In addition, work cannot be carried out that is not in accordance with a consent. For example, if a consent condition authorises 500,000 tonnes of gravel to be extracted annually, and 700,000 tonnes are actually taken, the consent has been breached. </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="e50a1fa9-200a-4b89-a7b0-71abf3a52e96">
+      <IncludedInTOC GUID="a6a17a0a-d8a5-4025-a274-8a7dbb079888">true</IncludedInTOC>
+      <Title GUID="8ba71d55-c5b6-4058-b2c4-e5bead294e14">Designations</Title>
+      <PageElements GUID="959a5ff3-049f-46b5-b53c-152b73a65bb2">
+        <PageElement GUID="b4274901-1613-440e-bfa7-7d87d24b3b37">
+          <Graphic GUID="0d8a8f53-b650-4ab2-9321-4c2a23d98567"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/ee269049-a7c2-47f7-975e-7c0eec1ea1c2.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="73b1000e-7f62-4dc8-b287-9df959f30951">
+          <TextBox GUID="b24e23e4-271c-4f05-ab76-509de48e7176"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="c68e8585-905d-4997-b777-c977727c2691">
+    <div GUID="75dc3517-d5ce-4971-a48c-7c6768974cd2" xmlns="http://www.w3.org/1999/xhtml">A designation is a form of land use permission that is shown in district plans.  </div>
+    <div GUID="61e831cc-d4c9-45b6-9a85-c33534ccdfb5" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="1707a8ab-65ef-4b43-a678-0df8b9294036" xmlns="http://www.w3.org/1999/xhtml">The RMA allows requiring authorities to have areas of land designated for use as network utilities such as roads and telecommunications facilities, or large public works such as schools and reserves.  A requiring authority can be a Minister of the Crown, a local authority or a network utility operator that has been approved as a requiring authority under section 167 of the RMA.</div>
+    <div GUID="118b95a9-3fb0-4b7b-bbad-dbe7ae75a49f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="655e65f2-ab4d-49ae-8046-d1704e5bb57b" xmlns="http://www.w3.org/1999/xhtml">Once the designation is in place, the requiring authority can use the designated land for the designated purpose as outlined in the district plan, and the usual provisions of the district plan will not apply to the site.  If the requiring authority uses the land for a purpose, i.e. outside its designated purpose, the normal plan rules will apply.</div>
+    <div GUID="02c30fa0-2575-4ddf-a629-0f2f545606c5" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="8a6a29e7-162b-4724-8380-255b6d5a23a5" xmlns="http://www.w3.org/1999/xhtml">When a designation is given effect, it will remain in the district plan for the life of the plan, or until the requiring authority removes or alters the designation.</div>
+    <div GUID="16502902-f451-48a8-843b-5657c6fa4a93" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="cf5e515c-d4cf-43e0-b2eb-f847dd79104e" xmlns="http://www.w3.org/1999/xhtml">Third parties are restricted from doing anything that may hinder or restrict the use of the designation, and must obtain the written approval of the requiring authority if they wish to carry out any activities on the designated land.  </div>
+    <div GUID="10272a4c-9b88-45b0-963b-3b6f40f922d0" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="eedc13b5-3dd8-4183-93aa-3fa7cb99a017" xmlns="http://www.w3.org/1999/xhtml">If a requiring authority wants to conduct an activity within their designation that requires consent from a Regional Council, the requiring authority must apply for resource consent (e.g. for stormwater discharges or works in the coastal marine area).</div>
+    <div GUID="5b8b5de0-a9c9-43f3-b667-f07ea740475d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="e2d2442c-d3f8-49a9-b744-4f2676425f86" xmlns="http://www.w3.org/1999/xhtml">If a designation on land prevents reasonable use of that land and the owner has tried and is unable to sell that land, the owner can apply to the Environment Court for the requiring authority to buy or lease the land.<br GUID="d7e372ac-1301-4696-81e6-405e34b19dcc"></div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page9" IsActive="true" GUID="e55b040d-a997-473d-8d6d-41086f629b8d">
+      <IncludedInTOC GUID="eab1d9e7-b658-4fe9-a104-411902c84ed3">true</IncludedInTOC>
+      <Title GUID="a8b638ee-f798-4593-ba00-2a8765bc0e3c">Scenario 1</Title>
+      <PageElements GUID="8626355d-7113-42f6-aaaa-00bc3e632d0b">
+        <PageElement GUID="00beb0e0-eb30-44dc-85d1-66e912a755a2">
+          <Graphic GUID="2c7bb0a2-e074-4e08-9ecf-7eaa59fcf604"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/5a2a3d22-8064-48b9-a4f5-09e22a16353f.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="ee9a054e-193b-407c-8901-2b2b3f5cb2dd">
+          <TextBox GUID="340200f3-da43-413c-8888-bd881ad255a3"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="f300c9ea-5523-41de-8dcf-717852fd9129">Do you remember the hypothetical situation?</Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="39ff7457-844b-470f-9f68-dfdb3b984241">
+          <ExtraInfo GUID="e3b59317-cba3-4748-98d0-2900de1136f0"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">If not, click here for a reminder and then try answering the question below</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('266380f0-3b5b-4bc4-bacc-1e7df66547c3');">Hypothetical situation</A>
+      <div ID="Content_266380f0-3b5b-4bc4-bacc-1e7df66547c3" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="fe4aaa37-79f9-4054-ac6f-f589eb25cf5a">
+                <div GUID="e4b8a37b-f80f-4561-aaa3-140df7dcc18e" xmlns="http://www.w3.org/1999/xhtml">
+                  <div GUID="cea9f16c-8c7f-43a1-98fc-de82746c192c">
+                    <div GUID="0ec0f1a7-18c9-4743-ac17-d3b931d58e66">Mr Stone owns a farm on which there are some gravel deposits.  He has been using the gravel to build roads on his property for some time.  He has recently discovered that the gravel deposits are a lot bigger than he first thought.  To earn some extra money, Mr Stone buys a bigger crusher, starts excavating and processing more and more gravel, and begins selling it to his neighbours and to other locals. <br GUID="a1484f33-15de-415b-acb2-06d033f1b2a9"> <br GUID="670416d4-19a0-4ad8-acb0-f4c40d8f4880">The operation has the following environmental impacts:</div>
+                    <div GUID="54eb686a-5012-48cd-9b3a-dcc9e7e59fc3"> </div>
+                    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="a6d08588-b6c1-462f-a520-49b10112cc42">
+                      <li GUID="a53a83be-c100-4656-8cd6-8608a45f2c9e">to expand the gravel pit, Mr Stone needed to clear native vegetation </li>
+                    </ul>
+                    <div GUID="10b8e151-3653-4444-b145-3b6977d989d2"> </div>
+                    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="284249e1-bb42-4a16-8dc4-801424d56fc0">
+                      <li GUID="5ff5d1b3-7e5a-4910-96f5-c385aa444801">the expanded operation requires more trucks coming to and from the site which creates a lot of dust  </li>
+                    </ul>
+                    <div GUID="f2421a8b-2ee6-41a9-a2e2-32b2211c1d7a"> </div>
+                    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="f857696b-dbbe-410e-bad0-7e462086b73b">
+                      <li GUID="6ec26cdb-5329-4025-9f7f-678d0672ba70">Mr Stone needs to use more explosives to obtain more gravel </li>
+                    </ul>
+                    <div GUID="b0a58b6c-d609-4e4c-b310-c957df92243d"> </div>
+                    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="023fffa2-1b18-494f-93ed-aabe33139860">
+                      <li GUID="ac1ca2af-1037-45fb-8465-6d41a3166a0e">to process the gravel, Mr Stone needs water.  </li>
+                    </ul>
+                    <div GUID="f1242463-2cb9-4775-90f2-9dfac5ac2d3e"> </div>
+                    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="2be2a0c5-787c-4af9-8a75-972a721971e5">
+                      <li GUID="ae0b2f66-e1a3-41da-a199-8521a73ec4b0">he set up a pump and takes water from the river on his property  </li>
+                    </ul>
+                    <div GUID="46529ab8-3eda-4989-b74a-1d9b5b08138f"> </div>
+                    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="3898267b-2822-4f06-a1f2-5d53e84b919d">
+                      <li GUID="33ba5422-cb33-40df-b2f4-01bf8918b7d5">Mr Stone releases the dirty water back into the river.</li>
+                    </ul>
+                  </div>
+                </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('266380f0-3b5b-4bc4-bacc-1e7df66547c3');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="49ab9c41-725c-4d6f-94c4-63d7467be6a3">
+          <MultiChoiceQA GUID="6d9467b2-ded9-4acc-8de8-57e524c8f327"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="9f3e3dbd-cc54-41fd-9ec8-ab7b62adf392">
+      <div GUID="d5c43376-ed71-47e6-8ae6-d3f07ea1dc97" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="77a1ee4b-911c-44fe-bc7a-1dd0c6b1e12f">The local council grants Mr Stone resource consent to construct and operate his quarry. There are some houses nearby. The consent contains a condition that the quarry must operate between 7am and 6pm. Mr Stone needs to increase production, so he decides to start work at 6am every morning. Is this lawful?</strong>
+      </div>
+      <div GUID="cc358b28-dda9-46d6-8f94-04660bddb40b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q9f3e3dbd-cc54-41fd-9ec8-ab7b62adf392" ID="A8898cf1c-d80c-4753-915d-792166ff92d3" onClick="ShowAnswer('8898cf1c-d80c-4753-915d-792166ff92d3','true');">
+      <AnswerText GUID="6a3dfba7-0205-450a-b55b-59433ea8a096">No</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="8898cf1c-d80c-4753-915d-792166ff92d3">
+      <Feedback GUID="816a727a-0123-4157-9263-c6d3869c00dd">
+        <div GUID="f288a638-b2ed-4da6-84f1-5407b3dd5831" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="0cdf5010-5e7b-4678-a28a-262539bc636f">You are correct!</strong>
+        </div>
+        <div GUID="2ea460b3-80e6-4bef-ae0c-ec29d6b4139d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="beac466d-3431-493a-99de-d6492acbde76" xmlns="http://www.w3.org/1999/xhtml">The conditions of the consent specifically control the hours of operation which must be complied with.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q9f3e3dbd-cc54-41fd-9ec8-ab7b62adf392" ID="Ab773a302-1290-4858-8061-db8720f2174a" onClick="ShowAnswer('b773a302-1290-4858-8061-db8720f2174a','false');">
+      <AnswerText GUID="393c6b8e-fba7-4028-b9f1-4ba8a17f5c9e">Yes</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="b773a302-1290-4858-8061-db8720f2174a">
+      <Feedback GUID="8f300168-bea4-424b-b10e-a2e3a40ed16a">
+        <div GUID="6af553f5-8432-49a0-9a3e-d84d3d322e75" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="df99debe-291f-478c-b1ba-c1f27064073e">You are incorrect.</strong>
+        </div>
+        <div GUID="750ffefe-00d0-49b6-bde2-eb2e3ec3a9c5" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="d2d6a771-224f-4382-91ac-3fc683dc6ac8" xmlns="http://www.w3.org/1999/xhtml">The conditions of the consent specifically control the hours of operation which must be complied with.</div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page10" IsActive="true" GUID="ad08de5e-2750-4d93-b2b0-be4a38043d2c">
+      <IncludedInTOC GUID="06639b5d-856a-4535-bae0-4cdf6ae50148">true</IncludedInTOC>
+      <Title GUID="c67f4781-2490-425f-9717-e1fac6eeb1aa">When does a consent application need to be notified?</Title>
+      <PageElements GUID="48a19dda-9fe0-4890-8de6-fcc3cf23e980">
+        <PageElement GUID="54960e65-6f8f-49b3-a04d-a578217ba930">
+          <Graphic GUID="3119dd48-c7a8-44b3-853e-5cbbcf5c8a33"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/8f085797-c4ed-4bd8-bfb1-ce633b010a1c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="2cb86a39-d8ac-4d05-90af-62cac005ceaa">
+          <TextBox GUID="984a8282-4d61-4e65-908e-2d0bbdbf0480"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="83744621-fb74-4326-abf6-eb00d3ec9384">
+    <div GUID="338c6a06-09cc-4859-9335-d27d342e3685" xmlns="http://www.w3.org/1999/xhtml">Although there is no express duty on applicants and local authorities to consult with members of the affected community when resource consent applications are considered, it is considered best practice, and greatly increases the chances of an application being granted. Once a consent authority (i.e. the relevant council) is satisfied that it has received adequate information about the nature and effects of the application, the RMA requires it to determine which, if any, third parties will be given the opportunity to comment on the proposal.   </div>
+    <div GUID="6e6da06c-ce50-4c3a-ac82-7526371e6ae1" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="3a65ea4e-72b1-48ee-afca-c1f23e3520b6" xmlns="http://www.w3.org/1999/xhtml">Many consents are dealt with on a non-notified basis, at officer level within the council, (i.e. the application for resource consent is not publicly notified) but there are a number of recent cases where the Courts have effectively cancelled consents granted without notification where the judge felt that the council should have notified the application. </div>
+    <div GUID="93637455-8cf2-4c5d-ba1f-48e43e97eb08" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="aae21754-cf0f-401b-921d-9ec9e0fb37d5" xmlns="http://www.w3.org/1999/xhtml">This has made councils throughout NZ cautious in their approach and it has resulted in more applications being notified.</div>
+    <div GUID="fb5d895c-9e91-46fc-b651-67bcd94b8604" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="0cc8ee7f-c4c1-45ef-9546-89fe2561e7fa" xmlns="http://www.w3.org/1999/xhtml">There is, however, an express duty on the Minister to give public notice in the situation where a matter is considered to be of national significance and has been called in.  This duty does not apply to matters relating to the preparation of or change to a regional plan, or where the Minister decides public notice may cause delay or is not required.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page11" IsActive="true" GUID="ed090afb-ff08-4310-a968-4882ca61e441">
+      <IncludedInTOC GUID="b867804e-677d-4cc5-a5f7-cac494dd611f">true</IncludedInTOC>
+      <Title GUID="581e052c-4116-4a24-a6d7-f5e483d08bd2">Decisions on notification</Title>
+      <PageElements GUID="684080d0-19f6-49c9-8559-9be4cebbe6b7">
+        <PageElement GUID="53e8242f-7be0-4f64-8403-f4bf6860ee1b">
+          <Graphic GUID="4e175ea1-e4c9-4834-9506-acbc06905f53"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/af1d478c-fe3c-460f-9a76-60a3bef17464.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="060bb56c-1db9-4faf-ab7b-a3f40c92e030">
+          <TextBox GUID="2546a204-72e9-453e-99c2-81ed3bc13a51"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="5d0fb66b-c8a2-499f-a02c-b9c9e27defe3">
+    <div GUID="1e0652f1-9dac-4968-813a-dc3057b869e6" xmlns="http://www.w3.org/1999/xhtml">The consent authorities’ decision on notification is important as it will dictate the formality, duration, complexity and therefore expense of the consent process. A decision to notify the consent application can lead to substantial delays and legal costs.  Once an application is notified, any person can make a submission to the consent authority on that application (and has appeal rights to the Environment Court).</div>
+    <div GUID="b93f4470-19ad-4384-bd82-7fb613b8e050" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="8b8d86ed-87e8-4d53-baec-588daae24719" xmlns="http://www.w3.org/1999/xhtml">If an application is processed and determined on a non-notified basis, there is no ability for third parties to lodge submissions in relation to that application. If the consent is processed without any submissions made in opposition by third parties, then there is no ability for any party to appeal the decision to grant consent to the Environment Court.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="6fa0ee7b-021c-4b9b-87f8-72b885b23d47">
+          <ExtraInfo GUID="63f6d86b-f58b-48ee-b543-ca3fba7c5e6e"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('46c9c57b-441f-42e4-aaa0-4e887e081f34');">Click here for What is the Environment Court?</A>
+      <div ID="Content_46c9c57b-441f-42e4-aaa0-4e887e081f34" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="a4cb416d-cf05-4c7f-b383-924de87cd1ae">
+                <div GUID="f2aa50c1-bb9e-4a3c-b06b-491efcec7af2" xmlns="http://www.w3.org/1999/xhtml">The Environment Court, constituted under the RMA, is composed of Environment Judges (who are also District Court Judges) and Environment Commissioners (who are usually non-lawyers, but senior resource management practitioners).</div>
+                <div GUID="663b4b52-3af3-4db4-a087-04dec2e434c9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="aecbf415-f116-4b92-878f-808ee3ed9783" xmlns="http://www.w3.org/1999/xhtml">The Environment Court’s work includes:</div>
+                <div GUID="392079d8-e9af-4d06-93ca-420e8a6c9b1b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="5d39d52e-2808-48bf-a8c0-a5bbc1fc41c3" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="ae283249-6d71-443c-bb22-7c9fa88df48b">hearing appeals from council decisions in relation to subdivision or land use consents</li>
+                </ul>
+                <div GUID="8fa2aa5a-5379-44d5-b06c-10eae3ab0c9e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="2f95d5a4-8073-4105-bf02-3a9877edcd25" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="a47e960f-7ee6-493b-82f4-80c4fccebc3d">enforcement or prosecution proceedings, including appeals against abatement notices</li>
+                </ul>
+                <div GUID="cdb61257-e2e5-4e43-a849-9e873b2ba37d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="168ee1fa-01d1-48ce-9a3e-75984df79c0c" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="619f4c97-2dfb-4496-a6c5-deb3279854aa">hearing appeals against changes in regional or district plan rules or designations (authorising public works such as major roads or motorways, schools or network infrastructure).</li>
+                </ul>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('46c9c57b-441f-42e4-aaa0-4e887e081f34');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="133bc1db-2745-407c-8aed-6fefbe6351ae">
+          <TextBox GUID="3ed2e3c6-f4f6-4ed5-9263-03fa895a7e79"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="617d97be-4f76-41b1-b3bc-d82660829c1b">
+    <div GUID="b2eb4d3d-cd53-4e02-9e0c-f25b01701752" xmlns="http://www.w3.org/1999/xhtml">A crucial element of the notification issue is whether the applicant can obtain the written approval of people who the consent authority identify are adversely affected by the proposal. If these approvals can be obtained and the effects of the activity are minor, then the council can grant the consent on a non-notified basis. Once the approval of an adversely affected party has been granted, the council cannot take account of the adverse effects the activity will have on them in making its decision, unless that approval is withdrawn (by written notice) before the application is heard.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page12" IsActive="true" GUID="49f05917-f472-4032-9452-09d15231b7d0">
+      <IncludedInTOC GUID="ac331439-4564-4448-8446-b12c6540fb3c">true</IncludedInTOC>
+      <Title GUID="73227dba-c9e3-4620-80dd-7541fffd65f2">The operation of a consent</Title>
+      <PageElements GUID="75096f9d-e0c2-4f79-908b-f76ab8442fc8">
+        <PageElement GUID="23b078e1-a7c4-4a10-a6bf-23b7e2a22f9b">
+          <Graphic GUID="3728a690-1c87-4abf-812a-afe270c322bd"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/eaf025a0-afa4-4803-b7c5-534d394a1241.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="5a37a098-4d44-4562-a24c-c28666600ab1">
+          <TextBox GUID="b0554614-a8b9-46b8-9cd3-e439300e6c73"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="95ffaed8-2353-4705-aa6d-5fab07f2998d">
+    <div GUID="936e0fba-9d1d-4f59-ad87-77824a12568d" xmlns="http://www.w3.org/1999/xhtml">Once a consent commences it must be fully implemented within five years or it will lapse, although extensions can be granted in some circumstances. </div>
+    <div GUID="66567ed4-261c-42c3-bb5c-73434c423566" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="7698ca21-2b30-46b1-86a5-b3ec6e42e640" xmlns="http://www.w3.org/1999/xhtml">Land use and subdivision consents ‘run with the land’ i.e. can be used by whoever is the current owner or occupier. Discharge, water, and coastal permits do not ‘run with the land’ but can be transferred to a new occupier of a site.</div>
+    <div GUID="3c773645-3df1-4e46-a4b1-676a92710be4" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="23f6805d-0549-4711-87fd-2705d38ab3c5" xmlns="http://www.w3.org/1999/xhtml">Discharge permits and water rights (given under consent) are for finite terms. The maximum term for air and water discharge permits is 35 years, although councils often grant much shorter periods to monitor how the activity is undertaken and to gauge the actual effects on the environment. </div>
+    <div GUID="c718ee59-40ef-43b7-b4c8-c42711a91d39" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="2f284816-1c35-4e91-b421-6e3216516efe" xmlns="http://www.w3.org/1999/xhtml">Many consents now contain review provisions which allow the council to revisit conditions at a specified time or where a specified event occurs. While a consent holder can surrender a consent, it cannot be cancelled by council unless there was a material non-disclosure at the time it was granted.  </div>
+    <div GUID="6cec6c2b-9564-4599-879e-e755106506e6" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="2e4095c5-1a29-4d01-bc5d-37cb41cdd6a4" xmlns="http://www.w3.org/1999/xhtml">The application of the conditions of a consent, to the consent holder’s day to day operations, can often be a difficult process. A consent document should state on its face all of the limitations that apply to it (including all conditions). However, it can be subject also to limitations in the application documents or supporting information, which are not evident from the face of the consent. The general principle is that a consent cannot go beyond the scope of the original application.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page13" IsActive="true" GUID="e6ab4e59-1db5-4f82-8c3c-0b201f7ce2e1">
+      <IncludedInTOC GUID="bc18d995-fd06-4cfe-a6db-fe9ef029423d">true</IncludedInTOC>
+      <Title GUID="47d8a00d-4629-48a7-ae34-99a0acc5126b">Consent expiry</Title>
+      <PageElements GUID="f843e0cf-a39c-4d59-8761-b0560ff6fc7c">
+        <PageElement GUID="91d26ccf-161e-46e5-aeb0-158b0900cd2b">
+          <Graphic GUID="21fb01f6-eda7-47d6-af68-d2242e401065"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/036fb411-d95a-47ef-95cd-6cd7c7bd89da.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="07dfaa0f-7561-4624-876e-c0434603585a">
+          <TextBox GUID="edf8d6ef-6377-4d25-a820-63623a571d8c"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="dcbf26e1-24a7-4f3a-bf8e-f7677cf71610">
+    <div GUID="70b75542-7b71-40b4-87bd-316546865be3" xmlns="http://www.w3.org/1999/xhtml">It is essential that every company maintain a register of the expiry dates for all resource consents required by the business. If the consent expires, and no steps have been taken to obtain a fresh consent, the company will be liable to prosecution or other enforcement action. </div>
+    <div GUID="303b2966-3ef8-441a-89e9-d9fbc73e66d2" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="9e21fccd-097e-43a7-a11c-ca5d0e8acc6c" xmlns="http://www.w3.org/1999/xhtml">The company register should also record a review date at least eight months prior to the expiry date as any application for a new resource consent, made at least six months before the expiry of an existing consent, will entitle the business to continue under the old consent until a decision on the new consent (and any appeals) has been determined. </div>
+    <div GUID="8ca48439-9fe8-4eed-a657-2835bd47552e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="f3b67fbc-5197-4959-bca9-dd315430624f" xmlns="http://www.w3.org/1999/xhtml">A company can still enjoy those same rights if it applies for consent not less than three months prior to expiry, but only with the council’s permission.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page14" IsActive="true" GUID="cb9c25a1-89d2-4e34-a131-8cd91d97de1f">
+      <IncludedInTOC GUID="67e6199d-eea3-4d32-ac2f-f49d49b82bbd">true</IncludedInTOC>
+      <Title GUID="07c5d615-e492-42d9-8928-a1aaca96a303">Practical tips for complying with resource consents</Title>
+      <PageElements GUID="d78c1354-f35b-485f-abff-c4002cd95b00">
+        <PageElement GUID="932461a0-9d78-4cfc-905f-27bd534e5432">
+          <Graphic GUID="d8fbd124-50ca-4a51-8859-2ccea18219a5"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/850cfc72-d1bc-443b-8039-34079cf36b1f.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="19cb299d-1c8d-48e9-8d63-558f968d1021">
+          <TextBox GUID="96380838-ae2f-4589-8132-5674b769365b"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="aff99f8f-f602-4caa-ae3c-f635cdbcd2f2">
+    <div GUID="0a5d028e-e358-4b7f-881a-3196e8a2d332" xmlns="http://www.w3.org/1999/xhtml">Each site should have an environmental management system and plan which includes strategies for ensuring that resource consents are complied with. Consider also including obligations in contracts to obtain and comply with resource consents.<br GUID="587eca42-1aac-446e-8f49-e5d274ba5dcf"> <br GUID="7a55c846-1b61-4506-91a1-b3d01cf82f74">Site managers/supervisors should: </div>
+    <div GUID="06f5aa69-55d6-4d45-8318-455735bdfaf9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="84882d17-a8e2-4457-a267-3388848faaa4" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="4d7a8a93-d63a-4add-bc43-3da57871cb99">have access to all consents that exist for the operation - it is often a condition of a consent that a copy be kept on the premises at all times</li>
+    </ul>
+    <div GUID="89d21fa4-4cfa-4409-b658-86c357527845" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="fb5f67a6-0b93-4804-bd89-361a83a5dd00" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="c3eeaaed-9661-4595-b1b1-d8b83cfbdf03">have an up to date copy of consents relevant to their area of responsibility</li>
+    </ul>
+    <div GUID="f3595b4e-0c1f-45b0-841a-119317e58734" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="94842736-5c54-47ea-8ec7-5d8e812184ef" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="99e1055f-a433-43c7-8742-6bd29e9d0622">incorporate the requirements of each consent  into the relevant work procedures </li>
+    </ul>
+    <div GUID="98bc3b53-5615-4007-95d7-6fee5ca0a0dd" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c938556d-ba15-4250-8982-5d2b48fce893" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="4924612a-034e-49c3-a1ab-8e350c893a27">provide training so that employees and contractors understand the relevant resource consents (including any specific conditions) before they start work, and check that they comply with those requirements </li>
+    </ul>
+    <div GUID="2425af17-6a7b-48a6-8200-ae4249f91779" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="75316f0d-90a1-44a1-9c80-318cc726fe11" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="86a5a9fe-7bcf-4955-bb3c-4c1577ad2a60">encourage a culture of compliance with environmental law and resource consents.</li>
+    </ul>
+    <div GUID="6ea4f7d9-0825-4b16-a4ff-abfa9c3601d5" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="cb6fb4e9-18fc-4b08-a6e0-394f35f0b6b8">Employees should check with their supervisor to ensure the organisation has consent to undertake any activities that the employee has been asked to do that could harm the environment.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page15" IsActive="true" GUID="3da80947-077e-45ce-a2fa-7a112bf1ac21">
+      <IncludedInTOC GUID="d6c5fc00-a6dd-4204-b2f0-5baea09243da">false</IncludedInTOC>
+      <Title GUID="26af4151-681e-466d-9a99-0c6572090373">End of lesson</Title>
+      <PageElements GUID="70e668c6-cd9b-4147-88d2-23d8f930ee81">
+        <PageElement GUID="773d9ee0-dcad-41e7-93d5-29d92bb8ab8a">
+          <Graphic GUID="6f6c4dfa-0250-4c90-9be1-79a317072acc"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/00be98ba-feea-46be-82b6-5e3b15b58c42.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="29b39bcb-1c51-44f8-bf57-f10965925d33">
+          <TextBox GUID="d582fd1b-aa9e-41e3-83bb-464e24d8c27f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="431efc52-535e-4619-80b2-f8846cbf3b52">
+    <div GUID="01e279ca-40d8-43af-b1d5-9ce8b205c025" xmlns="http://www.w3.org/1999/xhtml">Congratulations! You have completed your lesson.</div>
+    <div GUID="d3b35a91-fa5f-44c6-97ad-914c6c1f62b3" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="015d8b3d-4000-4e76-9fc1-f0b78e1f067e" xmlns="http://www.w3.org/1999/xhtml">Click the <strong GUID="aa8503f5-d98c-4dab-93da-808b4a8400cd">End Lesson</strong> button to exit the lesson.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="957dfb67-5971-468a-85a4-e72c4d9d0ecd">
+          <EndLesson GUID="ebdd5b0e-4937-4bd0-8a21-236e0a144a44"> <![CDATA[<div class="EndLesson_Main">
+  <input type="button" class="Navigation_Button_Submit" value="End Lesson" onClick="__doPostBack('Lesson_End','')">
+</div>]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

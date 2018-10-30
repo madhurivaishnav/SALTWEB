@@ -1,0 +1,47 @@
+C:\Projects\Salt\Localization\bin\Debug\Localization.dll
+C:\Projects\Salt\Localization\bin\Debug\Localization.pdb
+C:\Projects\Salt\Localization\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Projects\Salt\Localization\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Salt\Localization\obj\Debug\Localization.dll
+C:\Projects\Salt\Localization\obj\Debug\Localization.pdb
+C:\Projects\Salt\WWWROOT_4.1.5 Release\bin\Localization.dll
+C:\Projects\Salt\WWWROOT_4.1.5 Release\bin\Localization.pdb
+C:\Projects\Blake Dawson\Salt\WWWROOT_4.1.5 Release\bin\Localization.dll
+C:\Projects\Blake Dawson\Salt\WWWROOT_4.1.5 Release\bin\Localization.pdb
+C:\Projects\Blake Dawson\Salt\Localization\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Blake Dawson\Salt\Localization\obj\Debug\Localization.dll
+C:\Projects\Blake Dawson\Salt\Localization\obj\Debug\Localization.pdb
+F:\SaltSource\WWWROOT_4.1.5 Release\bin\Localization.dll
+F:\SaltSource\WWWROOT_4.1.5 Release\bin\Localization.pdb
+F:\SaltSource\Localization\obj\Debug\ResolveAssemblyReference.cache
+F:\SaltSource\Localization\obj\Debug\Localization.dll
+F:\SaltSource\Localization\obj\Debug\Localization.pdb
+C:\transfers\saltcompiled\Localization.dll
+C:\transfers\saltcompiled\Localization.pdb
+C:\Projects\salt compiled\Localization.dll
+C:\Projects\salt compiled\Localization.pdb
+F:\Development\SALT_Source\SALT\WWWROOT_4.1.5 Release\bin\Localization.dll
+F:\Development\SALT_Source\SALT\WWWROOT_4.1.5 Release\bin\Localization.pdb
+F:\Development\SALT_Source\SALT\Localization\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\SALT_Source\SALT\Localization\obj\Debug\Localization.dll
+F:\Development\SALT_Source\SALT\Localization\obj\Debug\Localization.pdb
+C:\VS2008Projects\SALT\SALTSite1\WWWROOT_4.1.5 Release\bin\Localization.dll
+C:\VS2008Projects\SALT\SALTSite1\WWWROOT_4.1.5 Release\bin\Localization.pdb
+C:\VS2008Projects\SALT\SALTSite1\Localization\obj\Debug\ResolveAssemblyReference.cache
+C:\VS2008Projects\SALT\SALTSite1\Localization\obj\Debug\Localization.dll
+C:\VS2008Projects\SALT\SALTSite1\Localization\obj\Debug\Localization.pdb
+C:\VS2008Projects\SALT_SCROM_Integration\WWWROOT_4.1.5 Release\bin\Localization.dll
+C:\VS2008Projects\SALT_SCROM_Integration\WWWROOT_4.1.5 Release\bin\Localization.pdb
+C:\VS2008Projects\SALT_SCROM_Integration\Localization\obj\Debug\ResolveAssemblyReference.cache
+C:\VS2008Projects\SALT_SCROM_Integration\Localization\obj\Debug\Localization.dll
+C:\VS2008Projects\SALT_SCROM_Integration\Localization\obj\Debug\Localization.pdb
+C:\VS2008Projects\SALT_CPD_Integration\WWWROOT_4.1.5 Release\bin\Localization.dll
+C:\VS2008Projects\SALT_CPD_Integration\WWWROOT_4.1.5 Release\bin\Localization.pdb
+C:\VS2008Projects\SALT_CPD_Integration\Localization\obj\Debug\ResolveAssemblyReference.cache
+C:\VS2008Projects\SALT_CPD_Integration\Localization\obj\Debug\Localization.dll
+C:\VS2008Projects\SALT_CPD_Integration\Localization\obj\Debug\Localization.pdb
+C:\inetpub\wwwroot\SALT_CPD_Integration\WWWROOT_4.1.5 Release\bin\Localization.dll
+C:\inetpub\wwwroot\SALT_CPD_Integration\WWWROOT_4.1.5 Release\bin\Localization.pdb
+C:\inetpub\wwwroot\SALT_CPD_Integration\Localization\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\SALT_CPD_Integration\Localization\obj\Debug\Localization.dll
+C:\inetpub\wwwroot\SALT_CPD_Integration\Localization\obj\Debug\Localization.pdb

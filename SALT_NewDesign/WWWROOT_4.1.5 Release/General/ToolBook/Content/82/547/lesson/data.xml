@@ -1,0 +1,1115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Lesson:Salt:Bdw" PIVersion="1.0.0.0" productVersion="14.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="c1644a7f-f999-4f8d-97a0-9a11a831e291">
+  <Summary ID="ashapra01" GUID="e30ef0ac-fdea-4371-a354-8b9b0871acd6">
+    <ContentType GUID="cf07220b-3603-40d9-9a96-2e24585c3606">lesson</ContentType>
+    <UploadType GUID="eb649435-ca30-4e17-ac51-1c1b48824f93">correction</UploadType>
+    <Title GUID="df2f5513-ba80-45c6-a04b-9dea1d296ceb">Responsible Officers for APRA</Title>
+    <CreatedBy GUID="5697c14a-cb85-49a4-97ea-c665a3f3f70c">LTG Casual</CreatedBy>
+    <CreatedDate GUID="8fb8bfb6-fe54-458a-9dba-32d3a4d7a2ae">2005-04-11T09:49:14</CreatedDate>
+    <LastModifiedBy GUID="fd4b44f6-4938-4b99-8736-1f47ea3bf9d8">ltgtcher</LastModifiedBy>
+    <LastModifiedDate GUID="7ba38f91-f6ef-4f4f-89f5-5f961fe46fe8">2012-09-14T14:56:46</LastModifiedDate>
+  </Summary>
+  <Players GUID="b382b366-14a7-4dde-bf8a-a07809c880e6">
+  </Players>
+  <Pages PageFilter="0" GUID="33f526cf-0f3f-4c4b-8d5e-546b051c5fdb">
+    <Page ID="Page1" IsActive="true" GUID="01db0c48-c2db-411b-847e-404710544e12">
+      <IncludedInTOC GUID="87d77968-335a-4e80-9cb5-772b265ad896">false</IncludedInTOC>
+      <Title GUID="8bae5d9b-6a6b-441e-a426-50ebfc8e2322">Responsible Officers for APRA</Title>
+      <PageElements GUID="7c20f01a-bdad-40eb-b600-8ef360ea16ed">
+        <PageElement GUID="0989ff62-3fbd-4f1e-9070-9ed70fa928e3">
+          <TextBox GUID="43dea837-9775-4bcd-876d-d9f382e75061"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="e2b7b3d1-4464-4d14-8c15-1febb5f19e27">
+    <div GUID="55213aa6-c338-40f2-b7f9-446623aa149e" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="3fda894f-027d-44a4-b194-607143b7f362">
+        <font size="2" GUID="cffef123-68a5-4b32-80ab-71fe9fd06265">In this lesson you will learn about Responsible Officers for the Australian Prudential Regulation Authority (APRA).</font>
+      </div>
+      <div GUID="69ca101a-70d9-4daa-b1fa-10295eeb6ed4">
+        <font size="2" GUID="e88c1897-5974-4067-8e58-373b2e73412b">
+          <strong GUID="b7d43635-04e2-471b-aa41-b958e5977ad8">
+          </strong>
+        </font> </div>
+      <div GUID="2c43f19a-d6ec-49e2-a973-f020482bac21">
+        <font size="2" GUID="35a32ac1-424d-4567-b488-0b009a212d11">Click on the Quick Facts menu button above to view a summary of the lesson. </font>
+      </div>
+      <div GUID="c2464725-a6e0-487a-822c-b2603b0788d5">
+        <font size="2" GUID="dfffd52b-d95b-4539-bfa6-2533ebb0fe09">
+        </font> </div>
+    </div>
+    <div GUID="38d903c2-098f-4cb3-9490-981e7f9530a6" xmlns="http://www.w3.org/1999/xhtml">Click the ► button below to continue, or select a topic from the Table of Contents list.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="8dfbfbf9-cb3b-4910-a458-d686bc192650">
+          <TOC GUID="bd9d89ed-e948-4adc-8b3f-8a9b695e3953"> <![CDATA[<div class="TableOfContents_Main">
+  <div class="TableOfContentsTitle">Table of Contents</div>
+  <ul class="TableOfContentsList">
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page2')">Learning outcomes</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page3')">Where does the concept of responsible officer fit into APRA licensing system?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page4')">Superannuation law</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page5')">Regulators</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page6')">Background to these requirements</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page7')">Purposes and goals</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page8')">Differences between ROs, RMs and officers</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page9')">APRA licences</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page10')">What does APRA require before an RSE licence is granted?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page11')">Satisfying the Fit and Proper test</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page12')">Requirements of the Fit and Proper test</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page13')">APRA requirements</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page14')">General Officer's duties</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page15')">Ongoing compliance</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page16')">Corporations Act requirements</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page17')">What protection is available to an RO?</A>
+  </ul>
+</div>]]></TOC>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="14009055-9158-4489-808f-2267f9fd355f">
+      <IncludedInTOC GUID="50e02eef-38b1-4f4e-834d-3009df3c2c33">true</IncludedInTOC>
+      <Title GUID="a1f6d866-6da9-4cd4-9b17-67fcadf65891">Learning outcomes</Title>
+      <PageElements GUID="5a0dcd3d-2d72-4ef6-9fdc-6f2edcb29e2c">
+        <PageElement GUID="56c3d365-f3dd-459b-9398-d6936cc40d12">
+          <Graphic GUID="748d201b-b212-4f2d-81a9-8c0583975c6b"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/ac4e0baa-f6ed-4703-995e-7483456cb0ab.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="7a175d2a-945e-425c-ab16-f001e1636383">
+          <TextBox GUID="375c13b2-527e-4c2d-ae3b-aeab773670e2"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="08e38dad-df38-44ac-aabc-60302bddeae1">
+    <div GUID="c21ca8b7-ba03-4bdd-a9f4-9900e3765e13" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="a1e70c33-0882-4352-ba92-6f466f59043e">
+        <font size="2" GUID="ab4c5a21-182a-4848-9386-36c500f19db0">This lesson will help you develop competence in the areas listed below. The text establishes core knowledge and skills while the scenario questions are designed to help you self-assess your understanding in key areas. </font>
+      </div>
+      <div GUID="08be852e-79dc-4eb4-80d8-7425e8e64d4d">
+        <font size="2" GUID="30c0a350-7d4a-4ad1-aedc-450c3472f132">
+        </font> </div>
+      <div GUID="97620792-6bcf-4b81-bf8f-ee07e8e702fc">
+        <font size="2" GUID="0f6a8aae-05e7-4439-bf1d-bc261e838e20">The scenario questions will help you decide whether you have achieved the stated objectives before you undertake formal assessment. Scenario questions are not scored and your response is not recorded. </font>
+      </div>
+      <div GUID="4ca17c5e-a281-4069-be3d-90a74ccb50be">
+        <font size="2" GUID="51a30488-d645-4156-9120-bb03d3f8f298">
+        </font> </div>
+      <div GUID="a3758fd8-c130-4662-870f-4bf823a0466f">
+        <font size="2" GUID="db796320-22ca-4830-b952-9dc7770f32d0">After completing this lesson, you should be able to:</font>
+      </div>
+      <div GUID="29d37509-2648-412d-8a9e-1fcb879b4841">
+        <font size="2" GUID="e8d62c94-44da-4361-8163-a8c9081836d9">
+        </font> </div>
+      <ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" GUID="2d9c74c1-7f6e-440f-8786-e79f0b68127f">
+        <li GUID="a6b33cad-7383-442c-b0f4-601b18647d91">explain the concept, purpose, goals and requirements of Responsible Officers</li>
+        <li GUID="3ad376d1-dfba-447b-a182-31f61109ffa0">describe the differences between Responsible Officers and Responsible Managers</li>
+        <li GUID="70335571-6f8f-447e-a6db-5d2c0e4fa204">identify an RSE licence and its requirements</li>
+        <li GUID="dd6e240f-544f-4168-ba9e-4ab392624fb9">explain the requirements of the Corporations Act</li>
+        <li GUID="e359bcf8-2b21-42f7-bd67-186cd9a3013a">explain the protections available to a Responsible Officer</li>
+      </ol>
+      <div GUID="68325d4c-8887-4998-a039-751d2fff2822">
+        <font size="2" GUID="e2522b0d-54df-4e5f-809c-de3ae31c0fd0">
+        </font> </div>
+      <div GUID="071510c5-81d6-4268-bb8d-e6870d66e73a">
+        <font size="2" GUID="512bc843-4edb-4369-af09-3e052b08b94d">You should complete the lesson in 15 minutes. </font>
+      </div>
+      <div GUID="7493f878-7108-4ad1-97a2-7d87f8203e27"> </div>
+    </div>
+    <div GUID="cf06f825-ba2a-4e25-b740-476ab6bc61ac" xmlns="http://www.w3.org/1999/xhtml">To get started, please click on the ► button below.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="adfb3b85-ce41-4031-a349-922ddaab31b3">
+      <IncludedInTOC GUID="9161e5e1-1a66-4f67-84a6-11f845aee880">true</IncludedInTOC>
+      <Title GUID="a107e56c-ed8b-41b2-8781-2b386f49186f">Where does the concept of responsible officer fit into APRA licensing system?</Title>
+      <PageElements GUID="32665daa-ffbd-419f-8546-04b17a5ef64c">
+        <PageElement GUID="8120775c-77f0-4838-82a0-8c2566dbef77">
+          <Graphic GUID="cb0f520d-1ac5-4a20-93ce-31a921f6eaa9"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/1f332d02-1af4-4211-96f9-244692cc8a47.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="bfb364f0-96d0-4139-9b1c-b72d15497047">
+          <TextBox GUID="0b98956c-2a42-40a6-a0bf-9ad5edd7fec1"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="cb4062d3-9e8b-41f9-8fa0-c24a0139fcd6">
+    <div GUID="766b62de-d728-4411-8e61-1a2e4efc0c9a" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="73a9ff49-340f-4c82-990e-a1d145e8f607">
+        <font size="2" GUID="cb2e59c3-03d8-4091-aeb1-b88589bbdd7c">The licensing regime administered by the Australian Prudential Regulatory Authority (APRA) requires licensed superannuation trustees that are companies to have responsible officers.  These officers are directors and executives of the companies that are the trustees that administer the super funds. </font>
+      </div>
+      <div GUID="d8afe285-eb0f-4978-aae3-73e05e0a9424">
+        <font size="2" GUID="9da2194b-fe22-4767-a336-f6ce5ff4ae45">
+        </font> </div>
+      <div GUID="acabd0df-7cad-42b6-ac0d-cf2621e9bc7a">
+        <font size="2" GUID="80422abd-5482-42f6-99b4-b2e9f612e7e1">The APRA responsible officers can be contrasted with both the concept of "officer" under the Corporations Act 2001, as well as the "responsible manager" concept applied by the Australian Securities and Investments Commission (ASIC) for their financial services licensees. </font>
+      </div>
+      <div GUID="b61d99b7-a935-418e-bd90-9d25470b815f">
+        <font size="2" GUID="f08d99ff-66ef-4a14-853e-4433f9c623ee">
+        </font> </div>
+    </div>
+    <div GUID="0856f328-0ffc-44e3-9e36-7d74272bbf22" xmlns="http://www.w3.org/1999/xhtml">It is important that everyone understands the ROs' legal duties and responsibilities - the superannuation trustee companies and the ROs themselves. This is part of APRA's licensing requirements.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="eb2dd60d-e547-4a80-a637-7336439fa277">
+          <ExtraInfo GUID="0772c0c9-5541-4ab1-b277-8e4f75616e2f"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('e73563c8-634d-46e5-9b26-37ef9ffc88bc');">Click here to access links to APRA and ASIC</A>
+      <div ID="Content_e73563c8-634d-46e5-9b26-37ef9ffc88bc" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="db9d4d9c-836a-4a78-93df-6062bc00daee">
+                <div GUID="b309f50e-5294-40cc-9326-021e188bc55e" xmlns="http://www.w3.org/1999/xhtml">For further information on APRA <a target="_blank" href="http://www.apra.gov.au/" GUID="5cbc1d4c-4669-4fb1-97b0-50c9c21e9c0a">click here</a></div>
+                <div GUID="951acbb6-0ef5-4844-be6e-f01f822022e5" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="d7067408-f952-471b-b052-e9d1392fe022" xmlns="http://www.w3.org/1999/xhtml">If you would like more information on ASIC <a target="_blank" href="http://www.asic.gov.au/asic/asic.nsf " GUID="32c13f84-288d-48c0-a8d0-1a74ef98af8f">click here</a></div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('e73563c8-634d-46e5-9b26-37ef9ffc88bc');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="431434e0-bf3c-477b-b795-997d379539f4">
+      <IncludedInTOC GUID="d197ee9f-7370-44b3-9416-a93bee361711">true</IncludedInTOC>
+      <Title GUID="ad9529a5-ba35-47f3-b7d4-b4794ee4d88e">Superannuation law</Title>
+      <PageElements GUID="f84a9028-3233-4679-81ae-27d58444dfdc">
+        <PageElement GUID="ec555b76-ac0a-4a13-9cc6-25e19587518f">
+          <Graphic GUID="a6f0f3f4-4cf6-4f1b-9b36-5679605426e1"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/52050041-19e2-4779-877f-d3d5f3b0e01c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="02a7eb90-5885-4216-ad6e-9fe5bad40ff5">
+          <TextBox GUID="c0be874d-5f7f-415e-bfc3-a7d236bfbe30"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="4965156f-3518-4c7c-a858-2ab5b60ba955">
+    <div GUID="283e7b14-6ded-4b68-9d0f-c26138fe2f1c" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="30331f05-2de8-4c07-aad9-a3ea181c0e9d">
+        <font size="2" GUID="72bce913-c374-49fc-a6f8-87240e7d53b0">
+          <strong GUID="d7d9b7b1-4f7f-4380-b469-5b76ae1dce49">What is unique about superannuation law? </strong>
+        </font>
+      </div>
+      <div GUID="6301ff99-6e0e-471e-a446-0dd7ee0a82a4">
+        <font size="2" GUID="55871719-fc14-40d8-bc1d-21e381d720ff">
+        </font> </div>
+      <div GUID="f2f1b787-808f-4723-adfe-4656bd541036">
+        <font size="2" GUID="6ab4c213-4554-41d7-9071-b2685620f79b">Superannuation law is unusual because it is made up of a mixture of: </font>
+      </div>
+      <div GUID="633c345e-043c-4583-ba65-6c1d5a32ce49">
+        <font size="2" GUID="8eb2ccb6-f43f-49c9-987a-1eaf65d27342">
+        </font> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="3826c39e-5162-45e2-9386-f0983d042990">
+        <li GUID="79c26728-a18c-4c92-8938-07cfc4d96749">Corporations laws (Corporations Act 2001) </li>
+        <li GUID="bfa0e771-d207-40c4-be98-d9c748400691">General law (such as contract, tort, case law)</li>
+        <li GUID="9026013e-06a9-4e33-a128-5fa100cbfbbc">Superannuation Industry (Supervision) Act 1993 (SIS Act) </li>
+        <li GUID="c281583f-b8c5-4d86-89d2-493dfbb259a8">Trust law </li>
+      </ul>
+      <div GUID="b67ad4e8-e56e-4afc-ac40-02ea2759886d">
+        <font size="2" GUID="4a9b66fd-e5e5-4eb5-b409-6a5af8f1c52a">
+        </font> </div>
+    </div>
+    <div GUID="3a68bc71-2c5c-42db-90f1-0ddd5eb9df2a" xmlns="http://www.w3.org/1999/xhtml">These four major areas make up the complex legal back drop of making a superannuation fund compliant with the laws of Australia.  All sources of law are important. Regulators tend to enforce both the SIS Act and Corporations Act.  Members of super funds may bring actions using the general law and trust law, as well as parts of the legislation.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="a0247d45-36aa-4c2c-84c6-320dbac5c170">
+          <ExtraInfo GUID="5ecb89a4-ad1d-43cc-b10f-8f3b5453b087"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('0a6cd6c3-606a-4272-9b07-0b0ba0fe77c5');">Click here to access links to the above Acts</A>
+      <div ID="Content_0a6cd6c3-606a-4272-9b07-0b0ba0fe77c5" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="5ddaf092-a2d9-40ca-82e7-1201d89116fe">
+                <div GUID="ba3a4b0e-d8cc-47d5-88c5-faf6f8f17ce4" xmlns="http://www.w3.org/1999/xhtml">To view the full text of the Corporations Act <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200401854?OpenDocument" GUID="f657c340-3e4f-4344-9ae7-c2b7638b2d6e">click here</a></div>
+                <div GUID="f50fc41c-dfe6-44ae-b693-6b9d709f5e25" xmlns="http://www.w3.org/1999/xhtml"> </div>The full text of the Superannuation Industry (Supervision) Act can be <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200401321?OpenDocument " GUID="15933c2d-e9b1-4850-931a-5e26dcf7fa98" xmlns="http://www.w3.org/1999/xhtml">viewed here </a><div GUID="90b8c467-31e7-4d2c-92ff-c44d2d765731" xmlns="http://www.w3.org/1999/xhtml"> </div></Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('0a6cd6c3-606a-4272-9b07-0b0ba0fe77c5');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="e5237bbb-ca3c-420a-b8c8-6f94fa5a7e12">
+      <IncludedInTOC GUID="cafe7916-cca6-4d91-86b7-d5cf0fbab3ac">true</IncludedInTOC>
+      <Title GUID="3e99b975-d695-4a72-861d-c43851fba364">Regulators</Title>
+      <PageElements GUID="97652bc1-0e67-436d-8d36-9121ab7e7bcc">
+        <PageElement GUID="4d87c5fc-7f42-4e0e-a153-d4b9c184158c">
+          <Graphic GUID="c170ea69-bbf1-4025-bf4f-24b7c4a27732"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/abafb043-c9a0-414e-af92-6217d90a4b06.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="899057b9-7e50-4c44-81a9-6b928b51f278">
+          <TextBox GUID="eb87ad11-d679-4887-b25a-17e589961a18"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="46e8efa3-d096-4f6b-9349-3a583847ba11">
+    <div GUID="a6e26ac3-d716-4ca4-8270-3044806f7276" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="49d432bd-3642-410f-a791-5d1fddfcf095">
+        <font size="2" GUID="8daf8739-431f-43f2-b6fc-511e0b2c83a6">
+          <strong GUID="b00d6dc8-f47e-424d-b227-2fc1a1b0242f">Which regulators are involved? </strong>
+        </font>
+      </div>
+      <div GUID="f438b2f7-7b9d-461a-bb21-b66bdad1244f">
+        <font size="2" GUID="22fd4c83-c74f-45e9-9009-df3842c79241">
+        </font> </div>
+      <div GUID="7d2c923f-dc51-412e-baca-c309b46865e4">
+        <font size="2" GUID="2a3af9ce-0904-46e5-93b9-9b83984c0e58">Superannuation funds have three major Commonwealth regulators.  Each regulator has a different focus and a different operational approach to regulating super.  The three regulators are: </font>
+      </div>
+      <div GUID="9fae7bf7-c892-4880-bf3c-82e2ed45b216">
+        <font size="2" GUID="6cccd385-39d2-471d-b235-8c08c725a59d">
+        </font> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="603277a3-aa34-478a-b6a2-83022130f98e">
+        <li GUID="515f00ce-46ec-424f-bcdd-0136943bc94a">the Australian Prudential Regulatory Authority (APRA), which has a prudential supervisory role. A licensing scheme was introduced for super funds in 2006</li>
+      </ul>
+      <div GUID="db40f17e-0fb5-47da-b385-506b990c20ad"> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="9252831d-60be-451b-b4b3-1c8d831e0ae1">
+        <li GUID="f1f437f9-f2c9-4b34-9189-74c3ea1c33c4">the Australian Securities and Investment Commission (ASIC), which has a consumer protection focus and overall responsibility for licensing through the Australian Financial Services Licences (AFSL) regime</li>
+      </ul>
+      <div GUID="41e8c606-0591-4d8c-99ab-9fc0487c0048"> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="ab30cfac-970d-44a9-a1fa-c5a0b68416b6">
+        <li GUID="487afc1f-e4f8-4815-aa10-af16b4789a57">the Australian Taxation Office (ATO), which regulates the taxation of super and other related issues, and has a role as supervisory regulator of self-managed superannuation funds (or SMSFs).</li>
+      </ul>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="01811c15-6efe-4531-ad37-5b105ec910d7">
+          <ExtraInfo GUID="330c62b3-81a1-40c8-aed5-4da49b5abe6f"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('a9ce423d-f41f-47ec-8c39-bb95bbe107b6');">Click here to access links to the regulators </A>
+      <div ID="Content_a9ce423d-f41f-47ec-8c39-bb95bbe107b6" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="4feaba39-aafc-43fa-8071-242cf06660fd">
+                <div GUID="fbd70d6d-8c2f-47e1-b1c0-f1b26ea90acb" xmlns="http://www.w3.org/1999/xhtml">Further information on the Australia Prudential Regulatory Authority (APRA) <a target="_blank" href="http://www.apra.gov.au/" GUID="f6b66508-b66f-40e5-9aa7-de9305f4381e">click here</a></div>
+                <div GUID="a4f7d1e8-a849-49cb-8b5e-b7ec424f31ab" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="369716b6-a4dc-438a-ac17-c2e6f74b2537" xmlns="http://www.w3.org/1999/xhtml">Further information can be found on the Australian Securities and Investment Commission (ASIC) <a target="_blank" href="http://www.asic.gov.au/asic/asic.nsf" GUID="e4c72e42-6611-4c19-b420-1f6096e6d3a7">click here </a></div>
+                <div GUID="98fefaa8-de54-4af5-bd6d-f89e6c3aa54c" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="453fdde5-4172-42d1-b89a-36eef1ce5a94" xmlns="http://www.w3.org/1999/xhtml">Further information on the Australian Taxation Office <a target="_blank" href="http://www.ato.gov.au/ " GUID="ba25678c-3b9a-4541-af47-3287e18d3851">click here</a></div>
+                <div GUID="d6b87e08-831f-438a-9a55-4744df7850d6" xmlns="http://www.w3.org/1999/xhtml"> </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('a9ce423d-f41f-47ec-8c39-bb95bbe107b6');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="68d51efd-ff17-44a0-a581-07e2a9b50c74">
+          <ExtraInfo GUID="aef56f44-0160-4f52-a080-95dbf2976b0f"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('eca10ae6-5dc0-48b8-a600-7528ba13f6c0');">Click here to read a real example</A>
+      <div ID="Content_eca10ae6-5dc0-48b8-a600-7528ba13f6c0" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="e956dbe9-d008-4111-b240-7c34543a5615">
+                <div GUID="e742f7c3-f78e-4925-86d8-ff08eea132fc" xmlns="http://www.w3.org/1999/xhtml">
+                  <div GUID="eb1c4591-c593-417c-a45f-d0b22d896ee5">
+                    <font size="2" GUID="86c11415-013d-4d0e-9d61-4e4f8c04a201">
+                      <strong GUID="b6a4a36e-0baa-4092-b567-af5d8be98e4d">Trio Capital Limited</strong>
+                    </font>
+                  </div>
+                  <div GUID="b5a25ccb-c447-42d6-bc7c-9a47bbcac62e">
+                    <font size="2" GUID="f7ca448d-cab0-4d2b-9576-ff8f3454f94a">
+                      <strong GUID="e8101ee5-c2d5-4562-98a4-fdfd4cbbbf39">
+                      </strong>
+                    </font> </div>
+                  <div GUID="ff4ef647-f145-4884-9cd2-47496fde7424">
+                    <font size="2" GUID="23b6ddbd-7bb9-4b1f-8c90-70966c6b3beb">In March 2012 John Godfrey, a former Trio Capital Limited (Trio) director, became the sixth former Trio director to make an enforceable undertaking accepted by APRA. Godfrey is the first former Trio director who left the board prior to its 2009 collapse to give an enforceable undertaking. </font>
+                  </div>
+                  <div GUID="60dc487f-c1bf-4d58-9717-9e3d82086cbc">
+                    <font size="2" GUID="69716bb4-d3f5-4d6d-b86d-f33f0e0bf25f">
+                    </font> </div>
+                </div>
+                <div GUID="44dd6924-6de1-44bb-991d-7a36a03fea70" xmlns="http://www.w3.org/1999/xhtml">Godfrey was a non-executive director of Trio from February 2005 until June 2007 and was the Chairman from June 2005 to February 2007. APRA was concerned that Trio had failed to redeem existing investments. Trio had also made ongoing investments in EFL, an offshore hedge fund, in circumstances of concern to APRA. Trio also failed to redeem existing investments and made ongoing investments in ASF in similar circumstances of concern. </div>
+                <div GUID="b7bcfead-7db0-4851-a74c-b28e1d1e2c90" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="8155b24f-caa2-4ce5-8022-deba304d8811" xmlns="http://www.w3.org/1999/xhtml">
+                  <div GUID="6f13dfde-06bf-4b5b-8934-f57b5d7305ab">
+                    <font size="2" GUID="5af1aebc-478f-4eda-b01d-9ae4650e2484">Under this enforceable undertaking, Godfrey has undertaken, without APRA's prior written consent, not to act as a responsible officer or trustee of an APRA-regulated superannuation entity.</font>
+                  </div>
+                  <div GUID="b22b3eb9-bc01-4303-a727-f74c7b0f8587">
+                    <font size="2" GUID="182615d0-d88e-4b40-af34-72e20095b495">
+                    </font> </div>
+                  <div GUID="60a5933d-e2dc-4f4d-b9aa-d009754eff26">
+                    <font size="2" GUID="d3100df8-8fa4-470f-b2da-23bf7a37018c">APRA also accepted enforceable undertakings from other former Trio directors: David O'Bryen, Keith Finkelde David Andrews, Rex Phillpott and Natasha Beck.</font>
+                  </div>
+                  <div GUID="08790256-dd93-49bd-aeb2-c18f7a88e5b3">
+                    <font size="2" GUID="39880608-b840-4acc-9faf-6b1748983b2d">
+                    </font> </div>
+                </div>
+                <div GUID="c7e86a94-f1f2-4187-838f-32899fe74931" xmlns="http://www.w3.org/1999/xhtml">Under these undertakings the former directors have undertaken not to act as a responsible officer or trustee of an APRA regulated superannuation entity. </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('eca10ae6-5dc0-48b8-a600-7528ba13f6c0');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="06026f6b-6ef1-4cb3-845f-88a6d3c02c6d">
+      <IncludedInTOC GUID="aa48b9de-4355-429b-bc46-0bcb3d238474">true</IncludedInTOC>
+      <Title GUID="ce9247ff-b801-4996-80e8-c5729c2d7afc">Background to these requirements</Title>
+      <PageElements GUID="ae7872f2-40b9-418a-beff-8490353542c8">
+        <PageElement GUID="abb108a5-5165-4748-af28-4405ed03fbb9">
+          <Graphic GUID="ec4ba8a9-a98d-462f-a7d1-f5c66be26585"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/999ce075-a03e-4e51-9f6c-d4935c76054d.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="94d11c2f-23b6-4931-94d0-4affa8dff31f">
+          <TextBox GUID="ba55a25c-da41-4c35-bf1d-d6395cba2749"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="cddbeda3-c158-42f5-8f61-397dfa586197">
+    <div GUID="c3301fa8-a607-4d53-9c8f-d4d8f13fc2ba" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="af00fcb5-8728-4547-949b-08b3b9932956">
+        <font size="2" GUID="a1ed263c-cc0b-46f1-b5c6-515b14d2de9f">
+          <strong GUID="c66550db-c9fc-4d84-a94f-606b9cde0831">What is all the fuss about responsible officers? </strong>
+        </font>
+      </div>
+      <div GUID="b13682db-2819-43f1-b97d-1105b53369b1">
+        <font size="2" GUID="ec7d75f2-6981-4b4e-b1a4-562061270f91">
+        </font> </div>
+      <div GUID="6c07088a-1921-495e-aec3-a8fd2c5bf294">
+        <font size="2" GUID="679ae7c9-0c90-41f2-be40-ddc885b2a6c1">The Corporate Law Economic Reform Program (known as "CLERP") between 2002 and 2004 revolutionised the way financial services in Australia operated -- in particular, the licensing regime.   </font>
+      </div>
+      <div GUID="bce45dd9-8985-4c68-96fa-e11cd74d8d49">
+        <font size="2" GUID="67f13124-d674-41f2-94b2-acc80df524e5">
+        </font> </div>
+      <div GUID="91fcc078-050f-4b03-b4fc-053e7b48a8f9">
+        <font size="2" GUID="ee27844c-0dee-4fd8-a8d1-8e9531d17817">Prior to the Financial Services Reform Act 2001 (which was based on "CLERP 6"), there were different types of licences, depending on which financial services were being provided.  With the introduction of the Financial Services Reform Act, this was simplified to a single licence only, called an "Australian Financial Services Licence" (often referred to as an "AFSL").  All public offer super funds were required to obtain an AFSL from ASIC in respect of the financial services that they provided. </font>
+      </div>
+      <div GUID="5d9ae16d-b4bc-4878-a76b-01b8243d92f6">
+        <font size="2" GUID="71991221-0d33-4201-bc0b-444de31c0510">
+        </font> </div>
+    </div>
+    <div GUID="9e6edb76-11e5-43df-b03e-45e524630f52" xmlns="http://www.w3.org/1999/xhtml">The introduction of the "superannuation safety" legislation and the additional regulation by APRA of Registrable Superannuation Entities (RSEs) under the SIS Act in 2006, provided an additional level of security for the industry but also resulted in additional compliance costs.  However, APRA has stated that it has carefully learnt from the issues that arose from ASIC's AFSL licensing program and has tried to make the process as effective and efficient as possible.</div>
+    <div GUID="08a7abbd-8b4d-4398-abb2-0570ef40fccf" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200401321?OpenDocument " GUID="e2d8f008-9250-4329-9dde-2978ab67aaf2" xmlns="http://www.w3.org/1999/xhtml">Click here to access a link to the SIS Act </a>
+    <div GUID="2f4f3edc-a13a-4ccb-adb2-c7f4f8ae92d9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="d3b825be-174c-4023-ab9f-0a12eed32e7c">
+      <IncludedInTOC GUID="070662e1-6dbd-43ae-992c-cf282e73c7a3">true</IncludedInTOC>
+      <Title GUID="bee91e39-0062-454a-b1e2-7226fc8946f2">Purposes and goals</Title>
+      <PageElements GUID="ceec39b5-6452-4536-a6e9-8e8cfa973f54">
+        <PageElement GUID="b63b5633-6d83-41ce-82b8-4e24e573f5e8">
+          <Graphic GUID="681348e0-0cd7-43d3-9e1b-aaf390c4c6c8"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/56ac2651-fb44-41a6-a241-68415c4a14a7.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="6d74c576-8bc8-4262-804a-359cf671fe8c">
+          <TextBox GUID="07fc72f8-4dfe-4039-9dc3-c6beed1ec47f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="fa98c92c-03ae-4a5f-9151-a07e5b3446b9">
+    <div GUID="4c862ecc-d1de-47ef-8b32-7f669542e1a7" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="0976b2c6-613c-419f-bd6a-d9104c35c0bc">
+        <font size="2" GUID="71d1893a-6769-46d9-a162-07be0bd1552f">The main purpose of the RO in the context of the APRA licensing regime is to enable the RSE to demonstrate that its senior people satisfy the "Fit and Proper" test under the SIS Act.  </font>
+      </div>
+      <div GUID="87e4bd3c-7b36-4f0a-b742-85793de68d5e">
+        <font size="2" GUID="5e358c5e-a5c3-4709-a415-df423d9009f8">
+        </font> </div>
+    </div>
+    <div GUID="aca5f690-a39a-416b-8f7f-b31b29adf2ad" xmlns="http://www.w3.org/1999/xhtml">APRA's ultimate goal in administering the RSE licensing regime is to promote high standards of compliance, risk management and governance within the superannuation industry.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="f0fe5a33-98c2-4d3d-b1be-410677e01e34">
+      <IncludedInTOC GUID="808776cc-6093-4816-94ff-7020db00416e">true</IncludedInTOC>
+      <Title GUID="3ef32eca-e2da-4648-a15b-44d836308e86">Differences between ROs, RMs and officers</Title>
+      <PageElements GUID="4be8c2ef-9c29-40e3-b817-ccd0f5b6d469">
+        <PageElement GUID="1234d3b0-6d49-4371-85fa-59499665d8f1">
+          <Graphic GUID="0ae1eae3-e1e7-45ca-a06f-46be33195375"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/5dedc1e2-35aa-45bb-a5e8-69572af1198d.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="a846c1d5-eec9-4b09-9e80-254bca2996cb">
+          <TextBox GUID="f2c645b9-3ffa-4617-9b71-a6bf533fd88d"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="0a1ffd79-488b-449c-bac7-d4310b0d3158">
+    <div GUID="60e0e306-f0dd-4547-9ef2-11f9209f955f" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="59fdb47e-bca0-405f-a1d7-a8de3b4aa36a">
+        <font size="2" GUID="6b9b227f-0b72-4387-8218-26884fcd2339">
+          <strong GUID="6a46ac95-6a0e-4eff-b74c-666a528addb9">What are the differences between an APRA "RO", an ASIC "RM" and a corporate "officer"?</strong>
+        </font>
+      </div>
+      <div GUID="ac057d35-ebdd-4b77-b8b9-f729f54648ea">
+        <font size="2" GUID="75c4c9e6-17cd-4967-ada4-4cf880b563e6">
+        </font> </div>
+      <div GUID="7e70d193-ec0d-44dd-9e8c-f6ec90d6a7c2">
+        <font size="2" GUID="bfa49bfe-6f9a-4fe2-a414-9a8ba42785da">There can be much confusion between the definition of a nominated Responsible Manager under the ASIC licensing regime and the Responsible Officer under the APRA licensing regime. The main differences include:  </font>
+      </div>
+      <div GUID="8e918cd3-a54c-4356-bca0-d3b9fc6fdcee">
+        <font size="2" GUID="dc249cce-fe38-43a4-93af-6d7a6fd2c05f">
+        </font> </div>
+      <div GUID="f1ed80e0-3d76-43a5-b04c-defc1ea63762">
+        <font size="2" GUID="c1582e9b-9673-45df-a461-11e705bedd70">ASIC RMs</font>
+      </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="972c0004-bb90-4233-aa5c-9ace1b7ed6b7">
+        <li GUID="188a2dbd-6ae3-48c0-bf9e-593fdeb7c993">are part of the AFS licensing process administered by ASIC</li>
+        <li GUID="c530d838-0f49-424e-845b-c4c425f0795a">are a category of person nominated by an AFS licensee by which the AFS licensee may demonstrate to ASIC that it is able to discharge its statutory duty to maintain the competence to provide the financial services it is licensed to provide </li>
+        <li GUID="52b57a80-9988-48a7-806c-05bfc4a7e53f">do not have any personal obligations under the Corporations Act 2001; this is not a statutory office attracting its own obligations and liabilities under the Corporations Act, as is the case with directors or other officers under the Corporations Act</li>
+      </ul>
+      <div GUID="599248b8-d2d1-4e98-9e61-71c1936ec426">
+        <font size="2" GUID="9f7f2d09-3ba3-44b1-b537-b187124630fe">
+        </font> </div>
+      <div GUID="276f07a1-85f6-41a3-9e49-ed18b7f14f74">
+        <font size="2" GUID="e46a48fb-c48f-4a77-adb7-0eb51464ff7c">APRA ROs</font>
+      </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="7e1d2dcd-144e-46a7-a0f3-030add30febe">
+        <li GUID="ad59d441-d922-4bf9-8bf3-7d307ed311ec">are part of the Registrable Superannuation Entity (RSE) licensing process administered by APRA</li>
+        <li GUID="cc735c0e-7ca6-45e2-a085-d4f458b75052">are defined in s 10 of the SIS Act </li>
+        <li GUID="618439b9-0144-423f-ae22-3fc74bdacbe5">all staff who fulfil the definition, such as directors, secretaries or executives, will be deemed ROs </li>
+        <li GUID="f30c0801-255d-425b-9ec4-9ec6349bab0d">have certain technical functions under the SIS Act, but the main requirement under the SIS Act is that they must be "fit and proper" persons</li>
+        <li GUID="be608702-1400-433f-951e-6bb121894796">ASIC or the Federal Court of Australia may disqualify a person from being an RO if they have contravened certain laws</li>
+      </ul>
+      <div GUID="fa23d6c6-045c-4003-be7d-ec39bd1c3f6c">
+        <font size="2" GUID="3b2a52ac-5cc4-4d4d-9b3e-2d55cf68ee01">
+        </font> </div>
+      <div GUID="c64e6d21-6fec-4d49-9e2d-d03c986775f2">
+        <font size="2" GUID="65dadef0-3f14-48f0-bf46-8b6850f2e683">Officers</font>
+      </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="a3dcf66d-ef47-458c-b9fb-89d7aa33f460">
+        <li GUID="f3a97e47-f79a-4b11-93a1-64c7f18d10de">are defined in s 9 of the Corporations Act to include a director, secretary or senior manager</li>
+        <li GUID="7644ad6e-ee0a-4599-9965-b299341aa07c">are subject to strict legal duties under the law</li>
+        <li GUID="6fad981c-1a75-4b20-bb1e-144dbf1eaeef">there is a lot of case law which helps explain the meaning of "officer" of a corporation</li>
+      </ul>
+      <div GUID="bd41d87e-b1c0-422e-9231-505ec0170d19"> </div>
+      <div GUID="35864513-3506-4788-8baa-c46732313e36">To view the full text of the Corporations Act <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200401854?OpenDocument" GUID="167e5f9e-3355-42d6-9f7b-513aa70dac91">click here</a></div>
+      <div GUID="4e8429e3-1f2d-4235-a3ed-931b13a5853f"> </div>
+      <div GUID="349c3b7b-5414-46ce-8483-16af496403ea">The full text of the Superannuation Industry (Supervision) Act can be <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200401321?OpenDocument" GUID="b14c2c69-f89e-412d-afaf-b972fbde825e">viewed here</a></div>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page9" IsActive="true" GUID="459a1731-e2ab-40cb-8cef-063cf6d37637">
+      <IncludedInTOC GUID="be9f82e7-06fe-4783-ac10-210a00f49e77">true</IncludedInTOC>
+      <Title GUID="48bb53dd-c70f-4e6a-bf9f-db4d8494fc93">APRA licences</Title>
+      <PageElements GUID="7cf51ab3-2464-4db8-b803-23c4b21a8849">
+        <PageElement GUID="48e5b853-a71a-4bc9-a147-2a8d1a558511">
+          <Graphic GUID="5248b477-1f3e-4f54-8722-4b9ef1759d1d"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/9046bd86-d6f8-422a-818d-720884169589.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="f231d326-118d-47ec-8bb1-27296362a365">
+          <TextBox GUID="30e50419-8d92-4bd8-a9f0-aab5172febff"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="458825f1-82e5-42c2-8308-973fec34a8c5">
+    <div GUID="a2b88d3d-562f-4b37-817a-955a4d32414a" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="ab191d64-c979-4e0c-a0f3-f5042b039b23">
+        <font size="2" GUID="eb1601f4-0779-41cf-aba2-fdc2aee312ca">
+          <strong GUID="ed8760da-8e39-47ff-aa28-a9a6693cc4cc">What are the APRA licences and the need for a registered fund? </strong>
+        </font>
+      </div>
+      <div GUID="6bd55d8f-43cb-46b8-9f60-672d3ee09072">
+        <font size="2" GUID="37f568e5-9ab3-4993-8038-174e178e3a7b">
+        </font> </div>
+      <div GUID="39974f52-db05-4927-8c30-bcc7fcc0c4f4">
+        <font size="2" GUID="dae414c8-fe16-43b5-95ba-fde33d3c1878">APRA's RSE licence regulates which individuals and which corporate entities may act as suppliers of superannuation products and services within the superannuation industry.  </font>
+      </div>
+      <div GUID="1aba9237-e3e8-4c88-8fbe-77c0da827d55">
+        <font size="2" GUID="cd779660-25d9-4912-9e3d-75eab23eb256">
+        </font> </div>
+    </div>
+    <div GUID="e4ca9b7f-ec7c-4d4f-8113-a0fbd9777dd6" xmlns="http://www.w3.org/1999/xhtml">The SIS Act requires superannuation trustees to hold an RSE licence issued by APRA.  Once the trustee has been licensed as an RSE, they are then able to register various super funds under the single RSE licence with APRA.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page10" IsActive="true" GUID="2814c27c-512c-4b34-9cca-b7ea23f0de30">
+      <IncludedInTOC GUID="70060d6a-d411-4b44-b994-9395a40e7914">true</IncludedInTOC>
+      <Title GUID="af16a850-4c7e-480b-98e4-ef2c022d341f">What does APRA require before an RSE licence is granted?</Title>
+      <PageElements GUID="3f1c2a03-40a6-4211-9d93-6cba744e80cb">
+        <PageElement GUID="0b2ed9b8-ffb8-44e2-a50b-2e8acb356d10">
+          <Graphic GUID="1c8ebabc-a794-4883-aac5-08d0221e27e8"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/c8b7ab56-d15b-45c8-a97d-b5d66458cace.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="ecf3feb7-5944-42a8-b007-784fa7973096">
+          <TextBox GUID="6828d17a-0ef9-40b4-a290-76d53578c080"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="067fc372-044f-41b4-8bf6-2f1581a13529">
+    <div GUID="faa6070c-656e-49fb-89c4-53e579ecfcee" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="f2a0fa98-aad7-440d-91b9-4422a5028f82">
+        <font size="2" GUID="3515c27b-bf52-4b48-ad41-691303d1bf68">APRA has a variety of licensing requirements that must be satisfied before a RSE licence is granted and in order to maintain the licence once granted. The applicant for an RSE licence must satisfy the following: </font>
+      </div>
+      <div GUID="dcac3beb-1165-47cf-9099-e23030841ddf">
+        <font size="2" GUID="17f4db8d-f427-43a1-b486-4e2b0b322a3c">
+        </font> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="0debe4c1-14c9-456b-adaa-f54336810186">
+        <li GUID="d0cd043f-f054-4397-ab1f-f51a58dc737d">Meet the "Fit and Proper" standard</li>
+        <li GUID="233f69aa-46e8-43d4-85df-e67da0dd420b">Disclose material outsourcing of agreements</li>
+        <li GUID="c133b53f-9fdd-4ed1-be62-d7e202feb0b9">Demonstrate that it will comply with relevant laws and the conditions on the licence</li>
+        <li GUID="4b7e8533-8bc3-47a1-833d-2182f8a45610">Have adequate human, technological and financial resources</li>
+        <li GUID="69cabd9f-40bf-40cf-bc78-0c5b9160415a">Have a risk management strategy</li>
+        <li GUID="5b626ae8-5842-4e1b-b67d-63f750bca6f1">Have a risk management plan </li>
+      </ul>
+      <div GUID="e234d679-2657-47e0-8db5-0d42385f7f2f">
+        <font size="2" GUID="a4f0babb-4ff4-4f97-b121-36fa4a1a1f5e">
+        </font> </div>
+    </div>
+    <div GUID="0feb7939-c148-4d4f-ab18-7a8f7a9d2f5a" xmlns="http://www.w3.org/1999/xhtml">Of these the most important requirement for ROs is the requirement for the licensee to satisfy the "Fit and Proper standard" test. This fitness and propriety standard strictly applies to the RSE licensee. However, both the RSE licensee and each of its responsible officers are required to be "fit and proper". This requirement applies not just at the stage of applying for an RSE licence, but also during the course of holding the RSE licence.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page11" IsActive="true" GUID="bb297e76-790a-44d1-a979-b2f684774ffe">
+      <IncludedInTOC GUID="3dd5ec02-dabb-4adb-834c-8dcdf3d7108a">true</IncludedInTOC>
+      <Title GUID="8d1e3bfb-4c17-49ce-9d12-8c8ecbb05cb3">Satisfying the Fit and Proper test</Title>
+      <PageElements GUID="7cc50d38-f991-42c3-b7b7-563f44c2a7db">
+        <PageElement GUID="e7280eac-2ff0-46fd-9b34-00668f9c4751">
+          <Graphic GUID="ebfd585d-0b93-44af-b5f2-4c39295929a6"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/9be9ae46-b07f-4c2e-b0b0-26308c258462.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="dff44e06-856c-44ee-bed4-bcfeb29a0d6e">
+          <TextBox GUID="e1878ba5-cd16-455b-bc0e-c549c7926f14"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="056139f6-5c2a-476f-836c-d2d5e0f3103f">
+    <div GUID="f4ba25ca-866f-4dbf-9550-ec55c1459da7" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="8a9761bf-c4b8-4f53-805a-9c9c4782c09f">
+        <font size="2" GUID="6fe790eb-73d0-416c-8150-b98f5d19885c">
+          <strong GUID="ee922afb-810c-4b54-bc1c-997287f2deab">How does a licensee satisfy the "Fit and Proper" test? </strong>
+        </font>
+      </div>
+      <div GUID="f975eeeb-66cc-4338-aa87-d2584a013691">
+        <font size="2" GUID="a58beb49-bad3-4c73-b994-20e3dc920f12">
+        </font> </div>
+      <div GUID="ef0eae25-4b04-4aca-bed8-0c648b0eacf8">
+        <font size="2" GUID="2f6eb8e8-6e79-4351-906c-f883b7f540c0">The "Fit and Proper standard" is outlined in the Superannuation Industry (Supervision) Act 1993 and Regulations.  The operating standards prescribe that: </font>
+      </div>
+      <div GUID="7f8593a0-330a-43d6-951a-d743bedfee58">
+        <font size="2" GUID="e86a1017-8ee7-4dec-a013-82d73f2da994">
+        </font> </div>
+      <div GUID="c0159672-d3e6-4085-b73b-7b4a3d67a1fe">
+        <font size="2" GUID="fa122e30-35eb-47e1-9e3b-6d1a5177e27a">"…an RSE licensee meets the fit and proper standard if the RSE licensee possess relevant attributes that enable the RSE licensee to properly discharge the duties and responsibilities of an RSE licensee in a prudent manner". </font>
+      </div>
+      <div GUID="9ed35552-5baf-4181-aa42-72e77c808d85">
+        <font size="2" GUID="af0366f7-5e0c-4a1d-a826-39ef4eafbf9f">
+        </font> </div>
+      <div GUID="51156e83-3cdb-4cb4-8d63-f5a6dbf7d325">
+        <font size="2" GUID="56585875-0df2-4acc-893b-66f6dbe57957">"Relevant attributes" include that a corporate licensee must hold particular educational qualifications, technical qualifications and must possess knowledge and skills relevant to the duties and responsibilities of an RSE licensee.  </font>
+      </div>
+      <div GUID="35251296-4925-4d06-b45a-33b453b32dad">
+        <font size="2" GUID="e728d507-d2ed-420c-b6aa-a51e25622a33">
+        </font> </div>
+      <div GUID="c57d08d3-a13d-4798-8036-4b37646b8dad">
+        <font size="2" GUID="66c84f7f-6c54-471d-987c-7989d3dc4705">Both the "fitness" and the "propriety" limbs of the Fit and Proper standard apply both to the trustee and to its responsible officers.</font>
+      </div>
+      <div GUID="7996819f-eee2-4cf6-b3bf-c585f7a03d6a">
+        <font size="2" GUID="5f7f6df5-b803-48f6-96e2-e88c47e816db">
+        </font> </div>
+      <div GUID="cdbfe86c-1472-4f08-b0cc-e18e78e7c343">
+        <font size="2" GUID="7094054b-4d23-4a16-b7f4-65354fd2c148">APRA's Prudential Practice Guide states that APRA expects that all ROs will possess appropriate skills,</font>
+      </div>
+      <div GUID="c0c4eb41-01bf-4774-ae45-74b022dac6fe">
+        <font size="2" GUID="4bbc461a-d6b2-4803-92fb-13c4bdc582bb">knowledge and qualifications to carry out their appointed roles in order to meet the fitness limb of the standard. In APRA’s view, minimum requirements for all responsible officers of a trustee would include:</font>
+      </div>
+      <div GUID="dee6010f-419d-417e-a028-950d15c2c859">
+        <font size="2" GUID="c7618101-2989-48fb-8915-a23d4f42212f">
+        </font> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="00a41116-ac1e-4c99-89f0-2b547537a8ac">
+        <li GUID="c93a9efb-1337-40f1-a08a-d3db33a44223">an understanding of and an ability to implement the principles of section 52 of the SIS Act</li>
+        <li GUID="cd4254a8-7cfa-4a28-8d60-5b4022f1189e">knowledge of the SIS Act and the SIS Regulations  and other prudential requirements</li>
+        <li GUID="be439abf-ecb5-42f6-95e5-1f07d2bbba2b">a working knowledge of the accounting, auditing and operational processes relating to the trustee and those funds it manages</li>
+        <li GUID="d95b3524-39a0-48f1-b8b2-18d5ae2dc304">basic investment knowledge</li>
+        <li GUID="0593318b-fccd-4a28-90b9-bb275aa91a71">basic knowledge of RSE licensee law </li>
+        <li GUID="1a515763-e459-402d-bff8-17c40848cab7">awareness of areas where additional technical, professional or expert advice could be sought</li>
+      </ul>
+      <div GUID="7f316c5c-724e-479b-96cd-0567b0365b91">
+        <font size="2" GUID="5164ff98-4fec-4e65-9c26-ba9d659ebeac">
+        </font> </div>
+    </div>
+    <div GUID="921556a3-0170-4662-86fa-21fdcf2728eb" xmlns="http://www.w3.org/1999/xhtml">The Prudential Practice Guide states that, in respect of "fitness", APRA does not intend to set specific educational or technical qualifications, levels of knowledge, skills and experience to be demonstrated by licence applicants or trustees or their responsible officers. That is, each RO does not have to be a "superannuation expert". However, licensees should conduct induction and training for its ROs and should review the fitness and propriety of its ROs at least annually.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="6cae0239-ab47-4d11-b2f6-becc907d9f8c">
+          <ExtraInfo GUID="9c2cac6a-93ba-420e-9620-65d43bf1d2e3"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('372a0e38-e297-453e-b52e-052e71c59666');">Click here to read the RSE licence conditions</A>
+      <div ID="Content_372a0e38-e297-453e-b52e-052e71c59666" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="ed02e6b6-219f-4af9-852f-aa00f439e192">
+                <div GUID="69a35f9c-8c98-47c2-b73e-73b57c02259e" xmlns="http://www.w3.org/1999/xhtml">The RSE licence conditions are found in s 29D(1)(d), the text of which can be found by <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200401321?OpenDocument " GUID="27f074fd-874c-45c9-913b-75f8de3ac346">clicking here</a></div>
+                <div GUID="1cc9f3a7-11fa-4ae6-8e13-9c46499402ef" xmlns="http://www.w3.org/1999/xhtml"> </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('372a0e38-e297-453e-b52e-052e71c59666');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page12" IsActive="true" GUID="d00167d2-6b4f-40ea-bed2-18e6bd33eac3">
+      <IncludedInTOC GUID="d4676ae1-d5d0-41f8-a549-a31d9bbc8890">true</IncludedInTOC>
+      <Title GUID="6f9d2459-2234-49fa-9776-a227a95ee32e">Requirements of the Fit and Proper test</Title>
+      <PageElements GUID="5b28ba54-fe82-4e8d-a18b-aceea807ea4d">
+        <PageElement GUID="ecc1731e-6c13-4395-ae18-608858cfab17">
+          <Graphic GUID="539f45e0-fba4-45a0-9c8f-1f827b504a84"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/29705975-08dc-4af9-93f7-950646fc3988.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="cb987cb1-409d-46a4-b58e-ae14b463b694">
+          <TextBox GUID="f79e2398-4552-4324-8bc8-f499566d113f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="6f513d15-c7a0-4504-b314-84fd10fb78d6">
+    <div GUID="f214f119-7aae-466b-9723-e55ed70c4dac" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="90fabdb3-a97f-459a-bace-61df92665174">
+        <font size="2" GUID="637535b1-4fdc-48fe-afeb-2d07054c681b">
+          <strong GUID="b7d10c91-ecd0-4974-99c9-eb1d869d980c">Further requirements on the Fit and Proper Test:  </strong>
+        </font>
+      </div>
+      <div GUID="0a1dd4dc-4625-4cf1-aac9-2905cfe05888">
+        <font size="2" GUID="205aebce-87fe-4afa-90c8-d4c835f7d11a">
+        </font> </div>
+      <div GUID="5d681af7-928f-402b-811a-d2e7e0f9bb89">
+        <font size="2" GUID="3b663dd2-7558-41e3-92f8-b6bfee002369">If an entity seeking an RSE licence does not possess a particular skill, the skill can be sourced from an outside party.   Investment expertise or specific skills and knowledge can be gained through other third parties. Entities seeking RSE licences may hire an employee with these skills or engage the services of a consultant who will provide these services or skills.  </font>
+      </div>
+      <div GUID="eefd0d77-f17a-47b7-a9b1-f44ad7d6af83">
+        <font size="2" GUID="b5c2ddd4-39a0-4a6e-89f7-2791652080ba">
+        </font> </div>
+      <div GUID="4f28b521-a565-4b5c-8b7e-192738e09f6e">
+        <font size="2" GUID="f3208b1d-7808-4093-897c-b8e29064ef17">
+        </font> </div>
+      <div GUID="9e0c3c5d-fc90-49ea-9f0c-79ca05dce912">
+        <font size="2" GUID="20fdff98-6953-47df-9c0a-de01dec30825">APRA will examine the "propriety" of each individual. This test involves examining the individual's:  </font>
+      </div>
+      <div GUID="54ba6fe2-d6ef-4196-a709-5dde6ec9e096">
+        <font size="2" GUID="bf71aaa3-ddfb-4e51-9843-5e034e18c174">
+        </font> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="45cc6ed9-15e7-4227-9a9e-c870cb747fc1">
+        <li GUID="0a249c3a-03c3-4263-a248-622c91545aaf">character</li>
+        <li GUID="3b48d426-d8de-434f-a849-2884c6375091">competence</li>
+        <li GUID="301f4436-1788-4c9b-8aca-3d8f3c709acf">diligence</li>
+        <li GUID="40e17275-81d5-4908-b602-7e3c0c9431c9">experience</li>
+        <li GUID="387b1425-e850-40d9-b454-cd152449e30a">honesty</li>
+        <li GUID="92ce28c2-e322-4b24-837b-37bd5db7ec6a">integrity</li>
+        <li GUID="a84a542f-a115-489e-a385-ff745b4d2311">judgement</li>
+      </ul>
+      <div GUID="aed90d3b-0e4c-49f4-a3fe-744749225c77">
+        <font size="2" GUID="9320f5bb-ea1e-4dc1-8969-9305798cab06">
+        </font> </div>
+    </div>
+    <div GUID="d1da4029-7287-4e2c-a4c8-da58f3676f8e" xmlns="http://www.w3.org/1999/xhtml">The propriety limb of the standard must be met at all times by the trustee and by the RO, not just at the time of applying for an RSE licence.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page13" IsActive="true" GUID="f73ae77e-3091-4e4c-8425-7c007a6cecaf">
+      <IncludedInTOC GUID="00821d5b-b5c2-467f-8952-280b5677e283">true</IncludedInTOC>
+      <Title GUID="75518a1e-9917-4fa6-84aa-7bf12fbdc5e4">APRA requirements</Title>
+      <PageElements GUID="1580d02f-6e0b-4ee9-8b35-a986c53d412d">
+        <PageElement GUID="3512c54b-1d66-4f7b-a68f-439ef83902da">
+          <Graphic GUID="76ad8a2e-76bd-4c53-be18-7062cfe89016"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/7f16e222-20d3-415b-9172-540ac1d47ef9.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="6eefca08-1d41-448b-af2f-e19768eae0c1">
+          <TextBox GUID="013b67f8-55a5-4ad4-887b-3b53549936a3"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="41b83e33-d95b-489e-9ea5-0865b0272884">
+    <div GUID="c586a625-2aa5-4be4-b300-e1a078e11a41" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="809506c0-6d16-4399-b2aa-a4af8a307244">
+        <font size="2" GUID="b5d41977-ad8d-4f7c-af9c-812f9cbce71b">
+          <strong GUID="0fc8cec0-b10b-4831-b4ef-0747eac6a69e">So how does APRA determine who is "Fit and Proper"? </strong>
+        </font>
+      </div>
+      <div GUID="c2330c51-9223-48d7-893b-4762ff7c967a">
+        <font size="2" GUID="7550fb8d-b14f-4e29-92b4-6d0322b58145">
+        </font> </div>
+      <div GUID="71b1d3c3-097a-4b66-b829-1ce94e675547">
+        <font size="2" GUID="6d390416-d72c-43f3-a196-ee22ef1df031">All RSE licence applications must include for their ROs: </font>
+      </div>
+      <div GUID="5021f432-6897-42d1-8593-958dfe492e81">
+        <font size="2" GUID="28e80f86-6c33-44c2-8d21-0ac3f8d10fc1">
+        </font> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d021bd12-518e-426d-999b-147c278d7c27">
+        <li GUID="97313093-8d45-495c-8b6d-adf9ce5267dc">an up to date curriculum vitae</li>
+        <li GUID="e591837f-8b4a-48ba-8b0f-422871b44c07">an Australian Federal Police check for criminal convictions</li>
+        <li GUID="c769044e-25b8-44ed-8588-3096ede4dc37">"a detailed explanation and supporting evidence as to how the applicant (RSE licensee) meets the requirements of the Fit and Proper Operating Standard"</li>
+        <li GUID="6cb41e21-c789-44c6-887f-8fb46c74cb5a">details of any Executive or Non-Executive Director positions held with another corporation that is not the trustee corporation applying for the licence</li>
+        <li GUID="66cd22a0-6c8e-4790-949b-b286203bddac">details of any major shareholdings that exceed 10 per cent of the total amount of shares on issue</li>
+        <li GUID="df586edc-7592-42a0-8b18-733c2c60568a">if he/she derives any financial benefit, either directly or indirectly from an entity that provides services to the trustee, the name of the entity</li>
+      </ul>
+      <div GUID="311a2379-d936-4fcd-aa68-1b336d28df2b">
+        <font size="2" GUID="4c770445-2b8e-45ce-9b5c-3a274b21c11b">
+        </font> </div>
+      <div GUID="71336d37-059b-492c-9b86-e8dadcea74c4">
+        <font size="2" GUID="8d46b2e4-1c80-4578-a9ec-db28a68b0bd7">In its assessment as to whether a trustee or RSE licence applicant meets the requirements of the standard, APRA will examine the policy and processes that the trustee has developed to ensure that the fit and proper requirements are satisfied on an ongoing basis, and are regularly reviewed by the trustee.</font>
+      </div>
+      <div GUID="6af1e0e5-a807-49db-9bc9-39e95a1eb9cb">
+        <font size="2" GUID="de4fc750-8074-4d41-90c9-45e57c86f3ee">
+        </font> </div>
+      <div GUID="d7fe13f7-b9e5-429e-8082-5e35b1e085db">
+        <font size="2" GUID="5e1b4aad-40fd-498e-a092-7f9fdb3b3037">These policies will periodically examine the trustees' fitness and propriety requirements.  They will cover: </font>
+      </div>
+      <div GUID="bc4aa3a2-a36f-4721-8c1a-c0bd48a1eb31">
+        <font size="2" GUID="9b2bc097-13fd-426b-9e5b-9064fc7fe86b">
+        </font> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="af36983b-9ec2-432d-899e-8cb8d058b363">
+        <li GUID="8212546e-5cf0-400b-a506-f152e3a7864a">the compliance procedures to confirm a candidate's claims </li>
+        <li GUID="ee22fcaf-01db-473b-9470-637f3fa3db23">procedures to ensure that the responsible officers are not disqualified </li>
+        <li GUID="b61fe248-61da-4ca8-b385-68671a775b59">procedures to ensure that adequate and ongoing training is supplied </li>
+        <li GUID="e8f96f0c-fc8d-4397-b269-6594ee00a127">the correct induction procedures to be followed </li>
+        <li GUID="d1e687a6-d2ac-402b-8f8b-ce09d9845c87">removal systems to ensure that persons found not to be "fit and proper" will be removed from their position</li>
+      </ul>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page14" IsActive="true" GUID="cf2fd84a-511e-483c-a51f-1f889c197729">
+      <IncludedInTOC GUID="85e9362c-bf5e-41b2-8973-990781572e17">true</IncludedInTOC>
+      <Title GUID="7c6ffaf7-413a-4a4c-a6be-afc4ad41bf7e">General Officer's duties</Title>
+      <PageElements GUID="05c715be-629f-4208-afb5-27540d2261d9">
+        <PageElement GUID="99243a62-197d-4585-ad6a-7de65e754865">
+          <Graphic GUID="f70605a2-5217-4ccc-a34a-176c4e4e56ab"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/a9c2ccfe-0a30-4975-b75e-760ee87559af.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="311739c6-672d-47a2-b54f-5f588e0ad65d">
+          <TextBox GUID="cf2aa449-7194-4708-b956-bcaa20db52d9"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="1ea29811-da1e-4d9c-b133-215a51caa892">
+    <div GUID="b7516e73-dc4f-43dc-bd36-dc53af4719ae" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="a3a8d1da-da14-4be8-8ccc-8b3bc58064a2">
+        <font size="2" GUID="4b497631-9f53-4164-b4bf-e8e4c0b3fc33">
+          <strong GUID="ad8b016f-b061-47ea-8021-b57007b673ce">What are the general duties and responsibilities of officers of corporations? </strong>
+        </font>
+      </div>
+      <div GUID="6a35ae2a-8683-48c0-b5db-aef0181856f2">
+        <font size="2" GUID="1a7c85f9-ac6f-4d84-bf72-50a73a61a30d">
+        </font> </div>
+      <div GUID="6324bb5e-57a2-415e-8585-1d2794d8f710">
+        <font size="2" GUID="911562cb-db79-42ae-b757-58411e73b5e4">In addition to APRA RO responsibilities and ASIC RM requirements, directors and other corporate officers have a range of duties and responsibilities.  These include:  </font>
+      </div>
+      <div GUID="8f7dca9a-389e-4ff6-bff6-d7df74438c10">
+        <font size="2" GUID="5b949033-73c1-4b86-a02c-b06808f21e0e">
+        </font> </div>
+      <div GUID="2c9c4d86-38e4-4b1a-a17d-49dbc12f4d34">
+        <font size="2" GUID="8321c5df-ad40-4894-bb22-95fcbff412ab">
+          <strong GUID="b17fe769-c8d9-427e-8318-d510cf3848f3">(1) duties imposed by the courts through their judgments in cases </strong>
+        </font>
+      </div>
+      <div GUID="bc3d47b1-815e-44cb-945c-b0b8bacee52a">
+        <font size="2" GUID="9ccdbf1a-a0de-44c2-a5c4-0928a9a314df">
+        </font> </div>
+      <div GUID="00f076af-97b3-47ab-aef7-88f6246fb003">
+        <font size="2" GUID="5b1ff068-c4df-4730-bead-785b44e55144">
+          <strong GUID="cb0ea32b-f61d-4758-90df-67db318c4d16">(2) duties imposed by Parliament </strong>
+        </font>
+      </div>
+      <div GUID="012a293f-a798-4378-a5fe-4814c746c581">
+        <font size="2" GUID="81120c8d-0fa8-4b38-8013-ede290bddeaf">
+        </font> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" start="1" GUID="f972d946-afc1-485f-97fe-1b2abaab2a20">
+        <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="6c46faca-c70b-4657-b51e-5d8aa06c9297">
+          <li GUID="d949bd3b-385e-4981-adef-a480e1b404d7">These include duties imposed under the Corporations Act 2001.</li>
+          <li GUID="535bd7b4-41a5-4f2f-9bce-4561c94ad5c2">These can change continuously as legislation is amended  (eg CLERP). </li>
+        </ul>
+      </ul>
+      <div GUID="854344f3-29bb-4e0f-840c-70660b8bc50c">
+        <font size="2" GUID="94488b05-a209-44d4-b671-aeeebb5390eb">
+        </font> </div>
+    </div>
+    <div GUID="e4f9bcf4-8301-4cc7-9dd0-edd7f6247897" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="3aefe032-b009-43df-ba7a-daea2ba476d8">(3) ASIC and APRA prudential standards, regulatory guides and guidance notes</strong>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page15" IsActive="true" GUID="d5cac799-42ee-4fd4-a235-a4d5fc17067c">
+      <IncludedInTOC GUID="29edf3b2-d1d3-47df-a682-02ab5a061782">true</IncludedInTOC>
+      <Title GUID="f2c0242e-e94b-4dd2-a9c6-cb11b8b8e549">Ongoing compliance</Title>
+      <PageElements GUID="a0261992-8263-4e69-b94c-5f800d0a0d14">
+        <PageElement GUID="a2e16204-e3ef-4c14-8217-15ebd09d4f31">
+          <Graphic GUID="dd3b8e73-7d68-47bf-9a46-1a2c6b44250d"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/8dec65c5-66f7-41f8-b10c-a80e6c4b0735.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="17c73502-f214-4a67-8970-244e856ae592">
+          <TextBox GUID="f8eed234-1a77-4bed-8409-efc991bc584e"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="51c42cff-3baf-48c5-96a7-ab841270938f">Ongoing compliance procedures to enable continued satisfaction of Fit and Proper standard include such things as ongoing monitoring and review, and seeking up-to-date statements of personal information.  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page16" IsActive="true" GUID="99a1958f-1f1c-4876-8a60-b71a183d84ce">
+      <IncludedInTOC GUID="ae314370-9c6c-4d26-a44e-909c43e0e2fc">true</IncludedInTOC>
+      <Title GUID="c6e8d0b5-c472-4832-a301-8484c1f4bbfa">Corporations Act requirements</Title>
+      <PageElements GUID="a23f594d-c6af-4ec7-ab02-5f423d87d94c">
+        <PageElement GUID="8f0dc4f1-9ca7-4515-8ce5-7c95dd513ed7">
+          <Graphic GUID="52f182c1-2f53-44ae-affb-acd5f46d7c39"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/902e7651-91f6-4f82-b51a-f29e52eba3c0.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="c8601bad-b9fa-49d2-badb-c525b23205d6">
+          <TextBox GUID="740e4958-0e0a-4bf1-a1e0-61749b1f445e"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="16440e73-e8aa-46a0-8152-70254ea53b41">
+    <div GUID="d92b60cc-b786-4d91-8451-5f576b1f472c" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="d7e5ad87-8beb-4025-9c53-d022e2809ae0">
+        <font size="2" GUID="04a85362-4c4a-4b4d-b78a-87f6964b38ea">
+          <strong GUID="a3be6c09-528d-4ab8-9880-5f58b4be6ae2">Which Corporations Act provisions must officers comply with? </strong>
+        </font>
+      </div>
+      <div GUID="9af4212a-49e8-47e2-adbc-2a8477bf1e57">
+        <font size="2" GUID="3d40380b-b5a6-4b8d-a8cd-5aeb377dba3d">
+        </font> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="194b1f12-d21c-475f-99ec-86f6d8b6ffdf">
+        <li GUID="23b20f0b-0e59-478f-87fb-49aee4675dce">Duty to take reasonable care and diligence: s180 </li>
+        <li GUID="569b3604-1da9-405c-a457-874e01f219dd">Duty to act in good faith in the best interests of the corporation and for a proper purpose: s181 </li>
+        <li GUID="b08c897e-de28-47c6-a1e1-3cb5a28a8f2e">Duty not to misuse position: s 182 </li>
+        <li GUID="51f27f9d-ae52-4d40-af78-1739dd06f4bb">Duty not to misuse information: s 183. </li>
+      </ul>
+      <div GUID="b636671d-e274-4b99-bbb5-f4b611470b8e">
+        <font size="2" GUID="9a252217-6150-4d1e-b8b1-0eeec989241d">
+        </font> </div>
+      <div GUID="f6232d18-ce16-481a-91e7-f6de8055a2b8">
+        <font size="2" GUID="122469cd-6133-40b2-ad09-e4b97ef86350">There are range of civil and criminal provisions in the Corporations Act for a breach of these duties. </font>
+      </div>
+      <div GUID="66187510-26af-4ba7-9d88-b0b8748c8e8b">
+        <font size="2" GUID="431d4d09-00f8-4887-ac7c-36f3766302c7">
+        </font> </div>
+      <div GUID="268c93ba-ae6e-4b07-8b66-6e830319252c">
+        <font size="2" GUID="b9d5be62-16d6-43d7-afec-4fa0d3d5143e">In summary, an officer must take reasonable care and diligence, act in good faith and for a proper purpose, must not misuse position to their own advantage, and must not misuse information. </font>
+      </div>
+      <div GUID="8287a77b-4492-422d-8dcd-d36adf22fedd">
+        <font size="2" GUID="195f8d5c-0e81-4a2f-bee5-8807930ea0bf">
+        </font> </div>
+      <div GUID="6a5c1356-6a13-467a-a716-cabeb233372f">
+        <font size="2" GUID="ba5b4c21-59f2-4768-934c-6fb8f4a9f30f">In relation to the standard of care, a director or other officer must exercise duties with the same degree of care and diligence as a<strong GUID="7bee9734-952d-471b-b979-8f085fe13f35"> reasonable person</strong> would if they: </font>
+      </div>
+      <div GUID="bfa00608-3f75-4337-a365-c9d297b0b182">
+        <font size="2" GUID="6540dc51-f416-4543-95ca-9e64c5452b33">
+        </font> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="de1e379b-e9a2-4603-a597-55accae48c31">
+        <li GUID="c9f36a69-1ea3-49c1-9647-01ff0e5687b8">were a director or other officer of that corporation in its circumstances</li>
+        <li GUID="8b40d237-3a0e-4824-aff4-4acf22773297">occupied that office and had the same responsibilities within the corporation as the direct or other officer. </li>
+      </ul>
+      <div GUID="176f9dcc-6c7f-4506-be86-05279f1909a7">
+        <font size="2" GUID="39da2535-36e2-4d83-a73e-d977f1f94450">
+        </font> </div>
+      <div GUID="d26f369d-b2bb-40aa-ae3a-be01455963de">
+        <font size="2" GUID="54c3a5c4-f6f7-44be-9907-e8f7b4f10c10">An officer satisfies this duty of care and diligence if he or she:</font>
+      </div>
+      <div GUID="21d657c7-2a62-404c-b2c5-f2d970982d1a">
+        <font size="2" GUID="3b52c2f3-63d1-4ea4-ba6b-3b292ef69395">
+        </font> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="67152450-6351-4fc7-b318-11539016d0a5">
+        <li GUID="b95959e2-9fa5-46b3-b71f-a2cfaf25a424">made their judgment in good faith and for a proper purpose </li>
+        <li GUID="b6aeeaf7-64f4-482e-b0d8-5865ea663b36">does not have a material interest in the subject matter </li>
+        <li GUID="9a408eb2-11e0-44b7-b2b8-0142f0418844">informs themselves about the subject matter to the extent they reasonably believe to be appropriate, and</li>
+        <li GUID="c99f0791-c5e0-43f3-9281-43159b23e7ce">rationally believes the judgment is in the best interests of the corporation.</li>
+      </ul>
+      <div GUID="b58a9e76-54dd-4a4a-a52e-891dedea004f"> </div>
+      <div GUID="15c19532-49e1-4613-a303-d163e3a1f9d6">
+        <a target="_blank" href="http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200401854?OpenDocument " GUID="b01697fb-20ba-4a9d-8249-4cd3cbe86c6b">Click here to access a link to the Corporations Act</a>
+      </div>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page17" IsActive="true" GUID="441fed63-94d0-4ccf-8ba0-58b4a8a5551c">
+      <IncludedInTOC GUID="04c99e73-409f-426e-b2aa-ece270c1e550">true</IncludedInTOC>
+      <Title GUID="78cbfed4-bae5-41e3-84a7-008c23f44de3">What protection is available to an RO?</Title>
+      <PageElements GUID="3ef469c2-e009-42de-9138-c0488c26dad1">
+        <PageElement GUID="5ae1c962-d8b0-4ce7-adc6-6faa0d66014d">
+          <Graphic GUID="9fb1d3e6-88d7-460c-a9ea-443b34eedc25"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/99ada025-16e7-4816-8d76-516354a6542f.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="1f97a2c9-b425-457f-932a-ad8b34062806">
+          <TextBox GUID="886c4f85-ce82-438f-a25b-c97bf5bb65f7"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="8450ffbf-0779-419e-a566-85c877643b4c">
+    <div GUID="b2792c03-1613-4c31-b394-329458caa87f" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="dfacd4b8-fb44-45c9-8348-47ed69adca25">
+        <font size="2" GUID="e2a2ba11-48e3-4115-8095-1c46463a2ffb">Under the SIS Act, a trustee is indemnified from the assets of a superannuation fund for liability incurred while acting as the trustee (under section 56), and s 57 provides the same security for trustees' directors.  Further, directors and other officers are usually indemnified from the company of which they are a director/officer, and the company usually takes out directors' and officers' insurance in respect of its directors and other officers.</font>
+      </div>
+      <div GUID="a65e8669-9407-430c-b877-033170b4c04b">
+        <font size="2" GUID="3c31a56c-88a1-4484-8282-1539238aedeb">
+        </font> </div>
+      <div GUID="68b85f07-7d04-4b6d-990e-69f79e6d94ab">
+        <font size="2" GUID="f9169d67-7723-460a-a6f4-18d33fe176e8">However, the Corporations Act limits this indemnity: </font>
+      </div>
+      <div GUID="3df4fec0-ae34-498a-ac18-bde2b9fb37f9">
+        <font size="2" GUID="7fb27ee9-a244-4147-9591-32e15da948e7">
+        </font> </div>
+      <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="c4400243-4abd-4e1c-995a-e8ccc2100fd0">
+        <li GUID="725d8d2a-7347-4b9b-899c-e5c95ca23f08">trustee directors will remain personally liable where the corporate trustee is not entitled to be fully indemnified against the liability out of trust assets because the trustee breached its duties s 197 </li>
+        <li GUID="11a34d9e-3c3c-4d50-99ce-7a210b32eb41">there are restrictions on the ability of a company indemnifying its officers against liabilities owed by the officer, including legal costs in defending an action for a liability incurred as an officer s 199A</li>
+        <li GUID="21b83b1f-3c36-4484-aec8-75d93ee59e47">a corporate trustee must not pay an insurance premium for a contract of insurance that insures an officer against liability arising out of a wilful breach of the officer's duties s 199B<u GUID="3dde46f6-22e9-4495-a806-737bb26aec0e"></u></li>
+      </ul>
+      <div GUID="2a4a40cc-df7f-4d6e-a488-53878a82308f">
+        <font size="2" GUID="4122d988-1ec6-437b-9c47-1fe34df41648">
+        </font> </div>
+    </div>
+    <div GUID="cdd1fa6b-040d-45b1-9297-cdeeaa032278" xmlns="http://www.w3.org/1999/xhtml">Two High Court decisions in Australia affected the degree to which directors can escape liability or receive indemnity from the corporation.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="782bd547-cb8b-473a-99da-f97d57ea378b">
+          <ExtraInfo GUID="b0c9cadf-727e-4127-b0ea-ead3bafd1daf"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('49758bdd-0b06-4d07-98eb-2a6a06806358');">Click here to view two High Court decisions</A>
+      <div ID="Content_49758bdd-0b06-4d07-98eb-2a6a06806358" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="17fb4cea-04bb-4bf3-a1cc-d8813353dca7">
+                <div GUID="a9042614-a239-41fa-86c8-d56f6e2a6b54" xmlns="http://www.w3.org/1999/xhtml">
+                  <u GUID="14338fc3-e834-4a77-a32c-5c548b235f59">
+                    <a target="_blank" href="http://www.austlii.edu.au/au/cases/cth/high_ct/2005/17.html" GUID="156f1af1-3c64-41e6-951f-4290ef7cc991">Willkie v Gordian Runnoff (GIO)</a>
+                  </u>
+                </div>
+                <div GUID="10f3e1cd-45d0-4f1c-af7e-f63097923119" xmlns="http://www.w3.org/1999/xhtml">
+                  <u GUID="9bbdc40c-c43f-4ffb-85a5-63addb16765c">
+                  </u> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="78fc6bf7-ea3b-4a08-91a7-63eb171cd4df" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="9424721c-fa0a-4886-945e-4b51cd400638">The advancement of defence costs was allowed under the policy.</li>
+                </ul>
+                <div GUID="04398ee5-531f-451a-bdde-baf9ef18621e" xmlns="http://www.w3.org/1999/xhtml">
+                  <u GUID="8448c78d-5d0f-444a-833e-d38d4e7e8804">
+                  </u> </div>
+                <div GUID="08edd12e-7e89-4e1b-95e7-f4e9edb41a42" xmlns="http://www.w3.org/1999/xhtml">
+                  <u GUID="c317c1e6-2c5a-4256-ac94-212a40a95afe">
+                    <a target="_blank" href="http://www.austlii.edu.au/au/cases/cth/high_ct/2005/16.html" GUID="60305345-9a10-40f4-bb16-c41e8f793471">Rich &amp; Silbermann v CGU Insurance</a>
+                  </u>
+                </div>
+                <div GUID="5b069fca-72c4-4b59-9227-be384a67185e" xmlns="http://www.w3.org/1999/xhtml">
+                  <u GUID="d5f76941-7284-4edf-b078-fe52fd66cda9">
+                  </u> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="aba3cf19-07c1-416c-9a6e-48a7ea19a2df" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="d8fa5d9f-3537-4a21-ba51-4fea0b17c3c9">Insurer has discretion to pay defence costs and on the facts of this case decided to decline.</li>
+                </ul>
+                <div GUID="f37a6059-f2f3-4328-8954-7df4eb16965b" xmlns="http://www.w3.org/1999/xhtml"> </div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('49758bdd-0b06-4d07-98eb-2a6a06806358');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="244d6c44-c66a-4f2f-a1cd-635bee92cedf">
+          <TextBox GUID="cef1b4fa-594b-4071-ad4d-fe5d94d43f16"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="ebc80d70-5e23-444e-beb5-091b098fff15">It is important however, to remember that <strong GUID="07a7194c-721c-4cf3-9efe-19eb41067003" xmlns="http://www.w3.org/1999/xhtml">no insurance can ever cover criminal liability</strong>, such as fraud, but defence costs may be advanced. This will depend upon the terms of your policy and may need careful checking in the light of the requirements of the Corporations Act 2001 and the decisions of the courts.</Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page18" IsActive="true" GUID="1982244b-ceec-4f7f-8966-7074fd3bb9f2">
+      <IncludedInTOC GUID="69abccce-d13e-4b18-88d8-510e6288defe">false</IncludedInTOC>
+      <Title GUID="0ddb411d-0d94-4bee-b395-2b5b33fc1a39">End of lesson</Title>
+      <PageElements GUID="22194700-0549-411d-8589-2435190b2967">
+        <PageElement GUID="55a9e612-b96c-4bb0-bf34-566ce4cf9098">
+          <Graphic GUID="6c9c3efb-e591-40aa-8b4c-9423cb7770a1"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/70981625-5ba0-4c6f-a05f-cc98f7172279.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="5bc18640-fbe5-4b8f-b11e-fea0bdaa56fb">
+          <TextBox GUID="637631d9-f2bb-4219-957a-137a25b4dcac"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="ed5f9313-1825-45a5-adf6-70bbd333f38e">
+    <div GUID="93c1c4ea-7510-47a3-9ed5-781d994dd461" xmlns="http://www.w3.org/1999/xhtml">Congratulations! You have completed your lesson.</div>
+    <div GUID="c8d1c08a-9756-4ba9-8506-2e1bdbf7756e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="c3593c00-23ca-4ff7-ac38-a9d6ed008862" xmlns="http://www.w3.org/1999/xhtml">Click the <strong GUID="15987649-56b0-4e34-b5ae-9e804b957dfc">End Lesson</strong> button to exit the lesson.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="1c0ffdb5-04f0-4b47-93f9-158a31317c17">
+          <EndLesson GUID="70ce147b-79fd-45af-ba23-cb0b87bbc7f5"> <![CDATA[<div class="EndLesson_Main">
+  <input type="button" class="Navigation_Button_Submit" value="End Lesson" onClick="__doPostBack('Lesson_End','')">
+</div>]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This file is automatically created and modified by Microsoft Office InfoPath.
+Changes made to the file outside of InfoPath might be lost if the form template is modified in InfoPath.
+-->
+<xsf:xDocumentClass trustSetting="automatic" solutionVersion="1.0.0.264" solutionFormatVersion="1.100.0.0" productVersion="11.0.6357" publishUrl="D:\Work\SALT v3.0 Managed\SALT\InfoPath\Quiz\manifest.xsf" name="urn:schemas-microsoft-com:office:infopath:Quiz:-myXSD-2005-02-22T04-03-10" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xsf="http://schemas.microsoft.com/office/infopath/2003/solutionDefinition" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:xdUtil="http://schemas.microsoft.com/office/infopath/2003/xslt/Util" xmlns:xdXDocument="http://schemas.microsoft.com/office/infopath/2003/xslt/xDocument" xmlns:xdMath="http://schemas.microsoft.com/office/infopath/2003/xslt/Math" xmlns:xdDate="http://schemas.microsoft.com/office/infopath/2003/xslt/Date" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56">
+	<xsf:package>
+		<xsf:files>
+			<xsf:file name="template.xml"></xsf:file>
+			<xsf:file name="sampledata.xml">
+				<xsf:fileProperties>
+					<xsf:property name="fileType" type="string" value="sampleData"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="view1.xsl">
+				<xsf:fileProperties>
+					<xsf:property name="lang" type="string" value="1033"></xsf:property>
+					<xsf:property name="componentId" type="string" value="307"></xsf:property>
+					<xsf:property name="mode" type="string" value="97"></xsf:property>
+					<xsf:property name="xmlToEditName" type="string" value="179"></xsf:property>
+					<xsf:property name="warning" type="string" value="no"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="phrases.xslt">
+				<xsf:fileProperties>
+					<xsf:property name="fileType" type="string" value="resource"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="quizschema.xsd">
+				<xsf:fileProperties>
+					<xsf:property name="editability" type="string" value="full"></xsf:property>
+					<xsf:property name="rootElement" type="string" value="BDWInfoPathQuiz"></xsf:property>
+					<xsf:property name="useOnDemandAlgorithm" type="string" value="yes"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="Phrases.xml">
+				<xsf:fileProperties>
+					<xsf:property name="fileType" type="string" value="resource"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="Phrases1.xsd">
+				<xsf:fileProperties>
+					<xsf:property name="dataObject" type="string" value="Phrases"></xsf:property>
+					<xsf:property name="rootElement" type="string" value="Phrases"></xsf:property>
+					<xsf:property name="useOnDemandAlgorithm" type="string" value="yes"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+			<xsf:file name="upgrade.xsl"></xsf:file>
+			<xsf:file name="Quiz.dll">
+				<xsf:fileProperties>
+					<xsf:property name="fileType" type="string" value="rootAssembly"></xsf:property>
+				</xsf:fileProperties>
+			</xsf:file>
+		</xsf:files>
+	</xsf:package>
+	<xsf:importParameters enabled="yes"></xsf:importParameters>
+	<xsf:views default="View 1">
+		<xsf:view name="View 1" caption="View 1">
+			<xsf:mainpane transform="view1.xsl"></xsf:mainpane>
+			<xsf:editing>
+				<xsf:xmlToEdit name="Page_4" item="/BDWInfoPathQuiz/Introduction/Page" container="/BDWInfoPathQuiz" viewContext="CTRL1_5">
+					<xsf:editWith caption="Page" xd:autogeneration="template" component="xCollection">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment parent="Introduction" innerFragment="Page">
+								<Page ID="" IsActive="true">
+									<Title></Title>
+									<PageElements>
+										<PageElement>
+											<TextGraphic>
+												<Description></Description>
+												<Picture>
+													<Image></Image>
+													<AltText></AltText>
+													<Align></Align>
+												</Picture>
+											</TextGraphic>
+										</PageElement>
+									</PageElements>
+								</Page>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="PageElement_12" item="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement" container="/BDWInfoPathQuiz/Introduction/Page/PageElements">
+					<xsf:editWith caption="PageElement" xd:autogeneration="template" component="xCollection">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="PageElement">
+								<PageElement>
+									<TextGraphic>
+										<Description></Description>
+										<Picture>
+											<Image></Image>
+											<AltText></AltText>
+											<Align></Align>
+										</Picture>
+									</TextGraphic>
+								</PageElement>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Image_43" item="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement/TextGraphic/Picture/Image">
+					<xsf:editWith component="xImage"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Image_44" item="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement/Graphic/Picture/Image">
+					<xsf:editWith component="xImage"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Graphic_37" item="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement/TextBox" container="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement">
+					<xsf:editWith caption="Graphic" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<Graphic>
+									<Picture>
+										<Image></Image>
+										<AltText></AltText>
+										<Align></Align>
+									</Picture>
+								</Graphic>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Description_41" item="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement/TextBox/Description">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="TextBox_33" item="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement/Graphic" container="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement">
+					<xsf:editWith caption="TextBox" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<TextBox>
+									<Description></Description>
+								</TextBox>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="TextGrapic_35" item="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement/TextBox|/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement/Graphic" container="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement">
+					<xsf:editWith caption="TextGraphic" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<TextGraphic>
+									<Description></Description>
+									<Picture>
+										<Image></Image>
+										<AltText></AltText>
+										<Align></Align>
+									</Picture>
+								</TextGraphic>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Description_42" item="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement/TextGraphic/Description">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Page_68" item="/BDWInfoPathQuiz/Complete/Page" container="/BDWInfoPathQuiz" viewContext="CTRL117">
+					<xsf:editWith caption="Page" xd:autogeneration="template" component="xCollection">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment parent="Complete" innerFragment="Page">
+								<Page ID="" IsActive="true">
+									<Title></Title>
+									<PageElements>
+										<PageElement>
+											<TextGraphic>
+												<Description></Description>
+												<Picture>
+													<Image></Image>
+													<AltText></AltText>
+													<Align>Left</Align>
+												</Picture>
+											</TextGraphic>
+										</PageElement>
+									</PageElements>
+								</Page>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="PageElement_77" item="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement" container="/BDWInfoPathQuiz/Complete/Page/PageElements">
+					<xsf:editWith caption="PageElement" xd:autogeneration="template" component="xCollection">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="PageElement">
+								<PageElement>
+									<TextGraphic>
+										<Description></Description>
+										<Picture>
+											<Image></Image>
+											<AltText></AltText>
+											<Align>Left</Align>
+										</Picture>
+									</TextGraphic>
+								</PageElement>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Description_134" item="/BDWInfoPathQuiz/Questions/Page/PageElements/PageElement/Question/Description">
+					<xsf:editWith type="formattedMultiline" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Description_136" item="/BDWInfoPathQuiz/Questions/Page/PageElements/PageElement/Question/Answers/Answer/Description">
+					<xsf:editWith type="formattedMultiline" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Page_121" item="/BDWInfoPathQuiz/Questions/Page" container="/BDWInfoPathQuiz" viewContext="CTRL215">
+					<xsf:editWith caption="Page" xd:autogeneration="template" component="xCollection" useFilter="yes" filterDependency="../@PageFilter">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment parent="Questions" innerFragment="Page">
+								<Page ID="" IsActive="true">
+									<Title>Question</Title>
+									<PageElements>
+										<PageElement>
+											<Question>
+												<Description></Description>
+												<Answers>
+													<Answer ID="" Correct="false">
+														<Description></Description>
+													</Answer>
+													<Answer ID="" Correct="true">
+														<Description></Description>
+													</Answer>
+												</Answers>
+											</Question>
+										</PageElement>
+									</PageElements>
+								</Page>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Answer_135" item="/BDWInfoPathQuiz/Questions/Page/PageElements/PageElement/Question/Answers/Answer" container="/BDWInfoPathQuiz/Questions/Page/PageElements/PageElement/Question/Answers">
+					<xsf:editWith caption="Answer" xd:autogeneration="template" component="xCollection">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment innerFragment="Answer">
+								<Answer ID="" Correct="false">
+									<Description></Description>
+								</Answer>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="TextBox_167" item="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/SubmitAnswers|/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/Graphic" container="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement">
+					<xsf:editWith caption="TextBox" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<TextBox>
+									<Description></Description>
+								</TextBox>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Description_169" item="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/TextBox/Description">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="TextGraphic_170" item="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/SubmitAnswers|/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/TextBox|/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/Graphic" container="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement">
+					<xsf:editWith caption="TextGraphic" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<TextGraphic>
+									<Description></Description>
+									<Picture>
+										<Image></Image>
+										<AltText></AltText>
+										<Align>Left</Align>
+									</Picture>
+								</TextGraphic>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Graphic_173" item="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/SubmitAnswers|/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/TextBox" container="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement">
+					<xsf:editWith caption="Graphic" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<Graphic>
+									<Picture>
+										<Image></Image>
+										<AltText></AltText>
+										<Align></Align>
+									</Picture>
+								</Graphic>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="SubmitAnswers_175" item="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/TextGraphic|/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/TextBox|/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/Graphic" container="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement">
+					<xsf:editWith caption="SubmitAnswers" xd:autogeneration="template" component="xReplace">
+						<xsf:fragmentToInsert>
+							<xsf:chooseFragment>
+								<SubmitAnswers></SubmitAnswers>
+							</xsf:chooseFragment>
+						</xsf:fragmentToInsert>
+					</xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Image_178" item="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/TextGraphic/Picture/Image">
+					<xsf:editWith component="xImage"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Image_179" item="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/Graphic/Picture/Image">
+					<xsf:editWith component="xImage"></xsf:editWith>
+				</xsf:xmlToEdit>
+				<xsf:xmlToEdit name="Description_177" item="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/TextGraphic/Description">
+					<xsf:editWith type="rich" autoComplete="no" component="xField"></xsf:editWith>
+				</xsf:xmlToEdit>
+			</xsf:editing>
+			<xsf:menuArea name="msoInsertMenu">
+				<xsf:menu caption="&amp;Section">
+					<xsf:button action="xCollection::insert" xmlToEdit="Page_4" caption="Page"></xsf:button>
+					<xsf:button action="xCollection::insert" xmlToEdit="PageElement_12" caption="PageElement"></xsf:button>
+					<xsf:button action="xCollection::insert" xmlToEdit="Page_68" caption="Page"></xsf:button>
+					<xsf:button action="xCollection::insert" xmlToEdit="PageElement_77" caption="PageElement"></xsf:button>
+					<xsf:button action="xCollection::insert" xmlToEdit="Page_121" caption="Question"></xsf:button>
+					<xsf:button action="xCollection::insert" xmlToEdit="Answer_135" caption="Answer"></xsf:button>
+				</xsf:menu>
+				<xsf:menu caption="&amp;Replace With">
+					<xsf:button action="xReplace::replace" xmlToEdit="TextGrapic_35" caption="TextGraphic" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="TextBox_33" caption="TextBox" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="Graphic_37" caption="Graphic" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="TextBox_167" caption="TextBox" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="TextGraphic_170" caption="TextGraphic" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="Graphic_173" caption="Graphic" showIf="enabled"></xsf:button>
+					<xsf:button action="xReplace::replace" xmlToEdit="SubmitAnswers_175" caption="SubmitAnswers" showIf="enabled"></xsf:button>
+				</xsf:menu>
+			</xsf:menuArea>
+			<xsf:menuArea name="msoStructuralEditingContextMenu">
+				<xsf:button action="xCollection::insertBefore" xmlToEdit="Page_4" caption="Insert Page above" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertBefore" xmlToEdit="PageElement_12" caption="Insert PageElement above" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertBefore" xmlToEdit="Page_68" caption="Insert Page above" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertBefore" xmlToEdit="PageElement_77" caption="Insert PageElement above" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertBefore" xmlToEdit="Page_121" caption="InsertQuestion above" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertBefore" xmlToEdit="Answer_135" caption="Insert Answer above" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertAfter" xmlToEdit="Page_4" caption="Insert Page below" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertAfter" xmlToEdit="PageElement_12" caption="Insert PageElement below" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertAfter" xmlToEdit="Page_68" caption="Insert Page below" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertAfter" xmlToEdit="PageElement_77" caption="Insert PageElement below" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertAfter" xmlToEdit="Page_121" caption="Insert Question below" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insertAfter" xmlToEdit="Answer_135" caption="Insert Answer below" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::remove" xmlToEdit="Page_4" caption="Remove Page" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::remove" xmlToEdit="PageElement_12" caption="Remove PageElement" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::remove" xmlToEdit="Page_68" caption="Remove Page" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::remove" xmlToEdit="PageElement_77" caption="Remove PageElement" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::remove" xmlToEdit="Page_121" caption="Remove Question" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::remove" xmlToEdit="Answer_135" caption="Remove Answer" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::refreshFilter" xmlToEdit="Page_121" caption="Refresh Filter" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="TextGrapic_35" caption="Replace with TextGraphic" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="TextBox_33" caption="Replace with TextBox" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="Graphic_37" caption="Replace with Graphic" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="TextBox_167" caption="Replace with TextBox" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="TextGraphic_170" caption="Replace with TextGraphic" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="Graphic_173" caption="Replace with Graphic" showIf="immediate"></xsf:button>
+				<xsf:button action="xReplace::replace" xmlToEdit="SubmitAnswers_175" caption="Replace with SubmitAnswers" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insert" xmlToEdit="Page_4" caption="Insert Page" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insert" xmlToEdit="PageElement_12" caption="Insert PageElement" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insert" xmlToEdit="Page_68" caption="Insert Page" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insert" xmlToEdit="PageElement_77" caption="Insert PageElement" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insert" xmlToEdit="Page_121" caption="Insert Question" showIf="immediate"></xsf:button>
+				<xsf:button action="xCollection::insert" xmlToEdit="Answer_135" caption="Insert Answer" showIf="immediate"></xsf:button>
+			</xsf:menuArea>
+			<xsf:unboundControls>
+				<xsf:button name="btnQuestion_MoveUp"></xsf:button>
+				<xsf:button name="btnQuestion_MoveDown"></xsf:button>
+				<xsf:button name="btnIntroductionPageElement_MoveDown"></xsf:button>
+				<xsf:button name="btnCompletePageElement_MoveUp"></xsf:button>
+				<xsf:button name="btnCompletePageElement_MoveDown"></xsf:button>
+				<xsf:button name="btnIntroductionPageElement_MoveUp"></xsf:button>
+				<xsf:button name="btnPageElement_Delete"></xsf:button>
+				<xsf:button name="btnIntroductionPageElement_Delete"></xsf:button>
+				<xsf:button name="btnCompletePageElement_Delete"></xsf:button>
+			</xsf:unboundControls>
+		</xsf:view>
+	</xsf:views>
+	<xsf:applicationParameters application="InfoPath Design Mode">
+		<xsf:solutionProperties fullyEditableNamespace="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" lastOpenView="view1.xsl" lastVersionNeedingTransform="1.0.0.249" automaticallyCreateNodes="no" allowCustomization="no" scriptLanguage="managedCode"></xsf:solutionProperties>
+	</xsf:applicationParameters>
+	<xsf:documentSchemas>
+		<xsf:documentSchema rootSchema="yes" location="quizschema.xsd"></xsf:documentSchema>
+	</xsf:documentSchemas>
+	<xsf:fileNew>
+		<xsf:initialXmlDocument caption="Quiz" href="template.xml"></xsf:initialXmlDocument>
+	</xsf:fileNew>
+	<xsf:calculations>
+		<xsf:calculatedField target="/BDWInfoPathQuiz/Introduction/Page/@ID" expression="concat(&quot;Intro&quot;, count(../preceding-sibling::Page) + 1)" refresh="onChange"></xsf:calculatedField>
+		<xsf:calculatedField target="/BDWInfoPathQuiz/Questions/Page/@ID" expression="concat(&quot;Q&quot;, count(../preceding-sibling::Page) + 1)" refresh="onChange"></xsf:calculatedField>
+		<xsf:calculatedField target="/BDWInfoPathQuiz/Complete/Page/@ID" expression="concat(&quot;Comp&quot;, count(../preceding-sibling::Page) + 1)" refresh="onChange"></xsf:calculatedField>
+		<xsf:calculatedField target="/BDWInfoPathQuiz/Questions/Page/PageElements/PageElement/Question/Answers/Answer/@ID" expression="count(../preceding-sibling::Answer) + 1" refresh="onChange"></xsf:calculatedField>
+	</xsf:calculations>
+	<xsf:customValidation>
+		<xsf:errorCondition match="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement/TextBox/Description" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="Cannot be blank">Cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathQuiz/Introduction/Page/PageElements/PageElement/TextGraphic/Description" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="Cannot be blank">Cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathQuiz/Questions/Page/PageElements/PageElement/Question/Description" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="Cannot be blank">Cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/TextBox/Description" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="Cannot be blank">Cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathQuiz/Complete/Page/PageElements/PageElement/TextGraphic/Description" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="Cannot be blank">Cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathQuiz/Questions/Page/PageElements/PageElement/Question/Answers/Answer/Description" expressionContext="." expression="xdUtil:Match(string(.), &quot;\s*&quot;)">
+			<xsf:errorMessage type="modeless" shortMessage="Cannot be blank">Cannot be blank</xsf:errorMessage>
+		</xsf:errorCondition>
+		<xsf:errorCondition match="/BDWInfoPathQuiz/Questions/Page/PageElements/PageElement/Question/Answers" expressionContext="Answer/@Correct" expression="count(../../Answer[@Correct = &quot;true&quot;]) != 1">
+			<xsf:errorMessage type="modeless" shortMessage="Only one answer may be marked as correct.">Only one answer may be marked as correct.</xsf:errorMessage>
+		</xsf:errorCondition>
+	</xsf:customValidation>
+	<xsf:dataObjects>
+		<xsf:dataObject name="Phrases" schema="Phrases1.xsd" initOnLoad="yes">
+			<xsf:query>
+				<xsf:xmlFileAdapter fileUrl="Phrases.xml" name="Phrases"></xsf:xmlFileAdapter>
+			</xsf:query>
+		</xsf:dataObject>
+	</xsf:dataObjects>
+	<xsf:taskpane caption="Standard Text" href="Phrases.xml"></xsf:taskpane>
+	<xsf:save>
+		<xsf:useScriptHandler></xsf:useScriptHandler>
+	</xsf:save>
+	<xsf:documentVersionUpgrade>
+		<xsf:useTransform transform="upgrade.xsl" minVersionToUpgrade="0.0.0.0" maxVersionToUpgrade="1.0.0.249"></xsf:useTransform>
+	</xsf:documentVersionUpgrade>
+</xsf:xDocumentClass>

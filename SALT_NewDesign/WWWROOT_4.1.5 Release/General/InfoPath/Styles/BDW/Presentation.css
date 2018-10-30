@@ -1,0 +1,327 @@
+/* These classes are used by Page Elements*/
+.TextBox_Main,
+.TextGraphic_Main,
+.MeetThePlayer_Main,
+.ShowAllPlayers_Main,
+.MultiChoiceQA_Main,
+.FreeTextQA_Main,
+.ExtraInfo_Main,
+.Question_Main
+{
+}
+
+/*****************************************/
+/* TextBox styles                        */
+/*****************************************/
+.TextBox_Main
+{
+    color:#000000;
+    Font: Arial, "Lucida Grande", Verdana, sans-serif;
+}
+/*****************************************/
+/* Graphic styles                        */
+/*****************************************/
+.Graphic_Main
+{
+    height:100%;
+}
+
+
+/*****************************************/
+/* Text Graphic styles                   */
+/*****************************************/
+.TextGraphic_Main
+{
+    color:#000000;
+}
+.TextGraphic_Image_Left
+{
+    height:100%;
+    width:20%;
+    vertical-align:top;
+    text-align:left;
+}
+.TextGraphic_Image_Right
+{
+    width:20%;
+    vertical-align:top;
+    text-align:right;
+}
+.TextGraphic_Description
+{
+    vertical-align:top;
+}
+
+/************************/
+/* Meet The Player styles */
+/************************/
+.MeetThePlayer_Main
+{
+    color:#000000;
+    height:150px;
+    margin-top:1px;
+    margin-right:1px;
+}
+.MeetThePlayer_Image
+{
+    padding:2px;
+    vertical-align:text-top;
+    width:20%;
+}
+.MeetThePlayer_Name
+{
+    font-weight:bold;
+    height:20%;
+}
+.MeetThePlayer_Desc
+{
+    padding:2px;
+    height:80%;
+}
+
+
+/************************/
+/* ShowAllPlayers styles */
+/************************/
+.ShowAllPlayers_Main
+{
+    color:#000000;
+    padding:2px;
+    margin-top:1px;
+    margin-right:1px;
+}
+.ShowAllPlayers_Title
+{
+    font-weight:bold;
+}
+.ShowAllPlayers_Link
+{
+    font-style:italic;
+}
+.ShowAllPlayers_Player_Show
+{
+    border-top:solid 1px #000000;
+    border-left:solid 1px #000000;
+    border-right:outset 3px #aaaaaa;
+    border-bottom:outset 3px #aaaaaa;
+    
+    background-color:#ffffff;
+    color:#000000;
+    padding:2px;
+    
+    position:absolute;
+    width:400px;
+    height:250px;
+    left:50px;
+    top:50px;
+    display:block;
+    z-index:9;
+}
+.ShowAllPlayers_Player_Hide
+{
+    display:none;
+}
+
+
+/************************/
+/* Table Of Contents styles */
+/************************/
+.TableOfContentsTitle
+{
+    font-size:16px;
+    font-weight:bold;
+    color:#3399cc;
+}
+.TableOfContentsList
+{
+    color:#3399cc;
+}
+.TableOfContentsListItem
+{
+}
+.TableOfContents_Link
+{
+	text-decoration:none;
+    color:#3399cc;
+}
+
+
+
+
+/***********************/
+/* EndLesson styles      */
+/***********************/
+.EndLesson_Main
+{
+    text-align:center;
+}
+/***********************/
+/* Submit Answer styles */
+/***********************/
+.SubmitAnswers_Main
+{
+    text-align:center;
+}
+
+
+
+
+/***********************/
+/* Free Text QA styles */
+/***********************/
+.FreeTextQA_Main
+{
+}
+.FreeTextQA_Question
+{
+    font-style:italic;
+}
+.FreeTextQA_Input
+{
+    width:100%;
+}
+.FreeTextQA_FeedbackButton
+{
+    width:200px; 
+    height:20px;
+    margin-top:2px;
+    margin-bottom:2px;
+}
+.FreeTextQA_FeedbackButton_Hide
+{
+    display:none;
+}
+.FreeTextQA_Feedback
+{
+    display:none;
+}
+.FreeTextQA_Feedback_Show
+{
+    margin-top:2px;
+    border:solid 1px #AAAAAA;
+    background-color: #eeeeee;
+    display:block;
+    width:100%;
+    padding:2px;
+}
+
+
+/**************************/
+/* Multi Choice QA styles */
+/**************************/
+.MultiChoiceQA_Main
+{
+    padding:2px;
+    margin-top:1px;
+    margin-right:1px;
+}
+.MultiChoiceQA_Question
+{
+}
+.MultiChoiceQA_Answer
+{
+     padding-left:20px;
+}
+.MultiChoiceQA_AnswerText
+{
+    
+}
+.MultiChoiceQA_AnswerTextRadio
+{
+    vertical-align:middle;
+    
+}
+.MultiChoiceQA_AnswerFeedback_Correct
+{
+    display:block;
+    padding-left:22px;
+    color:#008000;
+    border:solid 1px #008000;
+    background-color: #eeeeee;
+}
+.MultiChoiceQA_AnswerFeedback_Incorrect
+{
+    display:block;
+    padding-left:22px;
+    color:#ff0000;
+    border:solid 1px #ff0000;
+    background-color: #eeeeee;
+}
+.MultiChoiceQA_AnswerFeedback_Hide
+{
+    display:none;
+}
+
+/************************/
+/* ExtraInfo styles */
+/************************/
+.ExtraInfo_Main
+{
+}
+.ExtraInfo_Heading
+{
+}
+
+.ExtraInfo_Link
+{
+    color:black;
+    font-style:italic;
+}
+
+.ExtraInfo_Hide
+{
+    height:20px;
+    display:none;
+}
+.ExtraInfo_Show
+{
+    margin-top: 2px;
+    padding-top:2px;
+    padding-left:2px;
+    display: block;
+    overflow: auto;
+    background-color: #eeeeee;
+    border:double 1px black;
+}
+
+/************************/
+/* Question styles */
+/************************/
+.Question_Main
+{
+
+}
+.Question_Text
+{
+    color:#000000;
+    padding:2px;
+}
+.Question_Answers
+{
+    color:#000000;
+    padding:2px;
+    text-align:left;
+    vertical-align:middle;
+}
+.Question_Answer
+{
+	margin-top:10px;
+}
+.Question_Answer_Radio
+{
+    vertical-align:middle;
+}
+
+.Question_Answer_Divider
+{
+    color: #3399cc;
+    height: 1px;
+    width:100%;
+    text-align:center;
+}
+
+.Hide_Link
+{
+    font-style:italic;
+    text-decoration:none
+}

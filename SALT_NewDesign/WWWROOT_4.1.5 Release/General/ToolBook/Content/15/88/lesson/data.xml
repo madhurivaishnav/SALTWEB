@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Lesson:Salt:Bdw" PIVersion="1.0.0.0" productVersion="11.0.8165" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathLesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-13T23-42-36" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="f18bf40a-eb61-4b83-9966-012d4dd07519">
+  <Summary ID="ksrma03" GUID="cf1a9949-22c0-4c9a-a4a8-586351ac27e9">
+    <ContentType GUID="0dbd3611-c758-4d5b-91a7-b5d899fe3d3d">lesson</ContentType>
+    <UploadType GUID="08ade159-45d8-4496-9d04-48ebad6ac94b">correction</UploadType>
+    <Title GUID="6e96cb49-b253-4a26-b912-07f9d2cb8e29">Environmental obligations under the RMA</Title>
+    <CreatedBy GUID="faa1bcd9-2d19-42a2-aefe-6d1860f0c5da">LTG Casual</CreatedBy>
+    <CreatedDate GUID="ef2660d8-9319-4857-9217-037038ba932e">2006-10-11T09:11:17</CreatedDate>
+    <LastModifiedBy GUID="6ee94558-cecf-4df9-bb78-b66bd5ba4991">ntomich</LastModifiedBy>
+    <LastModifiedDate GUID="cb7d0a6a-edf6-412d-9057-cbebd8e3fd91">2010-07-05T12:57:10</LastModifiedDate>
+  </Summary>
+  <Players GUID="742d231d-0896-4cc5-8df4-b87fb267735f">
+  </Players>
+  <Pages PageFilter="0" GUID="f2b3cccc-cb79-448c-b573-e157f5d5d7b1">
+    <Page ID="Page1" IsActive="true" GUID="83a8ca11-66af-4f6e-acb3-1955bc9d9d24">
+      <IncludedInTOC GUID="c120b003-448d-4578-af16-69320ea8a0c8">false</IncludedInTOC>
+      <Title GUID="70829d70-a324-4851-9db4-aca8f4965e7d">Environmental obligations under the RMA</Title>
+      <PageElements GUID="f55f21a4-c512-4e71-bd85-bead9fc2f6ce">
+        <PageElement GUID="6a5a9ee1-9132-4ae5-a576-2cbe3b089122">
+          <TextBox GUID="5afaf937-3d0b-45ec-95c9-0a2a6570df8e"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="dbb5a512-15ba-4f38-9a56-edeaa3136f57">
+    <div GUID="48fcf494-e697-4ec5-8b70-0512753f3025" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="03035d54-c6cd-4599-b40f-dad59ab241ae">
+        <span GUID="3388f51e-e19a-4687-983d-bd0c3c2e704d">In this lesson you will learn about general obligations in relation to land and water use under the Resource Management Act ('RMA') and rules about creation of noise, discharges of contaminants and other adverse environmental effects.</span>
+      </font>
+    </div>
+    <div GUID="1a0a1c8f-e4cb-4459-b15c-5e1215760fe5" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="91b4ae9f-ace8-40f6-a074-2b79ea62de7d">
+      </font> </div>
+    <div GUID="a33e37be-7f7d-4768-ab93-02bc3b289779" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="89f57c7a-e4b5-4fb6-ae9a-b507cdcdbe4a">
+        <span GUID="d4640aa6-b287-47f8-b0e8-dda30d2f64ae">We will help you to apply your knowledge by asking you questions about a scenario.  Please read the scenario carefully and keep it in mind as you work through the lesson.</span>
+      </font>
+    </div>
+    <div GUID="ff9be662-f5af-4299-be4a-a3dce8b9623f" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="d18bf357-226e-4792-9272-e1e2db128b97">
+      </font> </div>
+    <div GUID="ee7cb32d-6292-4559-a8cd-bf1aef994d03" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="853b7d19-a9c0-45e8-a90f-dbbf14fd4479">
+        <span GUID="3e775524-e0f5-480c-b23d-c677df67bbaf">Scenario questions are not scored and your response is not recorded. Use the feedback provided to consolidate what you have learned during this lesson.</span>
+      </font>
+    </div>
+    <div GUID="ba0d9804-e951-4d25-a37c-24b01752a097" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" GUID="9ab8f07f-db8d-4891-a3ab-806ba3aa94fc">
+      </font> </div>
+    <div GUID="21dbafe5-d42a-4dfc-9f50-a9f145a907a4" xmlns="http://www.w3.org/1999/xhtml">
+      <font face="Arial" color="black" GUID="fd601a90-2453-4b75-a914-35337d2ed85b">
+        <span GUID="a45a717d-e9b5-42a6-a06a-5e3dc6a89e83">Click on the <strong GUID="95216413-9d62-4180-9219-3874a9f2bd3b">Quick Facts </strong>menu button above to view a summary of the lesson. </span>
+      </font>
+    </div>
+    <div GUID="84bf0d20-6585-4526-b221-d17cb9ff229b" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="9c9942d0-a018-41a8-9d99-83bea87b4964">
+      <font face="Arial" GUID="efd6c6f1-3565-4ffa-850f-667f4d416397">Click the <font size="4" GUID="de293e11-6260-4486-b8c0-ad284f3b16cb">►</font> below to continue, or select a topic from the Table of Contents list.</font>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="6ac1c13a-d364-469c-98a7-9535592b30f5">
+          <TOC GUID="c1685f91-b19f-41f6-a075-e7fdfcbaa487"> <![CDATA[<div class="TableOfContents_Main">
+  <div class="TableOfContentsTitle">Table of Contents</div>
+  <ul class="TableOfContentsList">
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page2')">Learning objectives</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page3')">Hypothetical situation</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page4')">Land</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page5')">Water</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page6')">Discharge of contaminants</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page7')">When is a contaminant discharged?</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page8')">Scenario 1</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page9')">Noise</A>
+    <li class="TableOfContentsListItem" />
+    <A class="TableOfContents_Link" HREF="javascript:__doPostBack('TableOfContents_Click','Page10')">Other environmental effects</A>
+  </ul>
+</div>]]></TOC>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page2" IsActive="true" GUID="1dce896a-7092-4c9f-8109-1268e1d62063">
+      <IncludedInTOC GUID="21f031ba-bc17-44f0-aa01-f15ec29fd2b5">true</IncludedInTOC>
+      <Title GUID="cc6823ef-485d-40c6-8844-e942463b46e3">Learning objectives</Title>
+      <PageElements GUID="a5e3d107-f599-488e-a0b5-52414075edce">
+        <PageElement GUID="9dae68cc-91c8-42ff-98ec-c472b6fbdcbf">
+          <Graphic GUID="d2f0051b-4eaf-4b06-ad61-c064b9016c99"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/1770365c-6829-4329-b00e-3098f139a340.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="1a1ca2a4-70d9-4d25-bbc4-3c21decd356a">
+          <TextBox GUID="79240996-b228-4d0a-89fa-bcfedd8e8f3a"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="f9b16eb3-5b1a-4856-9189-6e2726348dcb">
+    <div GUID="ada39556-c83c-4cfc-bf1a-381bac3ec84b" xmlns="http://www.w3.org/1999/xhtml">This lesson will teach you about the general duties and restrictions imposed on all individuals and companies under the RMA.</div>
+    <div GUID="4b7517cd-e4fa-4306-86e6-418485c1dc51" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="1b949ad9-5858-4d9d-a685-04155b3762c1" xmlns="http://www.w3.org/1999/xhtml">You should complete the lesson in about <strong GUID="e76c9ad7-2494-48e5-bdfe-f795b737591d">15 minutes</strong>. </div>
+    <div GUID="89fab7e3-ac43-48b2-8a57-483ecd075df1" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="9a9135f7-e316-4538-820b-a6e9ba7c8d8c" xmlns="http://www.w3.org/1999/xhtml">At the end of the lesson you should have a clear understanding of:</div>
+    <div GUID="3b1c44f5-3654-4888-80d8-95b4983d66ec" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="a8c737ae-d933-47a1-921e-e7b6eef2342a" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="3f4aa992-6112-445d-8fb3-259f3986b08b">restrictions on the use of land and water under the RMA</li>
+    </ul>
+    <div GUID="807085bd-82a0-4667-b292-59baa409412d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="4e3ff96a-0367-4692-b775-6851dd807154" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="75e487d3-e53c-4479-b8c3-8911cfaaaa74">unreasonable noise levels</li>
+    </ul>
+    <div GUID="bddf1c97-4392-4911-a8f5-8684f6b1766d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="17e28996-9255-49e7-82e0-0783c32b7d6d" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="dccd2ae1-5bb3-4367-84e5-4863b35d4566">discharges of contaminants into the environment</li>
+    </ul>
+    <div GUID="3312c68f-07e1-41b5-bf7c-d9aab932b2b9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="a1166607-eb4f-4f9f-a052-b93e846f9c5b" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="94fb17c0-08f0-49c2-b503-9f15c2aa1b87">creation of other environmental adverse effects.</li>
+    </ul>
+    <div GUID="9efbd1d8-dcfe-401c-a793-8d1220e1a4a1" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="5692434e-b708-44fb-8b9c-c61fb6d8473b" xmlns="http://www.w3.org/1999/xhtml">To get started, please click on the <font face="Times New Roman" size="4" GUID="9f3593dc-2822-40b4-822e-9ad18c8f8e4d">►</font><strong GUID="dbc835aa-2f08-42ee-8969-36432859aa56"></strong>button below.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page3" IsActive="true" GUID="2a14ccc7-5296-40c7-ab5c-38f02b554d36">
+      <IncludedInTOC GUID="f1bf2fb3-52d8-4b79-8323-59251c466e1f">true</IncludedInTOC>
+      <Title GUID="a0e783f9-6815-43c9-b58f-2a0f285fc858">Hypothetical situation</Title>
+      <PageElements GUID="a89b2a90-e163-455e-b135-d665525b2719">
+        <PageElement GUID="78260d0d-30d3-4cac-87e4-ffd61226190c">
+          <Graphic GUID="354cb79d-4c69-474a-b202-2b9d0083a936"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/7cf56b7b-bf1c-4bf0-92e3-ba749d5faa24.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="29ac1159-8c6b-4c40-9df1-2a59acc9ac1c">
+          <TextBox GUID="0043341f-603d-45e6-a339-67b7febf6554"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="8a488941-2d4d-4091-9ee1-a509e6671a58">
+    <div GUID="cc0a796f-fd5c-49c7-b41b-9cfe0e5ac1cb" xmlns="http://www.w3.org/1999/xhtml">A mining company operates a gold mine. The mining operation uses cyanide to obtain gold from the ore. The waste ('tailings') generated by the processing operation contain cyanide, high concentrations of salt and other heavy metals. The contaminated tailings are piped from the processing plant to a large holding dam.  <br GUID="72d5c45b-90dd-43eb-bb39-5c86ec4c9cc5"> <br GUID="b1ac3647-a1a8-4895-8084-e27c2c577090">The mining company holds all necessary approvals for the mining operation, including a permit which authorises it to hold the tailings in the dam. The permit states that all runoff must be contained within the mine’s operational areas.<br GUID="d397ef38-ce09-459f-8ecc-1504c27875d2"> <br GUID="90939713-d541-477c-b696-a94fb722c475">Over a period of about a week there is a lot of heavy rain. The tailings dam is already holding more than its 75% design capacity. The dam overflows, and the tailings flow into a nearby creek, and then into a lake, killing fish and other wildlife.  There is no secondary (additional reinforcement) bunding around the dam to contain the overflow.</div>
+    <div GUID="b812162f-40dd-4586-9652-a833e0a0e0b9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="45354a80-be09-45ed-8c9e-4ac2ca8bdbb1" xmlns="http://www.w3.org/1999/xhtml">
+      <strong GUID="ea9d9ce5-5635-444c-b2dd-e81b96cf3d9f">Consider this scenario while reading the next pages...</strong>
+    </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page4" IsActive="true" GUID="80a319d3-c08d-4ee9-a362-4a5fda3a0a2e">
+      <IncludedInTOC GUID="8f8f0807-7f8f-461b-bd26-bc73423b1600">true</IncludedInTOC>
+      <Title GUID="e2e80624-e299-458d-861a-23fa53010ebd">Land</Title>
+      <PageElements GUID="9d75a87b-455c-4707-94cb-78d5c1d21517">
+        <PageElement GUID="006824c9-1032-476b-8eaf-c44478ffd33c">
+          <Graphic GUID="f93308cc-079f-49b4-9b84-af3dc1a420cc"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/c4c60f45-822e-43fd-91e4-c50ffc338937.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="198fe38f-fb16-428d-b220-b4c6128cdf0b">
+          <TextBox GUID="7904db6b-8b88-4b7e-b5a6-3a7ca09d9afc"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="078698a1-f4ab-4ea7-a2ad-897380300525">
+    <div GUID="43a71cd1-8d65-4bb2-80b8-b07b423f64bf" xmlns="http://www.w3.org/1999/xhtml">Section 9 of the RMA provides that no person may use land in a way that contravenes a rule in a plan unless permitted by a resource consent or unless the activity is an existing use.</div>
+    <div GUID="7fcecc45-038f-45f6-9029-8acdcd6cb858" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="0bd250a8-e934-43be-9924-d0a4be3a9a20" xmlns="http://www.w3.org/1999/xhtml">The effect of this provision is generally permissive, i.e. any use is allowed unless it is regulated under a plan. </div>
+    <div GUID="2cf5d03c-948c-4831-b1d3-8cd2b16732d5" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="6d67875e-a82c-45b9-bfe4-05b7a010500b" xmlns="http://www.w3.org/1999/xhtml">An important exception is the subdivision of land, which may only be carried out if it has been permitted under the district plan or pursuant to a resource consent. This means that the district plan will dictate what activities do, and what do not, require consent.</div>
+    <div GUID="5a460f5b-1425-41ca-abc7-3527ce83e524" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="17f8ae46-6cf5-4d1e-90a1-fb62df00a9de" xmlns="http://www.w3.org/1999/xhtml">The word ‘use’ is defined broadly and includes almost all activities in, on, under or over land. This includes disturbance to the habitats of plants (i.e. tree clearance) and animals and the alteration, removal and demolition of any structure or building. </div>
+    <div GUID="4971c529-3c7a-4f2f-b3be-6dd10e147ad9" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="3d551e10-962a-420e-95db-5734dddb5623" xmlns="http://www.w3.org/1999/xhtml">‘Land’ is defined to include the surface of water in any lake or river. However it doesn’t extend to lake or river beds or land in the coastal marine area (foreshore/seabed) which are dealt with separately under the RMA.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page5" IsActive="true" GUID="0deeb198-1e74-472e-851f-e7d2ceea05f9">
+      <IncludedInTOC GUID="b541e30d-683d-4c9d-b9c2-73671f6747ec">true</IncludedInTOC>
+      <Title GUID="6e049f6a-fd79-41d2-86e9-64979a1bae58">Water</Title>
+      <PageElements GUID="830da2fe-8154-4fcc-8336-096fed3db188">
+        <PageElement GUID="a3c25f4a-dde0-46e3-a3e0-3a81040bebad">
+          <Graphic GUID="1fde0f87-c622-4e50-91b4-a622e4fbdd3f"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/8b668890-e2eb-46a8-a83b-c744b7f3f1c8.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="7b7677e3-a7b4-4f05-9b9b-2a0ba86cb464">
+          <TextBox GUID="ac228e16-6bd5-4830-92fa-3b6987d84eed"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="f66334cc-1bf5-465a-b90e-8dbf568dfe2d">
+    <div GUID="b7a0131f-466d-45cc-98c7-9aabb65adb17" xmlns="http://www.w3.org/1999/xhtml">Section 14 of the RMA provides that no person is able to take, use, dam or divert any water unless allowed by a rule in the plan or pursuant to a resource consent. The provisions of the regional plan will dictate what consents are required for these activities.</div>
+    <div GUID="e9500337-9eb9-4b0a-8f16-d57998af4837" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="6446b08b-4ae5-4b32-b6b0-94c1c95c8d30" xmlns="http://www.w3.org/1999/xhtml">‘Water’ includes any heat or energy from water and sources of geothermal energy (with limited exceptions).</div>
+    <div GUID="e2946d9c-ff1a-4128-abf1-7947a9e77fda" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="c5b42162-da68-456c-8d88-35a9dfe140f0" xmlns="http://www.w3.org/1999/xhtml">If water is taken or used for an individual’s reasonable domestic needs, or the needs of animals, then this is permitted as long as there are no possible adverse effects on the environment.</div>
+    <div GUID="2887d73b-ef8b-4928-995e-203028d8a8d7" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="ccb8196d-50ee-48b8-b5db-aa63d9a0d314" xmlns="http://www.w3.org/1999/xhtml">Note that this exception does not apply to open coastal water.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page6" IsActive="true" GUID="e75e528f-5b91-4729-9884-16986b152683">
+      <IncludedInTOC GUID="ee7b0c9e-afec-4470-9f57-3133c3d830c4">true</IncludedInTOC>
+      <Title GUID="dfe8038b-b24b-4e9e-9e54-f4d8c48c11ad">Discharge of contaminants</Title>
+      <PageElements GUID="86838b56-a9c4-423a-8f6e-57b7f5c8c1aa">
+        <PageElement GUID="88cb7166-de1b-4d4f-ab8d-f148a0b5a89a">
+          <Graphic GUID="862eda00-122e-42e4-b234-3c005955a800"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/ec1a0d4e-6ad4-47c1-a172-928f7375eb23.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="0259e47f-59db-4e4d-8fe8-7797f071c167">
+          <TextBox GUID="37ba7e33-8e2d-422f-951f-c1ea5de26b09"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="eeacefa0-d8da-4d38-bd5f-216a574a39ed">
+    <div GUID="313c5f99-9e95-4fd0-a691-861d6e3d5b55" xmlns="http://www.w3.org/1999/xhtml">Section 15 of the RMA provides that no person may discharge a contaminant: </div>
+    <div GUID="f10e7f81-a560-436b-a2ba-27644f42e709" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d40e4830-66e5-462f-83d9-21e1f8d7f99f" xmlns="http://www.w3.org/1999/xhtml">
+      <li GUID="e324b63b-c891-449f-b6ec-cf00cebfa384">into water</li>
+      <li GUID="8a98a676-4cd3-40cc-bcaf-ea85443b217a">on to or into land in circumstances which may result in that contaminant entering water</li>
+    </ul>
+    <div GUID="b36d5881-4030-49e5-bfb1-ba43b6915381" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="81ef8ce0-1e6b-45c5-8bbd-9890797588fb" xmlns="http://www.w3.org/1999/xhtml">from any trade or industrial premises into air or land unless expressly allowed by a regional plan, resource consent, or regulations. </div>
+    <div GUID="d9d3b888-2747-4d2c-a8e7-af7a88e86b39" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="40b5a0f1-bb41-4790-b2a3-1ae0a8ba2f9c" xmlns="http://www.w3.org/1999/xhtml">An offence will be committed when a substance leaks, spills or otherwise escapes into water or ground water. It is also an offence to leave something where it can be washed, blown or fall into water (e.g. it is an offence to leave soil exposed on a construction site where it could be washed into a drain or creek). When a contaminant is released into the air, for example, through smoke stacks and does not have a permit this is also an offence under the RMA.  </div>
+    <div GUID="82a76878-680b-420e-a4cf-45f33eaf0cca" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="e8e0deed-ad22-4720-833f-0cd4bca5369c" xmlns="http://www.w3.org/1999/xhtml">Discharges of contaminants are generally prohibited unless they are permitted under the regional plan, or pursuant to a resource consent or are protected by ‘existing use’ rights. It is important to note that environmental offences under the RMA are ‘strict hability’ which means that it is irrelevant whether the defendant intended to commit the offence.  This is explained further in the Environmental Offences lesson.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="e1cc547b-bef6-4f0c-a969-5c816ec33bc4">
+          <ExtraInfo GUID="ef10df32-19a3-4c4b-92a5-16b03d6557b0"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('1ad2e065-7962-4fa8-a760-e9fff8559d75');">Click here for information on existing use rights</A>
+      <div ID="Content_1ad2e065-7962-4fa8-a760-e9fff8559d75" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="9621ceac-edd5-4e64-9038-08bf80152f90">
+                <div GUID="8cdd0a4c-b474-4152-bfa0-21a6cf52dad7" xmlns="http://www.w3.org/1999/xhtml">Existing use rights apply where an activity has been lawfully established before rules controlling that activity came into force.   Where it has been lawfully established, and the activity remains of the same ‘character, intensity and scale’, it will be protected against enforcement action (even if a rule is later included in the district plan which controls or prohibits it.) Note that for certain activities, existing use rights are only protected for a limited time, after which a consent will need to be obtained.</div>
+                <div GUID="2b910ea9-8cfa-4991-822e-077865a2143a" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="9cd154fa-4296-4214-8af4-58fc93ed26ce" xmlns="http://www.w3.org/1999/xhtml">For example, say Bob runs a contractors’ depot for storage and maintenance of machinery and has done so continuously for a long time. Then the local council changes its district plan which results in Bob’s land being re-zoned to a residential zone.  Bob can claim an existing use right based on his continued operation of previous years, and this would enable him to continue running his depot regardless of the zone change. However, if Bob increases the scale or intensity of his activity, then any such increased activity will be subject to the new regime and will fall outside Bob’s existing use rights.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('1ad2e065-7962-4fa8-a760-e9fff8559d75');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="5c8bfe84-ea5a-4ab7-b2b4-eb6901492ad9">
+          <TextBox GUID="acb7f93f-32ab-4e8d-ab2b-25f7d339b63e"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="b513ad56-34f2-4d6c-bd11-0fa3d2785412">
+    <div GUID="eadd5fa1-76e7-4aad-849d-1cf6cdf12883" xmlns="http://www.w3.org/1999/xhtml">A ‘contaminant’ is defined very widely under the RMA. It includes any substance, energy or heat which, when discharged into water or land, is likely to change the physical, chemical or biological condition of that land or water.  The definition also includes gases, odorous compounds, liquids, solids or micro organisms. </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page7" IsActive="true" GUID="4eb9fd3f-a533-4012-8010-14002e79573c">
+      <IncludedInTOC GUID="b524e225-94e3-4a21-bf5c-2826170a3335">true</IncludedInTOC>
+      <Title GUID="8def33b1-5728-4545-9fc6-4eb6b3b39dcb">When is a contaminant discharged?</Title>
+      <PageElements GUID="2753686a-7c7d-4a65-84c3-a570fbcd3520">
+        <PageElement GUID="de764fb0-9340-43a6-8d0f-399f00038ec9">
+          <Graphic GUID="1a1f460d-9ffa-4243-afe7-a4f01b3fb59c"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/a8d2fa61-365e-4b5f-8cd8-e878c2301769.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="0bdd7748-738a-4311-838d-ccd5f04e4222">
+          <TextBox GUID="ad9ea526-23ff-4304-b609-de94df065dcf"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="b45b7a8c-635c-4817-9a1d-5c7b59345135">
+    <div GUID="ca86e417-10bb-4deb-80cc-382b952867f6" xmlns="http://www.w3.org/1999/xhtml">A ‘discharge’ under the RMA means to ‘emit, deposit or allow to escape’. </div>
+    <div GUID="55906f6f-2082-44b6-977a-22967f2074c1" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="6c506560-c4f2-45ee-8a65-c9e0acbc7797" xmlns="http://www.w3.org/1999/xhtml">The Court has held that a person allows a contaminant 'to escape' when they fail to take precautions that a reasonable person would do to prevent an escape occurring.</div>
+    <div GUID="73ee573e-eaff-4660-975a-3531bfb587de" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="abf0c13b-ec25-4536-8732-66add344fc4f" xmlns="http://www.w3.org/1999/xhtml">Therefore, in the event of a spill, the company must be prepared to show it has taken appropriate preventative measures. </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="ccbcc533-8558-445e-bb6b-142f72c76de0">
+          <ExtraInfo GUID="ee4e91fe-c6ec-40ed-9e28-ceb4cb98cc3a"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading"></div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('0daa47b6-73bf-437e-bfb2-e1072fe00dbe');">Click here for Tips on Environmental Risk Management</A>
+      <div ID="Content_0daa47b6-73bf-437e-bfb2-e1072fe00dbe" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="45884c5f-bb86-469d-9609-86ae4f675006">
+                <div GUID="f72464b7-539e-478a-8733-f2fcbdd850a3" xmlns="http://www.w3.org/1999/xhtml">Some important aspects to consider and address in your business are:</div>
+                <div GUID="823d254b-470d-4c3a-a74c-55d15cf4ef02" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="aa79af0d-f1b4-43f2-890e-3624280a16ff" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="1a9f5993-9092-4324-91f2-f2dd0e370ad1">What are the hazards to which the environment may be exposed by your operations?</li>
+                </ul>
+                <div GUID="9cbdae37-b5fd-48fe-9d73-4b52ee1f00a8" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="ea6ecb74-20b3-4145-be1f-473305685dd7" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="722f1c2c-a060-4162-b6c9-df9416436553">What appropriate protective measures are in place?</li>
+                </ul>
+                <div GUID="67168e52-0570-4629-8650-c76a2ebc453d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="0f2e3f0b-c79e-49ac-9ff6-d666eb800abe" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="cdc8f111-e544-4a7b-acc3-b1edb25704c1">What (if any) standard practices currently exist for environmental risk reduction?</li>
+                </ul>
+                <div GUID="2666c6f4-7983-4d38-961e-acbe1b5c3b53" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="fd3be5e8-740b-4196-b737-0dd09eedad54" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="03466de0-a4ed-44f9-8133-10ee979cbb0d">Are emergency procedures in place?</li>
+                </ul>
+                <div GUID="8dfef0e3-6e39-436d-ab57-0d2298471835" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" GUID="d2b70e66-486f-4033-bce5-5dcd41ad42f8" xmlns="http://www.w3.org/1999/xhtml">
+                  <li GUID="e54192ee-ad2c-4cf4-9adf-5335277136c1">Do you have any areas of your operation which have had any environmental ‘near misses’? If so, have you determined how these occurred and what steps have you taken to remedy the situation?</li>
+                </ul>
+                <div GUID="74552a3c-228c-4c11-b31d-c907147b3f57" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="338dbd8a-ddfd-4c0b-a4fe-52edcc4721b5" xmlns="http://www.w3.org/1999/xhtml">These precautionary questions are especially important in terms of the potential discharge of contaminants, but they are also important for any other aspects of the business operations which may impact on the environment.</div>
+                <div GUID="fce201bc-a7eb-4a75-b5ca-e71d5d96bb20" xmlns="http://www.w3.org/1999/xhtml"> </div>
+                <div GUID="d6c6005e-1b69-413e-973b-554dbd6072b0" xmlns="http://www.w3.org/1999/xhtml">Prosecuting councils take into account the existence of compliance programmes, and especially any contingency planning and response capability.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('0daa47b6-73bf-437e-bfb2-e1072fe00dbe');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page8" IsActive="true" GUID="b8309b07-7bad-4a48-8047-ba05c467401a">
+      <IncludedInTOC GUID="8d8fda54-758c-4b0c-b47a-4a34fe56ca00">true</IncludedInTOC>
+      <Title GUID="5e905e77-5750-467a-bf16-946553997371">Scenario 1</Title>
+      <PageElements GUID="c2e8d9e9-b554-4444-9ec3-b8b949bb49e5">
+        <PageElement GUID="d824ff5f-d5d0-4724-8d20-c1fbd318684b">
+          <Graphic GUID="3c2f0f1c-5599-4ac3-9a4a-e834d3c01ab1"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/d7a19b18-6951-4d05-a144-4474371f4f81.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="db8d5d70-3b36-4b76-b037-b47764cdd9ba">
+          <TextBox GUID="9880a921-c732-4cf7-875c-b34255276907"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="32bf71e1-c435-4fd4-b561-9a0704ac217c">Do you remember the hypothetical situation?</Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="ce717884-9370-4346-be81-c7fdfb443ce1">
+          <ExtraInfo GUID="f2854b27-8c05-4310-ac1e-c42d185bbe45"> <![CDATA[<div class="ExtraInfo_Main">
+  <div class="ExtraInfo_Heading">If not, click here for a reminder and then try answering the question below</div>
+  <ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+    <li>
+      <A HREF="#" class="ExtraInfo_Link" onClick="TogglePopup('cae98b21-aa75-4bd5-9a1f-2be5813033f6');">Hypothetical situation</A>
+      <div ID="Content_cae98b21-aa75-4bd5-9a1f-2be5813033f6" class="ExtraInfo_Hide">
+        <table>
+          <tr>
+            <td class="TextGraphic_Description">
+              <Description GUID="88563366-a177-4ae8-869a-df0998b891ce">
+                <div GUID="db39d1bd-ff5f-409f-aba0-9bb16ce07e17" xmlns="http://www.w3.org/1999/xhtml">A mining company operates a gold mine. The mining operation uses cyanide to obtain gold from the ore.  The tailings generated by the processing operation contain cyanide, high concentrations of salt and other heavy metals. The contaminated tailings are piped from the processing plant to a large holding dam.  <br GUID="3483172a-ff5f-4431-8bda-88569d3c2e6b"> <br GUID="8c11e355-180c-406a-aed2-269f4f44d88e">The mining company holds all necessary approvals for the mining operation, including a pollution licence which authorises it to hold the tailings in the dam. The pollution licence has a condition which states that all runoff must be contained within the mine’s operational areas.<br GUID="b5865bb6-42e7-4eaf-86c6-582f3dd6d006"> <br GUID="9f18b8fa-8515-4c9c-824d-a76e0ad77a56">Over a period of about a week, there is a lot of heavy rain.  The tailings dam is already holding more than its 75% design capacity. The dam overflows, and the tailings flow into a nearby creek, and then into a lake, killing fish and other wildlife. There is no secondary bunding around the dam to contain the overflow.</div>
+              </Description>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" colspan="2">
+              <A HREF="#" class="Hide_Link" onClick="TogglePopup('cae98b21-aa75-4bd5-9a1f-2be5813033f6');">
+						[Hide]
+					</A>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>]]></ExtraInfo>
+        </PageElement>
+        <PageElement GUID="3ab9625a-5630-4626-b465-010c2ee754e5">
+          <MultiChoiceQA GUID="83933491-f453-45c6-ae0f-1bef84afc9d9"> <![CDATA[<div class="MultiChoiceQA_Main">
+  <div class="MultiChoiceQA_Question">
+    <Question GUID="7c29dc93-cc9c-4b7d-ad81-722a4db5be97">
+      <div GUID="c63cc789-6299-4e5f-bc84-1bdbbd53100a" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="50241037-13c7-40df-bcdc-2beae19ee882">Will the mining company be liable for a breach of the RMA?</strong>
+      </div>
+      <div GUID="338e14ea-512e-4f9a-a22a-3f8c50cc1e41" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    </Question>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q7c29dc93-cc9c-4b7d-ad81-722a4db5be97" ID="Afa82ea78-5480-4ca0-9344-a4d4776e2c96" onClick="ShowAnswer('fa82ea78-5480-4ca0-9344-a4d4776e2c96','true');">
+      <AnswerText GUID="731ebada-6255-48dd-b852-93a7456845df">Yes. The mining company has committed an offence because the tailings escaped from the dam into the creek and lake in a manner that did not comply with the licence.</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="fa82ea78-5480-4ca0-9344-a4d4776e2c96">
+      <Feedback GUID="ed0bf341-36d0-4781-b370-b52f76d09d33">
+        <div GUID="919e6fd8-5f82-4c8c-b808-b6fcb21da2e2" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="51e2949f-68c2-40ae-a158-c63722e89749">That is correct!</strong>
+        </div>
+        <div GUID="187d1008-3cd6-4a3b-bffc-09b89c42296d" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="362fdd56-fc53-425e-bff6-d697e2d1d2f3" xmlns="http://www.w3.org/1999/xhtml">The mining company has committed an offence because the tailings escaped from the dam into the creek and lake in breach of the licence.</div>
+      </Feedback>
+    </div>
+  </div>
+  <div class="MultiChoiceQA_Answer">
+    <div class="MultiChoiceQA_AnswerText">
+      <input class="MultiChoiceQA_AnswerTextRadio" type="radio" name="Q7c29dc93-cc9c-4b7d-ad81-722a4db5be97" ID="Ab2243c4d-1c8d-4466-8be5-b31b115f9b43" onClick="ShowAnswer('b2243c4d-1c8d-4466-8be5-b31b115f9b43','false');">
+      <AnswerText GUID="3d1a4dec-3d64-405f-8727-98c89bdfaa8a">No. The mining company has a consent for the dam, so any spills or leaks from the dam will be OK.</AnswerText>
+    </div>
+    <div class="MultiChoiceQA_AnswerFeedback_Hide" ID="b2243c4d-1c8d-4466-8be5-b31b115f9b43">
+      <Feedback GUID="6fc7f9ef-f73c-4431-8c0e-c001ab5ffcd0">
+        <div GUID="0e1819d8-649a-481c-9bb4-c134987daf2c" xmlns="http://www.w3.org/1999/xhtml">
+          <strong GUID="39541f7e-9ef2-4a62-96da-761c7592bfc5">That is incorrect. </strong>
+        </div>
+        <div GUID="0f57f67d-15fe-46da-bb1b-2313f30ebfb8" xmlns="http://www.w3.org/1999/xhtml"> </div>
+        <div GUID="cdf855ad-6d15-4b4d-9319-86ee6702bf6c" xmlns="http://www.w3.org/1999/xhtml">The mining company has committed an offence because the tailings escaped from the dam into the creek and lake in breach of the licence.</div>
+      </Feedback>
+    </div>
+  </div>
+</div>]]></MultiChoiceQA>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page9" IsActive="true" GUID="e864c32e-79f7-4531-ae7a-e9513f54a190">
+      <IncludedInTOC GUID="87ab4e23-9a9e-4170-b801-55c4e47081f6">true</IncludedInTOC>
+      <Title GUID="d4f1b039-38c4-4b15-9053-b55dcc4c6b99">Noise</Title>
+      <PageElements GUID="37adeab4-560d-4ce7-8764-c5833d0c09a9">
+        <PageElement GUID="b1449813-5f75-4052-a91e-3d7537b6cd3c">
+          <Graphic GUID="e5ff3ab9-4b02-4f78-8378-cd0f3aaa1518"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/d0bc7707-29f7-41db-aaae-c5f2b603da2b.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="a6576878-9afb-4b5e-8873-f2f0adb79a7d">
+          <TextBox GUID="4fd8e875-f05a-4945-9c12-0014abd7c72d"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="c87f092d-4a9f-49ac-912d-520eb1106a8f">
+    <div GUID="4ac6d070-f798-4b39-ad08-775d8c0ce610" xmlns="http://www.w3.org/1999/xhtml">Section 16 of the RMA imposes a duty on occupiers of land to avoid unreasonable noise. Occupiers are required to adopt the ‘best practicable option’ to ensure that noise doesn’t exceed a reasonable level. This duty does not limit the rights of councils to set noise emission standards in their district plans, or restrict noise levels in resource consent conditions. </div>
+    <div GUID="1d3fa585-36de-410b-b33b-8c154e028773" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="477802cc-9732-455c-a8d4-eaecb13c981b" xmlns="http://www.w3.org/1999/xhtml">What is a reasonable level of noise will depend on the context of a business’ operation – what is reasonable in a port facility will differ substantially from a business in the CBD. Compliance with a rule on noise control, or a generally accepted NZ standard, may not be sufficient if the level of noise is still unreasonable in the circumstances.</div>
+    <div GUID="023d0f99-dbf4-4c21-8219-38293d317ba1" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="046e850c-0698-4b52-aed3-d78692676c92" xmlns="http://www.w3.org/1999/xhtml">If the level of noise created by an activity contravenes any district plan rule or consent condition, or is ‘offensive or objectionable’, then the company can be required to cease or take steps to avoid, remedy or mitigate that activity. </div>
+    <div GUID="b18f8be3-789b-4206-a7dd-f45d25d48597" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="18428224-859b-4c95-93a2-16fcafeb44f8" xmlns="http://www.w3.org/1999/xhtml">This is achieved either by a noise abatement notice (which can be served <strong GUID="8f39f792-8ebd-40ec-879d-85b4c60ce552">only </strong>by a council officer) or an enforcement order under the RMA (which can be obtained by <strong GUID="cdfc2c61-7f9a-4696-98d5-1b8d7f63f471">any </strong>person, such as neighbours). It is an offence to fail to comply with a noise abatement order or an enforcement order and a prosecution would generally follow.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page10" IsActive="true" GUID="a887d533-fc8d-4a3b-b9bb-faaa9cabe32d">
+      <IncludedInTOC GUID="2139447f-28f3-47f3-b0b8-551a10508b3f">true</IncludedInTOC>
+      <Title GUID="9530bde6-867e-46b7-ba09-ef8899f269a0">Other environmental effects</Title>
+      <PageElements GUID="58c797bd-2eb3-4ef8-b6af-ac8a66db5a52">
+        <PageElement GUID="d8e108c6-45b4-447b-8f40-d05c2202e6b7">
+          <Graphic GUID="937ac4e1-43fc-4372-b204-df29e253e0fe"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/02efc715-fc1e-4f52-b6ec-831f3814d3d4.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="7233cb8c-7d6e-4139-9cf0-8e0e7bbb2053">
+          <TextBox GUID="a117d4b0-2c1b-40a4-a01e-c482c337a758"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="d7f61500-54aa-4b81-bebc-302e616419cb">
+    <div GUID="060774f0-816d-4bb6-a270-06a3bcc9e384" xmlns="http://www.w3.org/1999/xhtml">Under section 17 of the RMA, there is a general duty on every person to ‘avoid, remedy or mitigate’ adverse (harmful or undesirable) effects on the environment arising from any activities carried out. <strong GUID="79ab8e2b-c7ba-401f-bc1f-2ff92fc0a58f">This applies whether or not the activity is permitted under a plan or by resource consent. </strong></div>
+    <div GUID="18d0ae29-a467-4698-a3fd-b5e4b44dec94" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="8fd848d5-d58f-462a-954e-13b7a26d842b" xmlns="http://www.w3.org/1999/xhtml">It is possible for enforcement action to be taken where an activity (even though permitted or consented) is ‘noxious, dangerous, offensive or objectionable’ to such an extent that it has an adverse effect on the environment.</div>
+    <div GUID="f5d39e93-22c6-4b6d-9b6c-7b1d1c40bf3e" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="7ba0ddfc-a7eb-446c-8340-fbc519675c90" xmlns="http://www.w3.org/1999/xhtml">In deciding whether an effect is adverse, the nature of the environment in which the effect exists is a relevant consideration to take into account. </div>
+    <div GUID="180c70e6-2238-4db9-983f-739bdda2d2dd" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="d1fc6099-6a13-415d-94a8-8007a0707cc0" xmlns="http://www.w3.org/1999/xhtml">Enforcement action has been taken by councils under section 17 in relation to effects on residential amenity (eg leaving a large amount of fill material on a site) or heritage values of archaeological sites. </div>
+    <div GUID="4e6cd3e4-9c2c-4d8a-bf0d-ce7e5972f247" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="0d3c3cb3-288a-44fd-9fe1-26533b7a48a5" xmlns="http://www.w3.org/1999/xhtml">Finally, it should be noted that there are provisions in the RMA relating to activities in the ‘Coastal Marine Area’ (i.e. from the high tide mark to the edge of the territorial sea) and the beds of lakes and rivers.  If you are considering development or undertaking uses in these areas specialist advice should be sought.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Page11" IsActive="true" GUID="6257e096-c49a-4774-b391-d0686bfeba35">
+      <IncludedInTOC GUID="9144ed7a-226a-495b-8b75-dd044f29da1d">false</IncludedInTOC>
+      <Title GUID="3dddf4e8-ea43-4914-a687-917f09541b60">End of lesson</Title>
+      <PageElements GUID="15213679-ee12-4c12-9c64-8e6832618298">
+        <PageElement GUID="e9cfcd50-8334-4e41-afa2-7eaac2b4fd90">
+          <Graphic GUID="858f3c99-59da-4c8e-8e27-90ca02ec7aad"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/43f3d846-97f5-4842-a618-135ec95aa64a.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="912c99bd-b536-4ebe-a95f-1cfd87f99e56">
+          <TextBox GUID="c4616871-342e-49d4-8d99-55f53640b785"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="f3bf215f-4a6d-4398-a836-35c2c79dcfb5">
+    <div GUID="97630932-97cc-4589-95c1-d70cb3f4d8c3" xmlns="http://www.w3.org/1999/xhtml">Congratulations! You have completed your lesson.</div>
+    <div GUID="08a034e4-1416-472b-ba4b-a2c6c5d7ba8f" xmlns="http://www.w3.org/1999/xhtml"> </div>
+    <div GUID="5107c9c8-4c15-4b85-aa90-364f0e26cf34" xmlns="http://www.w3.org/1999/xhtml">Click the <strong GUID="534c1ad8-ac8f-4757-8f62-df4be7c42dd3">End Lesson</strong> button to exit the lesson.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="81ead7e4-8261-45c2-a6bf-1954503c9633">
+          <EndLesson GUID="63258838-5e12-4f79-b0f0-b13f1793b3d5"> <![CDATA[<div class="EndLesson_Main">
+  <input type="button" class="Navigation_Button_Submit" value="End Lesson" onClick="__doPostBack('Lesson_End','')">
+</div>]]></EndLesson>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Pages>
+</BDWInfoPathLesson>

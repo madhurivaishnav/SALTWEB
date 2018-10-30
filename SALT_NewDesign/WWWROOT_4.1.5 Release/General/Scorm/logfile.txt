@@ -1,0 +1,146 @@
+30/07/2018 10:23:19 AM:quizstatusid4Sessionid
+30/07/2018 10:23:45 AM:step1
+30/07/2018 10:23:52 AM:https://localhost:54387
+30/07/2018 10:24:19 AM:https://localhost:54387/General/Scorm/Content/282/1437/shared/launchpage.html
+30/07/2018 10:25:58 AM:quizstatusid4Sessionid
+30/07/2018 10:26:01 AM:step1
+30/07/2018 10:26:32 AM:https://bluesky.saltcompliance.com
+30/07/2018 10:26:45 AM:https://bluesky.saltcompliance.com/General/Scorm/Content/282/1437/shared/launchpage.html
+30/07/2018 10:27:36 AM:step2
+30/07/2018 10:27:52 AM:https://adaptive.saltcompliance.com/api/v1/shc/learn.jsonp?doorId=a800ddf9-8168-4e53-bfdf-b4ae8598e700&scormPackageId=6c33fab4-7e2c-42e1-b1b0-20e6795367cb&secret=91a9bdw6TLIgaomgQ4kmtnUi7Jts
+30/07/2018 11:29:28 AM:userid 71186 quizstatusid 4 Sessionid
+30/07/2018 11:29:30 AM:userid 71186step1
+30/07/2018 11:29:35 AM:userid 71186https://localhost:54387
+30/07/2018 11:29:37 AM:userid 71186https://localhost:54387/General/Scorm/Content/282/1437/shared/launchpage.html
+30/07/2018 11:29:40 AM:userid 71186C:\inetpub\wwwroot\SALT_NewDesign\WWWROOT_4.1.5 Release\General\Scorm\Content\282\1437\shared\launchpage.html
+30/07/2018 11:29:40 AM:userid 71186True
+30/07/2018 11:29:42 AM:userid 71186step2
+30/07/2018 11:30:05 AM:userid 71186<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script>
+            window.ERUDIFY_INFO = {"lms":"GenericLMS","scormVersion":"1_2","initCommand":null,"primaryKey":"ScormLearnerId","version":6,"apiPrefix":"https://adaptive.saltcompliance.com/api/v1/shc/learn.jsonp?doorId=a800ddf9-8168-4e53-bfdf-b4ae8598e700&scormPackageId=6c33fab4-7e2c-42e1-b1b0-20e6795367cb&secret=91a9bdw6TLIgaomgQ4kmtnUi7Jts","scormMode":true,"handOverRunCommand":null,"startTimeStamp":null}
+        </script>
+        <script type="text/javascript" id="shc-libs" src="https://adaptive.saltcompliance.com/api/v1/shc/unhashedAssets/js/libs1.js">
+            
+        </script>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="">
+        <meta name="google" content="notranslate">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <title>
+            Salt ADAPTIVE
+        </title>
+        <link rel="shortcut icon" href="https://adaptive.saltcompliance.com/api/v1/shc/unhashedAssets/images/favicon.ico">
+        <link rel="stylesheet" href="https://adaptive.saltcompliance.com/api/v1/shc/styles/skins/85244b7f-d458-4055-a536-2b1a2de927a8/shc.css?cacheBuster=40.8.1-19-g3c2371d" id="shc-css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,700|Open+Sans:400,300,700">
+        <style>
+            .scorm-loading { text-align: center; }
+        </style>
+        <link rel="stylesheet" href="" id="course-style">
+        <script type="text/javascript">
+            window.rsConf = {general: {usePost: true}};
+        </script>
+        <script src="//f1-oc.readspeaker.com/script/9007/ReadSpeaker.js?pids=embhl" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <div id="ie-detection-element" style="display:none">
+            <!--[if lt IE 7 ]><i class='lt-ie10 lt-ie9 lt-ie8 lt-ie7'><![endif]--><!--[if IE 7 ]><i class='lt-ie10 lt-ie9 lt-ie8'><![endif]--><!--[if IE 8 ]><i class='lt-ie10 lt-ie9'><![endif]--><!--[if IE 9 ]><i class='lt-ie10'> <![endif]--><!--[if (gt IE 9)|!(IE)]><!--><i><!--<![endif]--></i>
+        </div>
+        <div id="jsonp-content">
+            <p class="scorm-loading">
+                Loading ...
+            </p>
+        </div>
+        <div id="jsonp-error" style="display:none">
+            <em>
+                Loading the next page...
+            </em>
+             
+            <span class="js-retrying-in" data-template="">
+            </span>
+            <span class="js-retrying-now">
+            </span>
+            <div id="jsonp-retry-button" class="retry">
+                Try now
+            </div>
+        </div>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'some google analytics code...', 'better.io');ga('send', 'pageview');
+        </script>
+    </body>
+</html>
+
+30/07/2018 11:30:06 AM:userid 71186https://adaptive.saltcompliance.com/api/v1/shc/learn.jsonp?doorId=a800ddf9-8168-4e53-bfdf-b4ae8598e700&scormPackageId=6c33fab4-7e2c-42e1-b1b0-20e6795367cb&secret=91a9bdw6TLIgaomgQ4kmtnUi7Jts
+30/07/2018 11:33:59 AM:userid 71186 quizstatusid 4 Sessionid
+30/07/2018 11:34:00 AM:userid 71186step1
+30/07/2018 11:34:11 AM:userid 71186http://localhost:54387
+30/07/2018 11:34:13 AM:userid 71186http://localhost:54387/General/Scorm/Content/282/1437/shared/launchpage.html
+30/07/2018 11:34:14 AM:userid 71186C:\inetpub\wwwroot\SALT_NewDesign\WWWROOT_4.1.5 Release\General\Scorm\Content\282\1437\shared\launchpage.html
+30/07/2018 11:34:15 AM:userid 71186True
+30/07/2018 11:34:16 AM:userid 71186step2
+30/07/2018 11:34:27 AM:userid 71186<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script>
+            window.ERUDIFY_INFO = {"lms":"GenericLMS","scormVersion":"1_2","initCommand":null,"primaryKey":"ScormLearnerId","version":6,"apiPrefix":"https://adaptive.saltcompliance.com/api/v1/shc/learn.jsonp?doorId=a800ddf9-8168-4e53-bfdf-b4ae8598e700&scormPackageId=6c33fab4-7e2c-42e1-b1b0-20e6795367cb&secret=91a9bdw6TLIgaomgQ4kmtnUi7Jts","scormMode":true,"handOverRunCommand":null,"startTimeStamp":null}
+        </script>
+        <script type="text/javascript" id="shc-libs" src="https://adaptive.saltcompliance.com/api/v1/shc/unhashedAssets/js/libs1.js">
+            
+        </script>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="">
+        <meta name="google" content="notranslate">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <title>
+            Salt ADAPTIVE
+        </title>
+        <link rel="shortcut icon" href="https://adaptive.saltcompliance.com/api/v1/shc/unhashedAssets/images/favicon.ico">
+        <link rel="stylesheet" href="https://adaptive.saltcompliance.com/api/v1/shc/styles/skins/85244b7f-d458-4055-a536-2b1a2de927a8/shc.css?cacheBuster=40.8.1-19-g3c2371d" id="shc-css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,700|Open+Sans:400,300,700">
+        <style>
+            .scorm-loading { text-align: center; }
+        </style>
+        <link rel="stylesheet" href="" id="course-style">
+        <script type="text/javascript">
+            window.rsConf = {general: {usePost: true}};
+        </script>
+        <script src="//f1-oc.readspeaker.com/script/9007/ReadSpeaker.js?pids=embhl" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <div id="ie-detection-element" style="display:none">
+            <!--[if lt IE 7 ]><i class='lt-ie10 lt-ie9 lt-ie8 lt-ie7'><![endif]--><!--[if IE 7 ]><i class='lt-ie10 lt-ie9 lt-ie8'><![endif]--><!--[if IE 8 ]><i class='lt-ie10 lt-ie9'><![endif]--><!--[if IE 9 ]><i class='lt-ie10'> <![endif]--><!--[if (gt IE 9)|!(IE)]><!--><i><!--<![endif]--></i>
+        </div>
+        <div id="jsonp-content">
+            <p class="scorm-loading">
+                Loading ...
+            </p>
+        </div>
+        <div id="jsonp-error" style="display:none">
+            <em>
+                Loading the next page...
+            </em>
+             
+            <span class="js-retrying-in" data-template="">
+            </span>
+            <span class="js-retrying-now">
+            </span>
+            <div id="jsonp-retry-button" class="retry">
+                Try now
+            </div>
+        </div>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'some google analytics code...', 'better.io');ga('send', 'pageview');
+        </script>
+    </body>
+</html>
+
+30/07/2018 11:34:27 AM:userid 71186https://adaptive.saltcompliance.com/api/v1/shc/learn.jsonp?doorId=a800ddf9-8168-4e53-bfdf-b4ae8598e700&scormPackageId=6c33fab4-7e2c-42e1-b1b0-20e6795367cb&secret=91a9bdw6TLIgaomgQ4kmtnUi7Jts

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://salt.bdw.com/schemas/v3/0" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" elementFormDefault="qualified" targetNamespace="http://salt.bdw.com/schemas/v3/0">
+    <!-- Author: Gavin Buddis -->
+    <!-- Organisation: Blake Dawson -->
+    <!-- Purpose: Schema for the XML export of users from a 3rd party resource managment system for upload into the SALT LMS -->
+    <xsd:element name="BDWUserUpload">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="User" minOccurs="0" maxOccurs="unbounded">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <!-- Collection of custom classifications -->
+                            <xsd:element name="CustomClassifications" minOccurs="0">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="CustomClassification" minOccurs="0" maxOccurs="unbounded">
+                                            <xsd:complexType>
+                                                <xsd:attribute name="Name" type="xsd:string" />
+                                                <xsd:attribute name="Option" type="xsd:string" />
+                                            </xsd:complexType>
+                                        </xsd:element>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+                        </xsd:sequence>
+                        <!-- User properties-->
+                        <xsd:attribute name="Username" type="xsd:string" />
+                        <xsd:attribute name="Password" type="xsd:string" />
+                        <xsd:attribute name="Email" type="emailAddress" />
+                        <xsd:attribute name="Firstname" type="xsd:string" />
+                        <xsd:attribute name="Lastname" type="xsd:string" />
+                        <xsd:attribute name="ExternalID" type="xsd:string" />
+                        <xsd:attribute name="UnitID" type="xsd:string" />
+                        <xsd:attribute name="Archive" type="xsd:string" />
+                        <xsd:attribute name="NotifyUnitAdmin" type="xsd:string" />
+                        <xsd:attribute name="NotifyOrgAdmin" type="xsd:string" />
+                        <xsd:attribute name="ManagerNotification" type="xsd:string" />
+                        <xsd:attribute name="ManagerToNotify" type="xsd:string" />
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:simpleType name="emailAddress">
+        <xsd:restriction base="xsd:string" />
+    </xsd:simpleType>
+</xsd:schema>

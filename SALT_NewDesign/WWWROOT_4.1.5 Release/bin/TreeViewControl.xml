@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Uws.Framework.WebControl</name>
+    </assembly>
+    <members>
+        <member name="T:Uws.Framework.WebControl.SingleRenderingAgent">
+            <summary>
+            Summary description for SingleRenderingAgent.
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.RenderingAgent.ClearTree(System.String)">
+            <summary>
+            Clear All Selected Nodes
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.RenderingAgent.SelectTree(System.String)">
+            <summary>
+            Select All Nodes
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.RenderingAgent.CollapseTree(System.String)">
+            <summary>
+            Collapse sub tree nodes
+            if the nodeID is not empty, collapse all nodes under this node
+            otherwise collapse the whole tree
+            </summary>
+            <param name="nodeID">Starting node</param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.RenderingAgent.ExpandTree(System.String)">
+            <summary>
+            Expand sub tree nodes
+            if the nodeID is not empty, Expand all nodes under this node
+            otherwise Expand the whole tree
+            </summary>
+            <param name="nodeID">Starting node</param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.RenderingAgent.GetSelectedNodes">
+            <summary>
+            Get Selected Node IDs
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Uws.Framework.WebControl.RenderingAgent.SetSelectedNodes(System.String)">
+            <summary>
+            Set Selected Nodes
+            </summary>
+            <param name="selectedNodeIDs"></param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.RenderingAgent.GetSelectedValues">
+            <summary>
+            Get array of selected values. This method is only available in Multiple Selection output style.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Uws.Framework.WebControl.RenderingAgent.GetSelectedValue">
+            <summary>
+            Get the value of selected node. This method is only available in Simple Selection output style.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Uws.Framework.WebControl.RenderingAgent.SetSelectedValues(System.String[])">
+            <summary>
+            Select the nodes with the specified values. This method is only available in Multiple Selection output style.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Uws.Framework.WebControl.RenderingAgent.SetSelectedValue(System.String)">
+            <summary>
+            Select the node with the specified value. This method is only available in Simple Selection output style.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Uws.Framework.WebControl.RenderingAgent.RemoveSubTreeAttribute(System.String,System.String,System.Boolean)">
+            <summary>
+            Remove SubTree Attribute
+            </summary>
+            <param name="nodeID"></param>
+            <param name="attributeName"></param>
+            <param name="excludeDisabledNode"></param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.RenderingAgent.SetSubTreeAttribute(System.String,System.String,System.Boolean)">
+             <summary>
+            Set SubTree nodes Attribute to true
+             </summary>
+             <param name="nodeID"></param>
+             <param name="attributeName"></param>
+             <param name="excludeDisabledNode"></param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.SingleRenderingAgent.GetSelectedNodes">
+            <summary>
+            Get Selected Node IDs
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Uws.Framework.WebControl.SingleRenderingAgent.SetSelectedNodes(System.String)">
+            <summary>
+            Set Selected Nodes
+            </summary>
+            <param name="selectedNodeIDs"></param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.SingleRenderingAgent.SetSelectedValue(System.String)">
+            <summary>
+            Select the node with the specified value. This method is only available in Simple Selection output style.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Uws.Framework.WebControl.MultipleRenderingAgent">
+            <summary>
+            Summary description for MultipleRenderingAgent.
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.MultipleRenderingAgent.GetSelectedNodes">
+            <summary>
+            Get Selected Node IDs
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Uws.Framework.WebControl.MultipleRenderingAgent.SetSelectedNodes(System.String)">
+            <summary>
+            Set Selected Nodes
+            </summary>
+            <param name="selectedNodeIDs"></param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.MultipleRenderingAgent.SetSelectedValues(System.String[])">
+            <summary>
+            Select the nodes with the specified values. This method is only available in Multiple Selection output style.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Uws.Framework.WebControl.Util">
+            <summary>
+            Summary description for Util.
+            </summary>
+        </member>
+        <member name="T:Uws.Framework.WebControl.SmartNav">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.SmartNav.OnPreRender(System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="T:Uws.Framework.WebControl.TreeDesigner">
+            <summary>
+            Summary description for TreeDesigner.
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeDesigner.GetDesignTimeHtml">
+            <summary>
+            This returns the Design time html for the control
+            </summary>
+            <returns>string containing html</returns>
+        </member>
+        <member name="T:Uws.Framework.WebControl.TreeOutputStyle">
+            <summary>
+            Tree Output Style
+            </summary>
+        </member>
+        <member name="F:Uws.Framework.WebControl.TreeOutputStyle.Standard">
+            <summary>
+            Standard output
+            </summary>
+        </member>
+        <member name="F:Uws.Framework.WebControl.TreeOutputStyle.SingleSelection">
+            <summary>
+            Single node selection mode (Radio Button)
+            </summary>
+        </member>
+        <member name="F:Uws.Framework.WebControl.TreeOutputStyle.MultipleSelection">
+            <summary>
+            Multiple node selection mode (Checkbox)
+            </summary>
+        </member>
+        <member name="T:Uws.Framework.WebControl.TreeView">
+            <summary>
+            TreeView class: Represents a tree.
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.#ctor">
+            <summary>
+            Base constructor
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.LoadViewState(System.Object)">
+             <summary>
+            Customize state management to handle saving state of contained objects. 
+             </summary>
+             <param name="savedState"></param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)">
+            <summary>
+            Loads the posted data
+            </summary>
+            <param name="postDataKey"></param>
+            <param name="values"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.CreateChildControls">
+            <summary>
+            Overrides the base CreateChildControls
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.RaisePostDataChangedEvent">
+            <summary>
+            Dummy Event
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.RaisePostBackEvent(System.String)">
+            <summary>
+            Handle the event of node  clicking
+            </summary>
+            <param name="eventArgument"></param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.OnPreRender(System.EventArgs)">
+            <summary>
+            overrides the OnPreRender event
+            </summary>
+            <param name="e">Event arguments.</param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.SaveViewState">
+            <summary>
+            Customize state management to handle saving state of contained objects. 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.Render(System.Web.UI.HtmlTextWriter)">
+            <summary>
+            Render this control to the output parameter specified.
+            </summary>
+            <param name="output"> The HTML writer to write out to </param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.LoadXml(System.String)">
+            <summary>
+            Loads the XML tree document from the specified data string.
+            </summary>
+            <param name="xml">String containing the XML document to load. </param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.LoadXml(System.String,System.String)">
+            <summary>
+            Convert xml data  with the xslt to standard xml tree document.
+            </summary>
+            <param name="xml">String containing the XML document to load. </param>
+            <param name="xslt">String containing the xslt document for converting. </param>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.ClearSelection">
+            <summary>
+            Clear Selected Nodes
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.ExpandTree">
+            <summary>
+            Expand whole tree
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.CollapseTree">
+            <summary>
+            Collapse whole tree
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.ExpandTree(System.String)">
+            <summary>
+            Expand sub tree nodes
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.CollapseTree(System.String)">
+            <summary>
+            Collapse sub tree nodes
+            </summary>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.GetSelectedValues">
+            <summary>
+            Get array of selected values. This method is only available in Multiple Selection output style.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.SetSelectedValues(System.String[])">
+            <summary>
+            Select the nodes with the specified values. This method is only available in Multiple Selection output style.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.GetSelectedValue">
+            <summary>
+            Get the value of selected node. This method is only available in  Single Selection output style.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Uws.Framework.WebControl.TreeView.SetSelectedValue(System.String)">
+            <summary>
+            Select the node with the specified value. This method is only available in Single Selection output style.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Uws.Framework.WebControl.TreeView.SystemImagesPath">
+            <summary>
+            Gets and Set the SystemImagesPath
+            </summary>
+        </member>
+        <member name="P:Uws.Framework.WebControl.TreeView.OutputStyle">
+            <summary>
+            Gets and Sets the OutputStyle
+            </summary>
+        </member>
+        <member name="P:Uws.Framework.WebControl.TreeView.CssClass">
+            <summary>
+            The CssClass for the TreeNode
+            </summary>
+        </member>
+        <member name="P:Uws.Framework.WebControl.TreeView.Indent">
+            <summary>
+            Number of pixels to indent the tree at each level
+            </summary>
+        </member>
+        <member name="P:Uws.Framework.WebControl.TreeView.NodeText">
+            <summary>
+            The node text to show in design mode
+            </summary>
+        </member>
+        <member name="T:Uws.Framework.WebControl.StandardRenderingAgent">
+            <summary>
+            Summary description for StandardRenderingAgent.
+            </summary>
+        </member>
+    </members>
+</doc>

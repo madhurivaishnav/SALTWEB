@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" productVersion="14.0.0" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="a94969b0-b617-47fa-95f8-0c63691edbb7">
+  <Summary ID="ashapra01q" GUID="9b144b17-3064-4a12-868c-0b98d1e09e06">
+    <ContentType GUID="b2b22636-73c9-4799-8ca9-69c371713793">quiz</ContentType>
+    <UploadType GUID="d6a705e9-7c2c-4b45-b8ef-314cc112830c">update</UploadType>
+    <Title GUID="d7c3f757-973d-4205-8cde-2fcb76a06344">Responsible Officers for APRA</Title>
+    <CreatedBy GUID="433daf11-8ffa-4b8a-a9ec-cf00c0e0e98d">LTG Casual</CreatedBy>
+    <CreatedDate GUID="2686b121-c80b-45d0-b0de-d56999a636f4">2005-04-11T10:22:16</CreatedDate>
+    <LastModifiedBy GUID="e1d8b3e0-042d-4d3f-bc91-2f16560ad815">ltgtcher</LastModifiedBy>
+    <LastModifiedDate GUID="ba48f3ba-9c0f-4cf3-a7d3-cdc71592817a">2012-09-14T14:59:42</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="9c90273a-171f-48af-9850-5c9fb20ca242">
+    <Page ID="Intro1" IsActive="true" GUID="54ba54b7-3d32-49dc-8390-36ab565fdeaa">
+      <Title GUID="9836d34f-8543-41cf-b52e-3e8eebfde3d3">Responsible Officers for APRA</Title>
+      <PageElements GUID="6d55da63-cbc2-4208-b6f3-b938ef707b56">
+        <PageElement GUID="1955e007-9fc1-4021-87a1-1e8b346cf5de">
+          <Graphic GUID="b6c3a4d3-7123-4865-b140-796ae73a535f"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/cfb819c7-87ba-4813-9c02-aaa56b1afb11.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="41f9c521-aa5c-45f4-a6c5-e4677cc5b737">
+          <TextBox GUID="d7b620d8-5e36-43e9-9faf-6e809f9ad27f"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="9000ab3c-5adc-4a30-9ef4-1a6c33fc2c47">
+    <div GUID="67a0a390-d8a0-4996-8c5d-ab9b684bc437" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="0c4f97fe-b220-4835-b69a-b5c3e8ef697d">%System_NumberOfQuestions%</strong>  questions about<strong GUID="35a9e562-5694-4d69-a7f7-b70b1781b609"></strong>Responsible Officers for APRA.<br GUID="223da4aa-2d21-4c73-a452-d223dab77b36"><br GUID="c778b7de-ba23-47b4-a1aa-410fb4cbe33b"><font size="2" GUID="a2c80030-5680-4c38-bc37-7f6d7f56eb21">You will be asked multiple choice questions. Answer each question by clicking the button to the left of the most appropriate response.</font></div>
+    <div GUID="1d13825d-98c3-41dc-af94-998e1f027e0e" xmlns="http://www.w3.org/1999/xhtml">
+      <div GUID="fdbd1b9d-25a2-47d0-84fb-e0d22f5ee6b0">
+        <font size="2" GUID="dc157bd8-4a40-4aa4-8723-3bf565885d81">
+        </font> </div>
+      <div GUID="3ad804b5-1666-47d0-981b-1ab03d2344be">
+        <font size="2" GUID="607844d3-60bf-49ad-b6bd-84b6c338f154">After you answer the last question, you will be given the chance to review and then submit your answers.</font>
+      </div>
+      <div GUID="86558403-257a-4937-8dbc-a05c207eadd4">
+        <font size="2" GUID="4fb88953-19c7-4ad7-a5ec-9a6d39327fcf">
+        </font> </div>
+    </div>
+    <div GUID="f9f3837c-3612-49e0-a946-c453d24ce1d5" xmlns="http://www.w3.org/1999/xhtml">Please note that if you exit the quiz before clicking the Submit Answers button then your answers will not be saved. </div>
+    <div GUID="7bd0d656-7973-40fe-955e-5cf2b53524b1" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="7b1c61f5-a13f-47e3-b2af-206ef5967b2c">To move between questions, use the <font size="4" face="Arial" GUID="a5c1149c-4b29-44ba-bea9-c56c082cae7f">◄ </font>and <font size="4" face="Arial" GUID="fedb3712-adf0-4c2f-bbb3-b17c366ee788">► </font>navigation buttons on the bottom right of the page.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="9655c627-cbe0-493a-801e-5bee72c21262">
+    <Page ID="Q1" IsActive="true" GUID="ccd4d1d6-12c2-47d4-abb4-e52d9748e33c">
+      <Title GUID="af0d0d09-520f-441d-bdcb-92785f418a1d">Question</Title>
+      <PageElements GUID="e38d572f-76c5-4659-9af3-4dd31b7e7b84">
+        <PageElement GUID="9b57e952-bb95-4af4-849d-9845bf4efeb1">
+          <Question GUID="4314d12d-b01b-456b-a6b6-ddde623e04e1"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="d797599c-c398-48b6-985f-45f0404231a5">
+      <strong GUID="cfe49987-5c62-4550-b515-7cac056a8418" xmlns="http://www.w3.org/1999/xhtml">What is the main purpose of the RO in the context of the APRA regime?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b9fe6451-a421-41b7-b1cb-084607115664">To make the government seem effective</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="321187c2-08d4-4f1a-a90b-5a391619f85b">To fulfil the recommendations of the Wallis Inquiry into the financial system</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2db6886c-04f7-4f00-9b9f-4cf6f14ec3d8">To enable the RSE licensee to demonstrate that its senior people satisfy the Fit and Proper Test under the SIS Act</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5882ad65-0ec8-411c-9815-3ddd0bc38488">To create work for lawyers</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="a6086fc6-4874-4f95-a053-4fa00949aeed">
+      <Title GUID="192ffbdf-1c3b-4373-b801-fb031e96d4ec">Question</Title>
+      <PageElements GUID="478784ab-abb9-4e19-802a-91fbccd75452">
+        <PageElement GUID="e9bf3c14-5957-465d-87cd-9396976abda6">
+          <Question GUID="415f9695-83b8-47bb-aa45-72e37514a313"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="d0e8d003-1ee4-4814-8a32-5e689e508251">
+      <strong GUID="5dc8834c-a324-4d15-8162-69dcf0a109b1" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="f9e8d35b-42d5-49fb-997c-31373e4fd14a">The ROs and RMs under ASIC and APRA are different under the SIS Act and Corporations Act, but do relate to senior people within the entity.  True or false?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7c2e59bf-3c8e-42cc-b568-c9ed0c3b6c53">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="285bfef8-24bd-4bba-a49c-6604791363b9">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="f9b09f8c-f7fb-4ea0-a85f-536185cec345">
+      <Title GUID="c78f7d7f-21a1-44a9-bc1f-07410c41a911">Question</Title>
+      <PageElements GUID="a4f80b72-b451-4d94-83ed-099da4fd238e">
+        <PageElement GUID="f25893ce-576c-4601-a981-7869ba566f8c">
+          <Question GUID="61f8a1e1-6238-4a53-ba11-598abe502c8b"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="522d0385-624a-4a22-a49d-4b734d10211d">
+      <strong GUID="08602b96-cfb2-428f-bd45-5a7cfb75a2e7" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="23df097f-f70b-418a-ab6e-f428f720f808">The main differences between an APRA RO and an ASIC RM are that…</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0ed47b7e-84b0-408c-8070-8a8316c2f992">… an ASIC RM can deal in any securities or financial products whereas an APRA RO can only deal with services and products listed under the SIS Act</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="845642f2-11f9-4206-9e72-bf5f0db07381">… an ASIC RM is recognised under the AFS licensing scheme whereas the APRA RO is recognised under the RSE licensing scheme</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5635bbbe-9309-418f-8f26-fbcb99ebf7c9">… an ASIC RM can only be penalised under the Corporations Act whereas an APRA RO can be penalised under both the Corporations Act and the SIS Act</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d2c7b5ae-f8e3-48e6-baa2-e83c5e90ce7d">… they are the same position</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="357f874a-ea41-4e1c-8475-6ff2325faf67">
+      <Title GUID="058994c4-513b-45d7-acad-71510b7d7062">Question</Title>
+      <PageElements GUID="ce1bdd90-dfb2-4ef2-9c39-8944201a0990">
+        <PageElement GUID="fdc942d3-90d1-4844-a2e6-79525e04aa21">
+          <Question GUID="fec65a58-00d8-4566-b6db-a95f3528b590"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="b90b5c97-1bfa-46a6-a88b-c7df29114fd7">
+      <strong GUID="c1ea175a-cf9d-4211-8b85-92b481c299bc" xmlns="http://www.w3.org/1999/xhtml">
+        <span GUID="cef055cd-deeb-4c00-ab22-8416622c2f81">
+          <strong GUID="07981828-76bf-4335-b31e-08eb6caccb91">
+            <strong GUID="791a4d13-f947-4d5e-b161-6c0fae37f63d">What key information must an applicant supply to APRA before APRA will grant an RSE licence?</strong>
+          </strong>
+        </span>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4d9e0b7d-0288-432e-bdfa-673e7090e5c4">Adequate capital resources, integrating fit and proper person test into policy, risk management strategies, up to date CV, material outsourcing of agreements</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d7d01b9b-d56c-4290-a923-c284a4a361bd">Fit and proper standard, material outsourcing of agreements, adequacy of human, technological and financial resources, risk management strategy, risk management plan</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9a084837-0eba-4f63-acdb-2af01f161b57">Necessary skills and knowledge of investment, outsourcing of skills, risk management strategy, adequate capital resources, fit and proper standard, knowledge of necessary legislation</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ac75d3cc-6738-40d8-85cc-87641f42cd47">None of the above</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="3b1bdaa4-1f12-4479-a4d3-5081640525cc">
+      <Title GUID="68945750-4d51-45da-b682-b6b459fbc9e9">Question</Title>
+      <PageElements GUID="418a9724-c119-476e-9c16-5026415ebe21">
+        <PageElement GUID="887fa82a-0297-4f69-80a7-64ad12790cfc">
+          <Question GUID="285d64f2-3f6a-46c7-9441-ef59082f534a"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="5e9a3e9d-90dc-4ef4-a0c5-defb35808c72">
+      <strong GUID="2c5381ec-b080-428a-b5c1-49b55a1ce39f" xmlns="http://www.w3.org/1999/xhtml">
+        <span GUID="c80a7ca2-c3ee-4760-856c-d1559df5a0e8">
+          <strong GUID="db218678-a8e3-41f0-87ec-0805ccb9dd94">
+            <strong GUID="6a2091aa-177b-4bb9-8132-46b503854a2c">APRA’s ultimate goal in administering the RSE licensing regime is to promote high standards of compliance, risk management and governance within the superannuation industry. True or false?</strong>
+          </strong>
+        </span>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="20a27746-35ed-4a8c-9d86-7a1613d214b4">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="f12fd443-2f99-4b04-be96-4dcf38d4c50e">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="20e07d53-d131-4ab3-8413-93d6ada5bb16">
+      <Title GUID="816627ae-bb8d-4f34-8111-ac6c503d18d2">Question</Title>
+      <PageElements GUID="5305bd76-0299-4e80-8e9e-379c0dca5cb7">
+        <PageElement GUID="cbba5152-cf30-4f34-bfcb-2ef531492381">
+          <Question GUID="8b4ee835-c4b2-4358-a79f-2467a3072351"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="fad24891-adc6-4f01-ad2a-68899bd9d92b">
+      <strong GUID="e2e0508e-1729-44dd-9682-8d7438ba5fc6" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="8adbf78c-4a6f-4de8-be8c-3dc1674d69fe">The Corporations Act requires that directors must…</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0f43a705-591e-4c23-8dd1-8bfc9240a857">… use their business judgment, act with care and diligence, use propriety and must not misuse sensitive information for their own purposes or criminal activities</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="0200d9c9-7013-4d8b-8e97-586ec020d729">… take reasonable care and diligence, act in good faith in the best interests of the corporation and for a proper purpose, not misuse position to their own advantage, not misuse information</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9db3ac60-19b1-45e3-8062-6948aa8f958f">… must use their business judgment to the level of someone who is in the same position as them, must not misuse information, must act with care and honesty and must act in a 'fit and proper' manner</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="141eb476-26ea-4f67-b867-a3ce9f2b4ee1">… must not insider trade or breach the business judgment rule</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="dba822c0-16b7-4a41-b3a9-18d640105957">
+      <Title GUID="d774f6bc-30d7-49a4-9082-24be2fef68f7">Question</Title>
+      <PageElements GUID="bdb90608-d38a-4a5f-81a8-4cc7c75f0d6f">
+        <PageElement GUID="ad2d1d84-5199-49da-a762-9cb16c2b710c">
+          <Question GUID="62e8cb40-7a6b-40a1-a794-81c272d35be2"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="8e97a31f-31e5-4abf-8dec-17a25ca1edcb">
+      <strong GUID="f1f9bd0a-7a82-4c67-b444-15aea314169e" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="46b98ed4-de90-4025-b37a-36ab5bb5ff35">What factors does APRA take into account when considering an individual's propriety?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4f639b01-8bd0-440d-b28e-47bf4865ca99">Character, competence, diligence, experience, honesty, integrity, judgement</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="230bacc9-b0ea-4057-870b-9c20f58bfc98">Truthfulness, experience, curriculum vitae, character references, competitiveness</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b613dfa0-7bbb-4a4c-b3cf-9bad4485b38e">Character, competence, truthfulness, honesty, reputation, experience</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4b02a5d9-4a56-49e5-b24d-7a02e5caf26e">Character, competence, willingness, management experience, education</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="da20b500-c755-41bd-9ec6-7ea2ce4a37a1">
+      <Title GUID="d7b92981-2139-47e5-93e9-e3d3ce6c08fa">Question</Title>
+      <PageElements GUID="85e966a2-ba8b-4e94-81cb-efb2c6780a2c">
+        <PageElement GUID="436c3f8f-70eb-4979-99c8-cdd5d0fd1dd9">
+          <Question GUID="5e5ad3b8-d6bd-48e7-b20c-a8656af57c82"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="a15ba9a0-d227-49bd-876c-e13518861289">
+      <strong GUID="37e1270b-1ab6-4fb3-a062-c4c425bf1bcc" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="c61e3743-2121-4f65-8c5a-cf819644fda1">The Prudential Practice Guide requires all responsible officers to satisfy the fitness and propriety standard to same level.  True or false?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="25b9ba1b-7e56-4191-a447-f6453227f552">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b89444d2-3ca1-4ecd-b457-ac3e084a300b">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="b8f8676d-f170-441f-bc51-2fddafa4d6b1">
+      <Title GUID="d81f578d-f3b6-43ed-ae6b-70c93b1a9632">Question</Title>
+      <PageElements GUID="934b4f36-6222-42aa-96e9-91b65f6d14e7">
+        <PageElement GUID="6e770be4-7f39-4d5f-a7ff-29bc9aeee022">
+          <Question GUID="f8b588af-4beb-4441-8483-b89667ca2b8b"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="2873103e-d825-48eb-b5a9-eacc20c3abb8">
+      <strong GUID="26ba5bd9-d947-4488-ba8a-81a920501c17" xmlns="http://www.w3.org/1999/xhtml">
+        <strong GUID="19967ef1-f307-45e7-9cb3-735583d96ace">Responsible officers and responsible managers are prohibited from having insurance cover.  True or false?</strong>
+      </strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4518f89e-efae-4d0f-a300-d49bf1ba28a5">True</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="178b1794-5b5d-40f9-b8fe-bf64462d5ace">False</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="9e8de912-910b-4717-9b87-95e1a6715e42">
+    <Page ID="Comp1" IsActive="true" GUID="3dafca69-0fc2-424f-bd08-0e30946afa07">
+      <Title GUID="b0dd6467-cd2c-4033-a113-8b1f0f10b1ef">End of quiz</Title>
+      <PageElements GUID="1e34f4a4-81ed-47ed-85ab-660cfd0c0dc6">
+        <PageElement GUID="b4d7d1d0-ddea-42c2-a272-44c586405891">
+          <Graphic GUID="4e51ed9b-17e2-4af3-9aed-33cbd72e56f1"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/3d9c9d29-668a-4c7b-a35f-60300ad74061.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="cb837751-fad3-40f3-b789-46f058e4a2ed">
+          <TextBox GUID="4fedc34f-2223-4d90-80dc-8575625374e3"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="6d7f2917-d6b3-4e75-b9b3-dc2e5c4b1819">
+    <div GUID="415e53b7-8c71-47de-86d1-6ae199a68a17" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="93f6b6da-c094-46f0-9b07-524b749cfb12"><br GUID="2f712f00-0ee7-406c-8588-33672686dc97">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="efb7c2f8-239e-47f3-933c-b4f5f15d3de8"><br GUID="de2c7bc5-b9fb-4547-9c45-f1649d864256">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="eb8cb1da-797f-468a-aaed-24c14301b4c3">
+          <SubmitAnswers GUID="c9e94953-383c-4347-b395-be61bf5d6f33"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

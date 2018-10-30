@@ -1,0 +1,185 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReport_IncompleteUsersLogic]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'CREATE                  function [udfReport_IncompleteUsersLogic]
+(
+@organisationID		Integer=null,		-- Organisation ID to search if the unit is empty
+@unitIDs 		varchar(MAX) = null,	-- string of unit id''s
+@courseID		Integer = null,		-- course ID to restrict search to
+@effectiveDate 		datetime = null		-- effective date of report
+
+)
+
+-------------------------------------------------------------------
+Returns @tblReturn table
+(
+UserID		Int,
+UnitID		Int,
+FirstName		nvarchar(255),
+LastName 	nvarchar(255),
+UnitPathway 	nvarchar(4000),
+LastCompleted	varchar(23),
+Username		nvarchar(100),
+Email		nvarchar(100),
+ExternalID		nvarchar(50)
+)
+
+as
+Begin --1
+if (@effectiveDate is null)
+Begin
+----------------------------------------------------
+--- Report on the current date
+----------------------------------------------------
+if (@unitIDs is null)
+begin --2
+----------------------------------------------------
+--- Report on the current date on all units
+----------------------------------------------------
+Insert into
+@tblReturn
+SELECT
+tU1.userID
+, tU1.UnitID
+, tU1.FirstName
+, tU1.LastName
+--, dbo.udfGetUnitPathway(tU1.UnitID) as ''UnitPathway''
+, tUH.HierarchyName as ''UnitPathway''
+, LastCompleted
+, tU1.Username as ''Username''
+, tU1.Email as ''Email''
+, tU1.ExternalID as ''ExternalID''
+FROM
+tblUser tU1
+inner join tblUnit on
+tU1.UnitID = tblUnit.UnitID
+and tblUnit.organisationID = @organisationID
+and tU1.Active = 1 --< only want active users >--
+and tu1.userTypeID <> 1 --< not interested in saltadmins >--
+inner join vwUserCourseStatus vUCS
+on vUCS.UserID = tU1.userID
+and vUCS.CourseStatusID = 1 --< want users that are incomplete >--
+and vUCS.CourseID = @courseID
+inner join tblUnitHierarchy tUH
+on tU1.UnitID = tUH.UnitID
+end --/2
+else
+begin --3
+----------------------------------------------------
+--- Report on the current date on a specific unit
+----------------------------------------------------
+Insert into
+@tblReturn
+SELECT
+tU1.userID
+, tU1.UnitID
+, tU1.FirstName
+, tU1.LastName
+--, dbo.udfGetUnitPathway(tU1.UnitID) as ''UnitPathway''
+, tUH.HierarchyName as ''UnitPathway''
+, LastCompleted
+, tU1.Username as ''Username''
+, tU1.Email as ''Email''
+, tU1.ExternalID as ''ExternalID''
+FROM
+tblUser tU1
+inner join tblUnit on
+tU1.UnitID = tblUnit.UnitID
+and tblUnit.organisationID = @organisationID
+and tU1.Active = 1 --< only want active users >--
+and tu1.userTypeID <> 1 --< not interested in saltadmins >--
+inner join vwUserCourseStatus vUCS
+on vUCS.UserID = tU1.userID
+and vUCS.CourseStatusID = 1 --< want users that are incomplete >--
+and vUCS.CourseID = @courseID
+inner join dbo.udfCsvToInt(@unitIDs) tU
+on tU.IntValue = tblUnit.UnitID --< restrict units to thoes in the list >--
+inner join tblUnitHierarchy tUH
+on tU1.UnitID = tUH.UnitID
+end --/3
+End
+
+Else
+
+Begin
+----------------------------------------------------
+--- Report on the historic date provided
+----------------------------------------------------
+if (@unitIDs is null)
+begin --2
+----------------------------------------------------
+--- Report on the historic date provided for all units
+----------------------------------------------------
+Insert into
+@tblReturn
+SELECT
+tU1.userID
+, tU1.UnitID
+, tU1.FirstName
+, tU1.LastName
+--, dbo.udfGetUnitPathway(tU1.UnitID) as ''UnitPathway''
+, tUH.HierarchyName as ''UnitPathway''
+, LastCompleted
+, tU1.Username as ''Username''
+, tU1.Email as ''Email''
+, tU1.ExternalID as ''ExternalID''
+FROM
+tblUser tU1
+inner join tblUnit on
+tU1.UnitID = tblUnit.UnitID
+and tblUnit.organisationID = @organisationID
+and tU1.Active = 1 --< only want active users >--
+and tu1.userTypeID <> 1 --< not interested in saltadmins >--
+inner join  dbo.udfReport_HistoricUserCourseStatus(@effectiveDate) vUCS
+on vUCS.UserID = tU1.userID
+and vUCS.CourseStatusID = 1 --< want users that are incomplete >--
+and vUCS.CourseID = @courseID
+inner join tblUnitHierarchy tUH
+on tU1.UnitID = tUH.UnitID
+
+end --/2
+else
+begin --3
+----------------------------------------------------------------
+--- Report on the historic date provided for the specified units
+----------------------------------------------------------------
+Insert into
+@tblReturn
+SELECT
+tU1.userID
+, tU1.UnitID
+, tU1.FirstName
+, tU1.LastName
+--, dbo.udfGetUnitPathway(tU1.UnitID) as ''UnitPathway''
+, coalesce(tUH.HierarchyName,'''')  as ''UnitPathway''
+, LastCompleted
+, tU1.Username as ''Username''
+, tU1.Email as ''Email''
+, tU1.ExternalID as ''ExternalID''
+FROM
+tblUser tU1
+inner join tblUnit on
+tU1.UnitID = tblUnit.UnitID
+and tblUnit.organisationID = @organisationID
+and tU1.Active = 1 --< only want active users >--
+and tu1.userTypeID <> 1 --< not interested in saltadmins >--
+inner join  dbo.udfReport_HistoricUserCourseStatus(@effectiveDate) vUCS
+on vUCS.UserID = tU1.userID
+and vUCS.CourseStatusID = 1 --< want users that are incomplete >--
+and vUCS.CourseID = @courseID
+inner join dbo.udfCsvToInt(@unitIDs) tU
+on tU.IntValue = tblUnit.UnitID --< restrict units to thoes in the list >--
+inner join tblUnitHierarchy tUH
+on tU1.UnitID = tUH.UnitID
+
+end --/3
+End
+
+return
+end -- /1
+' 
+END
+GO

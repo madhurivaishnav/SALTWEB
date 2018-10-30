@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.3" name="urn:Quiz:Salt:Bdw" PIVersion="1.0.0.0" productVersion="11.0.8165" ?>
+<?mso-application progid="InfoPath.Document"?>
+<BDWInfoPathQuiz xmlns:ns1="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T05:07:10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:ns2="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-17T22:48:56" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-02-22T04-03-10" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-au" GUID="a3f7b5c3-70d3-4527-9598-f6773c477e18">
+  <Summary ID="ksrma01q" GUID="f8544315-dfdf-4ebe-828e-ce839a2955e6">
+    <ContentType GUID="de233ec6-8026-4273-bee1-2e5b1e5eec50">quiz</ContentType>
+    <UploadType GUID="0f167f62-2f94-46a4-a735-9694d1bee0e6">update</UploadType>
+    <Title GUID="a96e6e6d-92c3-48f8-b830-8d38b7f1d190">Introduction to Environmental Law</Title>
+    <CreatedBy GUID="88f2b302-08d5-4f41-8704-75c39aafac10">LTG Casual</CreatedBy>
+    <CreatedDate GUID="e6f25b0c-356b-44ce-97ee-bfddcf8bdd2f">2006-10-10T11:39:54</CreatedDate>
+    <LastModifiedBy GUID="a92eb578-3228-4a96-99f4-56862cd42cc7">ntomich</LastModifiedBy>
+    <LastModifiedDate GUID="438a2d45-adb3-42d9-b491-5204184acd4b">2010-07-05T12:24:29</LastModifiedDate>
+  </Summary>
+  <Introduction GUID="bee8f9c7-f2f8-484d-99bc-1651767a52c0">
+    <Page ID="Intro1" IsActive="true" GUID="51e6aef0-aab5-43c1-8648-fb24f465df61">
+      <Title GUID="27106e3e-8fcf-4e23-b8d7-e3135e86f800">Introduction to Environmental Law</Title>
+      <PageElements GUID="1e858edd-f289-4ddd-90df-79e20520689f">
+        <PageElement GUID="04a8e6c6-f7f0-4684-8356-b6af3f34f622">
+          <Graphic GUID="83432344-b771-4c1c-b233-3b340076241a"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/e75849b8-800f-4fb4-8ea9-2d84f0b9300f.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="0acc2c06-9fa7-4a09-8467-713b7213b947">
+          <TextBox GUID="3b45ed86-f153-4636-a7dc-e1e0d36cb7a7"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="2b7abda7-a4ed-4253-a103-e5dbf3bc622b">
+    <div GUID="c61e259c-2ae0-48fe-b50d-4e26b79109e0" xmlns="http://www.w3.org/1999/xhtml">On the following pages you will be asked  <strong GUID="3fcd9341-03ee-4c13-88c3-a68c17ced090">%System_NumberOfQuestions%</strong>  questions about environmental law generally, including the Resource Management Act (the RMA).</div>
+    <div GUID="21b80641-1876-4cbf-ae1c-eea618abf14c" xmlns="http://www.w3.org/1999/xhtml">
+      <br GUID="bdbb7b2d-9c7f-475c-b67f-70cfdca44615">You may be asked three different types of questions: multiple choice, true/false or yes/no. Answer each question by clicking the button to the left of the most appropriate response.<br GUID="1805e0e9-a08d-472c-8c95-051262e2679e"><br GUID="4e441130-85aa-40db-bda2-03290bab69c8">After you answer the last question, you will be given the chance to review and then submit your answers.<br GUID="5f44f514-c3ac-49d4-a0fc-504c0f807266"><br GUID="ea721552-8407-437f-a51d-1a4b410eda12">Please note that if you Exit the quiz before clicking the Submit Answers button then your answers will not be saved. <br GUID="b71ac352-784e-4013-b2b4-940161a77100"><br GUID="461666ac-ba88-4754-95d4-749af526dd1f">To move between questions, use the <font face="Times New Roman" size="4" GUID="46c13fa4-1195-4490-936a-fef069b7c750">◄</font> and <font face="Times New Roman" size="4" GUID="85ae30a4-808c-43cd-bac1-31304110c593">►</font> navigation buttons on the bottom right of the page. </div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Introduction>
+  <Questions PageFilter="0" GUID="395b7bc4-a975-497d-9258-c32985eb1cca">
+    <Page ID="Q1" IsActive="true" GUID="d4f4daeb-9edb-4fb6-b66a-5eadacc77840">
+      <Title GUID="a7d2251a-4e7d-4c49-8aff-10a184822c17">Question</Title>
+      <PageElements GUID="88b5c6e1-c5e1-46cf-95e0-e44b5e2c8c46">
+        <PageElement GUID="a9538b54-10be-447a-b0fb-f1a1a9bc4898">
+          <Question GUID="10a50f18-6078-409b-91e9-727038fe94ba"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="2b182c0a-5213-4589-a279-582aeec9aeb2">
+      <strong GUID="20ff4fdf-b7cf-4461-af36-58f0b2945f8f" xmlns="http://www.w3.org/1999/xhtml">What is included in the ‘environment’ under the RMA?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="34add111-bff7-415c-9324-452181141211">Ecosystems.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="4c27fd80-e609-4324-b481-84393185238b">Natural and physical resources.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="efb3d284-311d-43f2-9000-d5547767c3cd">People and communities.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d5d2854f-bf3c-4b24-86ce-388af17d4d8d">Social, economic and cultural wellbeing.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_5" Name="Answer" Value="5" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="cbfa551a-f49e-422c-8b30-04ef4ade3d26">All of the above.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q2" IsActive="true" GUID="23e1fdae-6487-4ccc-a982-06d64f6cc5e1">
+      <Title GUID="1581b68b-749b-4388-99fd-bdbfcfcd8339">Question</Title>
+      <PageElements GUID="47bf28e0-24ed-402b-96a4-ecd13caacb8c">
+        <PageElement GUID="da1e73f9-fc4d-44ac-a4a7-d238c922bb37">
+          <Question GUID="6a66bc70-7316-495b-8dfb-fcf6476d8bf0"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="bf06116b-f1ea-40df-864b-d1ef921988f2">
+      <strong GUID="dfd398c1-d3e0-46c7-803b-cf45a8eba0c4" xmlns="http://www.w3.org/1999/xhtml">Bob has recently been getting a lot of calls from contractors who want to store their machines at his depot. Bob has ‘existing use’ rights, which allow him to run his depot, despite the recent re-zoning of his land as residential. Bob now wants to double the amount of machines he stores and maintains. Can he do this without a resource consent?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ac431e08-949e-4bc1-995b-d367cb080aca">Yes. The fact that Bob had been operating continuously for a period before the land was re-zoned, means he can go ahead and make the increase.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="a18ebcaf-4b40-4a3f-80c9-dbd0807932fd">No, probably not. Existing use rights only apply in limited circumstances where the effects of the activity are the same or similar in character intensity and scale to Bob’s activities. </Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q3" IsActive="true" GUID="d01aa234-dbaf-4d07-a961-95367d1a643f">
+      <Title GUID="9bff70a4-0e3a-4e99-9478-1319498394d1">Question</Title>
+      <PageElements GUID="0f7f15fb-7d1b-4b5d-b46b-af4448490a1b">
+        <PageElement GUID="06b307e2-8de9-42ca-88de-a23e85335751">
+          <Question GUID="afca1189-d91a-4d15-8817-edeccce22e41"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="0cfe5164-5b61-4592-a0c7-ccefe1a08387">
+      <strong GUID="51f92b30-ab2b-47e1-bb8a-42c63ee4ea54" xmlns="http://www.w3.org/1999/xhtml">Which of the following people have environmental law obligations?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="613f9d17-7fec-4d99-a16f-6073de4b23f2">Directors and managers.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="b713a813-2b3e-45ae-970f-5d1b926ce348">Employees.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6e29da16-e5d6-4ba5-ac62-3fb20deb0f0b">Contractors.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="dc16b197-1915-47ea-8f51-750e7e770273">All of the above.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q4" IsActive="true" GUID="f4a8ad32-51a2-4d54-89ea-1f8a06d5cacd">
+      <Title GUID="ebe8f414-3617-4e42-9105-22da78e797ab">Question</Title>
+      <PageElements GUID="d8b5e9ef-9293-419c-9af0-43066b29956a">
+        <PageElement GUID="30080490-7608-4602-853f-1ab548f4a264">
+          <Question GUID="220c9641-5f2e-4785-9e96-18ed9910b1c7"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="c830d9c1-2bc6-47d7-854d-5ac210791475">
+      <strong GUID="f640a77c-3c0f-41e0-a3d2-82bc490e49a8" xmlns="http://www.w3.org/1999/xhtml">Mr Lee is a consultant engineer. He is hired to oversee the construction of a new office building in downtown Wellington. Under the contract, he has a monitoring role and has the power to issue directions to the building contractor (BB Ltd). Mr Lee fails to properly monitor the site and the contractor, BB Ltd, breaches one of the resource consent conditions. Who is liable for the breach of the resource consent?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="7ee7f911-2a00-4252-b3a9-7054ba4635be">Mr Lee, as the supervising consultant, BB Ltd, and its employees are all potentially liable.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="76b0566b-aa29-4e81-b95a-c70338f4583c">The employees of BB Ltd only, being those people who actually committed the breach of the consent.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q5" IsActive="true" GUID="8bbef569-bdfe-4527-a6c8-4e2f82f2b52a">
+      <Title GUID="14f6def2-75e8-4462-a037-878d11cbabcc">Question</Title>
+      <PageElements GUID="f37e6075-9eac-4400-a69d-871b31eb40b8">
+        <PageElement GUID="e242234c-9ae3-4266-917c-3bd8c696cfec">
+          <Question GUID="f108b0d8-d5b0-4b67-92b3-bb5b14804028"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="3fd2aaca-6b46-4a7a-bce5-61bd1796a847">
+      <strong GUID="72e6d665-c93d-42b7-ad2f-0a74666fd708" xmlns="http://www.w3.org/1999/xhtml">What is the central purpose of the Resource Management Act 1991?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="2d6d868a-7879-4f30-a755-4e2d62387b31">To protect the environment against an unreasonable level of development or exploitation.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="35773be7-16f3-4c0f-a322-f922ae1ce87a">To promote the sustainable management of natural and physical resources.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="36984cce-1dbf-4277-89e9-5a94da7be766">To provide for a system of town and country planning and the wise use of resources.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q6" IsActive="true" GUID="a2f3c6c4-b2ef-45ee-8274-266e2557cf9c">
+      <Title GUID="4bdadc03-bf27-471b-a0bc-89b75b6d99e7">Question</Title>
+      <PageElements GUID="20b3b805-acc8-4f43-8b4a-aa4d583b4202">
+        <PageElement GUID="d5a6bb19-ac36-4ae5-b5f6-2dcc1179eb38">
+          <Question GUID="868f77d7-ab7f-41d2-9318-12634417894e"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="b1cb73ee-21de-44ce-aca6-65d9d28c848e">
+      <strong GUID="5cc7c471-42da-42ec-8545-7aa9ac25bbcc" xmlns="http://www.w3.org/1999/xhtml">Which statement is correct?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fc3a12b1-7b91-4d22-98dc-6481deaf54b6">Environmental law can only be enforced by local councils.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5a46d28f-80a7-4b3d-bb64-b8e32121ea9f">It is OK to breach environmental laws if it saves a lot of time and cost.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="ead501fb-0eb9-4098-bddd-ea093d51016f">Local councils, trade competitors, community groups and private individuals can potentially enforce environmental laws.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="3b3813f9-cc0d-489e-9e8e-01429f83def0">The RMA is only concerned with environmental pollution.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q7" IsActive="true" GUID="4647b034-61ae-41c4-914c-abe493c78750">
+      <Title GUID="0ec27641-2a6b-4f49-9bef-2676e3f456fd">Question</Title>
+      <PageElements GUID="c9f30c8e-4cef-4457-8d15-c90e1fdd90b3">
+        <PageElement GUID="9cdfd617-aa46-4e1d-8857-874c662dde35">
+          <Question GUID="c96ad871-3b6c-4ce5-8842-11680869eba2"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="df1cf478-b277-4f35-92a2-fe2744c8765d">
+      <strong GUID="ae5dac80-3361-4139-b43a-0eaaa4adf286" xmlns="http://www.w3.org/1999/xhtml">A person or company convicted of an environmental offence can be ordered by a Court to:</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="e92993a1-113f-4c3e-987d-99630abe52f0">Do all of the following.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6b7180a2-ba72-47e3-a9b4-cc1497db96e8">Pay a fine.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="75d91249-95c9-48a6-aa33-2b0c4d68f2a2">Fix (or remediate) any damage they have caused to the environment.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_4" Name="Answer" Value="4" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="29ac41b5-0c58-4bee-b11c-23bd713a67eb">In the case of serious offences, serve a term of imprisonment.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q8" IsActive="true" GUID="594c7bbf-9658-4693-8b22-73a2ff83e112">
+      <Title GUID="d634f844-85dc-4594-973b-753db72215be">Question</Title>
+      <PageElements GUID="b7a4aa8a-226f-4dfe-8848-faaecad852f3">
+        <PageElement GUID="e6181f6b-0cc2-47d2-ab20-939b9cd5c427">
+          <Question GUID="3c27f549-aac1-4d1b-a1d4-a001f588b32d"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="dcd3a213-c39a-4d6a-83d7-47597055678f">
+      <strong GUID="d7d73ba0-2af5-4d49-9a8b-c3c83d3793a7" xmlns="http://www.w3.org/1999/xhtml">Mr and Mrs Higgins own a dairy farm property, which is run by a farm manager, Terry Johnson. The farm has a discharge consent allowing for effluent to be pumped and irrigated from collector ponds onto adjacent land. A condition of the consent is that overflows into waterways are prohibited. During a routine pumping operation, there is an overflow into an adjacent stream. Terry and Mr and Mrs Higgins are prosecuted under the RMA. Is it a defence for Mr and Mrs Higgins to show that they did not know that this particular operation was going on?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="116904a3-a559-4010-9235-aea5906d26b3">No, they are the farm owners and are always liable for the actions of any person on the farm.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="9389e0fe-7f83-4519-8eb6-cdea6b28b96c">Yes, although they knew in general terms that their employees were engaged to undertake effluent pumping, they did not know the specifics of this particular operation. They cannot be held liable for the actions of Mr Johnson.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q9" IsActive="true" GUID="26183ae9-bac8-46db-9085-861d0c225ad8">
+      <Title GUID="d578b0a0-91ca-4cb8-a4d5-6479e6f203f0">Question</Title>
+      <PageElements GUID="cb4234f4-f06b-49e1-87a7-34409ff6700c">
+        <PageElement GUID="d815e05c-b2de-4c24-b104-1cb160bc685b">
+          <Question GUID="c2b81b77-ee99-4582-b00e-91e237006628"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="a8801687-5fba-4b3c-9951-1862f18d0490">
+      <strong GUID="daaa3af8-08ed-4e95-91d7-fecfca21728e" xmlns="http://www.w3.org/1999/xhtml">Mr Jackson is a truck driver for Transgoods Limited. He stops to get diesel during a trip and by mistake fills up with petrol. To clear the diesel tank he pumps the petrol out into the forecourt of the petrol station and causes substantial pollution. Both Mr Jackson and Transgoods are prosecuted under the RMA. Can Transgoods Ltd use the fact that it has a staff training program for dealing with spills as a defence to the alleged breach of the RMA?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="fcf683dc-9164-4bd0-83ad-7a551eb83959">Yes, it is a defence for a company to show that it took all reasonable steps to deal with foreseeable incidents.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d8acd5fd-15dc-4bae-9f39-59e992d4e533">No, offences under the RMA are strict liability offences and the company is liable for the actions of its employees.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q10" IsActive="true" GUID="7d537a45-127e-4175-be44-cb1f7c3cd0e9">
+      <Title GUID="77416ee8-7bca-4fa7-8b56-8ac4d070cce7">Question</Title>
+      <PageElements GUID="09f23968-ce84-4db5-80b5-65e0e44c7763">
+        <PageElement GUID="061bdc4f-0009-424f-9e0a-d4ecb1f5b83c">
+          <Question GUID="379cb99a-4549-4542-a1fe-8eefe184c099"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="327a58e0-f61e-401a-b482-9202ba49e26d">
+      <strong GUID="75a3e0ce-a94d-4ede-be4c-f087a1178cfa" xmlns="http://www.w3.org/1999/xhtml">Read the following statement. A director of a company is only liable for the actions of the company under the RMA if he or she knew that an offence was being committed. True or false?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="d039184d-34f8-4edd-b4c7-c9a358e7fd66">True, directors cannot be held liable for the actions of the company unless they had actual knowledge of what was occurring.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="5a37f8b8-a1da-43b0-b02a-7828f8af8787">False, directors can be liable if they should have known what was occurring and failed to take reasonable steps to prevent or stop it.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+    <Page ID="Q11" IsActive="true" GUID="7fc2e057-2faf-4ed9-a7ba-20f7186ff73a">
+      <Title GUID="0d1526fc-3214-4f6d-a674-73011b097d21">Question</Title>
+      <PageElements GUID="39bab402-d6cc-445e-8807-598066f158bd">
+        <PageElement GUID="c6710212-8e9c-48cb-89b9-852b0ba62b54">
+          <Question GUID="fb2e2a2b-e5f7-4b43-b2e6-a65b63bb9c61"> <![CDATA[<div class="Question_Main">
+  <div class="Question_Text">
+    <Description GUID="0bc99ff1-8ab5-4559-a4a7-285d39217ca4">
+      <strong GUID="67971a9a-22ee-456e-aca8-619cacc8bdde" xmlns="http://www.w3.org/1999/xhtml">In what circumstances can a member of a management team be prosecuted for the actions of the company under the RMA?</strong>
+    </Description>
+  </div>
+  <br>
+  <hr class="Question_Answer_Divider">
+  <br>
+  <div class="Question_Answers">
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_1" Name="Answer" Value="1" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="77af3810-e7c4-4fec-a13b-7b737356b86e">Managers are only liable where they have committed the offence personally.</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_2" Name="Answer" Value="2" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="14496d9d-5c9b-4041-b898-acbb937dad06">Members of the management team can be prosecuted in exactly the same circumstances as directors of the company (i.e. if they both knew or should have known about the actions of the company and failed to take reasonable steps to prevent those actions from occurring).</Description>
+    </div>
+    <div class="Question_Answer">
+      <input type="radio" ID="Answer_3" Name="Answer" Value="3" onClick="EnableNextQuestion();" Class="Question_Answer_Radio">
+      <Description GUID="6060f961-543e-4fe9-9b76-11f3125afd46">Managers can be liable if they knew about an offence being committed, but only if they are responsible for managing environmental risk within the organisation.</Description>
+    </div>
+  </div>
+</div>]]></Question>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Questions>
+  <Complete GUID="b461f2e3-4c35-472c-8180-d756c8071c61">
+    <Page ID="Comp1" IsActive="true" GUID="3f9709f5-5f1c-47eb-9b79-1020ee84f535">
+      <Title GUID="1d838219-30f8-4d52-9916-4b3a6a1ef1cc">End of Quiz</Title>
+      <PageElements GUID="1bbf096c-21f1-4a50-bb19-3c2740454b60">
+        <PageElement GUID="deeff168-7492-41cc-aedb-3dfdb46af9c1">
+          <Graphic GUID="82d3f951-2895-4c68-80ab-acc340700a18"> <![CDATA[<div class="Graphic_Main">
+  <img src="Images/7a708dfe-d05e-4e61-8669-d397704e975c.gif" alt="" align="texttop">
+</div>]]></Graphic>
+        </PageElement>
+        <PageElement GUID="6ead5c2f-9c28-407f-826b-e243997d53ad">
+          <TextBox GUID="c82025be-0f54-4492-823d-b2feaeca63e9"> <![CDATA[<div class="TextBox_Main">
+  <Description GUID="59ab067a-5d53-4b03-9c52-46f859194337">
+    <div GUID="1f6a3464-d4d9-4a6b-8fb0-13b475df5eff" xmlns="http://www.w3.org/1999/xhtml"> You have reached the end of the quiz.<br GUID="d7df8b5a-299e-459c-98c0-4dfc1a6f9746"><br GUID="50aa48c9-efa8-4131-9cb3-1ce44ff5a3fb">You can now review or change your answers. Use the navigation buttons to move between questions.<br GUID="09d16fd9-5a81-4b30-b1d3-e2e6de49e954"><br GUID="1be8019d-2609-4cb0-838b-bd9ac07b2113">When you are happy with your answers, click the Submit Answers button below. You will then see whether you passed the quiz.</div>
+  </Description>
+</div>]]></TextBox>
+        </PageElement>
+        <PageElement GUID="656bb5f9-0485-4a7b-a07d-be0296b8c5a8">
+          <SubmitAnswers GUID="d7242d13-564e-4c51-a677-212551d7139a"> <![CDATA[<div class="SubmitAnswers_Main">
+  <input type="button" class="Navigation_Button_Submit" value="Submit Answers" onClick="__doPostBack('Quiz_End','')">
+</div>]]></SubmitAnswers>
+        </PageElement>
+      </PageElements>
+    </Page>
+  </Complete>
+</BDWInfoPathQuiz>

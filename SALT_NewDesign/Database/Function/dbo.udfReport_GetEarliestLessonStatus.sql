@@ -1,0 +1,29 @@
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReport_GetEarliestLessonStatus]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+DROP FUNCTION [udfReport_GetEarliestLessonStatus]
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER OFF
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[udfReport_GetEarliestLessonStatus]') AND type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+BEGIN
+execute dbo.sp_executesql @statement = N'
+
+CREATE FUNCTION [udfReport_GetEarliestLessonStatus]
+(
+@UserID int,
+@ModuleID int
+)
+RETURNS INT
+ AS
+BEGIN
+	DECLARE @strStatus INT
+	
+	SELECT  TOP 1 @strStatus = LessonStatusID
+	FROM tblUserLessonStatus uls
+	ORDER BY uls.DateCreated ASC
+	RETURN @strStatus
+END
+' 
+END
+GO

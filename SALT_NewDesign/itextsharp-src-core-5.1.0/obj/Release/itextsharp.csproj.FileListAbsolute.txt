@@ -1,0 +1,4 @@
+C:\Projects\Blake Dawson\Salt\itextsharp-src-core-5.1.0\bin\Release\itextsharp.dll
+C:\Projects\Blake Dawson\Salt\itextsharp-src-core-5.1.0\bin\Release\iTextSharp.xml
+C:\Projects\Blake Dawson\Salt\itextsharp-src-core-5.1.0\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Blake Dawson\Salt\itextsharp-src-core-5.1.0\obj\Release\itextsharp.dll

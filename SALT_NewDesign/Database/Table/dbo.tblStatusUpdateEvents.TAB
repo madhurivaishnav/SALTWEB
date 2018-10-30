@@ -1,0 +1,14 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[tblStatusUpdateEvents]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[tblStatusUpdateEvents](
+	[StatusUpdateID] [int] IDENTITY(1,1) NOT NULL,
+	[EventName] [nchar](10) NOT NULL,
+	[EventID1] [int] NULL,
+	[EventID2] [int] NULL
+) ON [PRIMARY]
+END
+GO
