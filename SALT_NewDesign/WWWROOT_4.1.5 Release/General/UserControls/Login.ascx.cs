@@ -335,8 +335,8 @@ namespace Bdw.Application.Salt.Web.General.UserControls
 
             try
             {
-                dtbAuthentication = objUser.Login(strUserName,Request.Url.Host);
-                //dtbAuthentication = objUser.Login(strUserName, "site2.saltcompliance.com");s
+                //dtbAuthentication = objUser.Login(strUserName,Request.Url.Host);
+                dtbAuthentication = objUser.Login(strUserName, "demo.saltcompliance.com");
                 //dtbAuthentication = objUser.Login(strUserName, "arabbank.saltcompliance.com");
 
 
